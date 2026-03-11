@@ -38,12 +38,25 @@ const I18N = {
 };
 
 const FALLBACK_COVER = {
-  AI: './assets/ai.svg',
-  STRATEGY: './assets/strategy.svg',
-  CRYPTO: './assets/crypto.svg',
-  WORLD: './assets/world.svg',
-  FINANCE: './assets/finance.svg'
+  AI: ['./assets/ai.svg', './assets/ai-llm.svg', './assets/ai-chip.svg'],
+  STRATEGY: ['./assets/strategy.svg', './assets/strategy-quant.svg', './assets/strategy-risk.svg'],
+  CRYPTO: ['./assets/crypto.svg', './assets/crypto-btc.svg', './assets/crypto-eth.svg'],
+  WORLD: ['./assets/world.svg', './assets/world-war.svg', './assets/world-climate.svg'],
+  FINANCE: ['./assets/finance.svg', './assets/finance-fed.svg', './assets/finance-earnings.svg']
 };
+
+const KEYWORD_COVER = [
+  { keys: ['bitcoin', 'btc'], cover: './assets/crypto-btc.svg' },
+  { keys: ['ethereum', 'eth'], cover: './assets/crypto-eth.svg' },
+  { keys: ['llm', 'model', 'openai', 'anthropic', 'gemini'], cover: './assets/ai-llm.svg' },
+  { keys: ['chip', 'gpu', 'nvidia'], cover: './assets/ai-chip.svg' },
+  { keys: ['quant', 'backtest', 'alpha', 'strategy'], cover: './assets/strategy-quant.svg' },
+  { keys: ['risk', 'volatility', 'drawdown'], cover: './assets/strategy-risk.svg' },
+  { keys: ['war', 'ceasefire', 'conflict', 'sanction'], cover: './assets/world-war.svg' },
+  { keys: ['climate', 'weather', 'flood', 'earthquake'], cover: './assets/world-climate.svg' },
+  { keys: ['fed', 'rate', 'inflation', 'cpi'], cover: './assets/finance-fed.svg' },
+  { keys: ['earnings', 'revenue', 'profit', 'guidance'], cover: './assets/finance-earnings.svg' }
+];
 
 let reportData;
 let cachedItems = [];
@@ -75,12 +88,27 @@ function levelClass(score) {
   return 'low';
 }
 
+function pickFromArray(arr, seedText = '') {
+  if (!Array.isArray(arr) || !arr.length) return './assets/world.svg';
+  const seed = [...seedText].reduce((n, ch) => n + ch.charCodeAt(0), 0);
+  return arr[seed % arr.length];
+}
+
+function resolveCover(x) {
+  if (x.image_url) return x.image_url;
+  const blob = `${x.title || ''} ${x.summary || ''} ${(x.tags || []).join(' ')}`.toLowerCase();
+  for (const rule of KEYWORD_COVER) {
+    if (rule.keys.some((k) => blob.includes(k))) return rule.cover;
+  }
+  return pickFromArray(FALLBACK_COVER[x.category] || FALLBACK_COVER.WORLD, x.title || x.id || 'seed');
+}
+
 function cardTemplate(x) {
   const tags = (x.tags || []).slice(0, 5).map((v) => `<span class="badge">#${v}</span>`).join(' ');
-  const cover = x.image_url || FALLBACK_COVER[x.category] || FALLBACK_COVER.WORLD;
+  const cover = resolveCover(x);
   const title = x.title_zh || x.title;
   const summary = x.summary_zh || x.summary;
-  const fallback = FALLBACK_COVER[x.category] || FALLBACK_COVER.WORLD;
+  const fallback = pickFromArray(FALLBACK_COVER[x.category] || FALLBACK_COVER.WORLD, 'fallback');
   return `
     <article class="item">
       <img class="cover" loading="lazy" src="${cover}" alt="${title}" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='${fallback}'" />
