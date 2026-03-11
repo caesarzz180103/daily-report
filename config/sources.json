@@ -1,0 +1,20 @@
+{
+  "feeds": [
+    { "enabled": true, "category": "AI", "source": "OpenAI News", "url": "https://openai.com/news/rss.xml" },
+    { "enabled": true, "category": "AI", "source": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml" },
+    { "enabled": true, "category": "AI", "source": "Google AI Blog", "url": "https://blog.google/technology/ai/rss/" },
+    { "enabled": true, "category": "AI", "source": "MIT News AI", "url": "https://news.mit.edu/rss/topic/artificial-intelligence2" },
+
+    { "enabled": true, "category": "CRYPTO", "source": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss/" },
+    { "enabled": true, "category": "CRYPTO", "source": "The Block", "url": "https://www.theblock.co/rss.xml" },
+
+    { "enabled": true, "category": "FINANCE", "source": "CNBC Finance", "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html" },
+    { "enabled": true, "category": "WORLD", "source": "BBC World", "url": "http://feeds.bbci.co.uk/news/world/rss.xml" },
+    { "enabled": true, "category": "WORLD", "source": "NYT World", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml" },
+
+    { "enabled": true, "category": "STRATEGY", "source": "Quantocracy", "url": "https://quantocracy.com/feed/" }
+  ],
+  "apis": {
+    "coingeckoTrending": true
+  }
+}

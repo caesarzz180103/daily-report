@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-03-11T08:13:46.661Z",
+  "generated_at": "2026-03-11T08:21:20.868Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Next week could spice things up for bitcoin as seven central banks face an inflation test；【FINANCE】Fed Governor Miran says job losses in February add to the case for more interest rate cuts；【CRYPTO】Senate Democrats push ban on prediction market bets tied to war and death。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
     "feed_failed": 0,
     "failed_sources": [],
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "stats": {
     "total": 105,
@@ -314,13 +314,13 @@
       "region": "global"
     },
     {
-      "id": "72643f87ea62de97",
+      "id": "e1fa79b74e83e51e",
       "title": "Trending Crypto: Internet Computer (ICP)",
       "summary": "CoinGecko trending rank #55.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/internet-computer",
-      "published_at": "2026-03-11T08:13:46.661Z",
+      "published_at": "2026-03-11T08:21:20.868Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -331,13 +331,13 @@
       "region": "global"
     },
     {
-      "id": "22c116331f04c44b",
+      "id": "2c1c4ed2c8672f39",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
       "summary": "CoinGecko trending rank #16.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
-      "published_at": "2026-03-11T08:13:46.661Z",
+      "published_at": "2026-03-11T08:21:20.868Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -348,13 +348,13 @@
       "region": "global"
     },
     {
-      "id": "33221d6479c24e23",
+      "id": "95f23c6bb4218fff",
       "title": "Trending Crypto: Pi Network (PI)",
       "summary": "CoinGecko trending rank #41.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pi-network",
-      "published_at": "2026-03-11T08:13:46.661Z",
+      "published_at": "2026-03-11T08:21:20.868Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -365,13 +365,13 @@
       "region": "global"
     },
     {
-      "id": "18cd1f1cabeebfb6",
+      "id": "539370d19aa3655f",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "published_at": "2026-03-11T08:13:46.661Z",
+      "published_at": "2026-03-11T08:21:20.868Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -382,19 +382,19 @@
       "region": "global"
     },
     {
-      "id": "9b181d5055915fab",
-      "title": "Trending Crypto: Xai (XAI)",
-      "summary": "CoinGecko trending rank #711.",
+      "id": "a969ab87b1567fb0",
+      "title": "Trending Crypto: Monad (MON)",
+      "summary": "CoinGecko trending rank #157.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/xai-blockchain",
-      "published_at": "2026-03-11T08:13:46.661Z",
+      "source_url": "https://www.coingecko.com/en/coins/monad",
+      "published_at": "2026-03-11T08:21:20.868Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "xai"
+        "mon"
       ],
       "region": "global"
     },
@@ -403,7 +403,7 @@
       "title": "How Balyasny Asset Management built an AI research engine for investing",
       "summary": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
       "category": "AI",
-      "source_name": "OpenAI Blog",
+      "source_name": "OpenAI News",
       "source_url": "https://openai.com/index/balyasny-asset-management",
       "published_at": "2026-03-06T07:00:00.000Z",
       "importance_score": 52,
@@ -508,7 +508,7 @@
       "title": "Improving instruction hierarchy in frontier LLMs",
       "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
       "category": "AI",
-      "source_name": "OpenAI Blog",
+      "source_name": "OpenAI News",
       "source_url": "https://openai.com/index/instruction-hierarchy-challenge",
       "published_at": "2026-03-10T11:00:00.000Z",
       "importance_score": 46,
@@ -524,7 +524,7 @@
       "title": "How Descript enables multilingual video dubbing at scale",
       "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
       "category": "AI",
-      "source_name": "OpenAI Blog",
+      "source_name": "OpenAI News",
       "source_url": "https://openai.com/index/descript",
       "published_at": "2026-03-06T10:00:00.000Z",
       "importance_score": 46,
@@ -540,7 +540,7 @@
       "title": "Codex Security: now in research preview",
       "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
       "category": "AI",
-      "source_name": "OpenAI Blog",
+      "source_name": "OpenAI News",
       "source_url": "https://openai.com/index/codex-security-now-in-research-preview",
       "published_at": "2026-03-06T10:00:00.000Z",
       "importance_score": 46,
@@ -555,7 +555,7 @@
       "title": "Introducing GPT-5.4",
       "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
       "category": "AI",
-      "source_name": "OpenAI Blog",
+      "source_name": "OpenAI News",
       "source_url": "https://openai.com/index/introducing-gpt-5-4",
       "published_at": "2026-03-05T10:00:00.000Z",
       "importance_score": 46,
@@ -571,7 +571,7 @@
       "title": "Reasoning models struggle to control their chains of thought, and that’s good",
       "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
       "category": "AI",
-      "source_name": "OpenAI Blog",
+      "source_name": "OpenAI News",
       "source_url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
       "published_at": "2026-03-05T10:00:00.000Z",
       "importance_score": 46,
@@ -1208,7 +1208,7 @@
       "title": "New ways to learn math and science in ChatGPT",
       "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
       "category": "AI",
-      "source_name": "OpenAI Blog",
+      "source_name": "OpenAI News",
       "source_url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
       "published_at": "2026-03-10T10:00:00.000Z",
       "importance_score": 40,
@@ -1221,7 +1221,7 @@
       "title": "OpenAI to acquire Promptfoo",
       "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
       "category": "AI",
-      "source_name": "OpenAI Blog",
+      "source_name": "OpenAI News",
       "source_url": "https://openai.com/index/openai-to-acquire-promptfoo",
       "published_at": "2026-03-09T10:00:00.000Z",
       "importance_score": 40,
@@ -1237,7 +1237,7 @@
       "title": "GPT-5.4 Thinking System Card",
       "summary": "",
       "category": "AI",
-      "source_name": "OpenAI Blog",
+      "source_name": "OpenAI News",
       "source_url": "https://openai.com/index/gpt-5-4-thinking-system-card",
       "published_at": "2026-03-05T10:00:00.000Z",
       "importance_score": 40,
@@ -1250,7 +1250,7 @@
       "title": "Ensuring AI use in education leads to opportunity",
       "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
       "category": "AI",
-      "source_name": "OpenAI Blog",
+      "source_name": "OpenAI News",
       "source_url": "https://openai.com/index/ai-education-opportunity",
       "published_at": "2026-03-05T09:00:00.000Z",
       "importance_score": 40,

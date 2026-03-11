@@ -57,6 +57,16 @@ npm run build:report
 4. GitHub → Actions，手动执行一次 `hourly-report`（workflow_dispatch）
 5. 打开 Pages 链接检查页面与数据是否正常
 
+## 来源配置（无需改代码）
+编辑 `config/sources.json`：
+- `enabled: true/false` 可启停单个 RSS 源
+- `apis.coingeckoTrending` 可开关 CoinGecko 趋势接口
+
+每次改完后，运行：
+```bash
+npm run build:report
+```
+
 ## 备注
 - 所有信息源均为公开免费源
 - 页面展示摘要与来源链接，不搬运全文

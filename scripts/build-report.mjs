@@ -6,21 +6,16 @@ import Parser from 'rss-parser';
 const ROOT = process.cwd();
 const parser = new Parser({ timeout: 15000 });
 
-const FEEDS = [
-  { category: 'AI', source: 'OpenAI Blog', url: 'https://openai.com/news/rss.xml' },
-  { category: 'AI', source: 'Hugging Face Blog', url: 'https://huggingface.co/blog/feed.xml' },
-  { category: 'AI', source: 'Google AI Blog', url: 'https://blog.google/technology/ai/rss/' },
-  { category: 'AI', source: 'MIT News AI', url: 'https://news.mit.edu/rss/topic/artificial-intelligence2' },
-
-  { category: 'CRYPTO', source: 'CoinDesk', url: 'https://www.coindesk.com/arc/outboundfeeds/rss/' },
-  { category: 'CRYPTO', source: 'The Block', url: 'https://www.theblock.co/rss.xml' },
-
-  { category: 'FINANCE', source: 'CNBC Finance', url: 'https://www.cnbc.com/id/10000664/device/rss/rss.html' },
-  { category: 'WORLD', source: 'BBC World', url: 'http://feeds.bbci.co.uk/news/world/rss.xml' },
-  { category: 'WORLD', source: 'NYT World', url: 'https://rss.nytimes.com/services/xml/rss/nyt/World.xml' },
-
-  { category: 'STRATEGY', source: 'Quantocracy', url: 'https://quantocracy.com/feed/' }
-];
+async function loadSourceConfig() {
+  const p = path.join(ROOT, 'config', 'sources.json');
+  const raw = await fs.readFile(p, 'utf8');
+  const cfg = JSON.parse(raw);
+  const feeds = (cfg.feeds || []).filter((x) => x.enabled !== false);
+  return {
+    feeds,
+    apis: cfg.apis || { coingeckoTrending: true }
+  };
+}
 
 const KEYWORDS = {
   high: ['breakthrough', 'surge', 'ban', 'approval', 'hack', 'etf', 'fed', 'rate', 'inflation', 'war', 'ceasefire', 'earnings'],
@@ -140,8 +135,9 @@ async function ensureDir(p) {
 }
 
 async function main() {
-  const feedResults = await Promise.all(FEEDS.map(fetchFeed));
-  const coingecko = await fetchCoinGecko();
+  const sourceConfig = await loadSourceConfig();
+  const feedResults = await Promise.all(sourceConfig.feeds.map(fetchFeed));
+  const coingecko = sourceConfig.apis.coingeckoTrending ? await fetchCoinGecko() : [];
 
   const failed_sources = feedResults.filter((x) => !x.ok).map((x) => ({ source: x.source, error: x.error }));
   const items = dedupe([...feedResults.flatMap((x) => x.items), ...coingecko])
@@ -154,11 +150,11 @@ async function main() {
     generated_at: now.toISOString(),
     hourly_summary: makeSummary(items),
     meta: {
-      sources_count: FEEDS.length + 1,
-      feed_ok: FEEDS.length - failed_sources.length,
+      sources_count: sourceConfig.feeds.length + (sourceConfig.apis.coingeckoTrending ? 1 : 0),
+      feed_ok: sourceConfig.feeds.length - failed_sources.length,
       feed_failed: failed_sources.length,
       failed_sources,
-      version: '1.1.0'
+      version: '1.2.0'
     },
     stats: buildStats(items),
     items
