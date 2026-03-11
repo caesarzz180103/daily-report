@@ -30,6 +30,17 @@ function stripHtml(input = '') {
   return input.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
 }
 
+function extractImageUrl(item) {
+  const enclosure = item?.enclosure?.url;
+  if (enclosure && /^https?:\/\//.test(enclosure)) return enclosure;
+
+  const html = item?.content || item?.summary || '';
+  const m = html.match(/<img[^>]+src=["']([^"']+)["']/i);
+  if (m?.[1] && /^https?:\/\//.test(m[1])) return m[1];
+
+  return null;
+}
+
 function extractTags(title = '', summary = '') {
   const corpus = `${title} ${summary}`.toLowerCase();
   const raw = ['ai', 'llm', 'openai', 'anthropic', 'google', 'crypto', 'bitcoin', 'ethereum', 'etf', 'fed', 'inflation', 'stocks', 'war', 'policy', 'regulation'];
@@ -72,6 +83,7 @@ async function fetchFeed(feed) {
           category: feed.category,
           source_name: feed.source,
           source_url: sourceUrl,
+          image_url: extractImageUrl(item),
           published_at: new Date(publishedAt).toISOString(),
           importance_score: scoreImportance(title, summary, feed.category),
           sentiment: 0,
@@ -100,6 +112,7 @@ async function fetchCoinGecko() {
       category: 'CRYPTO',
       source_name: 'CoinGecko',
       source_url: `https://www.coingecko.com/en/coins/${x.item?.id}`,
+      image_url: x.item?.large || null,
       published_at: now,
       importance_score: 55,
       sentiment: 0,
