@@ -1,0 +1,13 @@
+{
+  "name": "zz-daily-report",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:report": "node scripts/build-report.mjs",
+    "build": "npm run build:report"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

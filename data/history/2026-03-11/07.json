@@ -1,0 +1,1552 @@
+{
+  "generated_at": "2026-03-11T07:57:24.306Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Next week could spice things up for bitcoin as seven central banks face an inflation test；【FINANCE】Fed Governor Miran says job losses in February add to the case for more interest rate cuts；【CRYPTO】Senate Democrats push ban on prediction market bets tied to war and death。",
+  "meta": {
+    "sources_count": 11,
+    "version": "1.0.0"
+  },
+  "stats": {
+    "total": 105,
+    "AI": 40,
+    "STRATEGY": 10,
+    "CRYPTO": 25,
+    "WORLD": 20,
+    "FINANCE": 10
+  },
+  "items": [
+    {
+      "id": "36bcba23e7ecbe66",
+      "title": "Next week could spice things up for bitcoin as seven central banks face an inflation test",
+      "summary": "Seven major central banks, including the Federal Reserve, will issue rate decisions next week just as war-driven oil price spikes raise fresh concerns about global inflation.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/03/11/next-week-could-spice-things-up-for-bitcoin-as-seven-central-banks-face-an-inflation-test",
+      "published_at": "2026-03-11T07:14:05.000Z",
+      "importance_score": 100,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin",
+        "fed",
+        "inflation",
+        "war"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "766472b32c56ac0a",
+      "title": "Fed Governor Miran says job losses in February add to the case for more interest rate cuts",
+      "summary": "Miran said in a CNBC interview that the Fed should be focusing more on supporting the labor market than worrying about inflation.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/03/06/fed-governor-miran-says-job-losses-in-february-add-to-the-case-for-more-interest-rate-cuts.html",
+      "published_at": "2026-03-06T18:14:50.000Z",
+      "importance_score": 82,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "fed",
+        "inflation"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "bee61428329b8609",
+      "title": "Senate Democrats push ban on prediction market bets tied to war and death",
+      "summary": "Senate Democrats' bill would write the prohibition into federal law even as the CFTC shifts toward a more permissive stance on event contracts.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/03/11/schiff-pushes-ban-on-prediction-market-bets-tied-to-war-and-death",
+      "published_at": "2026-03-11T07:13:16.000Z",
+      "importance_score": 80,
+      "sentiment": 0,
+      "tags": [
+        "fed",
+        "war"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "5571af0f74b90fe0",
+      "title": "U.S.-Iran war exposes big market concentration risk. It isn't in S&P 500 stocks",
+      "summary": "Oil prices soar in the U.S.-Iran war, leading to volatility in emerging markets, and showing how concentrated EM funds are in Asian economies.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/03/06/iran-war-oil-energy-emerging-markets-stocks-south-korea.html",
+      "published_at": "2026-03-06T17:52:33.000Z",
+      "importance_score": 70,
+      "sentiment": 0,
+      "tags": [
+        "stocks",
+        "war"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "2e0e4b65c5f102b4",
+      "title": "Stablecoin boom could eat into traditional banks' profits, warn Jefferies analysts",
+      "summary": "Digital dollar use in payments and crypto markets may slowly pull deposits from banks, forcing lenders to seek pricier funding, a new report by Jeffries finds.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/03/10/stablecoin-boom-could-eat-into-traditional-banks-profits-warn-jefferies-analysts",
+      "published_at": "2026-03-10T20:46:17.000Z",
+      "importance_score": 68,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "war"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "a52e01a6ea819880",
+      "title": "TD Cowen says Congress likely getting closer to permanently banning a Fed CBDC",
+      "summary": "The investment bank says such a move would benefit stablecoin issuers but could also create another obstacle for passing the Clarity Act.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/post/393102/td-cowen-congress-likely-permanently-banning-fed-cbdc?utm_source=rss&utm_medium=rss",
+      "published_at": "2026-03-10T19:17:42.000Z",
+      "importance_score": 68,
+      "sentiment": 0,
+      "tags": [
+        "fed"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "6439ce5962f8fb5f",
+      "title": "Bitcoin steady above $70,000 as IEA proposes largest-ever oil reserve release",
+      "summary": "The largest cryptocurrency gained 7% from Monday's lows as energy price fears eased, with Asian equities rising 1.8% and Brent crude dropping below $90 for the first time since the war began.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/03/11/bitcoin-steady-above-usd70-000-as-iea-proposes-largest-ever-oil-reserve-release",
+      "published_at": "2026-03-11T05:16:45.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto",
+        "bitcoin",
+        "war"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "75cf1fb8b8aab189",
+      "title": "Bitcoin traders bet on a rally above $80,000",
+      "summary": "Many traders expect bitcoin to recover toward the $80K level between June and September, Derive said.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/03/11/bitcoin-to-moon-past-usd80-000-option-degens-bet",
+      "published_at": "2026-03-11T05:02:53.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin",
+        "war"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "e8b5c6b920fc646a",
+      "title": "Ethereum's on fire with record activity, but ether price and blockchain fees lag",
+      "summary": "Capital outflows, even as activity surges across Ethereum’s ecosystem, highlight the growing disconnect between usage growth and ETH’s market performance, a CryptoQuant report shows.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/03/11/ethereum-network-activity-hits-record-highs-as-ether-price-and-fee-generation-lag",
+      "published_at": "2026-03-11T04:13:16.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto",
+        "ethereum"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "0511abb165b916ce",
+      "title": "Bitwise CIO reiterates bitcoin price could reach $1 million as he compares it to gold",
+      "summary": "Matt Hougan bitcoin would only need to capture roughly 17% of the global store-of-value market to reach $1 million.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/post/393109/bitwise-cio-bitcoin-price-1-million-gold?utm_source=rss&utm_medium=rss",
+      "published_at": "2026-03-10T21:03:23.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "84034ecb3cde6e8b",
+      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+      "summary": "Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "published_at": "2026-02-26T16:00:00.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "bf97916083a71509",
+      "title": "Why China can withstand oil's surge past $100 more easily than other countries",
+      "summary": "The latest Middle East tensions sheds light on how the world's three largest oil consumers have taken different approaches to energy, with global consequences.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/03/09/china-oil-shock-iran-war-hormuz-energy-transition.html",
+      "published_at": "2026-03-09T13:03:49.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "ea96cdb31f5f1da1",
+      "title": "China says 'thorough preparations' needed as Trump-Xi meeting hangs in the balance amid Iran war",
+      "summary": "China's top diplomat Wang Yi signaled preparations are underway for a planned meeting between the presidents of the U.S. and China.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/03/08/china-says-thorough-preparations-needed-ahead-of-trump-xi-meeting.html",
+      "published_at": "2026-03-08T07:17:53.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "b06270c86534acf2",
+      "title": "Oaktree's Howard Marks says there's no systemic problem with private credit",
+      "summary": "Marks said any risk stems from the pace of expansion in direct lending, which has ballooned to a market now exceeding $1 trillion since inception around 2011.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/03/05/oaktrees-howard-marks-says-theres-no-systemic-problem-with-private-credit.html",
+      "published_at": "2026-03-05T18:14:21.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "27203bc61e39a316",
+      "title": "Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war",
+      "summary": "President Putin pits himself as a potential mediator but that's not an easy sell, writes the BBC's Russia editor.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.com/news/articles/c4gjyg0djvmo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-10T19:35:29.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "f19ab81df39661b0",
+      "title": "U.S. Says It Struck 16 Iranian Mine-Laying Vessels Near Oil Route",
+      "summary": "Whether any mines had been laid in the Strait of Hormuz since the war began on Feb. 28 is unclear. The Pentagon said 140 American service members had been wounded, eight severely, in the war.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel",
+      "published_at": "2026-03-11T07:26:40.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "75d4a963fbc0e19e",
+      "title": "Mother of Tumbler Ridge Shooting Victim Sues OpenAI",
+      "summary": "The company banned the shooter’s ChatGPT account but did not alert the authorities, a move that amounted to fatal negligence, the family claims.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/03/10/world/canada/open-ai-british-columbia-shooting.html",
+      "published_at": "2026-03-10T18:59:47.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "214f0b0b5beb91f1",
+      "title": "Nasdaq-listed Solmate proposes reverse stock split to build Solana hub in UAE",
+      "summary": "The company also intends to wind down two soccer teams from its sports portfolio to focus on Solana treasury and infrastructure strategy.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/post/393130/solmate-proposes-stock-split-solana-strategy?utm_source=rss&utm_medium=rss",
+      "published_at": "2026-03-11T04:12:15.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "d7d4646f78bb3198",
+      "title": "ABA survey finds consumers support stablecoin yield limits tied to banking risk",
+      "summary": "Consumers agree by a 6-to-1 margin that stablecoin yield laws “should be cautious and not take any steps that could undermine our existing financial system.\"",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/post/393082/american-bankers-association-survey-consumers-support-stablecoin-yield-restrictions-financial-risk?utm_source=rss&utm_medium=rss",
+      "published_at": "2026-03-10T18:44:59.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "ccbc3c41a4dd5180",
+      "title": "Trending Crypto: Internet Computer (ICP)",
+      "summary": "CoinGecko trending rank #55.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/internet-computer",
+      "published_at": "2026-03-11T07:57:24.305Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "icp"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "b9616bb3876ce5af",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "published_at": "2026-03-11T07:57:24.305Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "btc"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "d525a9bab8948413",
+      "title": "Trending Crypto: Pi Network (PI)",
+      "summary": "CoinGecko trending rank #41.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pi-network",
+      "published_at": "2026-03-11T07:57:24.305Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pi"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "bcc16b11cd2deda5",
+      "title": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary": "CoinGecko trending rank #16.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
+      "published_at": "2026-03-11T07:57:24.305Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "hype"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "2e8aafe034744b7c",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #107.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "published_at": "2026-03-11T07:57:24.305Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pengu"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "4d4cdd9cb64f067d",
+      "title": "How Balyasny Asset Management built an AI research engine for investing",
+      "summary": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
+      "category": "AI",
+      "source_name": "OpenAI Blog",
+      "source_url": "https://openai.com/index/balyasny-asset-management",
+      "published_at": "2026-03-06T07:00:00.000Z",
+      "importance_score": 52,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "4a1cc186874a19ad",
+      "title": "New method could increase LLM training efficiency",
+      "summary": "By leveraging idle computing time, researchers can double the speed of model training while preserving accuracy.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/new-method-could-increase-llm-training-efficiency-0226",
+      "published_at": "2026-02-26T05:00:00.000Z",
+      "importance_score": 52,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "llm"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "0389594c2968a6de",
+      "title": "Recent Quant Links from Quantocracy as of 02/23/2026",
+      "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 02/23/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Evaluating Reversal Potential in Niche Alternative ETFs [Quantpedia] Alternative ETFs sit at an unusual intersection of pub",
+      "category": "STRATEGY",
+      "source_name": "Quantocracy",
+      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-02232026/",
+      "published_at": "2026-02-24T06:15:04.000Z",
+      "importance_score": 52,
+      "sentiment": 0,
+      "tags": [
+        "etf"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "965704feec26efb2",
+      "title": "Recent Quant Links from Quantocracy as of 02/18/2026",
+      "summary": "This is a summary of links recently featured on Quantocracy as of Wednesday, 02/18/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Combining Calendar Strategies into the Trading Portfolio [Quantpedia] Calendar strategies are often viewed as weak when ",
+      "category": "STRATEGY",
+      "source_name": "Quantocracy",
+      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-02182026/",
+      "published_at": "2026-02-19T06:15:04.000Z",
+      "importance_score": 52,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "8d7bec83fcce08b9",
+      "title": "Dogecoin zooms as Elon Musk announces X Money launch date for April",
+      "summary": "The payments app offers 6% yield on balances and peer-to-peer transfers inside X, competing directly with the same demand stablecoin products are targeting. No mention of dogecoin or any crypto functionality was included.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/03/11/dogecoin-zooms-as-elon-musk-announces-x-money-launch-date-for-april",
+      "published_at": "2026-03-11T05:00:15.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "97600d54b08a2c3e",
+      "title": "DeFi lending platform Aave sees a rare $27 million liquidations after a price glitch",
+      "summary": "The blockchain data flagged shows a spike in liquidations over the past 24 hours. Some observers believe the event may have been linked to a price update in an risk-oracle system that Aave uses to determine the value of collateral.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/03/10/defi-lending-platform-aave-sees-a-rare-usd27-million-liquidations-after-a-price-glitch",
+      "published_at": "2026-03-10T22:15:41.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "cca43e06637d2d68",
+      "title": "The Daily: Winklevoss twins move $130 million in BTC to Gemini, South Korean prosecutors sell seized bitcoin and more",
+      "summary": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/post/393063/the-daily-winklevoss-twins-move-130-million-in-btc-to-gemini-south-korean-prosecutors-sell-seized-bitcoin-and-more?utm_source=rss&utm_medium=rss",
+      "published_at": "2026-03-10T18:10:59.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "9373482fb03e9156",
+      "title": "Improving instruction hierarchy in frontier LLMs",
+      "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+      "category": "AI",
+      "source_name": "OpenAI Blog",
+      "source_url": "https://openai.com/index/instruction-hierarchy-challenge",
+      "published_at": "2026-03-10T11:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "llm"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "52757c6bc7953447",
+      "title": "How Descript enables multilingual video dubbing at scale",
+      "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+      "category": "AI",
+      "source_name": "OpenAI Blog",
+      "source_url": "https://openai.com/index/descript",
+      "published_at": "2026-03-06T10:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "5eff004e8342e006",
+      "title": "Codex Security: now in research preview",
+      "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+      "category": "AI",
+      "source_name": "OpenAI Blog",
+      "source_url": "https://openai.com/index/codex-security-now-in-research-preview",
+      "published_at": "2026-03-06T10:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "52443438924e6896",
+      "title": "Introducing GPT-5.4",
+      "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+      "category": "AI",
+      "source_name": "OpenAI Blog",
+      "source_url": "https://openai.com/index/introducing-gpt-5-4",
+      "published_at": "2026-03-05T10:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "bec4b64a8e3e0f8e",
+      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+      "category": "AI",
+      "source_name": "OpenAI Blog",
+      "source_url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+      "published_at": "2026-03-05T10:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "954351f99ce25208",
+      "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/Photoroom/prx-part3",
+      "published_at": "2026-03-03T16:50:49.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "6d7c8602f85e4404",
+      "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+      "summary": "An overview of SpeciesNet, our open-source AI model that is helping people around the world protect and conserve wildlife.",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+      "published_at": "2026-03-06T18:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "800975b400d452ec",
+      "title": "The latest AI news we announced in February",
+      "summary": "Here are Google’s latest AI updates from February 2026",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
+      "published_at": "2026-03-05T16:30:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "google"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "7679f6598df93dd7",
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+      "published_at": "2026-03-03T16:34:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "5990b5374fd9e575",
+      "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
+      "summary": "Google is partnering with the Massachusetts AI Hub to provide every Baystater with no-cost access to Google’s AI training.",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
+      "published_at": "2026-02-26T18:55:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "google"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "5c2bcfb15ba35bbf",
+      "title": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
+      "summary": "New alternatives, “understand” and “ask” buttons in Google Translate help you navigate the complexities of natural language.",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
+      "published_at": "2026-02-26T18:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "google"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "e9c47518946d88a8",
+      "title": "3 Questions: Building predictive models to characterize tumor progression",
+      "summary": "Assistant Professor Matthew Jones is working to decode molecular processes on the genetic, epigenetic, and microenvironment levels to anticipate how and when tumors evolve to resist treatment.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/3-questions-building-predictive-models-characterize-tumor-progression-0310",
+      "published_at": "2026-03-10T20:50:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "1a767d1e50db67fb",
+      "title": "How Joseph Paradiso’s sensing innovations bridge the arts, medicine, and ecology",
+      "summary": "From early motion-sensing platforms to environmental monitoring, the professor and head of the Program in Media Arts and Sciences has turned decades of cross-disciplinary research into real-world impact.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/mit-professor-joseph-paradiso-sensing-innovations-0310",
+      "published_at": "2026-03-10T20:25:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "55734e756e948c7a",
+      "title": "Improving AI models’ ability to explain their predictions",
+      "summary": "A new approach could help users know whether to trust a model’s predictions in safety-critical applications like health care and autonomous driving.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
+      "published_at": "2026-03-09T04:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "78e916c447fa6572",
+      "title": "Mixing generative AI with physics to create personal items that work in the real world",
+      "summary": "To help generative AI models create durable, real-world accessories and decor, the PhysiOpt system runs physics simulations and makes subtle tweaks to its 3D blueprints.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225",
+      "published_at": "2026-02-25T19:40:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "6c04a173a3fab9d9",
+      "title": "AI to help researchers see the bigger picture in cell biology",
+      "summary": "By providing holistic information on a cell, an AI-driven method could help scientists better understand disease mechanisms and plan experiments.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/ai-help-researchers-see-bigger-picture-cell-biology-0225",
+      "published_at": "2026-02-25T10:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "7628f919fd4d5d51",
+      "title": "Enhancing maritime cybersecurity with technology and policy",
+      "summary": "Strahinja Janjusevic brings an international perspective and US Naval Academy education to his graduate research in the MIT Technology and Policy Program.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/enhancing-maritime-cybersecurity-technology-policy-strahinja-janjusevic-0225",
+      "published_at": "2026-02-25T05:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "policy"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "f6e200aa6f5e22ad",
+      "title": "Surging oil prices could wipe out benefits from Trump's 'big beautiful bill'",
+      "summary": "Estimates from Wall Street project that if oil prices stay elevated for too long, consumers will lose as much as they gain from the new tax law.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/03/10/rising-oil-prices-may-wipe-out-effects-of-trumps-big-beautiful-bill.html",
+      "published_at": "2026-03-10T14:16:40.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "a3def68040596a5e",
+      "title": "There's another energy market that may get hit harder than oil by Strait of Hormuz closure",
+      "summary": "Roughly 20% of global liquefied natural gas flows through the Strait.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/03/09/theres-another-energy-market-that-may-get-hit-harder-than-oil-by-strait-of-hormuz-closure.html",
+      "published_at": "2026-03-10T14:06:17.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "97b37b7f38934654",
+      "title": "Robinhood's venture fund, which gives investors access to private companies, tanks 11% on first day",
+      "summary": "Robinhood's Venture Fund I plunged 11% in its debut on the New York Stock Exchange on Friday, casting doubt on investors' appetite for riskier investment.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/03/06/robinhoods-venture-fund-which-gives-investors-access-to-private-companies-tanks-11percent-on-first-day.html",
+      "published_at": "2026-03-06T23:41:32.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "fb354984286880a9",
+      "title": "Mortgages in 47 seconds: Better’s new ChatGPT app targets lenders Rocket and UWM",
+      "summary": "Creating a mortgage has been one of the most time-consuming corners of American finance, with lenders relying on dozens of steps that can take weeks.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/03/05/mortgages-in-47-seconds-betters-new-chatgpt-app-targets-lenders-rocket-and-uwm.html",
+      "published_at": "2026-03-05T20:42:54.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "96f77702a5ad6bd0",
+      "title": "States led by New York sue to block Trump's latest tariffs, calling them an illegal end run around Supreme Court",
+      "summary": "The move from the state AGs — part of the successful effort to block Trump's original tariffs — adds to the ongoing uncertainty created by his tariff policies.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/03/05/trump-tariffs-state-ags-sue-supreme-court-decision.html",
+      "published_at": "2026-03-05T20:19:25.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "c92c51bef76999b3",
+      "title": "'I just want to be able to sleep': Attacks in Iran rock cities and cut power",
+      "summary": "Iranians in Tehran and Karaj tell the BBC they are exhausted and struggling to sleep after 10 days of Israeli and US attacks.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-10T13:26:17.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "d49d9ca759f6f63f",
+      "title": "Jeffrey Epstein had two key aides - why do they still control his money and secrets?",
+      "summary": "Richard Kahn and Darren Indyke administer Epstein’s estate - court filings allege complicity in his crimes.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.com/news/articles/cdjm7rxjxneo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-11T00:10:20.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "afd52305f1212207",
+      "title": "At least six dead in Switzerland bus fire",
+      "summary": "Police do not yet know the cause of the fire in the western Fribourg canton, which also injured a number of people.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.com/news/articles/c5y4wdlyy9xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-11T06:13:12.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "dc72f740af9f39fe",
+      "title": "Woman charged with attempted murder after shooting at Rihanna's home",
+      "summary": "The woman posted about the singer online prior to the attack, the BBC's US news partner CBS reports.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.com/news/articles/cgjze644wjvo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-11T03:10:09.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "f11781bc32af7118",
+      "title": "Member of Iranian football delegation granted Australian asylum changes her mind",
+      "summary": "One of the seven women who received visas has reversed her decision after speaking to teammates, minister says",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.com/news/articles/c93j2492d0do?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-11T04:14:40.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "a1f732f343f77dee",
+      "title": "Arrests, accusations and arguments - the Mugabe family after losing power",
+      "summary": "With Bellarmine Mugabe due in court we look at what has happened to Zimbabwe's ex-first family.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.com/news/articles/cp32xx35lwwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-11T05:54:23.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "ee085ce418d345e2",
+      "title": "Georgia voters to pick replacement for Marjorie Taylor Greene in special election",
+      "summary": "The shadow of Greene, who resigned from Congress after a rift with the president, looms large over a crowded contest.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.com/news/articles/c77ey1v7jrzo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-10T10:47:08.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "052f56b642aaf165",
+      "title": "Australian designer Katie Perry wins trademark appeal vs Katy Perry",
+      "summary": "The US singer lost the case in 2023 and later won on appeal, but now judges have ruled against her.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.com/news/articles/c9dn8l021l2o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-11T05:36:25.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "f9aaa91394e3c163",
+      "title": "Large parts of Dresden to be evacuated after 250kg WW2 bomb found",
+      "summary": "The city's biggest ever evacuation comes after the British flying bomb was discovered near a collapsed bridge.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.com/news/articles/c1781gr5n9go?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-03-10T21:36:43.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "b4bbd5731e28a010",
+      "title": "New Supreme Leader Inherits Sprawling, Secretive Office That Dominates Iran",
+      "summary": "His father, Ayatollah Ali Khamenei, had turned what was traditionally a religious affairs office into a shadowy national security juggernaut.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/03/10/world/middleeast/iran-supreme-leader-secretive-office.html",
+      "published_at": "2026-03-10T15:05:58.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "901633ec28e1330f",
+      "title": "Civilians Killed by Strikes in Gulf States Are Almost All Migrant Workers",
+      "summary": "Since the American-Israeli attack on Iran began, at least 12 civilians have been killed in oil-rich Gulf countries. All but one of them were foreign nationals.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-migrant-deaths.html",
+      "published_at": "2026-03-10T12:18:52.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "024db52d50e6c188",
+      "title": "Who Is Balendra Shah, the Rapper Set to Be Nepal’s Next Prime Minister?",
+      "summary": "Balendra Shah’s party won a landslide in the election that followed Nepal’s Gen Z revolution. His style is pugnacious.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/03/09/world/asia/balendra-shah-nepal-prime-minister.html",
+      "published_at": "2026-03-10T08:52:26.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "4df6c71f891c334d",
+      "title": "The Killing Of Haiti’s President Heads to a U.S. Court. What to Know.",
+      "summary": "Four men are accused in South Florida of plotting to kill President Jovenel Moise in 2021. His death plunged Haiti into chaos that continues today.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/03/10/world/americas/haiti-president-murder-assassination-trial-miami-florida.html",
+      "published_at": "2026-03-10T13:43:59.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "9947cb94d0063441",
+      "title": "Cost-Cutting Led to South Korean Airport’s Deadly Wall, Report Finds",
+      "summary": "The concrete runway barrier played a key role in a disaster that killed 179 people. An audit revealed officials skimped on construction fees and then falsified records.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/03/10/world/asia/jeju-air-crash-wall-airport.html",
+      "published_at": "2026-03-10T13:49:10.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "1fad29fe9c167cad",
+      "title": "Shooting at U.S. Consulate in Toronto a National Security Incident, Police Say",
+      "summary": "The police are searching for two men who both fired at the building with a single handgun and fled in a white SUV.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/03/10/world/canada/us-consulate-toronto-shots.html",
+      "published_at": "2026-03-10T18:29:06.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "08326ec457747662",
+      "title": "Fear and Hope for Iranians Trapped Between Bombs and Defiant Rulers",
+      "summary": "Many in Iran feel helpless in the face of their entrenched system, and some are becoming increasingly embittered by the fierce American and Israeli bombardment.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/03/09/world/europe/iranians-destruction-bombs-despair.html",
+      "published_at": "2026-03-09T18:47:14.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "412133ccf328523d",
+      "title": "On the Road With Zelensky, Weathered, Weary and Fighting On",
+      "summary": "Ukraine’s leader, Volodymyr Zelensky, traveled east to visit frontline troops trying to stave off Russian attacks, and invited reporters for The New York Times to go with him.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/03/09/world/europe/ukraine-zelensky-frontline-tour.html",
+      "published_at": "2026-03-09T04:01:26.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "8c84aa4ee6ff23ff",
+      "title": "Recent Quant Links from Quantocracy as of 03/05/2026",
+      "summary": "This is a summary of links recently featured on Quantocracy as of Thursday, 03/05/2026. To see our most recent links, visit the Quant Mashup. Read on readers! New Contributor: Scaling Python Financial Models on AWS [Quantt] How to take a Python financial model from running 150 sc",
+      "category": "STRATEGY",
+      "source_name": "Quantocracy",
+      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03052026/",
+      "published_at": "2026-03-06T06:15:04.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "7d1e2cd36164fce0",
+      "title": "Recent Quant Links from Quantocracy as of 02/26/2026",
+      "summary": "This is a summary of links recently featured on Quantocracy as of Thursday, 02/26/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Systematic Allocation in International Equity Regimes [Quantpedia] This research examines the critical quantitative inves",
+      "category": "STRATEGY",
+      "source_name": "Quantocracy",
+      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-02262026/",
+      "published_at": "2026-02-27T06:15:05.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "2eef853b251e0fcd",
+      "title": "Recent Quant Links from Quantocracy as of 02/22/2026",
+      "summary": "This is a summary of links recently featured on Quantocracy as of Sunday, 02/22/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Kronos and the Rise of Pre-Trained Market Models [Jonathan Kinlay] The quant finance industry has spent decades building sp",
+      "category": "STRATEGY",
+      "source_name": "Quantocracy",
+      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-02222026/",
+      "published_at": "2026-02-23T06:15:04.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "1a799a7bb2d659cc",
+      "title": "Ripple to acquire Australian financial services license as APAC payments volume doubles",
+      "summary": "The company plans to obtain the license through the acquisition of BC Payments Australia, expanding its regulated footprint to over 75 licenses worldwide.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/03/11/ripple-to-acquire-australian-financial-services-license-as-apac-payments-volume-doubles",
+      "published_at": "2026-03-11T05:23:14.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "69607392faabf8c2",
+      "title": "XRP Ledger transactions jump to 2.7M as price stays rangebound",
+      "summary": "Traders are watching whether support near $1.34 holds after repeated rejection near $1.44.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/03/11/xrp-ledger-transactions-jump-to-2-7m-as-price-stays-rangebound",
+      "published_at": "2026-03-11T05:05:02.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "08566454939e32c8",
+      "title": "Ripple to acquire BC Payments to secure Australian license",
+      "summary": "The license would allow Ripple to offer an end-to-end payments platform in the region, according to the statement.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/post/393127/ripple-bc-payments-australia-license?utm_source=rss&utm_medium=rss",
+      "published_at": "2026-03-11T03:24:20.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "5445b47522b9bfcf",
+      "title": "Aave suffers oracle glitch, triggering $26 million in unfair wstETH liquidations",
+      "summary": "The issue stemmed from an inconsistency between the snapshot ratio and the snapshot timestamp used for its risk oracle.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/post/393121/aave-oracle-glitch-wsteth?utm_source=rss&utm_medium=rss",
+      "published_at": "2026-03-11T02:01:35.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "c27429ef4594afd6",
+      "title": "‘History reveals no evidence’ Congress intended to preempt gambling laws, judge says in Kalshi case",
+      "summary": "An Ohio judge denied Kalshi's motion for an injunction in a case in which the prediction market platform is suing state gaming authorities.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/post/393058/history-reveals-no-evidence-congress-intended-preempt-gambling-laws-judge-says-kalshi-case?utm_source=rss&utm_medium=rss",
+      "published_at": "2026-03-10T18:56:26.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "d8ea799c184d69b6",
+      "title": "How Aviva Investors plans to tokenize its funds on XRP Ledger, with RippleX SVP",
+      "summary": "RippleX SVP Markus Infanger explains how tokenized funds, institutional DeFi, and blockchain infrastructure could transform global financial markets.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/post/393088/how-aviva-investors-plans-to-tokenize-its-funds-on-xrp-ledger-with-ripplex-svp?utm_source=rss&utm_medium=rss",
+      "published_at": "2026-03-10T18:55:46.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "99479d0946a8781a",
+      "title": "‘DAOs aren’t dead, they should evolve’: Aave CEO Stani Kulechov pushes for streamlined execution",
+      "summary": "The remarks follow a recent Aave DAO governance dispute that saw key contributors BGD Labs and ACI step back from the protocol.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/post/393050/daos-arent-dead-evolve-aave-ceo-stani-kulechov-pushes-streamlined-execution?utm_source=rss&utm_medium=rss",
+      "published_at": "2026-03-10T17:31:29.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "ea93ce1e642b5434",
+      "title": "New ways to learn math and science in ChatGPT",
+      "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+      "category": "AI",
+      "source_name": "OpenAI Blog",
+      "source_url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+      "published_at": "2026-03-10T10:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "d68fc6d194661321",
+      "title": "OpenAI to acquire Promptfoo",
+      "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "category": "AI",
+      "source_name": "OpenAI Blog",
+      "source_url": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "published_at": "2026-03-09T10:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "3c458bd85f78a735",
+      "title": "GPT-5.4 Thinking System Card",
+      "summary": "",
+      "category": "AI",
+      "source_name": "OpenAI Blog",
+      "source_url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "published_at": "2026-03-05T10:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "929b638bbeb596d9",
+      "title": "Ensuring AI use in education leads to opportunity",
+      "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+      "category": "AI",
+      "source_name": "OpenAI Blog",
+      "source_url": "https://openai.com/index/ai-education-opportunity",
+      "published_at": "2026-03-05T09:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "db06ca56ce9b4249",
+      "title": "How NVIDIA Builds Open Data for AI",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/nvidia/open-data-for-ai",
+      "published_at": "2026-03-10T19:49:28.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "c12e33a7c8501718",
+      "title": "Introducing Storage Buckets on the Hugging Face Hub",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/storage-buckets",
+      "published_at": "2026-03-10T00:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "b97bdf91a9d28811",
+      "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/async-rl-training-landscape",
+      "published_at": "2026-03-10T00:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "968ac13feccbdf9a",
+      "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
+      "published_at": "2026-03-09T18:36:33.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "5ccee32b3e4c187b",
+      "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ulysses-sp",
+      "published_at": "2026-03-09T00:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "a8c7c49c4618928c",
+      "title": "LeRobot v0.5.0: Scaling Every Dimension",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/lerobot-release-v050",
+      "published_at": "2026-03-09T00:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "fe4dc02770f0fd0e",
+      "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+      "published_at": "2026-03-05T14:16:49.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "b41c0cce47e46f6b",
+      "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/modular-diffusers",
+      "published_at": "2026-03-05T00:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "1b0dcb36fe1f9fae",
+      "title": "Mixture of Experts (MoEs) in Transformers",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/moe-transformers",
+      "published_at": "2026-02-26T00:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "81b7a64050dfa3c8",
+      "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+      "summary": "Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — just describe …",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
+      "published_at": "2026-03-10T13:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "google"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "f5290f0c99e243b2",
+      "title": "Ask a Techspert: How does AI understand my visual searches?",
+      "summary": "Learn more about AI Mode in Search’s query fan-out method for visual search.",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
+      "published_at": "2026-03-05T18:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "9c14e562cb6e3df9",
+      "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+      "summary": "Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools.",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
+      "published_at": "2026-03-04T17:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "f3a9d00bfb482825",
+      "title": "Create new worlds in Project Genie with these 4 tips",
+      "summary": "Learn more about Google DeepMind’s Project Genie and how to write prompts to create your own worlds.",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
+      "published_at": "2026-03-03T17:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "google"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "afc4a6e47f42a3b3",
+      "title": "A better method for planning complex visual tasks",
+      "summary": "A new hybrid system could help robots navigate in changing environments or increase the efficiency of multirobot assembly teams.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/better-method-planning-complex-visual-tasks-0311",
+      "published_at": "2026-03-11T04:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "adb6559bdb012788",
+      "title": "A “ChatGPT for spreadsheets” helps solve difficult engineering challenges faster",
+      "summary": "The approach could help engineers tackle extremely complex design problems, from power grid optimization to vehicle design.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/chatgpt-spreadsheets-helps-solve-difficult-engineering-challenges-faster-0304",
+      "published_at": "2026-03-04T05:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "d5f67e4110099413",
+      "title": "Featured video: Coding for underwater robotics",
+      "summary": "Lincoln Laboratory intern Ivy Mahncke developed and tested algorithms to help human divers and robots navigate underwater.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/featured-video-coding-underwater-robotics-0227",
+      "published_at": "2026-02-27T22:15:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "33ad563698d9941b",
+      "title": "Recent Quant Links from Quantocracy as of 03/08/2026",
+      "summary": "This is a summary of links recently featured on Quantocracy as of Sunday, 03/08/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Reinforcement Learning for Portfolio Optimization: From Theory to Implementation [Jonathan Kinlay] The quest for optimal po",
+      "category": "STRATEGY",
+      "source_name": "Quantocracy",
+      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03082026/",
+      "published_at": "2026-03-09T05:15:04.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "238a346381043fed",
+      "title": "Recent Quant Links from Quantocracy as of 03/02/2026",
+      "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 03/02/2026. To see our most recent links, visit the Quant Mashup. Read on readers! The Winter of our Pairs Trading Discontent: Problems, limitations, frustrations [Robot Wealth] In the last article, we buil",
+      "category": "STRATEGY",
+      "source_name": "Quantocracy",
+      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-03022026/",
+      "published_at": "2026-03-03T06:15:04.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "f4e8df1e9bffff9e",
+      "title": "Recent Quant Links from Quantocracy as of 02/20/2026",
+      "summary": "This is a summary of links recently featured on Quantocracy as of Friday, 02/20/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Moneyball: Finding Undervalued Pairs Using Unconventional Metrics [Robot Wealth] Last time we established that stat arb is ",
+      "category": "STRATEGY",
+      "source_name": "Quantocracy",
+      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-02202026/",
+      "published_at": "2026-02-21T06:15:04.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "4ac63f7a3e0b986e",
+      "title": "Recent Quant Links from Quantocracy as of 02/13/2026",
+      "summary": "This is a summary of links recently featured on Quantocracy as of Friday, 02/13/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Why Bonds Still Belong: Rethinking Fixed Income in Modern Portfolios [Return Stacked] n recent years, the bond market has d",
+      "category": "STRATEGY",
+      "source_name": "Quantocracy",
+      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-02132026/",
+      "published_at": "2026-02-14T06:15:04.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    },
+    {
+      "id": "9f67e9bdc56a404f",
+      "title": "Recent Quant Links from Quantocracy as of 02/08/2026",
+      "summary": "This is a summary of links recently featured on Quantocracy as of Sunday, 02/08/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Pragmatic Asset Allocation Across Market Cycles [Quantpedia] Pragmatic Asset Allocation (PAA) is a systematic, multi-asset ",
+      "category": "STRATEGY",
+      "source_name": "Quantocracy",
+      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-02082026/",
+      "published_at": "2026-02-09T06:15:04.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ZZ Daily Report</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <header class="container header">
+      <div>
+        <h1>ZZ Daily Report</h1>
+        <p id="meta">加载中...</p>
+      </div>
+      <div class="controls">
+        <input id="search" type="search" placeholder="搜索标题 / 标签 / 来源" />
+        <select id="categoryFilter">
+          <option value="ALL">全部分类</option>
+          <option value="AI">AI</option>
+          <option value="STRATEGY">策略交易</option>
+          <option value="CRYPTO">加密货币</option>
+          <option value="WORLD">世界重大事件</option>
+          <option value="FINANCE">财经新闻</option>
+        </select>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="summary-grid" id="summaryGrid"></section>
+      <section>
+        <h2>每小时摘要</h2>
+        <div class="panel" id="hourlySummary">加载中...</div>
+      </section>
+      <section>
+        <h2>快讯列表</h2>
+        <div id="list" class="list"></div>
+      </section>
+      <section>
+        <h2>历史归档（最近更新）</h2>
+        <div id="history" class="panel">加载中...</div>
+      </section>
+    </main>
+
+    <footer class="container footer">
+      <p>Data sources are public/free. Always verify with original source before making decisions.</p>
+    </footer>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
