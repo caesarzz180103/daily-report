@@ -38,11 +38,11 @@ const I18N = {
 };
 
 const FALLBACK_COVER = {
-  AI: 'https://images.unsplash.com/photo-1677442135136-760c813028c0?auto=format&fit=crop&w=1200&q=60',
-  STRATEGY: 'https://images.unsplash.com/photo-1642543348745-6f761c0b3f6b?auto=format&fit=crop&w=1200&q=60',
-  CRYPTO: 'https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=60',
-  WORLD: 'https://images.unsplash.com/photo-1521292270410-a8c4d716d518?auto=format&fit=crop&w=1200&q=60',
-  FINANCE: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=60'
+  AI: './assets/ai.svg',
+  STRATEGY: './assets/strategy.svg',
+  CRYPTO: './assets/crypto.svg',
+  WORLD: './assets/world.svg',
+  FINANCE: './assets/finance.svg'
 };
 
 let reportData;
@@ -80,9 +80,10 @@ function cardTemplate(x) {
   const cover = x.image_url || FALLBACK_COVER[x.category] || FALLBACK_COVER.WORLD;
   const title = x.title_zh || x.title;
   const summary = x.summary_zh || x.summary;
+  const fallback = FALLBACK_COVER[x.category] || FALLBACK_COVER.WORLD;
   return `
     <article class="item">
-      <img class="cover" loading="lazy" src="${cover}" alt="${title}" referrerpolicy="no-referrer" />
+      <img class="cover" loading="lazy" src="${cover}" alt="${title}" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='${fallback}'" />
       <div class="item-body">
         <h3><a href="${x.source_url}" target="_blank" rel="noopener noreferrer">${title}</a></h3>
         <div class="meta-row">
