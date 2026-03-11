@@ -131,6 +131,11 @@ function renderTop(items) {
   el('topList').innerHTML = top.length ? top.map(cardTemplate).join('') : `<div class="panel">${t().noData}</div>`;
 }
 
+function renderListStatus(count) {
+  const catLabel = currentCategory === 'ALL' ? t().all : (t().cats[currentCategory] || currentCategory);
+  el('listStatus').textContent = `当前筛选：${catLabel} ｜ 共 ${count} 条`;
+}
+
 function renderList(items) {
   el('list').innerHTML = items.length ? items.map(cardTemplate).join('') : `<div class="panel">${t().noData}</div>`;
 }
@@ -163,7 +168,9 @@ function applyFilters() {
     return b.importance_score - a.importance_score;
   });
 
+  renderTop(filtered);
   renderList(filtered);
+  renderListStatus(filtered.length);
 }
 
 function renderMeta() {
