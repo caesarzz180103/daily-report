@@ -78,8 +78,8 @@ function levelClass(score) {
 function cardTemplate(x) {
   const tags = (x.tags || []).slice(0, 5).map((v) => `<span class="badge">#${v}</span>`).join(' ');
   const cover = x.image_url || FALLBACK_COVER[x.category] || FALLBACK_COVER.WORLD;
-  const title = lang === 'zh' ? (x.title_zh || x.title) : x.title;
-  const summary = lang === 'zh' ? (x.summary_zh || x.summary) : x.summary;
+  const title = x.title_zh || x.title;
+  const summary = x.summary_zh || x.summary;
   return `
     <article class="item">
       <img class="cover" loading="lazy" src="${cover}" alt="${title}" referrerpolicy="no-referrer" />
