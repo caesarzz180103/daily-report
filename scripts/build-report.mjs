@@ -61,29 +61,33 @@ function makeSummary(items) {
 async function fetchFeed(feed) {
   try {
     const parsed = await parser.parseURL(feed.url);
-    return (parsed.items || []).slice(0, 10).map((item) => {
-      const title = (item.title || '').trim();
-      const summary = stripHtml(item.contentSnippet || item.content || item.summary || '').slice(0, 280);
-      const sourceUrl = item.link || feed.url;
-      const publishedAt = item.isoDate || item.pubDate || new Date().toISOString();
-      const id = hashId(`${title}-${sourceUrl}`);
-      return {
-        id,
-        title,
-        summary,
-        category: feed.category,
-        source_name: feed.source,
-        source_url: sourceUrl,
-        published_at: new Date(publishedAt).toISOString(),
-        importance_score: scoreImportance(title, summary, feed.category),
-        sentiment: 0,
-        tags: extractTags(title, summary),
-        region: 'global'
-      };
-    });
+    return {
+      ok: true,
+      source: feed.source,
+      items: (parsed.items || []).slice(0, 10).map((item) => {
+        const title = (item.title || '').trim();
+        const summary = stripHtml(item.contentSnippet || item.content || item.summary || '').slice(0, 280);
+        const sourceUrl = item.link || feed.url;
+        const publishedAt = item.isoDate || item.pubDate || new Date().toISOString();
+        const id = hashId(`${title}-${sourceUrl}`);
+        return {
+          id,
+          title,
+          summary,
+          category: feed.category,
+          source_name: feed.source,
+          source_url: sourceUrl,
+          published_at: new Date(publishedAt).toISOString(),
+          importance_score: scoreImportance(title, summary, feed.category),
+          sentiment: 0,
+          tags: extractTags(title, summary),
+          region: 'global'
+        };
+      })
+    };
   } catch (err) {
     console.warn(`[WARN] Feed failed: ${feed.source} => ${err.message}`);
-    return [];
+    return { ok: false, source: feed.source, error: err.message, items: [] };
   }
 }
 
@@ -136,10 +140,11 @@ async function ensureDir(p) {
 }
 
 async function main() {
-  const results = await Promise.all(FEEDS.map(fetchFeed));
+  const feedResults = await Promise.all(FEEDS.map(fetchFeed));
   const coingecko = await fetchCoinGecko();
 
-  const items = dedupe([...results.flat(), ...coingecko])
+  const failed_sources = feedResults.filter((x) => !x.ok).map((x) => ({ source: x.source, error: x.error }));
+  const items = dedupe([...feedResults.flatMap((x) => x.items), ...coingecko])
     .filter((x) => x.title)
     .sort((a, b) => b.importance_score - a.importance_score)
     .slice(0, 120);
@@ -150,7 +155,10 @@ async function main() {
     hourly_summary: makeSummary(items),
     meta: {
       sources_count: FEEDS.length + 1,
-      version: '1.0.0'
+      feed_ok: FEEDS.length - failed_sources.length,
+      feed_failed: failed_sources.length,
+      failed_sources,
+      version: '1.1.0'
     },
     stats: buildStats(items),
     items

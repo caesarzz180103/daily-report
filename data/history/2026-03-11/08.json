@@ -1,9 +1,12 @@
 {
-  "generated_at": "2026-03-11T08:06:39.216Z",
+  "generated_at": "2026-03-11T08:13:46.661Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Next week could spice things up for bitcoin as seven central banks face an inflation test；【FINANCE】Fed Governor Miran says job losses in February add to the case for more interest rate cuts；【CRYPTO】Senate Democrats push ban on prediction market bets tied to war and death。",
   "meta": {
     "sources_count": 11,
-    "version": "1.0.0"
+    "feed_ok": 10,
+    "feed_failed": 0,
+    "failed_sources": [],
+    "version": "1.1.0"
   },
   "stats": {
     "total": 105,
@@ -67,6 +70,21 @@
       "region": "global"
     },
     {
+      "id": "52c869499ad37f75",
+      "title": "Democrats push ‘Death Bets Act’ to ban prediction markets tied to war and fatalities",
+      "summary": "The bill comes as the CFTC reviews its approach to event-based prediction markets, preparing new guidance to clarify how they should operate.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/post/393146/democrats-death-bets-act?utm_source=rss&utm_medium=rss",
+      "published_at": "2026-03-11T08:08:14.000Z",
+      "importance_score": 80,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global"
+    },
+    {
       "id": "5571af0f74b90fe0",
       "title": "U.S.-Iran war exposes big market concentration risk. It isn't in S&P 500 stocks",
       "summary": "Oil prices soar in the U.S.-Iran war, leading to volatility in emerging markets, and showing how concentrated EM funds are in Asian economies.",
@@ -78,22 +96,6 @@
       "sentiment": 0,
       "tags": [
         "stocks",
-        "war"
-      ],
-      "region": "global"
-    },
-    {
-      "id": "2e0e4b65c5f102b4",
-      "title": "Stablecoin boom could eat into traditional banks' profits, warn Jefferies analysts",
-      "summary": "Digital dollar use in payments and crypto markets may slowly pull deposits from banks, forcing lenders to seek pricier funding, a new report by Jeffries finds.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/03/10/stablecoin-boom-could-eat-into-traditional-banks-profits-warn-jefferies-analysts",
-      "published_at": "2026-03-10T20:46:17.000Z",
-      "importance_score": 68,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
         "war"
       ],
       "region": "global"
@@ -260,7 +262,7 @@
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel",
-      "published_at": "2026-03-11T07:26:40.000Z",
+      "published_at": "2026-03-11T08:08:52.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -312,13 +314,13 @@
       "region": "global"
     },
     {
-      "id": "c3b82db405005b2f",
+      "id": "72643f87ea62de97",
       "title": "Trending Crypto: Internet Computer (ICP)",
       "summary": "CoinGecko trending rank #55.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/internet-computer",
-      "published_at": "2026-03-11T08:06:39.215Z",
+      "published_at": "2026-03-11T08:13:46.661Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -329,13 +331,13 @@
       "region": "global"
     },
     {
-      "id": "88c8b37d6fd7ec1d",
+      "id": "22c116331f04c44b",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
       "summary": "CoinGecko trending rank #16.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
-      "published_at": "2026-03-11T08:06:39.215Z",
+      "published_at": "2026-03-11T08:13:46.661Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -346,30 +348,13 @@
       "region": "global"
     },
     {
-      "id": "d7d8242c38792bf5",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "published_at": "2026-03-11T08:06:39.215Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "btc"
-      ],
-      "region": "global"
-    },
-    {
-      "id": "fc980d7435682f4a",
+      "id": "33221d6479c24e23",
       "title": "Trending Crypto: Pi Network (PI)",
       "summary": "CoinGecko trending rank #41.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pi-network",
-      "published_at": "2026-03-11T08:06:39.215Z",
+      "published_at": "2026-03-11T08:13:46.661Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -380,19 +365,36 @@
       "region": "global"
     },
     {
-      "id": "d9811a74a532383d",
-      "title": "Trending Crypto: Monad (MON)",
-      "summary": "CoinGecko trending rank #157.",
+      "id": "18cd1f1cabeebfb6",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/monad",
-      "published_at": "2026-03-11T08:06:39.215Z",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "published_at": "2026-03-11T08:13:46.661Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "mon"
+        "btc"
+      ],
+      "region": "global"
+    },
+    {
+      "id": "9b181d5055915fab",
+      "title": "Trending Crypto: Xai (XAI)",
+      "summary": "CoinGecko trending rank #711.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/xai-blockchain",
+      "published_at": "2026-03-11T08:13:46.661Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "xai"
       ],
       "region": "global"
     },
@@ -1103,6 +1105,21 @@
       "region": "global"
     },
     {
+      "id": "217ddf60888d7d16",
+      "title": "Coinbase-backed AI payments protocol wants to fix micropayment but demand is just not there yet",
+      "summary": "Agentic commerce holds promise, but data shows that x402 is still in the trial phase",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/03/11/coinbase-backed-ai-payments-protocol-wants-to-fix-micropayment-but-demand-is-just-not-there-yet",
+      "published_at": "2026-03-11T08:11:04.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global"
+    },
+    {
       "id": "1a799a7bb2d659cc",
       "title": "Ripple to acquire Australian financial services license as APAC payments volume doubles",
       "summary": "The company plans to obtain the license through the acquisition of BC Payments Australia, expanding its regulated footprint to over 75 licenses worldwide.",
@@ -1184,19 +1201,6 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
-    },
-    {
-      "id": "99479d0946a8781a",
-      "title": "‘DAOs aren’t dead, they should evolve’: Aave CEO Stani Kulechov pushes for streamlined execution",
-      "summary": "The remarks follow a recent Aave DAO governance dispute that saw key contributors BGD Labs and ACI step back from the protocol.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/post/393050/daos-arent-dead-evolve-aave-ceo-stani-kulechov-pushes-streamlined-execution?utm_source=rss&utm_medium=rss",
-      "published_at": "2026-03-10T17:31:29.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
       "region": "global"
     },
     {

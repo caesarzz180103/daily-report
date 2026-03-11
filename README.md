@@ -46,9 +46,16 @@ npm run build:report
 4. 等待 Actions 首次成功后，页面即可访问
 
 ## 数据说明
-- `data/latest.json`：最新一轮整点报告
+- `data/latest.json`：最新一轮整点报告（包含 `meta.failed_sources`）
 - `data/history/YYYY-MM-DD/HH.json`：历史小时报告
 - `data/history/index.json`：历史索引
+
+## 上线建议（5分钟）
+1. 新建 GitHub 仓库 `zz-daily-report`
+2. 推送本地代码到 `main`
+3. GitHub → Settings → Pages → Deploy from a branch → `main` / root
+4. GitHub → Actions，手动执行一次 `hourly-report`（workflow_dispatch）
+5. 打开 Pages 链接检查页面与数据是否正常
 
 ## 备注
 - 所有信息源均为公开免费源

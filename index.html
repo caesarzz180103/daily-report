@@ -22,6 +22,10 @@
           <option value="WORLD">世界重大事件</option>
           <option value="FINANCE">财经新闻</option>
         </select>
+        <select id="sortBy">
+          <option value="importance">按重要度</option>
+          <option value="time">按时间</option>
+        </select>
       </div>
     </header>
 
@@ -30,6 +34,10 @@
       <section>
         <h2>每小时摘要</h2>
         <div class="panel" id="hourlySummary">加载中...</div>
+      </section>
+      <section>
+        <h2>重点事件（Top 5）</h2>
+        <div id="topList" class="list"></div>
       </section>
       <section>
         <h2>快讯列表</h2>

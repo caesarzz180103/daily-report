@@ -7,6 +7,7 @@ const categoryText = {
 };
 
 let cachedItems = [];
+let currentSortBy = 'importance';
 
 function el(id) {
   return document.getElementById(id);
@@ -33,6 +34,29 @@ function renderSummary(report) {
     .join('');
 }
 
+function levelClass(score) {
+  if (score >= 80) return 'high';
+  if (score >= 60) return 'mid';
+  return 'low';
+}
+
+function cardTemplate(x) {
+  const tags = (x.tags || []).slice(0, 5).map((t) => `<span class="badge">#${t}</span>`).join(' ');
+  return `
+    <article class="item">
+      <h3><a href="${x.source_url}" target="_blank" rel="noopener noreferrer">${x.title}</a></h3>
+      <div class="meta-row">
+        <span class="badge">${categoryText[x.category] || x.category}</span>
+        <span>${x.source_name}</span>
+        <span>发布时间: ${fmtTime(x.published_at)}</span>
+        <span class="badge ${levelClass(x.importance_score)}">重要度: ${x.importance_score}</span>
+      </div>
+      <p>${x.summary || '（无摘要）'}</p>
+      <div class="meta-row">${tags}</div>
+    </article>
+  `;
+}
+
 function renderList(items) {
   const list = el('list');
   if (!items.length) {
@@ -40,35 +64,29 @@ function renderList(items) {
     return;
   }
 
-  list.innerHTML = items
-    .map((x) => {
-      const tags = (x.tags || []).slice(0, 5).map((t) => `<span class="badge">#${t}</span>`).join(' ');
-      return `
-        <article class="item">
-          <h3><a href="${x.source_url}" target="_blank" rel="noopener noreferrer">${x.title}</a></h3>
-          <div class="meta-row">
-            <span class="badge">${categoryText[x.category] || x.category}</span>
-            <span>${x.source_name}</span>
-            <span>发布时间: ${fmtTime(x.published_at)}</span>
-            <span>重要度: ${x.importance_score}</span>
-          </div>
-          <p>${x.summary || '（无摘要）'}</p>
-          <div class="meta-row">${tags}</div>
-        </article>
-      `;
-    })
-    .join('');
+  list.innerHTML = items.map(cardTemplate).join('');
+}
+
+function renderTop(items) {
+  const box = el('topList');
+  const top = [...items].sort((a, b) => b.importance_score - a.importance_score).slice(0, 5);
+  box.innerHTML = top.length ? top.map(cardTemplate).join('') : '<div class="panel">暂无重点事件</div>';
 }
 
 function applyFilters() {
   const keyword = el('search').value.trim().toLowerCase();
   const cat = el('categoryFilter').value;
 
-  const filtered = cachedItems.filter((x) => {
+  let filtered = cachedItems.filter((x) => {
     const hitCat = cat === 'ALL' || x.category === cat;
     const blob = `${x.title} ${x.summary} ${x.source_name} ${(x.tags || []).join(' ')}`.toLowerCase();
     const hitKeyword = !keyword || blob.includes(keyword);
     return hitCat && hitKeyword;
+  });
+
+  filtered = filtered.sort((a, b) => {
+    if (currentSortBy === 'time') return new Date(b.published_at) - new Date(a.published_at);
+    return b.importance_score - a.importance_score;
   });
 
   renderList(filtered);
@@ -97,16 +115,21 @@ async function main() {
   const res = await fetch('./data/latest.json?_=' + Date.now());
   const report = await res.json();
 
-  el('meta').textContent = `最近更新时间：${fmtTime(report.generated_at)} | 时区：UTC | 来源数：${report.meta?.sources_count || 0}`;
+  el('meta').textContent = `最近更新时间：${fmtTime(report.generated_at)} | 时区：UTC | 来源数：${report.meta?.sources_count || 0} | 失败源：${report.meta?.feed_failed || 0}`;
   el('hourlySummary').textContent = report.hourly_summary || '暂无摘要';
 
   renderSummary(report);
-  cachedItems = (report.items || []).sort((a, b) => b.importance_score - a.importance_score);
+  cachedItems = report.items || [];
+  renderTop(cachedItems);
   applyFilters();
   await renderHistory();
 
   el('search').addEventListener('input', applyFilters);
   el('categoryFilter').addEventListener('change', applyFilters);
+  el('sortBy').addEventListener('change', (e) => {
+    currentSortBy = e.target.value;
+    applyFilters();
+  });
 }
 
 main().catch((err) => {
