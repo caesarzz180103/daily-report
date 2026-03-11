@@ -60,7 +60,7 @@ function scoreImportance(title = '', summary = '', category = '') {
 function makeSummary(items) {
   const c = (name) => items.filter((x) => x.category === name).length;
   const top = [...items].sort((a, b) => b.importance_score - a.importance_score).slice(0, 3);
-  const topText = top.map((x) => `【${x.category}】${x.title}`).join('；');
+  const topText = top.map((x) => `【${x.category}】${x.title_zh || x.title}`).join('；');
   return `本小时共收录 ${items.length} 条：AI ${c('AI')} 条、策略交易 ${c('STRATEGY')} 条、加密货币 ${c('CRYPTO')} 条、世界事件 ${c('WORLD')} 条、财经 ${c('FINANCE')} 条。重点关注：${topText || '暂无重点事件'}。`;
 }
 
@@ -137,6 +137,49 @@ function dedupe(items) {
   return out;
 }
 
+function hasChinese(text = '') {
+  return /[\u4e00-\u9fff]/.test(text);
+}
+
+const translateCache = new Map();
+
+async function translateToZh(text = '') {
+  const raw = (text || '').trim();
+  if (!raw) return '';
+  if (hasChinese(raw)) return raw;
+  if (translateCache.has(raw)) return translateCache.get(raw);
+
+  try {
+    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&dt=t&q=${encodeURIComponent(raw)}`;
+    const res = await fetch(url, { headers: { accept: 'application/json' } });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    const translated = Array.isArray(data?.[0]) ? data[0].map((x) => x?.[0] || '').join('') : raw;
+    translateCache.set(raw, translated || raw);
+    return translated || raw;
+  } catch {
+    return raw;
+  }
+}
+
+async function translateItemsToZh(items) {
+  let translatedCount = 0;
+
+  for (const item of items) {
+    const tTitle = await translateToZh(item.title || '');
+    const tSummary = await translateToZh(item.summary || '');
+
+    item.title_zh = tTitle || item.title;
+    item.summary_zh = tSummary || item.summary;
+
+    if ((item.title_zh && item.title_zh !== item.title) || (item.summary_zh && item.summary_zh !== item.summary)) {
+      translatedCount += 1;
+    }
+  }
+
+  return translatedCount;
+}
+
 function buildStats(items) {
   const s = { total: items.length, AI: 0, STRATEGY: 0, CRYPTO: 0, WORLD: 0, FINANCE: 0 };
   for (const x of items) if (s[x.category] !== undefined) s[x.category] += 1;
@@ -158,6 +201,8 @@ async function main() {
     .sort((a, b) => b.importance_score - a.importance_score)
     .slice(0, 120);
 
+  const translated_items = await translateItemsToZh(items);
+
   const now = new Date();
   const report = {
     generated_at: now.toISOString(),
@@ -167,7 +212,9 @@ async function main() {
       feed_ok: sourceConfig.feeds.length - failed_sources.length,
       feed_failed: failed_sources.length,
       failed_sources,
-      version: '1.2.0'
+      translated_items,
+      translation_target: 'zh-CN',
+      version: '1.3.0'
     },
     stats: buildStats(items),
     items

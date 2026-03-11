@@ -1,21 +1,18 @@
 {
-  "generated_at": "2026-03-11T09:04:00.808Z",
-  "hourly_summary": "本小时共收录 95 条：AI 30 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Next week could spice things up for bitcoin as seven central banks face an inflation test；【FINANCE】Fed Governor Miran says job losses in February add to the case for more interest rate cuts；【CRYPTO】Senate Democrats push ban on prediction market bets tied to war and death。",
+  "generated_at": "2026-03-11T09:18:29.879Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】下周，随着七家央行面临通胀测试，比特币的走势可能会变得更加激烈；【FINANCE】美联储理事米兰表示二月份失业增加了进一步降息的理由；【CRYPTO】参议院民主党人推动禁止与战争和死亡相关的预测市场投注。",
   "meta": {
     "sources_count": 11,
-    "feed_ok": 9,
-    "feed_failed": 1,
-    "failed_sources": [
-      {
-        "source": "Google AI Blog",
-        "error": "Request timed out after 15000ms"
-      }
-    ],
-    "version": "1.2.0"
+    "feed_ok": 10,
+    "feed_failed": 0,
+    "failed_sources": [],
+    "translated_items": 105,
+    "translation_target": "zh-CN",
+    "version": "1.3.0"
   },
   "stats": {
-    "total": 95,
-    "AI": 30,
+    "total": 105,
+    "AI": 40,
     "STRATEGY": 10,
     "CRYPTO": 25,
     "WORLD": 20,
@@ -40,7 +37,9 @@
         "inflation",
         "war"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "下周，随着七家央行面临通胀测试，比特币的走势可能会变得更加激烈",
+      "summary_zh": "包括美联储在内的七家主要央行将于下周发布利率决定，而战争驱动的油价飙升引发了人们对全球通胀的新担忧。"
     },
     {
       "id": "766472b32c56ac0a",
@@ -58,7 +57,9 @@
         "fed",
         "inflation"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "美联储理事米兰表示二月份失业增加了进一步降息的理由",
+      "summary_zh": "米兰在接受 CNBC 采访时表示，美联储应该更多地关注支持劳动力市场，而不是担心通胀。"
     },
     {
       "id": "bee61428329b8609",
@@ -75,7 +76,9 @@
         "fed",
         "war"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "参议院民主党人推动禁止与战争和死亡相关的预测市场投注",
+      "summary_zh": "尽管美国商品期货交易委员会(CFTC)对活动合同采取了更为宽松的立场，但参议院民主党人的法案仍会将这一禁令写入联邦法律。"
     },
     {
       "id": "52c869499ad37f75",
@@ -91,7 +94,9 @@
       "tags": [
         "war"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "民主党推动“死亡投注法案”，禁止与战争和死亡相关的预测市场",
+      "summary_zh": "该法案出台之际，美国商品期货交易委员会（CFTC）正在审查其基于事件的预测市场的方法，准备新的指南来阐明它们应该如何运作。"
     },
     {
       "id": "5571af0f74b90fe0",
@@ -108,7 +113,9 @@
         "stocks",
         "war"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "美伊战争暴露了巨大的市场集中风险。它不在标准普尔 500 指数股票中",
+      "summary_zh": "美伊战争导致油价飙升，导致新兴市场波动，也显示出新兴市场资金在亚洲经济体的集中程度。"
     },
     {
       "id": "a52e01a6ea819880",
@@ -124,7 +131,9 @@
       "tags": [
         "fed"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "TD Cowen 表示国会可能越来越接近永久禁止美联储 CBDC",
+      "summary_zh": "该投资银行表示，此举将使稳定币发行人受益，但也可能为《澄清法案》的通过制造另一个障碍。"
     },
     {
       "id": "6439ce5962f8fb5f",
@@ -143,7 +152,9 @@
         "bitcoin",
         "war"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "IEA提议释放有史以来最大规模的石油储备，比特币稳定在70,000美元以上",
+      "summary_zh": "随着能源价格担忧缓解，最大的加密货币从周一低点上涨 7%，亚洲股市上涨 1.8%，布伦特原油自战争开始以来首次跌破 90 美元。"
     },
     {
       "id": "75cf1fb8b8aab189",
@@ -161,7 +172,9 @@
         "bitcoin",
         "war"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "比特币交易员押注反弹至 80,000 美元以上",
+      "summary_zh": "Derive 表示，许多交易员预计比特币将在 6 月至 9 月期间恢复至 8 万美元的水平。"
     },
     {
       "id": "e8b5c6b920fc646a",
@@ -179,7 +192,9 @@
         "crypto",
         "ethereum"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "以太坊火爆，活动创纪录，但以太币价格和区块链费用滞后",
+      "summary_zh": "CryptoQuant 的一份报告显示，尽管以太坊生态系统的活动激增，但资本外流凸显了使用增长与 ETH 市场表现之间日益脱节。"
     },
     {
       "id": "0511abb165b916ce",
@@ -195,7 +210,25 @@
       "tags": [
         "bitcoin"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "Bitwise CIO 重申比特币价格可能达到 100 万美元，并将其与黄金进行比较",
+      "summary_zh": "Matt Hougan 比特币只需占据全球价值存储市场约 17% 的份额即可达到 100 万美元。"
+    },
+    {
+      "id": "84034ecb3cde6e8b",
+      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+      "summary": "Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NB2_Hero.max-600x600.format-webp.webp",
+      "published_at": "2026-02-26T16:00:00.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Nano Banana 2：将专业功能与闪电般的速度相结合",
+      "summary_zh": "我们最新的图像生成模型以 Flash 速度提供先进的世界知识、生产就绪的规格、主题一致性等。"
     },
     {
       "id": "bf97916083a71509",
@@ -209,7 +242,9 @@
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "为什么中国比其他国家更容易承受油价突破100美元的考验",
+      "summary_zh": "最近的中东紧张局势揭示了世界三大石油消费国如何对能源采取不同的态度，并产生了全球后果。"
     },
     {
       "id": "ea96cdb31f5f1da1",
@@ -225,7 +260,9 @@
       "tags": [
         "war"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "中国表示，特习会在伊朗战争中悬而未决，需要“彻底准备”",
+      "summary_zh": "中国最高外交官王毅表示，中美两国元首计划会晤的准备工作正在进行中。"
     },
     {
       "id": "b06270c86534acf2",
@@ -242,7 +279,9 @@
         "ai",
         "war"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "橡树资本的霍华德·马克斯表示，私人信贷不存在系统性问题",
+      "summary_zh": "马克斯表示，任何风险都源于直接贷款的扩张速度，自 2011 年左右开始以来，直接贷款市场规模已激增至超过 1 万亿美元。"
     },
     {
       "id": "27203bc61e39a316",
@@ -259,7 +298,9 @@
         "ai",
         "war"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "史蒂夫·罗森伯格：俄罗斯从伊朗战争中寻求外交和经济利益",
+      "summary_zh": "英国广播公司俄罗斯编辑写道，普京总统将自己定位为潜在的调解人，但这并不容易接受。"
     },
     {
       "id": "f19ab81df39661b0",
@@ -276,7 +317,9 @@
         "ai",
         "war"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "美国称在石油航线附近袭击了16艘伊朗布雷船",
+      "summary_zh": "自2月28日战争爆发以来，尚不清楚霍尔木兹海峡是否埋有任何水雷。五角大楼表示，140 名美国军人在战争中受伤，其中 8 人重伤。"
     },
     {
       "id": "75d4a963fbc0e19e",
@@ -293,7 +336,9 @@
         "ai",
         "openai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "Tumbler Ridge 枪击受害者的母亲起诉 OpenAI",
+      "summary_zh": "该公司称，该公司禁止了枪手的 ChatGPT 账户，但没有向当局发出警报，此举构成致命疏忽。"
     },
     {
       "id": "214f0b0b5beb91f1",
@@ -307,7 +352,9 @@
       "importance_score": 56,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "纳斯达克上市公司 Solmate 提议反向股票分割，以在阿联酋建立 Solana 中心",
+      "summary_zh": "该公司还打算从其体育投资组合中裁减两支足球队，以专注于 Solana 财务和基础设施战略。"
     },
     {
       "id": "d7d4646f78bb3198",
@@ -321,17 +368,19 @@
       "importance_score": 56,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "ABA 调查发现消费者支持与银行风险相关的稳定币收益率限制",
+      "summary_zh": "消费者以 6 比 1 的比例同意稳定币收益率法“应该谨慎，不要采取任何可能破坏我们现有金融体系的措施。”"
     },
     {
-      "id": "a5de8a2c986b3f06",
+      "id": "e2b0667a9feda383",
       "title": "Trending Crypto: Internet Computer (ICP)",
       "summary": "CoinGecko trending rank #54.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/internet-computer",
       "image_url": "https://coin-images.coingecko.com/coins/images/14495/large/Internet_Computer_logo.png?1696514180",
-      "published_at": "2026-03-11T09:04:00.808Z",
+      "published_at": "2026-03-11T09:17:55.076Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -339,17 +388,19 @@
         "trending",
         "icp"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "加密货币趋势：互联网计算机 (ICP)",
+      "summary_zh": "CoinGecko 趋势排名第 54。"
     },
     {
-      "id": "9df9a57d784a0a00",
+      "id": "ab4fd97bd1b56f96",
       "title": "Trending Crypto: Xai (XAI)",
-      "summary": "CoinGecko trending rank #700.",
+      "summary": "CoinGecko trending rank #688.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/xai-blockchain",
       "image_url": "https://coin-images.coingecko.com/coins/images/34258/large/round_icon_2048_px.png?1719523838",
-      "published_at": "2026-03-11T09:04:00.808Z",
+      "published_at": "2026-03-11T09:17:55.076Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -357,17 +408,19 @@
         "trending",
         "xai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "加密货币趋势：Xai (XAI)",
+      "summary_zh": "CoinGecko 趋势排名#688。"
     },
     {
-      "id": "9cb156810987f26e",
+      "id": "273c9c153031caea",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-03-11T09:04:00.808Z",
+      "published_at": "2026-03-11T09:17:55.076Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -375,17 +428,39 @@
         "trending",
         "btc"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "流行加密货币：比特币 (BTC)",
+      "summary_zh": "CoinGecko 趋势排名第一。"
     },
     {
-      "id": "ec9d16e4ad83a230",
+      "id": "3b5f6c7a51a4ace5",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #107.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-03-11T09:17:55.076Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pengu"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：矮胖企鹅 (PENGU)",
+      "summary_zh": "CoinGecko 趋势排名第 107。"
+    },
+    {
+      "id": "aff8deedf1c8bdcb",
       "title": "Trending Crypto: Pi Network (PI)",
       "summary": "CoinGecko trending rank #41.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pi-network",
       "image_url": "https://coin-images.coingecko.com/coins/images/54342/large/pi_network.jpg?1739347576",
-      "published_at": "2026-03-11T09:04:00.808Z",
+      "published_at": "2026-03-11T09:17:55.076Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -393,25 +468,9 @@
         "trending",
         "pi"
       ],
-      "region": "global"
-    },
-    {
-      "id": "03197340beb26791",
-      "title": "Trending Crypto: Ethereum (ETH)",
-      "summary": "CoinGecko trending rank #2.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/ethereum",
-      "image_url": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "published_at": "2026-03-11T09:04:00.808Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "eth"
-      ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "加密货币趋势：Pi Network (PI)",
+      "summary_zh": "CoinGecko 趋势排名第 41。"
     },
     {
       "id": "4d4cdd9cb64f067d",
@@ -427,7 +486,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "Balyasny Asset Management 如何构建用于投资的人工智能研究引擎",
+      "summary_zh": "了解 Balyasny 如何使用 GPT-5.4、严格的模型评估和代理工作流程构建人工智能研究系统，以大规模转变投资分析。"
     },
     {
       "id": "4a1cc186874a19ad",
@@ -444,7 +505,9 @@
         "ai",
         "llm"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "新方法可以提高LLM培训效率",
+      "summary_zh": "通过利用空闲计算时间，研究人员可以将模型训练的速度提高一倍，同时保持准确性。"
     },
     {
       "id": "0389594c2968a6de",
@@ -460,7 +523,9 @@
       "tags": [
         "etf"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "截至 2026 年 2 月 23 日，来自 Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 2 月 23 日星期一 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！评估利基另类 ETF 的逆转潜力 [Quantpedia] 另类 ETF 位于酒吧的一个不寻常的交叉点"
     },
     {
       "id": "965704feec26efb2",
@@ -474,7 +539,9 @@
       "importance_score": 52,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "截至 2026 年 2 月 18 日，来自 Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 2 月 18 日星期三 Quantocracy 最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！将日历策略结合到交易组合中 [Quantpedia] 日历策略在以下情况下通常被视为较弱："
     },
     {
       "id": "8d7bec83fcce08b9",
@@ -490,7 +557,9 @@
       "tags": [
         "crypto"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "埃隆·马斯克 (Elon Musk) 宣布 X Money 发布日期为 4 月份，狗狗币 (Dogecoin) 大幅上涨",
+      "summary_zh": "该支付应用程序在 X 内部的余额和点对点转账方面提供 6% 的收益率，与稳定币产品的相同需求直接竞争。没有提及狗狗币或任何加密功能。"
     },
     {
       "id": "97600d54b08a2c3e",
@@ -506,7 +575,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "DeFi 借贷平台 Aave 在价格故障后遭遇罕见的 2700 万美元清算",
+      "summary_zh": "标记的区块链数据显示过去 24 小时内清算量激增。一些观察人士认为，该事件可能与 Aave 用于确定抵押品价值的风险预言系统中的价格更新有关。"
     },
     {
       "id": "cca43e06637d2d68",
@@ -523,7 +594,9 @@
         "ai",
         "bitcoin"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "每日新闻：Winklevoss 双胞胎将 1.3 亿美元的 BTC 转移给 Gemini，韩国检察官出售扣押的比特币等",
+      "summary_zh": "以下文章改编自 The Block 的时事通讯《The Daily》，该通讯于工作日下午发布。"
     },
     {
       "id": "9373482fb03e9156",
@@ -540,7 +613,27 @@
         "ai",
         "llm"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "改善前沿法学硕士的教学层次",
+      "summary_zh": "IH-Challenge 训练模型以优先考虑可信指令，改善指令层次结构、安全可操纵性以及对即时注入攻击的抵抗力。"
+    },
+    {
+      "id": "5eff004e8342e006",
+      "title": "Codex Security: now in research preview",
+      "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/codex-security-now-in-research-preview",
+      "image_url": null,
+      "published_at": "2026-03-06T10:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Codex 安全性：现在处于研究预览阶段",
+      "summary_zh": "Codex Security 是一款 AI 应用程序安全代理，可分析项目上下文，以更高的置信度和更少的噪音来检测、验证和修补复杂的漏洞。"
     },
     {
       "id": "52757c6bc7953447",
@@ -557,23 +650,9 @@
         "ai",
         "openai"
       ],
-      "region": "global"
-    },
-    {
-      "id": "5eff004e8342e006",
-      "title": "Codex Security: now in research preview",
-      "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/codex-security-now-in-research-preview",
-      "image_url": null,
-      "published_at": "2026-03-06T10:00:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "Descript 如何实现大规模多语言视频配音",
+      "summary_zh": "Descript 使用 OpenAI 模型来扩展多语言视频配音，优化含义和时间的翻译，使配音的语音在不同语言中听起来都很自然。"
     },
     {
       "id": "bec4b64a8e3e0f8e",
@@ -590,7 +669,9 @@
         "ai",
         "openai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "推理模型很难控制自己的思维链，这很好",
+      "summary_zh": "OpenAI 引入了 CoT-Control，并发现推理模型难以控制其思维链，从而增强了可监控性，作为 AI 安全保障。"
     },
     {
       "id": "52443438924e6896",
@@ -607,7 +688,9 @@
         "ai",
         "openai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "GPT-5.4 简介",
+      "summary_zh": "隆重推出 GPT-5.4，这是 OpenAI 最强大、最高效的专业工作前沿模型，具有最先进的编码、计算机使用、工具搜索和 1M 代币上下文。"
     },
     {
       "id": "954351f99ce25208",
@@ -623,7 +706,100 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "PRX 第 3 部分 — 在 24 小时内训练文本到图像模型！",
+      "summary_zh": ""
+    },
+    {
+      "id": "6d7c8602f85e4404",
+      "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+      "summary": "An overview of SpeciesNet, our open-source AI model that is helping people around the world protect and conserve wildlife.",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/specieshero_v2.max-600x600.format-webp.webp",
+      "published_at": "2026-03-06T18:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "我们的开源人工智能模型 SpeciesNet 如何帮助促进野生动物保护",
+      "summary_zh": "SpeciesNet 概述，我们的开源人工智能模型正在帮助世界各地的人们保护野生动物。"
+    },
+    {
+      "id": "800975b400d452ec",
+      "title": "The latest AI news we announced in February",
+      "summary": "Here are Google’s latest AI updates from February 2026",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_mPCqgRv.max-600x600.format-webp.webp",
+      "published_at": "2026-03-05T16:30:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "google"
+      ],
+      "region": "global",
+      "title_zh": "我们二月份公布的最新人工智能新闻",
+      "summary_zh": "以下是 Google 自 2026 年 2 月起最新的 AI 更新"
+    },
+    {
+      "id": "7679f6598df93dd7",
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1_flash_Lite_blog_keyw.max-600x600.format-webp.webp",
+      "published_at": "2026-03-03T16:34:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Gemini 3.1 Flash-Lite：专为大规模智能而打造",
+      "summary_zh": "Gemini 3.1 Flash-Lite 是我们迄今为止速度最快、最具成本效益的 Gemini 3 系列型号。"
+    },
+    {
+      "id": "5990b5374fd9e575",
+      "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
+      "summary": "Google is partnering with the Massachusetts AI Hub to provide every Baystater with no-cost access to Google’s AI training.",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/691A1377_1920x1080.max-600x600.format-webp.webp",
+      "published_at": "2026-02-26T18:55:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "google"
+      ],
+      "region": "global",
+      "title_zh": "谷歌和马萨诸塞州人工智能中心正在为联邦启动一项新的人工智能培训计划。",
+      "summary_zh": "谷歌正在与马萨诸塞州人工智能中心合作，为每个 Baystater 提供免费的谷歌人工智能培训机会。"
+    },
+    {
+      "id": "5c2bcfb15ba35bbf",
+      "title": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
+      "summary": "New alternatives, “understand” and “ask” buttons in Google Translate help you navigate the complexities of natural language.",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_TextTranslate_1920x10.max-600x600.format-webp.webp",
+      "published_at": "2026-02-26T18:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "google"
+      ],
+      "region": "global",
+      "title_zh": "通过 Translate 中全新的人工智能驱动的更新，获取更多背景信息并更深入地理解翻译。",
+      "summary_zh": "谷歌翻译中的新替代方案“理解”和“询问”按钮可帮助您应对自然语言的复杂性。"
     },
     {
       "id": "e9c47518946d88a8",
@@ -637,7 +813,9 @@
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "3 个问题：建立预测模型来表征肿瘤进展",
+      "summary_zh": "助理教授 Matthew Jones 致力于解码遗传、表观遗传和微环境水平上的分子过程，以预测肿瘤如何以及何时进化以抵抗治疗。"
     },
     {
       "id": "1a767d1e50db67fb",
@@ -651,7 +829,9 @@
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "Joseph Paradiso 的传感创新如何架起艺术、医学和生态学的桥梁",
+      "summary_zh": "从早期的运动传感平台到环境监测，这位教授兼媒体艺术与科学项目的负责人将数十年的跨学科研究转化为现实世界的影响。"
     },
     {
       "id": "55734e756e948c7a",
@@ -667,7 +847,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "提高人工智能模型解释其预测的能力",
+      "summary_zh": "一种新方法可以帮助用户知道是否信任模型在医疗保健和自动驾驶等安全关键应用中的预测。"
     },
     {
       "id": "78e916c447fa6572",
@@ -683,7 +865,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "将生成式人工智能与物理学相结合，创造出可在现实世界中使用的个人物品",
+      "summary_zh": "为了帮助生成式 AI 模型创建耐用、真实的配件和装饰，PhysiOpt 系统运行物理模拟并对其 3D 蓝图进行细微调整。"
     },
     {
       "id": "6c04a173a3fab9d9",
@@ -699,7 +883,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "人工智能帮助研究人员了解细胞生物学的全局",
+      "summary_zh": "通过提供细胞的整体信息，人工智能驱动的方法可以帮助科学家更好地了解疾病机制并计划实验。"
     },
     {
       "id": "7628f919fd4d5d51",
@@ -715,7 +901,9 @@
       "tags": [
         "policy"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "通过技术和政策加强海上网络安全",
+      "summary_zh": "Strahinja Janjusevic 将国际视野和美国海军学院教育带入他在麻省理工学院技术与政策项目的研究生研究中。"
     },
     {
       "id": "f6e200aa6f5e22ad",
@@ -731,7 +919,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "油价飙升可能会消除特朗普“大而美丽的法案”带来的好处",
+      "summary_zh": "华尔街的估计表明，如果油价长期保持高位，消费者从新税法中得到的损失将与他们从新税法中获得的收益一样多。"
     },
     {
       "id": "a3def68040596a5e",
@@ -747,7 +937,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "霍尔木兹海峡关闭可能会对另一个能源市场造成比石油更严重的打击",
+      "summary_zh": "全球大约20%的液化天然气流经该海峡。"
     },
     {
       "id": "97b37b7f38934654",
@@ -761,7 +953,9 @@
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "Robinhood 的风险基金为投资者提供投资私营公司的机会，首日股价下跌 11%",
+      "summary_zh": "Robinhood 的 Venture Fund I 周五在纽约证券交易所首次亮相时暴跌 11%，这让投资者对风险投资的兴趣产生了怀疑。"
     },
     {
       "id": "fb354984286880a9",
@@ -775,7 +969,9 @@
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "47 秒内抵押贷款：Better 的新 ChatGPT 应用程序瞄准贷款机构 Rocket 和 UWM",
+      "summary_zh": "创建抵押贷款一直是美国金融业最耗时的环节之一，贷方依赖数十个步骤，而这些步骤可能需要数周时间。"
     },
     {
       "id": "96f77702a5ad6bd0",
@@ -791,7 +987,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "以纽约为首的各州提起诉讼，要求阻止特朗普的最新关税，称其为绕过最高法院的非法目的",
+      "summary_zh": "州总检察长的这一举动是阻止特朗普最初关税的成功努力的一部分，增加了他的关税政策造成的持续不确定性。"
     },
     {
       "id": "c92c51bef76999b3",
@@ -805,7 +1003,9 @@
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "“我只想睡觉”：伊朗的袭击震撼了城市并切断了电力",
+      "summary_zh": "德黑兰和卡拉吉的伊朗人告诉 BBC，在以色列和美国连续 10 天的袭击之后，他们精疲力竭，难以入睡。"
     },
     {
       "id": "d49d9ca759f6f63f",
@@ -821,7 +1021,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "杰弗里·爱泼斯坦有两名重要助手——为什么他们仍然控制着他的金钱和秘密？",
+      "summary_zh": "理查德·卡恩和达伦·因代克管理着爱泼斯坦的遗产——法庭文件指控他们共谋犯罪。"
     },
     {
       "id": "afd52305f1212207",
@@ -835,7 +1037,9 @@
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "瑞士公交车起火 至少六人死亡",
+      "summary_zh": "警方尚不清楚弗里堡州西部火灾的原因，火灾还造成多人受伤。"
     },
     {
       "id": "dc72f740af9f39fe",
@@ -849,7 +1053,9 @@
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "女子在蕾哈娜家中开枪后被控谋杀未遂",
+      "summary_zh": "据英国广播公司美国新闻合作伙伴哥伦比亚广播公司报道，这名女子在袭击发生前在网上发布了有关这位歌手的信息。"
     },
     {
       "id": "f11781bc32af7118",
@@ -863,7 +1069,9 @@
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "获得澳大利亚庇护的伊朗足球代表团成员改变主意",
+      "summary_zh": "部长表示，获得签证的七名女性之一在与队友交谈后改变了决定"
     },
     {
       "id": "a1f732f343f77dee",
@@ -877,7 +1085,9 @@
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "逮捕、指控和争论——失去权力后的穆加贝家族",
+      "summary_zh": "随着贝拉明·穆加贝即将出庭，我们来看看津巴布韦前第一家庭的遭遇。"
     },
     {
       "id": "ee085ce418d345e2",
@@ -891,7 +1101,9 @@
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "佐治亚州选民将在特别选举中选出马乔里·泰勒·格林的继任者",
+      "summary_zh": "格林因与总统不和而辞去国会职务，他的阴影笼罩在一场拥挤的竞选中。"
     },
     {
       "id": "052f56b642aaf165",
@@ -907,21 +1119,25 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "澳大利亚设计师凯蒂·佩里 (Katie Perry) 赢得与凯蒂·佩里 (Katy Perry) 的商标上诉",
+      "summary_zh": "这位美国歌手于 2023 年输掉了官司，后来上诉获胜，但现在法官对她做出了败诉。"
     },
     {
-      "id": "f9aaa91394e3c163",
-      "title": "Large parts of Dresden to be evacuated after 250kg WW2 bomb found",
+      "id": "caf34f47c422a5de",
+      "title": "Large parts of Dresden evacuated after 250kg WW2 bomb found",
       "summary": "The city's biggest ever evacuation comes after the British flying bomb was discovered near a collapsed bridge.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.com/news/articles/c1781gr5n9go?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-03-10T21:36:43.000Z",
+      "published_at": "2026-03-11T09:08:09.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "发现250公斤二战炸弹后德累斯顿大部分地区撤离",
+      "summary_zh": "在一座倒塌的桥梁附近发现英国飞行炸弹后，该市进行了有史以来最大规模的疏散行动。"
     },
     {
       "id": "b4bbd5731e28a010",
@@ -937,7 +1153,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "新最高领导人继承了统治伊朗的庞大、秘密的办公室",
+      "summary_zh": "他的父亲阿亚图拉·阿里·哈梅内伊将传统上的宗教事务办公室变成了一个神秘的国家安全机构。"
     },
     {
       "id": "901633ec28e1330f",
@@ -951,7 +1169,9 @@
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "海湾国家罢工造成的平民死亡几乎都是移民工人",
+      "summary_zh": "自从美国和以色列对伊朗发动袭击以来，石油资源丰富的海湾国家至少有12名平民丧生。除一名外，其他人都是外国人。"
     },
     {
       "id": "024db52d50e6c188",
@@ -965,7 +1185,9 @@
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "即将成为尼泊尔下一任总理的说唱歌手巴伦德拉·沙阿是谁？",
+      "summary_zh": "巴伦德拉·沙阿 (Balendra Shah) 的政党在尼泊尔 Z 世代革命之后的选举中以压倒性优势获胜。他的风格是好斗的。"
     },
     {
       "id": "4df6c71f891c334d",
@@ -981,7 +1203,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "海地总统被杀案已提交美国法院审理。要知道什么。",
+      "summary_zh": "南佛罗里达州四名男子被指控密谋于 2021 年刺杀总统若弗内尔·莫伊兹。他的死使海地陷入了持续至今的混乱。"
     },
     {
       "id": "9947cb94d0063441",
@@ -997,7 +1221,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "报告发现，削减成本导致韩国机场出现致命围墙",
+      "summary_zh": "混凝土跑道护栏在导致 179 人死亡的灾难中发挥了关键作用。审计显示，官员们克扣了建筑费，然后伪造了记录。"
     },
     {
       "id": "1fad29fe9c167cad",
@@ -1011,7 +1237,9 @@
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "警方称美国驻多伦多领事馆枪击事件是国家安全事件",
+      "summary_zh": "警方正在寻找两名男子，他们均用一把手枪向大楼开枪，然后驾驶一辆白色SUV逃跑。"
     },
     {
       "id": "08326ec457747662",
@@ -1025,7 +1253,9 @@
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "被困在炸弹和目中无人的统治者之间的伊朗人的恐惧和希望",
+      "summary_zh": "面对根深蒂固的制度，许多伊朗人感到无助，而一些人则因美国和以色列的猛烈轰炸而变得越来越愤怒。"
     },
     {
       "id": "412133ccf328523d",
@@ -1041,7 +1271,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "与泽连斯基同行，饱经风霜、疲惫不堪、仍在战斗",
+      "summary_zh": "乌克兰领导人弗拉基米尔·泽伦斯基向东访问了试图抵御俄罗斯袭击的前线部队，并邀请《纽约时报》记者与他同行。"
     },
     {
       "id": "8c84aa4ee6ff23ff",
@@ -1055,7 +1287,9 @@
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "截至 2026 年 3 月 5 日，来自 Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 3 月 5 日星期四 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！新贡献者：在 AWS 上扩展 Python 财务模型 [Quantt] 如何从运行 150 sc 中获取 Python 财务模型"
     },
     {
       "id": "7d1e2cd36164fce0",
@@ -1069,7 +1303,9 @@
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "截至 2026 年 2 月 26 日，来自 Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 2 月 26 日星期四 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！国际股票制度中的系统配置 [Quantpedia] 这项研究探讨了关键的定量投资"
     },
     {
       "id": "2eef853b251e0fcd",
@@ -1085,7 +1321,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "截至 2026 年 2 月 22 日，来自 Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 2 月 22 日星期日 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ Kronos 和预训练市场模型的兴起 [Jonathan Kinlay] 量化金融行业花费了数十年的时间构建 SP"
     },
     {
       "id": "217ddf60888d7d16",
@@ -1101,7 +1339,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "Coinbase 支持的人工智能支付协议希望解决小额支付问题，但需求尚未出现",
+      "summary_zh": "代理商务有希望，但数据显示 x402 仍处于试验阶段"
     },
     {
       "id": "1a799a7bb2d659cc",
@@ -1117,7 +1357,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "随着亚太地区支付量翻倍，瑞波币将获得澳大利亚金融服务牌照",
+      "summary_zh": "该公司计划通过收购 BC Payments Australia 来获得该许可证，从而将其监管范围扩大到全球超过 75 个许可证。"
     },
     {
       "id": "69607392faabf8c2",
@@ -1131,7 +1373,9 @@
       "importance_score": 44,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "随着价格保持区间波动，XRP Ledger 交易量跃升至 270 万笔",
+      "summary_zh": "在 1.44 美元附近多次遭到拒绝后，交易员正在关注 1.34 美元附近的支撑位是否能守住。"
     },
     {
       "id": "08566454939e32c8",
@@ -1145,7 +1389,9 @@
       "importance_score": 44,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "Ripple 收购 BC Payments 以获取澳大利亚牌照",
+      "summary_zh": "声明称，该许可证将允许 Ripple 在该地区提供端到端支付平台。"
     },
     {
       "id": "5445b47522b9bfcf",
@@ -1161,7 +1407,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "Aave 遭遇预言机故障，引发 2600 万美元的不公平 wstETH 清算",
+      "summary_zh": "该问题源于快照比率和用于风险预言机的快照时间戳之间的不一致。"
     },
     {
       "id": "c27429ef4594afd6",
@@ -1175,7 +1423,9 @@
       "importance_score": 44,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "法官在卡尔希案中表示，“历史没有证据表明”国会有意先行制定赌博法",
+      "summary_zh": "俄亥俄州一名法官驳回了卡尔希在预测市场平台起诉州博彩当局的案件中提出的禁令动议。"
     },
     {
       "id": "d8ea799c184d69b6",
@@ -1191,7 +1441,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "RippleX 高级副总裁 Aviva Investors 计划如何在 XRP Ledger 上对其资金进行代币化",
+      "summary_zh": "RippleX 高级副总裁 Markus Infanger 解释了代币化基金、机构 DeFi 和区块链基础设施如何改变全球金融市场。"
     },
     {
       "id": "ea93ce1e642b5434",
@@ -1205,7 +1457,9 @@
       "importance_score": 40,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "在 ChatGPT 中学习数学和科学的新方法",
+      "summary_zh": "ChatGPT 引入了数学和科学的交互式视觉解释，帮助学生实时探索公式、变量和概念。"
     },
     {
       "id": "d68fc6d194661321",
@@ -1222,7 +1476,9 @@
         "ai",
         "openai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "OpenAI 收购 Promptfoo",
+      "summary_zh": "OpenAI 正在收购 Promptfoo，这是一个人工智能安全平台，可帮助企业在开发过程中识别和修复人工智能系统中的漏洞。"
     },
     {
       "id": "3c458bd85f78a735",
@@ -1236,7 +1492,9 @@
       "importance_score": 40,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "GPT-5.4思维系统卡",
+      "summary_zh": ""
     },
     {
       "id": "929b638bbeb596d9",
@@ -1253,7 +1511,9 @@
         "ai",
         "openai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "确保人工智能在教育中的应用带来机遇",
+      "summary_zh": "OpenAI 分享新的工具、认证和测量资源，帮助学校和大学缩小人工智能能力差距并扩大机会。"
     },
     {
       "id": "db06ca56ce9b4249",
@@ -1269,7 +1529,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "NVIDIA 如何为 AI 构建开放数据",
+      "summary_zh": ""
     },
     {
       "id": "c12e33a7c8501718",
@@ -1283,7 +1545,9 @@
       "importance_score": 40,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "Hugging Face Hub 上引入存储桶",
+      "summary_zh": ""
     },
     {
       "id": "b97bdf91a9d28811",
@@ -1297,7 +1561,9 @@
       "importance_score": 40,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "保持代币流动：来自 16 个开源 RL 库的经验教训",
+      "summary_zh": ""
     },
     {
       "id": "968ac13feccbdf9a",
@@ -1311,7 +1577,9 @@
       "importance_score": 40,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "Granite 4.0 1B 语音：紧凑、多语言、专为边缘而打造",
+      "summary_zh": ""
     },
     {
       "id": "5ccee32b3e4c187b",
@@ -1327,7 +1595,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "Ulysses 序列并行性：使用百万令牌上下文进行训练",
+      "summary_zh": ""
     },
     {
       "id": "a8c7c49c4618928c",
@@ -1341,7 +1611,9 @@
       "importance_score": 40,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "乐机器人 v0.5.0：扩展各个维度",
+      "summary_zh": ""
     },
     {
       "id": "fe4dc02770f0fd0e",
@@ -1357,7 +1629,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "将机器人人工智能引入嵌入式平台：数据集记录、VLA 微调和设备上优化",
+      "summary_zh": ""
     },
     {
       "id": "b41c0cce47e46f6b",
@@ -1371,7 +1645,9 @@
       "importance_score": 40,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "引入模块化扩散器 - 用于扩散管道的可组合构建块",
+      "summary_zh": ""
     },
     {
       "id": "1b0dcb36fe1f9fae",
@@ -1385,7 +1661,81 @@
       "importance_score": 40,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "变形金刚专家 (MoE) 的混合体",
+      "summary_zh": ""
+    },
+    {
+      "id": "81b7a64050dfa3c8",
+      "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+      "summary": "Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — just describe …",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blo.max-600x600.format-webp.webp",
+      "published_at": "2026-03-10T13:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "google"
+      ],
+      "region": "global",
+      "title_zh": "Google Sheets 中的 Gemini 刚刚实现了最先进的性能。",
+      "summary_zh": "今天，我们宣布了 Gemini in Sheets 的新测试版功能，可帮助您创建、组织和编辑整个工作表，从基本任务到复杂的数据分析 - 只需描述......"
+    },
+    {
+      "id": "f5290f0c99e243b2",
+      "title": "Ask a Techspert: How does AI understand my visual searches?",
+      "summary": "Learn more about AI Mode in Search’s query fan-out method for visual search.",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fan_out_query_hero.max-600x600.format-webp.webp",
+      "published_at": "2026-03-05T18:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "询问技术专家：人工智能如何理解我的视觉搜索？",
+      "summary_zh": "详细了解搜索中用于视觉搜索的 AI 模式的查询扇出方法。"
+    },
+    {
+      "id": "9c14e562cb6e3df9",
+      "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+      "summary": "Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools.",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMMode_Social.max-600x600.format-webp.webp",
+      "published_at": "2026-03-04T17:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "在 AI 模式下使用 Canvas 即可在搜索中完成工作并将您的想法变为现实。",
+      "summary_zh": "AI 模式下的 Canvas 现已可供美国所有人使用，此外，它现在还可以帮助您起草文档或构建交互式工具。"
+    },
+    {
+      "id": "f3a9d00bfb482825",
+      "title": "Create new worlds in Project Genie with these 4 tips",
+      "summary": "Learn more about Google DeepMind’s Project Genie and how to write prompts to create your own worlds.",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_2.max-600x600.format-webp.webp",
+      "published_at": "2026-03-03T17:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "google"
+      ],
+      "region": "global",
+      "title_zh": "利用这 4 个技巧在 Project Genie 中创建新世界",
+      "summary_zh": "详细了解 Google DeepMind 的 Project Genie 以及如何编写提示来创建您自己的世界。"
     },
     {
       "id": "afc4a6e47f42a3b3",
@@ -1399,7 +1749,9 @@
       "importance_score": 40,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "规划复杂视觉任务的更好方法",
+      "summary_zh": "新的混合系统可以帮助机器人在不断变化的环境中导航或提高多机器人装配团队的效率。"
     },
     {
       "id": "adb6559bdb012788",
@@ -1413,7 +1765,9 @@
       "importance_score": 40,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "“电子表格ChatGPT”有助于更快地解决困难的工程挑战",
+      "summary_zh": "该方法可以帮助工程师解决极其复杂的设计问题，从电网优化到车辆设计。"
     },
     {
       "id": "d5f67e4110099413",
@@ -1427,7 +1781,9 @@
       "importance_score": 40,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "特色视频：水下机器人编码",
+      "summary_zh": "林肯实验室实习生 Ivy Mahncke 开发并测试了帮助人类潜水员和机器人在水下导航的算法。"
     },
     {
       "id": "33ad563698d9941b",
@@ -1441,7 +1797,9 @@
       "importance_score": 40,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "截至 2026 年 3 月 8 日，来自 Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 3 月 8 日星期日 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！用于投资组合优化的强化学习：从理论到实施 [Jonathan Kinlay] 寻求最佳投资组合"
     },
     {
       "id": "238a346381043fed",
@@ -1457,7 +1815,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "截至 2026 年 3 月 2 日，来自 Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 3 月 2 日星期一 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！我们配对交易不满的冬天：问题、限制、挫折 [机器人财富] 在上一篇文章中，我们构建了"
     },
     {
       "id": "f4e8df1e9bffff9e",
@@ -1473,7 +1833,9 @@
       "tags": [
         "ai"
       ],
-      "region": "global"
+      "region": "global",
+      "title_zh": "截至 2026 年 2 月 20 日，来自 Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 2 月 20 日星期五 Quantocracy 最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！点球成金：使用非常规指标寻找被低估的货币对 [机器人财富] 上次我们确定统计套利是"
     },
     {
       "id": "4ac63f7a3e0b986e",
@@ -1487,7 +1849,9 @@
       "importance_score": 40,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "截至 2026 年 2 月 13 日，来自 Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 2 月 13 日星期五 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！为什么债券仍然属于：重新思考现代投资组合中的固定收益 [回报堆积] 近年来，债券市场已经发展"
     },
     {
       "id": "9f67e9bdc56a404f",
@@ -1501,7 +1865,9 @@
       "importance_score": 40,
       "sentiment": 0,
       "tags": [],
-      "region": "global"
+      "region": "global",
+      "title_zh": "截至 2026 年 2 月 8 日，来自 Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 2 月 8 日星期日 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！跨市场周期的务实资产配置 [Quantpedia] 务实资产配置（PAA）是一种系统的、多资产的配置"
     }
   ]
 }

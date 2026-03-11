@@ -78,18 +78,20 @@ function levelClass(score) {
 function cardTemplate(x) {
   const tags = (x.tags || []).slice(0, 5).map((v) => `<span class="badge">#${v}</span>`).join(' ');
   const cover = x.image_url || FALLBACK_COVER[x.category] || FALLBACK_COVER.WORLD;
+  const title = lang === 'zh' ? (x.title_zh || x.title) : x.title;
+  const summary = lang === 'zh' ? (x.summary_zh || x.summary) : x.summary;
   return `
     <article class="item">
-      <img class="cover" loading="lazy" src="${cover}" alt="${x.title}" referrerpolicy="no-referrer" />
+      <img class="cover" loading="lazy" src="${cover}" alt="${title}" referrerpolicy="no-referrer" />
       <div class="item-body">
-        <h3><a href="${x.source_url}" target="_blank" rel="noopener noreferrer">${x.title}</a></h3>
+        <h3><a href="${x.source_url}" target="_blank" rel="noopener noreferrer">${title}</a></h3>
         <div class="meta-row">
           <span class="badge">${t().cats[x.category] || x.category}</span>
           <span>${x.source_name}</span>
           <span>${t().published}: ${fmtTime(x.published_at)}</span>
           <span class="badge ${levelClass(x.importance_score)}">${t().importance}: ${x.importance_score}</span>
         </div>
-        <p>${x.summary || ''}</p>
+        <p>${summary || ''}</p>
         <div class="meta-row">${tags}</div>
       </div>
     </article>
@@ -152,7 +154,7 @@ function applyFilters() {
   const keyword = el('search').value.trim().toLowerCase();
   let filtered = cachedItems.filter((x) => {
     const hitCat = currentCategory === 'ALL' || x.category === currentCategory;
-    const blob = `${x.title} ${x.summary} ${x.source_name} ${(x.tags || []).join(' ')}`.toLowerCase();
+    const blob = `${x.title} ${x.title_zh || ''} ${x.summary} ${x.summary_zh || ''} ${x.source_name} ${(x.tags || []).join(' ')}`.toLowerCase();
     return hitCat && (!keyword || blob.includes(keyword));
   });
 
@@ -165,7 +167,7 @@ function applyFilters() {
 }
 
 function renderMeta() {
-  el('meta').textContent = `${t().updated}：${fmtTime(reportData.generated_at)} | ${t().timezone}: UTC | ${t().sources}: ${reportData.meta?.sources_count || 0} | ${t().failed}: ${reportData.meta?.feed_failed || 0}`;
+  el('meta').textContent = `${t().updated}：${fmtTime(reportData.generated_at)} | ${t().timezone}: UTC | ${t().sources}: ${reportData.meta?.sources_count || 0} | ${t().failed}: ${reportData.meta?.feed_failed || 0} | 中文翻译: ${reportData.meta?.translated_items || 0}`;
 }
 
 async function main() {
