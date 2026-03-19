@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T18:01:37.784Z",
+  "generated_at": "2026-03-19T18:41:10.767Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】尽管油价飙升，美联储仍预计今年降息一次；【FINANCE】美联储投票维持利率稳定，指出伊朗战争的“不确定”影响；【FINANCE】通胀报告发布后，美联储下一次降息的预期被推迟。",
   "meta": {
     "sources_count": 11,
@@ -155,7 +155,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil",
       "image_url": null,
-      "published_at": "2026-03-19T17:46:32.000Z",
+      "published_at": "2026-03-19T18:38:11.000Z",
       "importance_score": 64,
       "sentiment": 0,
       "tags": [
@@ -167,8 +167,8 @@
       "summary_zh": "特朗普总统在椭圆形办公室发表讲话表示，他将采取一切必要措施降低油价，尽管海湾地区能源基地的新罢工将油价推至新高。"
     },
     {
-      "id": "ad5bd6d129c54c8d",
-      "title": "Bitcoin holds $69,000 as gold tumbles, oil spikes, but analyst says stay on sidelines",
+      "id": "9a17e5aa24a61d5b",
+      "title": "Bitcoin holds $69,000 as gold tumbles and oil spikes, but one analyst says stay on sidelines",
       "summary": "While bitcoin has shown relative strength against gold since the war in Iran broke out, investors are better off holding off \"dry powder\" while prices swing wildly on headlines, said Wintermute's Bryan Tan.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
@@ -183,7 +183,7 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "随着黄金暴跌、油价飙升，比特币维持在 69,000 美元，但分析师表示保持观望",
+      "title_zh": "随着黄金暴跌和油价飙升，比特币保持在 69,000 美元，但一位分析师表示保持观望",
       "summary_zh": "Wintermute 的 Bryan Tan 表示，虽然自伊朗战争爆发以来，比特币相对于黄金表现出相对强势，但投资者最好不要在价格因头条新闻而大幅波动时持有“干火药”。"
     },
     {
@@ -512,32 +512,14 @@
       "summary_zh": "Amundi 在 Chainlink 的支持下在以太坊和 Stellar 上推出了 1 亿美元的 Spiko Amundi 隔夜掉期基金。"
     },
     {
-      "id": "8ee8f2295540ea88",
-      "title": "Crypto hacks average $25 million as largest exploits skew industry losses: Immunefi",
-      "summary": "Crypto hacks have become more uneven, with smaller typical losses but increasingly massive exploits that often kneecap projects.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/post/394147/crypto-hacks-average-25-million-largest-exploits-skew-industry-losses-immunefi?utm_source=rss&utm_medium=rss",
-      "image_url": null,
-      "published_at": "2026-03-19T13:00:00.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "加密货币黑客平均损失 2500 万美元，最大的漏洞造成行业损失：Immunefi",
-      "summary_zh": "加密货币黑客攻击变得更加不平衡，典型损失较小，但攻击规模却越来越大，常常使项目陷入瘫痪。"
-    },
-    {
-      "id": "ec233e594f34462e",
+      "id": "dea0d9094dfb3031",
       "title": "Trending Crypto: Neiro (NEIRO)",
-      "summary": "CoinGecko trending rank #677.",
+      "summary": "CoinGecko trending rank #679.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/neiro-3",
       "image_url": "https://coin-images.coingecko.com/coins/images/39488/large/neiro.jpg?1731449567",
-      "published_at": "2026-03-19T18:01:09.446Z",
+      "published_at": "2026-03-19T18:40:54.421Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -547,17 +529,17 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：Neiro (NEIRO)",
-      "summary_zh": "CoinGecko 趋势排名#677。"
+      "summary_zh": "CoinGecko 趋势排名#679。"
     },
     {
-      "id": "e6e51f75c7a7bb7e",
+      "id": "624fde755027f182",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-03-19T18:01:09.446Z",
+      "published_at": "2026-03-19T18:40:54.421Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -570,54 +552,14 @@
       "summary_zh": "CoinGecko 趋势排名第一。"
     },
     {
-      "id": "b45ac217fdd3783b",
-      "title": "Trending Crypto: PAX Gold (PAXG)",
-      "summary": "CoinGecko trending rank #41.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pax-gold",
-      "image_url": "https://coin-images.coingecko.com/coins/images/9519/large/paxgold.png?1696509604",
-      "published_at": "2026-03-19T18:01:09.446Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "paxg"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：PAX Gold (PAXG)",
-      "summary_zh": "CoinGecko 趋势排名第 41。"
-    },
-    {
-      "id": "8447018f31f46b38",
-      "title": "Trending Crypto: Katana (KAT)",
-      "summary": "CoinGecko trending rank #766.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/katana-network-token",
-      "image_url": "https://coin-images.coingecko.com/coins/images/70225/large/katana-social-icon.png?1761121098",
-      "published_at": "2026-03-19T18:01:09.446Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "kat"
-      ],
-      "region": "global",
-      "title_zh": "热门加密货币：Katana (KAT)",
-      "summary_zh": "CoinGecko 趋势排名#766。"
-    },
-    {
-      "id": "8fe0a19c2755cc07",
+      "id": "b6d709aeb47af313",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
       "summary": "CoinGecko trending rank #14.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
       "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-03-19T18:01:09.446Z",
+      "published_at": "2026-03-19T18:40:54.421Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -628,6 +570,46 @@
       "region": "global",
       "title_zh": "加密货币趋势：Hyperliquid (HYPE)",
       "summary_zh": "CoinGecko 趋势排名第 14。"
+    },
+    {
+      "id": "eb1671ae83aefd15",
+      "title": "Trending Crypto: Katana (KAT)",
+      "summary": "CoinGecko trending rank #765.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/katana-network-token",
+      "image_url": "https://coin-images.coingecko.com/coins/images/70225/large/katana-social-icon.png?1761121098",
+      "published_at": "2026-03-19T18:40:54.421Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "kat"
+      ],
+      "region": "global",
+      "title_zh": "热门加密货币：Katana (KAT)",
+      "summary_zh": "CoinGecko 趋势排名#765。"
+    },
+    {
+      "id": "ce8ba643e20a6f0a",
+      "title": "Trending Crypto: Bittensor (TAO)",
+      "summary": "CoinGecko trending rank #40.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/bittensor",
+      "image_url": "https://coin-images.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg?1696527447",
+      "published_at": "2026-03-19T18:40:54.421Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "tao"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：Bittensor (TAO)",
+      "summary_zh": "CoinGecko 趋势排名第 40。"
     },
     {
       "id": "402a831ac314aa82",
@@ -793,6 +775,25 @@
       "region": "global",
       "title_zh": "CoinDesk 20 业绩更新：NEAR 协议 (NEAR) 下跌 3.3%，领先指数走低",
       "summary_zh": "Hedera (HBAR) 较周三下跌 2.9%，表现也不佳。"
+    },
+    {
+      "id": "5446c929e61bdfeb",
+      "title": "The Daily: Bitcoin OG sells $72M in BTC as another whale scoops $111M in ETH, XRP treasury firm Evernorth files to go public, and more",
+      "summary": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/post/394386/the-daily-bitcoin-og-sells-72m-in-btc-as-another-whale-scoops-111m-in-eth-xrp-treasury-firm-evernorth-files-to-go-public-and-more?utm_source=rss&utm_medium=rss",
+      "image_url": null,
+      "published_at": "2026-03-19T18:01:18.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "每日新闻：Bitcoin OG 出售了 7200 万美元的 BTC，另一只鲸鱼买入了 1.11 亿美元的 ETH，XRP 财务公司 Evernorth 申请上市，等等",
+      "summary_zh": "以下文章改编自 The Block 的时事通讯《The Daily》，该通讯于工作日下午发布。"
     },
     {
       "id": "74df1a29425d7e32",
@@ -1074,22 +1075,22 @@
       "summary_zh": "这位演员同意与三名指控他性侵犯的男子达成庭外和解。"
     },
     {
-      "id": "1c69c43a2fddb764",
-      "title": "Japan PM to hold 'difficult' talks with Trump as Iran conflict looms large",
-      "summary": "It comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz.",
+      "id": "9d9949caf7ebf1a9",
+      "title": "Iran conflict looms large over Trump's meeting with Japan PM",
+      "summary": "The meeting with Sanae Takaichi comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-03-19T16:16:05.000Z",
+      "published_at": "2026-03-19T18:06:37.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "由于伊朗冲突日益严重，日本首相将与特朗普举行“艰难”会谈",
-      "summary_zh": "几天前，特朗普批评日本没有回应他在霍尔木兹海峡的援助要求。"
+      "title_zh": "特朗普与日本首相会面，伊朗冲突愈演愈烈",
+      "summary_zh": "在与高市早苗会面几天前，特朗普批评日本没有回应他在霍尔木兹海峡的援助要求。"
     },
     {
       "id": "8b6087fc9648c113",
@@ -1208,6 +1209,24 @@
       "summary_zh": "这是截至 2026 年 2 月 22 日星期日 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ Kronos 和预训练市场模型的兴起 [Jonathan Kinlay] 量化金融行业花费了数十年的时间构建 SP"
     },
     {
+      "id": "96669cd7a9555261",
+      "title": "Market maker IMC Trading hires Alex Casimo as chief commercial officer for its crypto business",
+      "summary": "Casimo will be responsible for growing the Dutch market maker's institutional crypto offering.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/03/19/market-maker-imc-trading-hires-alex-casimo-as-chief-commercial-officer-for-its-crypto-business",
+      "image_url": null,
+      "published_at": "2026-03-19T18:34:40.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "做市商 IMC Trading 聘请 Alex Casimo 担任其加密货币业务首席商务官",
+      "summary_zh": "Casimo 将负责发展这家荷兰做市商的机构加密货币产品。"
+    },
+    {
       "id": "22bd26f77087971d",
       "title": "As crypto trading platforms race to deploy AI agents, here's what a Nasdaq executive is seeing",
       "summary": "The exchange is expanding AI use across surveillance, compliance and trading as machines take over decision-making, leaving humans as the final checkpoint.",
@@ -1241,22 +1260,6 @@
       "region": "global",
       "title_zh": "美国职业棒球大联盟与 CFTC、Polymarket 签署预测市场协议",
       "summary_zh": "美国衍生品监管机构与职业体育组织之间的安排是监管体育赛事合同的首例。"
-    },
-    {
-      "id": "c9dd59ae7a52cbd8",
-      "title": "Browser maker Opera seeks 160 million CELO stake  to become key network stakeholder",
-      "summary": "The proposed allocation represents a major share of Celo's circulating supply and 16% of its maximum supply.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/03/19/browser-maker-opera-seeks-160-million-celo-stake-to-become-key-network-stakeholder",
-      "image_url": null,
-      "published_at": "2026-03-19T12:52:26.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "浏览器制造商 Opera 寻求 1.6 亿 CELO 股份，成为主要网络利益相关者",
-      "summary_zh": "拟议的分配占 Celo 流通供应量的主要份额及其最大供应量的 16%。"
     },
     {
       "id": "d60d75cb7b89ce1e",
