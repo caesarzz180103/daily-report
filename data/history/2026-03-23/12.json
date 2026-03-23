@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T12:08:55.755Z",
+  "generated_at": "2026-03-23T12:40:07.932Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】尽管油价飙升，美联储仍预计今年降息一次；【FINANCE】美联储投票维持利率稳定，指出伊朗战争的“不确定”影响；【FINANCE】美联储理事沃勒敦促目前保持谨慎，称今年晚些时候可能降息。",
   "meta": {
     "sources_count": 11,
@@ -134,14 +134,32 @@
       "summary_zh": "一封被认为是被监禁的 FTX 创始人的信件通过联邦快递寄出，并错误地识别了他所在的监狱，促使检察官质疑其真实性"
     },
     {
+      "id": "d49416e9e3c19575",
+      "title": "Sam Bankman-Fried retrial letter under scrutiny over FedEx shipment, address discrepancies",
+      "summary": "Sam Bankman-Fried’s retrial letter was flagged by prosecutors over its FedEx shipment, return address mislabeling, and typed “/s/” signature.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/post/394636/sam-bankman-fried-retrial-letter-under-scrutiny-over-fedex-shipment-address-discrepancies?utm_source=rss&utm_medium=rss",
+      "image_url": null,
+      "published_at": "2026-03-23T12:33:08.000Z",
+      "importance_score": 68,
+      "sentiment": 0,
+      "tags": [
+        "fed"
+      ],
+      "region": "global",
+      "title_zh": "萨姆·班克曼-弗里德 (Sam Bankman-Fried) 重审信因联邦快递发货、地址差异而受到审查",
+      "summary_zh": "萨姆·班克曼-弗里德的重审信因联邦快递运送、回邮地址标签错误以及键入“/s/”签名而被检察官标记。"
+    },
+    {
       "id": "25836aefbd4437d3",
       "title": "Iran War Live Updates: Trump Says U.S. and Iran Held ‘Very Good’ Talks on Ending Conflict",
-      "summary": "President Trump said the two countries had “productive conversations regarding a complete and total resolution of our hostilities in the Middle East.” Iran did not immediately comment.",
+      "summary": "President Trump said he would postpone a deadline for striking Iran’s energy infrastructure after “productive” talks to resolve hostilities. Iranian state media said he was “backing down” after threats of retaliation.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump",
       "image_url": null,
-      "published_at": "2026-03-23T11:56:20.000Z",
+      "published_at": "2026-03-23T12:36:56.000Z",
       "importance_score": 64,
       "sentiment": 0,
       "tags": [
@@ -150,7 +168,26 @@
       ],
       "region": "global",
       "title_zh": "伊朗战争实时更新：特朗普称美国和伊朗就结束冲突举行了“非常好的”会谈",
-      "summary_zh": "特朗普总统表示，两国“就彻底解决我们在中东的敌对行动进行了富有成效的对话”。伊朗没有立即发表评论。"
+      "summary_zh": "特朗普总统表示，在解决敌对行动的“富有成效”的谈判之后，他将推迟袭击伊朗能源基础设施的最后期限。伊朗官方媒体称，在遭到报复威胁后，他正在“让步”。"
+    },
+    {
+      "id": "ef78dfc00845509c",
+      "title": "Strategy returns to 'small' bitcoin purchases, adding $76.6 million in BTC last week",
+      "summary": "Led by Executive Chairman Michael Saylor, Strategy acquired 1,031 bitcoin, bringing holdings to 762,099 coins.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/03/23/strategy-returns-to-small-bitcoin-purchases-adding-usd76-6-million-in-btc-last-week",
+      "image_url": null,
+      "published_at": "2026-03-23T12:22:02.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "策略回归“小额”比特币购买，上周增加了 7660 万美元的比特币",
+      "summary_zh": "在执行主席 Michael Saylor 的领导下，Strategy 收购了 1,031 个比特币，使持有量达到 762,099 个比特币。"
     },
     {
       "id": "c3aefccfc0e1c1dc",
@@ -393,21 +430,21 @@
       "summary_zh": "这架飞机从蒙特利尔抵达，与一辆正在处理另一起事件的消防车相撞。"
     },
     {
-      "id": "2631bc2619f17473",
-      "title": "Oil prices plunge after Trump says talks have been held to end war",
+      "id": "95d22e2c54c417a6",
+      "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
       "summary": "Energy prices fall and stock markets rebound after the US president says \"very good and productive\" talks have been held.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-03-23T11:54:14.000Z",
+      "published_at": "2026-03-23T12:27:28.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
         "war"
       ],
       "region": "global",
-      "title_zh": "特朗普称已举行结束战争谈判后油价暴跌",
+      "title_zh": "特朗普称已举行结束战争谈判后油价下跌，股市反弹",
       "summary_zh": "在美国总统表示举行了“非常良好且富有成效”的会谈后，能源价格下跌，股市反弹。"
     },
     {
@@ -551,14 +588,14 @@
       "summary_zh": "这些变化意味着加密 ETF 期权现在在美国各大交易所受到与其他基于商品的 ETF 期权相同的待遇。"
     },
     {
-      "id": "2c0c92bc6e2c2645",
+      "id": "20972182a84e9426",
       "title": "Trending Crypto: Siren (SIREN)",
-      "summary": "CoinGecko trending rank #45.",
+      "summary": "CoinGecko trending rank #48.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/siren-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/54479/large/siren.png?1739960056",
-      "published_at": "2026-03-23T12:08:47.748Z",
+      "published_at": "2026-03-23T12:39:46.145Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -568,17 +605,17 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：海妖 (SIREN)",
-      "summary_zh": "CoinGecko 趋势排名第 45 位。"
+      "summary_zh": "CoinGecko 趋势排名第 48。"
     },
     {
-      "id": "e7463bf0e30a56cb",
+      "id": "f465d19c70d6c89b",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-03-23T12:08:47.748Z",
+      "published_at": "2026-03-23T12:39:46.145Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -591,14 +628,34 @@
       "summary_zh": "CoinGecko 趋势排名第一。"
     },
     {
-      "id": "5f23940295831b41",
+      "id": "9ceff61dc591b94d",
+      "title": "Trending Crypto: Tether Gold (XAUT)",
+      "summary": "CoinGecko trending rank #37.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/tether-gold",
+      "image_url": "https://coin-images.coingecko.com/coins/images/10481/large/Tether_Gold.png?1696510471",
+      "published_at": "2026-03-23T12:39:46.145Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "xaut"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：Tether Gold (XAUT)",
+      "summary_zh": "CoinGecko 趋势排名第 37 名。"
+    },
+    {
+      "id": "159a3864d3737ce2",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
       "summary": "CoinGecko trending rank #15.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
       "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-03-23T12:08:47.748Z",
+      "published_at": "2026-03-23T12:39:46.145Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -611,14 +668,14 @@
       "summary_zh": "CoinGecko 趋势排名第 15。"
     },
     {
-      "id": "f4ab5aee06e3b106",
+      "id": "05747843c46d8256",
       "title": "Trending Crypto: Bittensor (TAO)",
       "summary": "CoinGecko trending rank #36.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bittensor",
       "image_url": "https://coin-images.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg?1696527447",
-      "published_at": "2026-03-23T12:08:47.748Z",
+      "published_at": "2026-03-23T12:39:46.145Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -629,26 +686,6 @@
       "region": "global",
       "title_zh": "加密货币趋势：Bittensor (TAO)",
       "summary_zh": "CoinGecko 趋势排名第 36 位。"
-    },
-    {
-      "id": "64e6e36f96a6410e",
-      "title": "Trending Crypto: Tether Gold (XAUT)",
-      "summary": "CoinGecko trending rank #37.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/tether-gold",
-      "image_url": "https://coin-images.coingecko.com/coins/images/10481/large/Tether_Gold.png?1696510471",
-      "published_at": "2026-03-23T12:08:47.748Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "xaut"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：Tether Gold (XAUT)",
-      "summary_zh": "CoinGecko 趋势排名第 37 名。"
     },
     {
       "id": "402a831ac314aa82",
@@ -761,6 +798,24 @@
       "region": "global",
       "title_zh": "截至 2026 年 2 月 23 日，来自 Quantocracy 的最新量化链接",
       "summary_zh": "这是截至 2026 年 2 月 23 日星期一 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！评估利基另类 ETF 的逆转潜力 [Quantpedia] 另类 ETF 位于酒吧的一个不寻常的交叉点"
+    },
+    {
+      "id": "b1d47b08af7e0878",
+      "title": "H100 eyes Europe’s largest bitcoin treasury with 3,500 BTC in proposed acquistions",
+      "summary": "Proposed bitcoin-for-bitcoin acquisition of Moonshot and Never Say Die would triple the company's holdings and expand institutional scale.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/03/23/h100-eyes-europe-s-largest-bitcoin-treasury-with-3-500-btc-in-proposed-acquistions",
+      "image_url": null,
+      "published_at": "2026-03-23T12:35:19.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "H100 拟收购欧洲最大比特币金库 3,500 比特币",
+      "summary_zh": "拟议以比特币换比特币收购 Moonshot 和 Never Say Die 将使该公司的持股量增加两倍，并扩大机构规模。"
     },
     {
       "id": "b3bf448053d814c4",
@@ -995,21 +1050,21 @@
       "summary_zh": "不遵守规定的人可被判处最高一年的监禁和最高 100,000 港元（12,700 美元；9,600 英镑）的罚款。"
     },
     {
-      "id": "45d75ee64ea0032b",
-      "title": "Kenyan police investigate alleged disappearance of ex-foreign minister",
-      "summary": "The reported disappearance of Raphael Tuju has led to claims he may have been abducted.",
+      "id": "fa179d430399ff97",
+      "title": "Kenyan ex-foreign minister resurfaces after abduction fears",
+      "summary": "The reported disappearance of Raphael Tuju had led to claims he may have been abducted.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.com/news/articles/c3ex8vglvkxo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-03-23T09:29:27.000Z",
+      "published_at": "2026-03-23T12:17:19.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "肯尼亚警方调查前外交部长涉嫌失踪事件",
+      "title_zh": "肯尼亚前外交部长在担心绑架后重新露面",
       "summary_zh": "据报道拉斐尔·图朱失踪，有人声称他可能被绑架了。"
     },
     {
@@ -1104,7 +1159,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/03/23/world/asia/bts-concert-seoul-turnout-hybe-shares.html",
       "image_url": null,
-      "published_at": "2026-03-23T10:01:07.000Z",
+      "published_at": "2026-03-23T12:33:42.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1197,40 +1252,6 @@
       "summary_zh": "这是截至 2026 年 2 月 26 日星期四 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！国际股票制度中的系统配置 [Quantpedia] 这项研究探讨了关键的定量投资"
     },
     {
-      "id": "4949b87b0183ce08",
-      "title": "Resolv stablecoin crashes 70% as attacker extracts $25 million in ETH",
-      "summary": "The protocol holds $95 million in assets against $173 million in liabilities, leaving it functionally insolvent. USR is trading at $0.27, down 72% in a week.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/03/23/resolv-stablecoin-drops-70-after-usd80-million-exploit-after-attacker-mints-usr",
-      "image_url": null,
-      "published_at": "2026-03-23T06:23:23.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "攻击者提取 2500 万美元 ETH，Resolv 稳定币崩溃 70%",
-      "summary_zh": "该协议持有 9500 万美元的资产，而负债为 1.73 亿美元，使其在功能上无力偿债。 USR 交易价格为 0.27 美元，一周内下跌 72%。"
-    },
-    {
-      "id": "47c41049bc8504af",
-      "title": "Oil, silver trading is way more popular than XRP, solana on Hyperliquid",
-      "summary": "Traders on decentralized exchange Hyperliquid are increasingly favoring perpetual futures tied to commodities.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/03/23/oil-silver-trading-is-way-more-popular-than-xrp-sol-on-hyperliquid",
-      "image_url": null,
-      "published_at": "2026-03-23T06:23:01.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Hyperliquid 上的石油、白银交易比 XRP、solana 更受欢迎",
-      "summary_zh": "去中心化交易所 Hyperliquid 上的交易者越来越青睐与大宗商品挂钩的永续期货。"
-    },
-    {
       "id": "7877edec6eb15061",
       "title": "Circle, Coinbase seen as ‘best proxies’ for stablecoin upside as agentic payments emerge, Bernstein says",
       "summary": "Bernstein analysts named Circle and Coinbase as top stablecoin proxies, citing USDC adoption and early agentic machine-payment opportunities.",
@@ -1301,22 +1322,6 @@
       "region": "global",
       "title_zh": "CoinDCX 联合创始人因涉嫌欺诈被印度警方逮捕，否认有不当行为，指责冒充计划：报告",
       "summary_zh": "CoinDCX 称该报告“虚假”，并表示欺诈行为是由冒充者通过山寨网站而非其平台进行的。"
-    },
-    {
-      "id": "07ab244778bc5741",
-      "title": "Resolv’s USR stablecoin depegs after attacker mints 80 million unbacked tokens, extracts roughly $25 million",
-      "summary": "Analysts traced the flaw to a privileged minting role controlled by a single externally owned account with no mint limits or oracle checks.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/post/394582/resolvs-usr-stablecoin-depegs-after-attacker-mints-80-million-unbacked-tokens-extracts-roughly-25-million?utm_source=rss&utm_medium=rss",
-      "image_url": null,
-      "published_at": "2026-03-22T15:39:33.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "在攻击者铸造 8000 万个无支持代币后，Resolv 的 USR 稳定币脱钩，提取了约 2500 万美元",
-      "summary_zh": "分析师将该缺陷追溯到由单个外部账户控制的特权铸币角色，没有铸币限制或预言机检查。"
     },
     {
       "id": "d40f7ef6e61f1180",
