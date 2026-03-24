@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T15:44:25.841Z",
+  "generated_at": "2026-03-24T15:56:10.801Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】美联储古尔斯比表示，他担心“令人担忧但激烈”的气候下的通胀；【CRYPTO】华尔街经纪商 Bernstein 称比特币触底，维持 15 万美元年底目标；【FINANCE】美联储理事沃勒敦促目前保持谨慎，称今年晚些时候可能降息。",
   "meta": {
     "sources_count": 11,
@@ -86,7 +86,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil",
       "image_url": null,
-      "published_at": "2026-03-24T15:42:33.000Z",
+      "published_at": "2026-03-24T15:46:24.000Z",
       "importance_score": 70,
       "sentiment": 0,
       "tags": [
@@ -203,7 +203,7 @@
       ],
       "region": "global",
       "title_zh": "Apollo 仅向投资者提供 150 亿美元私人信贷基金提款请求的 45%",
-      "summary_zh": "这些撤资表明，由于对向软件公司提供私人信贷的担忧，阿波罗并没有避免困扰竞争对手的投资者赎回潮。"
+      "summary_zh": "这些撤资表明，由于对软件公司私人信贷贷款的担忧，阿波罗并没有避免困扰竞争对手的投资者赎回潮。"
     },
     {
       "id": "b1208a6b56e93188",
@@ -418,14 +418,14 @@
       "summary_zh": "Hut 8 试图将自己定位为能源基础设施参与者，而不是矿工，通过电力分配推动回报。"
     },
     {
-      "id": "ba1845ca1d88084d",
+      "id": "dc34f327f55e142f",
       "title": "Trending Crypto: Bittensor (TAO)",
       "summary": "CoinGecko trending rank #35.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bittensor",
       "image_url": "https://coin-images.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg?1696527447",
-      "published_at": "2026-03-24T15:44:10.677Z",
+      "published_at": "2026-03-24T15:55:35.901Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -438,14 +438,14 @@
       "summary_zh": "CoinGecko 趋势排名第 35 位。"
     },
     {
-      "id": "554b756dfcb68222",
+      "id": "a7b16c098e3f30c2",
       "title": "Trending Crypto: Backpack (BP)",
       "summary": "CoinGecko trending rank #453.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/backpack",
       "image_url": "https://coin-images.coingecko.com/coins/images/102171961/large/image_%285%29.png?1774269858",
-      "published_at": "2026-03-24T15:44:10.677Z",
+      "published_at": "2026-03-24T15:55:35.901Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -458,34 +458,34 @@
       "summary_zh": "CoinGecko 趋势排名#453。"
     },
     {
-      "id": "8a7714c1e09f7f12",
-      "title": "Trending Crypto: Siren (SIREN)",
-      "summary": "CoinGecko trending rank #83.",
+      "id": "f386fc9dff7827eb",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/siren-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/54479/large/siren.png?1739960056",
-      "published_at": "2026-03-24T15:44:10.677Z",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-03-24T15:55:35.901Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "siren"
+        "btc"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：海妖 (SIREN)",
-      "summary_zh": "CoinGecko 趋势排名第 83 位。"
+      "title_zh": "趋势加密货币：比特币 (BTC)",
+      "summary_zh": "CoinGecko 趋势排名第一。"
     },
     {
-      "id": "dd9ab8308d0e59c3",
+      "id": "bf6613c3e83eb769",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
       "summary": "CoinGecko trending rank #15.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
       "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-03-24T15:44:10.677Z",
+      "published_at": "2026-03-24T15:55:35.901Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -498,24 +498,24 @@
       "summary_zh": "CoinGecko 趋势排名第 15。"
     },
     {
-      "id": "1fd6a0e026e36a4d",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
+      "id": "243c929bcf25c4ba",
+      "title": "Trending Crypto: Siren (SIREN)",
+      "summary": "CoinGecko trending rank #83.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-03-24T15:44:10.677Z",
+      "source_url": "https://www.coingecko.com/en/coins/siren-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/54479/large/siren.png?1739960056",
+      "published_at": "2026-03-24T15:55:35.901Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "btc"
+        "siren"
       ],
       "region": "global",
-      "title_zh": "流行加密货币：比特币 (BTC)",
-      "summary_zh": "CoinGecko 趋势排名第一。"
+      "title_zh": "加密货币趋势：海妖 (SIREN)",
+      "summary_zh": "CoinGecko 趋势排名第 83 位。"
     },
     {
       "id": "402a831ac314aa82",
@@ -774,6 +774,25 @@
       "summary_zh": "尽管相对罕见，但该事件反映了正常的网络行为，因为节点采用了具有最多累积工作量证明的链。"
     },
     {
+      "id": "738205f91e297701",
+      "title": "Update on the OpenAI Foundation",
+      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/update-on-the-openai-foundation",
+      "image_url": null,
+      "published_at": "2026-03-24T09:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global",
+      "title_zh": "OpenAI 基金会的最新动态",
+      "summary_zh": "OpenAI 基金会宣布计划投资至少 10 亿美元用于治疗疾病、经济机会、人工智能复原力和社区项目。"
+    },
+    {
       "id": "8d9056e2fac7bccb",
       "title": "Creating with Sora Safely",
       "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
@@ -788,25 +807,6 @@
       "region": "global",
       "title_zh": "与 Sora 一起安全地创作",
       "summary_zh": "为了解决最先进的视频模型和新的社交创作平台带来的新的安全挑战，我们构建了以安全为基础的 Sora 2 和 Sora 应用程序。我们的方法以具体的保护为基础。"
-    },
-    {
-      "id": "4554adba166011d5",
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/wayfair",
-      "image_url": null,
-      "published_at": "2026-03-11T11:00:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "Wayfair 通过 OpenAI 提高目录准确性和支持速度",
-      "summary_zh": "Wayfair 使用 OpenAI 模型来改善电子商务支持和产品目录准确性，自动进行票证分类并大规模增强数百万个产品属性。"
     },
     {
       "id": "01cfa5062bdc7e1d",
@@ -1193,7 +1193,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "截至 2026 年 3 月 5 日，来自 Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 3 月 5 日星期四 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！新贡献者：在 AWS 上扩展 Python 财务模型 [Quantt] 如何从运行 150 sc 中获取 Python 财务模型"
+      "summary_zh": "这是截至 2026 年 3 月 5 日星期四 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！新贡献者：在 AWS 上扩展 Python 财务模型 [Quantt] 如何从运行 150 sc 的过程中获取 Python 财务模型"
     },
     {
       "id": "7d1e2cd36164fce0",
@@ -1354,6 +1354,22 @@
       "summary_zh": "OpenAI 如何使用思想链监控来研究内部编码代理的错位——分析现实世界的部署以检测风险并加强人工智能安全保障。"
     },
     {
+      "id": "cd76a67e94bc0c6d",
+      "title": "Introducing GPT-5.4 mini and nano",
+      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "image_url": null,
+      "published_at": "2026-03-17T10:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "GPT-5.4 mini 和 nano 简介",
+      "summary_zh": "GPT-5.4 mini 和 nano 是 GPT-5.4 的更小、更快的版本，针对编码、工具使用、多模式推理以及大容量 API 和子代理工作负载进行了优化。"
+    },
+    {
       "id": "d5ad2da588ddc198",
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
       "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
@@ -1371,22 +1387,6 @@
       "region": "global",
       "title_zh": "OpenAI Japan 宣布日本青少年安全蓝图，将青少年安全放在首位",
       "summary_zh": "OpenAI Japan 宣布了日本青少年安全蓝图，为使用生成人工智能的青少年引入了更强有力的年龄保护、家长控制和福祉保障。"
-    },
-    {
-      "id": "cd76a67e94bc0c6d",
-      "title": "Introducing GPT-5.4 mini and nano",
-      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "image_url": null,
-      "published_at": "2026-03-17T10:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "GPT-5.4 mini 和 nano 简介",
-      "summary_zh": "GPT-5.4 mini 和 nano 是 GPT-5.4 更小、更快的版本，针对编码、工具使用、多模式推理以及大容量 API 和子代理工作负载进行了优化。"
     },
     {
       "id": "297b1d4daaeccb3e",
