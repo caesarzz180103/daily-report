@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T08:22:46.993Z",
+  "generated_at": "2026-03-24T08:38:43.912Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】美联储古尔斯比表示，他担心“令人担忧但激烈”的气候下的通胀；【CRYPTO】以下是美国国债如何影响特朗普的伊朗战争和比特币走势；【FINANCE】美联储理事沃勒敦促目前保持谨慎，称今年晚些时候可能降息。",
   "meta": {
     "sources_count": 11,
@@ -206,7 +206,7 @@
       ],
       "region": "global",
       "title_zh": "Apollo 仅向投资者提供 150 亿美元私人信贷基金提款请求的 45%",
-      "summary_zh": "这些撤资表明，由于对软件公司私人信贷贷款的担忧，阿波罗并没有避免困扰竞争对手的投资者赎回潮。"
+      "summary_zh": "这些撤资表明，由于对向软件公司提供私人信贷的担忧，阿波罗并没有避免困扰竞争对手的投资者赎回潮。"
     },
     {
       "id": "b1208a6b56e93188",
@@ -464,14 +464,14 @@
       "summary_zh": "以下文章改编自 The Block 的时事通讯《The Daily》，该通讯于工作日下午发布。"
     },
     {
-      "id": "c68bb9cc8cf076bc",
+      "id": "a5e8afba9b31ce29",
       "title": "Trending Crypto: Akash Network (AKT)",
       "summary": "CoinGecko trending rank #205.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/akash-network",
       "image_url": "https://coin-images.coingecko.com/coins/images/12785/large/akash-logo.png?1696512580",
-      "published_at": "2026-03-24T08:22:27.402Z",
+      "published_at": "2026-03-24T08:38:32.199Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -484,34 +484,14 @@
       "summary_zh": "CoinGecko 趋势排名第 205 位。"
     },
     {
-      "id": "27c13c222ed8593c",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-03-24T08:22:27.402Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "btc"
-      ],
-      "region": "global",
-      "title_zh": "趋势加密货币：比特币 (BTC)",
-      "summary_zh": "CoinGecko 趋势排名第一。"
-    },
-    {
-      "id": "6e94e50a5404e35a",
+      "id": "f928a523393846d2",
       "title": "Trending Crypto: Bittensor (TAO)",
       "summary": "CoinGecko trending rank #34.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bittensor",
       "image_url": "https://coin-images.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg?1696527447",
-      "published_at": "2026-03-24T08:22:27.402Z",
+      "published_at": "2026-03-24T08:38:32.199Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -524,14 +504,34 @@
       "summary_zh": "CoinGecko 趋势排名第 34 位。"
     },
     {
-      "id": "b1bd12c1ae29805d",
+      "id": "06dff2e1aea0b4a2",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-03-24T08:38:32.199Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "btc"
+      ],
+      "region": "global",
+      "title_zh": "流行加密货币：比特币 (BTC)",
+      "summary_zh": "CoinGecko 趋势排名第一。"
+    },
+    {
+      "id": "5ad388fc4ea6c534",
       "title": "Trending Crypto: Backpack (BP)",
       "summary": "CoinGecko trending rank #455.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/backpack",
       "image_url": "https://coin-images.coingecko.com/coins/images/102171961/large/image_%285%29.png?1774269858",
-      "published_at": "2026-03-24T08:22:27.402Z",
+      "published_at": "2026-03-24T08:38:32.199Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -544,14 +544,14 @@
       "summary_zh": "CoinGecko 趋势排名#455。"
     },
     {
-      "id": "1e8eb21931823bb1",
+      "id": "e5090409a074c608",
       "title": "Trending Crypto: Pudgy Penguins (PENGU)",
       "summary": "CoinGecko trending rank #106.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
       "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-03-24T08:22:27.402Z",
+      "published_at": "2026-03-24T08:38:32.199Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -1003,20 +1003,22 @@
       "summary_zh": "与此同时，该地区各国正在采取各种措施来应对不断飙升的燃料成本。"
     },
     {
-      "id": "c2807e304524255f",
-      "title": "More Australian beef headed for Europe under new EU trade deal",
-      "summary": "Australian producers have also won the right to sell Italian-style sparkling wine as prosecco.",
+      "id": "11c473f9ed96ac38",
+      "title": "Australia and EU agree sweeping trade deal in face of global uncertainty",
+      "summary": "Australia and the EU sign sweeping trade and security deals after years of negotiations.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-03-24T03:46:25.000Z",
+      "published_at": "2026-03-24T08:30:08.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai"
+      ],
       "region": "global",
-      "title_zh": "根据新的欧盟贸易协议，更多澳大利亚牛肉运往欧洲",
-      "summary_zh": "澳大利亚生产商还赢得了以普罗塞克为名销售意大利风格起泡酒的权利。"
+      "title_zh": "面对全球不确定性，澳大利亚和欧盟达成全面贸易协议",
+      "summary_zh": "经过多年谈判，澳大利亚和欧盟签署了全面的贸易和安全协议。"
     },
     {
       "id": "87a3f0f1c42c33f8",
@@ -1033,7 +1035,7 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "陪审团发现科斯比在 1972 年虐待前女服务员后，命令科斯比向她支付 1900 万美元",
+      "title_zh": "陪审团发现考斯比在 1972 年虐待前女服务员后，命令他向她支付 1900 万美元",
       "summary_zh": "唐娜·莫辛格 (Donna Motsinger) 声称，科斯比 1972 年用豪华轿车接她后，给了她酒和药片，导致她丧失行为能力。"
     },
     {
@@ -1321,7 +1323,7 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "贝莱德首席执行官拉里·芬克 (Larry Fink) 认为代币化使手机投资变得像付款一样简单",
+      "title_zh": "贝莱德首席执行官拉里·芬克 (Larry Fink) 认为代币化让手机投资变得像支付一样简单",
       "summary_zh": "芬克发表此番言论之际，国会和监管机构正在探索使用区块链技术的代币化如何改善市场。"
     },
     {
@@ -1392,7 +1394,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "GPT-5.4 mini 和 nano 简介",
-      "summary_zh": "GPT-5.4 mini 和 nano 是 GPT-5.4 的更小、更快的版本，针对编码、工具使用、多模式推理以及大容量 API 和子代理工作负载进行了优化。"
+      "summary_zh": "GPT-5.4 mini 和 nano 是 GPT-5.4 更小、更快的版本，针对编码、工具使用、多模式推理以及大容量 API 和子代理工作负载进行了优化。"
     },
     {
       "id": "297b1d4daaeccb3e",
