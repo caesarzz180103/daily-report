@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T07:00:26.597Z",
+  "generated_at": "2026-04-03T07:55:44.363Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】鲍威尔认为通胀前景受到控制，无需因石油冲击而加息；【CRYPTO】Coinbase 首次获得银行监管机构的信任许可，推动托管业务发展；【FINANCE】Visa推出新的人工智能工具来管理收费争议流程。",
   "meta": {
     "sources_count": 11,
@@ -113,6 +113,25 @@
       "region": "global",
       "title_zh": "Coinbase 获得 OCC 有条件批准国家信托章程",
       "summary_zh": "Coinbase 表示：“该章程旨在为托管和市场基础设施业务带来联邦监管的统一。”"
+    },
+    {
+      "id": "22930b6c1cb464b8",
+      "title": "Iran War Live Updates: Drone Hits Kuwaiti Oil Refinery in New Attack on Gulf Energy Sites",
+      "summary": "The strike set several refinery units ablaze, its operator said. President Trump threatened to destroy Iran’s infrastructure but there was no sign of a deal to end the war.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil",
+      "image_url": null,
+      "published_at": "2026-04-03T07:33:34.000Z",
+      "importance_score": 64,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "伊朗战争实时更新：无人机袭击科威特炼油厂，对海湾能源基地发起新的攻击",
+      "summary_zh": "炼油厂运营商称，此次罢工导致数家炼油厂起火。特朗普总统威胁要摧毁伊朗的基础设施，但没有迹象表明双方将达成协议来结束战争。"
     },
     {
       "id": "4d10b4e3eab3b18f",
@@ -335,8 +354,8 @@
       "summary_zh": "来自伊朗各地的普通民众描述了不断扩大的罢工、经济痛苦和对镇压的恐惧。"
     },
     {
-      "id": "fa1f8dbc2f20c563",
-      "title": "Iran war could make beer and bottled water pricier for Indians",
+      "id": "72b2153e077c7629",
+      "title": "Fears cost of water and beer to soar as India's scorching summer hits",
       "summary": "Makers of plastic and glass bottles are struggling to access raw materials as the war squeezes supplies.",
       "category": "WORLD",
       "source_name": "BBC World",
@@ -349,7 +368,7 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "伊朗战争可能会使印度人的啤酒和瓶装水价格更高",
+      "title_zh": "随着印度炎热夏季的到来，人们担心水和啤酒的价格会飙升",
       "summary_zh": "由于战争挤压了供应，塑料和玻璃瓶制造商正在努力获取原材料。"
     },
     {
@@ -388,22 +407,6 @@
       "summary_zh": "巴西国会的立法者认为，法律的改变反映了宠物对其主人的重要性。"
     },
     {
-      "id": "34b5ffe7a2d46b5c",
-      "title": "Strikes Hit Infrastructure Sites in Iran After Trump’s Threat",
-      "summary": "President Trump celebrated an attack on a major highway bridge outside of Tehran after vowing to take Iran “back to the Stone Ages.” And a leading public health institution in the country was destroyed.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news",
-      "image_url": null,
-      "published_at": "2026-04-03T06:41:15.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "特朗普发出威胁后，伊朗基础设施遭到袭击",
-      "summary_zh": "特朗普总统在发誓要让伊朗“回到石器时代”后，庆祝了德黑兰郊外一座主要公路桥梁遭受的袭击。该国一个主要的公共卫生机构被摧毁。"
-    },
-    {
       "id": "e9b1ff806fbe1eef",
       "title": "U.K. to Host Talks on Securing Strait of Hormuz",
       "summary": "It was not clear whether the talks, expected to involve dozens of countries, would satisfy President Trump’s demand that other nations take a more active part in the Iran war.",
@@ -421,24 +424,6 @@
       "region": "global",
       "title_zh": "英国将主持有关确保霍尔木兹海峡安全的会谈",
       "summary_zh": "目前尚不清楚预计将有数十个国家参与的会谈能否满足特朗普总统关于其他国家更积极参与伊朗战争的要求。"
-    },
-    {
-      "id": "5054a6a73b4d76cd",
-      "title": "Evacuated From War-Torn Gaza, 11 Toddlers Return Home to Hugs and Tears",
-      "summary": "The Palestinian children were born prematurely in the early days of the war and moved from a besieged hospital to Egypt. They have now returned home to the enclave, which lies in ruins.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/04/01/world/middleeast/gaza-children-evacuated-return.html",
-      "image_url": null,
-      "published_at": "2026-04-01T18:31:36.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "从饱受战争蹂躏的加沙撤离后，11 名幼儿满怀拥抱和泪水回到家中",
-      "summary_zh": "巴勒斯坦儿童在战争初期早产，从被围困的医院搬到了埃及。他们现在已经回到了已成为废墟的飞地的家。"
     },
     {
       "id": "3034e9020e17535a",
@@ -459,14 +444,14 @@
       "summary_zh": "加密货币和银行业代表本周正在查看修订后的稳定币收益率妥协语言。"
     },
     {
-      "id": "3a1b9a128813fe64",
+      "id": "8db9f3b144bdef6f",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-04-03T07:00:14.539Z",
+      "published_at": "2026-04-03T07:55:35.711Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -479,14 +464,14 @@
       "summary_zh": "CoinGecko 趋势排名第一。"
     },
     {
-      "id": "b81c2ae7570d6043",
+      "id": "9f8851ef7e0ec1fd",
       "title": "Trending Crypto: Algorand (ALGO)",
       "summary": "CoinGecko trending rank #66.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/algorand",
       "image_url": "https://coin-images.coingecko.com/coins/images/4380/large/download.png?1696504978",
-      "published_at": "2026-04-03T07:00:14.539Z",
+      "published_at": "2026-04-03T07:55:35.711Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -499,14 +484,14 @@
       "summary_zh": "CoinGecko 趋势排名第 66。"
     },
     {
-      "id": "ae4905311e1dfffd",
+      "id": "da34d9f918457ec4",
       "title": "Trending Crypto: StakeStone (STO)",
-      "summary": "CoinGecko trending rank #475.",
+      "summary": "CoinGecko trending rank #552.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/stakestone",
       "image_url": "https://coin-images.coingecko.com/coins/images/55050/large/STO-white-bg.png?1743437541",
-      "published_at": "2026-04-03T07:00:14.539Z",
+      "published_at": "2026-04-03T07:55:35.711Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -516,37 +501,17 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：StakeStone (STO)",
-      "summary_zh": "CoinGecko 趋势排名#475。"
+      "summary_zh": "CoinGecko 趋势排名#552。"
     },
     {
-      "id": "c66780050ca164a2",
-      "title": "Trending Crypto: Pi Network (PI)",
-      "summary": "CoinGecko trending rank #48.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pi-network",
-      "image_url": "https://coin-images.coingecko.com/coins/images/54342/large/pi_network.jpg?1739347576",
-      "published_at": "2026-04-03T07:00:14.539Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pi"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：Pi Network (PI)",
-      "summary_zh": "CoinGecko 趋势排名第 48。"
-    },
-    {
-      "id": "fd6665c72093ffba",
+      "id": "1e7362e613796eef",
       "title": "Trending Crypto: Siren (SIREN)",
-      "summary": "CoinGecko trending rank #212.",
+      "summary": "CoinGecko trending rank #213.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/siren-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/54479/large/siren.png?1739960056",
-      "published_at": "2026-04-03T07:00:14.539Z",
+      "published_at": "2026-04-03T07:55:35.711Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -556,7 +521,27 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：海妖 (SIREN)",
-      "summary_zh": "CoinGecko 趋势排名第 212 位。"
+      "summary_zh": "CoinGecko 趋势排名第 213 位。"
+    },
+    {
+      "id": "56c2f198d510b409",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #105.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-04-03T07:55:35.711Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pengu"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：矮胖企鹅 (PENGU)",
+      "summary_zh": "CoinGecko 趋势排名第 105。"
     },
     {
       "id": "62f8604791e3befc",
@@ -1070,6 +1055,58 @@
       "summary_zh": "头盔和三个金手镯于 2025 年 1 月被盗，但其中一个手镯尚未找到。"
     },
     {
+      "id": "bc6d8d18686457e2",
+      "title": "In Syria, Kidnappings of Women and Girls Fuel a Minority Group’s Fears",
+      "summary": "A Times investigation found that abductions of women and girls from Syria’s Alawite minority were more common, and more brutal, than the government has acknowledged.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/04/03/world/middleeast/syria-kidnapping-alawite-woman-girls.html",
+      "image_url": null,
+      "published_at": "2026-04-03T04:01:12.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "在叙利亚，绑架妇女和女童事件加剧了少数群体的恐惧",
+      "summary_zh": "《纽约时报》的一项调查发现，绑架叙利亚阿拉维派妇女和女童的情况比政府承认的更为普遍、也更加残酷。"
+    },
+    {
+      "id": "22f82901199ba3de",
+      "title": "Cosmopolitan Shanghai Is an Uneasy Fit in China’s Narrative of Western Sins",
+      "summary": "Shanghai’s many layers of architecture, culture and politics have made it a difficult fit for the Communist Party’s preferred narrative of Chinese victimhood and Western sins.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/04/03/world/asia/shanghai-dispatch-architecture.html",
+      "image_url": null,
+      "published_at": "2026-04-03T04:01:15.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "国际化的上海与中国关于西方罪恶的叙述格格不入",
+      "summary_zh": "上海的建筑、文化和政治的多层性使其很难适应共产党所偏爱的中国受害者和西方罪恶的叙述。"
+    },
+    {
+      "id": "e90ee3e0eebe445a",
+      "title": "Myanmar Junta Chief Ascends to President, Five Years After Coup",
+      "summary": "U Min Aung Hlaing’s elevation to the civilian post is the conclusion of elections in the country, which were stage managed by the military.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/04/03/world/asia/myanmar-president-min-aung-hlaing.html",
+      "image_url": null,
+      "published_at": "2026-04-03T06:42:53.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "政变五年后缅甸军政府首脑升任总统",
+      "summary_zh": "吴敏昂莱晋升为文职职位标志着该国选举的结束，这次选举是由军方管理的。"
+    },
+    {
       "id": "691b93727b56668f",
       "title": "In a Muzzled Russia, He Still Speaks His Mind",
       "summary": "While hundreds of other journalists fled into exile after Moscow’s invasion of Ukraine in 2022, the Nobel Peace Prize laureate Dmitri A. Muratov stayed. But he did not stay quiet.",
@@ -1134,38 +1171,6 @@
       "region": "global",
       "title_zh": "教皇利奥回归传统，为牧师洗脚",
       "summary_zh": "教皇方济各为囚犯和难民清洗并亲吻双脚。周四，他的继任者为牧师举行了谦卑和服务仪式。"
-    },
-    {
-      "id": "8ce7c0d0c3d97fe5",
-      "title": "Try Living in Cape Town, Where 70% of Downtown Housing Is for Tourists",
-      "summary": "A shortage of affordable housing in the coastal city in South Africa has forced many people to live far outside the city center, while tourists occupy prime real estate.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/04/01/world/africa/cape-town-housing-crisis.html",
-      "image_url": null,
-      "published_at": "2026-04-01T16:01:35.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "尝试住在开普敦，那里 70% 的市中心住房都是为游客提供的",
-      "summary_zh": "南非沿海城市经济适用房的短缺迫使许多人住在远离市中心的地方，而游客却占据了黄金地段。"
-    },
-    {
-      "id": "067cecfe5c80e6d9",
-      "title": "Europe Pushes for a Gentler Internet for Children",
-      "summary": "The European Union and national capitals are trying to make social media and algorithms less addictive and safer, especially for children.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html",
-      "image_url": null,
-      "published_at": "2026-04-02T09:06:33.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "欧洲推动为儿童提供更温和的互联网",
-      "summary_zh": "欧盟和各国首都正在努力降低社交媒体和算法的成瘾性并提高安全性，尤其是对儿童而言。"
     },
     {
       "id": "96eb1a281fe4308f",
