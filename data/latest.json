@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T11:10:50.874Z",
+  "generated_at": "2026-04-07T11:44:14.789Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Visa推出新的人工智能工具来管理收费争议流程；【WORLD】伊朗战争实时更新：特朗普的最后期限越来越近，但没有任何外交突破的迹象；【CRYPTO】随着伊朗战争、人工智能重塑市场动态，比特币远离软件股。",
   "meta": {
     "sources_count": 11,
@@ -45,7 +45,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news",
       "image_url": null,
-      "published_at": "2026-04-07T10:53:14.000Z",
+      "published_at": "2026-04-07T11:40:29.000Z",
       "importance_score": 76,
       "sentiment": 0,
       "tags": [
@@ -153,6 +153,25 @@
       "region": "global",
       "title_zh": "另类华尔街研究公司表示，已派出一名分析师前往霍尔木兹海峡。这是他们学到的",
       "summary_zh": "在美国和以色列对伊朗发动战争之前，世界上大约 20% 的石油是通过狭窄的霍尔木兹海峡运输的。"
+    },
+    {
+      "id": "988a02c90a515dfc",
+      "title": "Bitcoin briefly touches $70,000 as ETF inflows signal institutional interest",
+      "summary": "Your day-ahead look for April 7, 2026",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/daybook-us/2026/04/07/bitcoin-briefly-touches-usd70-000-as-etf-inflows-signal-institutional-interest",
+      "image_url": null,
+      "published_at": "2026-04-07T11:17:05.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin",
+        "etf"
+      ],
+      "region": "global",
+      "title_zh": "ETF 流入表明机构兴趣，比特币短暂触及 70,000 美元",
+      "summary_zh": "2026 年 4 月 7 日天气预报"
     },
     {
       "id": "da574d72e3835438",
@@ -384,7 +403,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/04/07/world/europe/vance-hungary-orban-fidesz-election.html",
       "image_url": null,
-      "published_at": "2026-04-07T09:08:53.000Z",
+      "published_at": "2026-04-07T11:34:27.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
@@ -520,14 +539,14 @@
       "summary_zh": "总统否认有不当行为，但他仍然是 LIBRA 联邦调查的关注对象。"
     },
     {
-      "id": "e6630bcaae66c6ea",
+      "id": "084bc62b355a48d3",
       "title": "Trending Crypto: RedStone (RED)",
-      "summary": "CoinGecko trending rank #339.",
+      "summary": "CoinGecko trending rank #329.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/redstone-oracles",
       "image_url": "https://coin-images.coingecko.com/coins/images/53640/large/RedStone_Logo_New_White.png?1740640919",
-      "published_at": "2026-04-07T11:10:41.125Z",
+      "published_at": "2026-04-07T11:44:02.589Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -537,17 +556,17 @@
       ],
       "region": "global",
       "title_zh": "流行加密货币：RedStone (RED)",
-      "summary_zh": "CoinGecko 趋势排名#339。"
+      "summary_zh": "CoinGecko 趋势排名#329。"
     },
     {
-      "id": "1488f65e056c9bf2",
+      "id": "37f92d67b4f6dfbc",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-04-07T11:10:41.125Z",
+      "published_at": "2026-04-07T11:44:02.589Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -560,14 +579,14 @@
       "summary_zh": "CoinGecko 趋势排名第一。"
     },
     {
-      "id": "163360758076f304",
+      "id": "ea44b5519678eadc",
       "title": "Trending Crypto: Bitgert (BRISE)",
-      "summary": "CoinGecko trending rank #965.",
+      "summary": "CoinGecko trending rank #935.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitrise-token",
       "image_url": "https://coin-images.coingecko.com/coins/images/17388/large/200x200.png?1696516937",
-      "published_at": "2026-04-07T11:10:41.125Z",
+      "published_at": "2026-04-07T11:44:02.589Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -577,17 +596,17 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：Bitgert (BRISE)",
-      "summary_zh": "CoinGecko 趋势排名#965。"
+      "summary_zh": "CoinGecko 趋势排名#935。"
     },
     {
-      "id": "072c702f799cae98",
+      "id": "fe8d7ef308ece598",
       "title": "Trending Crypto: Monad (MON)",
       "summary": "CoinGecko trending rank #131.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/monad",
       "image_url": "https://coin-images.coingecko.com/coins/images/38927/large/mon.png?1766029057",
-      "published_at": "2026-04-07T11:10:41.125Z",
+      "published_at": "2026-04-07T11:44:02.589Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -600,24 +619,24 @@
       "summary_zh": "CoinGecko 趋势排名第 131 位。"
     },
     {
-      "id": "d15213fc22484b4b",
-      "title": "Trending Crypto: Solana (SOL)",
-      "summary": "CoinGecko trending rank #7.",
+      "id": "c8bb6260908e6520",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #109.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/solana",
-      "image_url": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
-      "published_at": "2026-04-07T11:10:41.125Z",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-04-07T11:44:02.589Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "sol"
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：Solana (SOL)",
-      "summary_zh": "CoinGecko 趋势排名第七。"
+      "title_zh": "加密货币趋势：矮胖企鹅 (PENGU)",
+      "summary_zh": "CoinGecko 趋势排名第 109 位。"
     },
     {
       "id": "62f8604791e3befc",
@@ -777,6 +796,24 @@
       "summary_zh": "这是截至 2026 年 3 月 31 日星期二 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！卖出波动性：金融领域最诱人的回测 [Quantt] 这是一个拥有三十年记录的策略。硒"
     },
     {
+      "id": "f78db81c5a08a364",
+      "title": "Why Michael Saylor's bitcoin buys aren’t moving the needle anymore",
+      "summary": "Despite billions in purchases, MSTR demand is being outweighed by long term holder positioning and broader capital flows.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/04/07/why-strategy-s-bitcoin-buying-isn-t-moving-the-market",
+      "image_url": null,
+      "published_at": "2026-04-07T11:34:32.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "为什么迈克尔·塞勒（Michael Saylor）的比特币购买不再起到推动作用",
+      "summary_zh": "尽管购买量达数十亿美元，但长期持有者的定位和更广泛的资本流动超过了 MSTR 的需求。"
+    },
+    {
       "id": "bbf91f51c87e517f",
       "title": "Bitcoin price-drop speculation spurred by familiar price pattern",
       "summary": "BTC and ETH remain stuck in a two-month range as oil prices and Iran tensions weigh on sentiment, while AI and privacy tokens show surprising relative strength.",
@@ -794,40 +831,6 @@
       "region": "global",
       "title_zh": "熟悉的价格模式引发了比特币价格下跌的猜测",
       "summary_zh": "由于油价和伊朗紧张局势打压市场情绪，比特币和以太币仍停留在两个月区间内，而人工智能和隐私代币则显示出令人惊讶的相对强势。"
-    },
-    {
-      "id": "df6b145cb6aecf11",
-      "title": "Bitcoin options market is quietly pricing a major downside move",
-      "summary": "Options data shows traders are bracing for a sharp bitcoin drop as weak demand and fragile positioning leave the market exposed to a break below key levels, a report from Bitfinex shows.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/04/06/bitcoin-options-market-is-quietly-pricing-a-major-downside-move",
-      "image_url": null,
-      "published_at": "2026-04-06T19:23:38.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "比特币期权市场正在悄然定价重大下行走势",
-      "summary_zh": "Bitfinex 的一份报告显示，期权数据显示，由于需求疲软和头寸脆弱，导致市场面临跌破关键水平的风险，交易者正准备迎接比特币大幅下跌。"
-    },
-    {
-      "id": "ce2aa05632dda770",
-      "title": "Aave loses key risk manager, Chaos Labs, amid contributor exodus and disputes",
-      "summary": "A key sticking point is Aave’s V4 upgrade, which introduces a new architecture and significantly expands the scope of risk management.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/04/06/aave-loses-key-risk-manager-chaos-labs-amid-contributor-exodus-and-disputes",
-      "image_url": null,
-      "published_at": "2026-04-06T17:50:02.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "由于贡献者流失和纠纷，Aave 失去了关键风险经理 Chaos Labs",
-      "summary_zh": "一个关键点是Aave的V4升级，它引入了新的架构并显着扩大了风险管理的范围。"
     },
     {
       "id": "c770517bff073e27",
@@ -1102,22 +1105,22 @@
       "summary_zh": "泰勒·斯威夫特 (Taylor Swift) 和萨布丽娜·卡彭特 (Sabrina Carpenter) 等艺人背后的音乐巨头收到了比尔·阿克曼 (Bill Ackman) 的潘兴广场 (Pershing Square) 的邀请。"
     },
     {
-      "id": "ec9453ca8a220e03",
-      "title": "One dead as high-speed train collides with lorry in France",
-      "summary": "More than a dozen people are injured, two of whom critically, in the incident in the Calais region.",
+      "id": "5cf2dfa9115fecca",
+      "title": "One dead as train travelling 99mph collides with lorry in France",
+      "summary": "The lorry driver is in custody after the train driver died during the collision in north-western France.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.com/news/articles/cq590egv9vzo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-04-07T10:18:36.000Z",
+      "published_at": "2026-04-07T11:36:23.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "法国高铁与货车相撞 一人死亡",
-      "summary_zh": "加莱地区的这起事件造成十几人受伤，其中两人伤势严重。"
+      "title_zh": "法国火车时速99英里与卡车相撞，造成一人死亡",
+      "summary_zh": "火车司机在法国西北部的碰撞事故中死亡，卡车司机已被拘留。"
     },
     {
       "id": "a16a3fcc6ab70b0d",
