@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T01:05:09.333Z",
+  "generated_at": "2026-04-08T01:18:55.702Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Visa推出新的人工智能工具来管理收费争议流程；【CRYPTO】美国与伊朗停火两周，美国股指期货飙升，比特币突破 72,000 美元；【FINANCE】沃伦·巴菲特表示，他太早卖掉了苹果公司，并将购买更多苹果公司，尽管不是在这个市场。",
   "meta": {
     "sources_count": 11,
@@ -117,7 +117,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news",
       "image_url": null,
-      "published_at": "2026-04-08T00:51:59.000Z",
+      "published_at": "2026-04-08T01:15:54.000Z",
       "importance_score": 64,
       "sentiment": 0,
       "tags": [
@@ -144,7 +144,7 @@
       ],
       "region": "global",
       "title_zh": "由于伊朗协议的希望，风险市场扭转了早期的巨大损失，比特币涨至 69,000 美元以上",
-      "summary_zh": "据 Axios 报道，伊朗政府正在积极审查巴基斯坦提出的为期两周停火的要求。"
+      "summary_zh": "据 Axios 报道，伊朗政府正在积极审查巴基斯坦提出的为期两周停火的请求。"
     },
     {
       "id": "2097777517a0cdc6",
@@ -506,14 +506,14 @@
       "summary_zh": "Bernstein 重申了 Figure 67 美元的目标价，因为 3 月份贷款量首次突破 10 亿美元。"
     },
     {
-      "id": "43e08b1711be5c9f",
+      "id": "2304d4a5d2461abf",
       "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #105.",
+      "summary": "CoinGecko trending rank #104.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
       "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-04-08T01:04:52.070Z",
+      "published_at": "2026-04-08T01:18:44.411Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -523,17 +523,17 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：矮胖企鹅 (PENGU)",
-      "summary_zh": "CoinGecko 趋势排名第 105。"
+      "summary_zh": "CoinGecko 趋势排名第 104。"
     },
     {
-      "id": "cefff4cb4e57fff8",
+      "id": "7e8cc6f041915a05",
       "title": "Trending Crypto: Zcash (ZEC)",
       "summary": "CoinGecko trending rank #22.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/zcash",
       "image_url": "https://coin-images.coingecko.com/coins/images/486/large/circle-zcash-color.png?1696501740",
-      "published_at": "2026-04-08T01:04:52.070Z",
+      "published_at": "2026-04-08T01:18:44.411Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -546,34 +546,14 @@
       "summary_zh": "CoinGecko 趋势排名第 22。"
     },
     {
-      "id": "5a92e968f85b133e",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-04-08T01:04:52.070Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "btc"
-      ],
-      "region": "global",
-      "title_zh": "流行加密货币：比特币 (BTC)",
-      "summary_zh": "CoinGecko 趋势排名第一。"
-    },
-    {
-      "id": "7a8a8b3579d533b5",
+      "id": "1da2a1adf2cfbb22",
       "title": "Trending Crypto: Monad (MON)",
       "summary": "CoinGecko trending rank #127.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/monad",
       "image_url": "https://coin-images.coingecko.com/coins/images/38927/large/mon.png?1766029057",
-      "published_at": "2026-04-08T01:04:52.070Z",
+      "published_at": "2026-04-08T01:18:44.411Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -586,24 +566,44 @@
       "summary_zh": "CoinGecko 趋势排名第 127 名。"
     },
     {
-      "id": "4a99f12e3a1b60f8",
-      "title": "Trending Crypto: Hyperliquid (HYPE)",
-      "summary": "CoinGecko trending rank #15.",
+      "id": "b7795b528c4b58c5",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
-      "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-04-08T01:04:52.070Z",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-04-08T01:18:44.411Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "hype"
+        "btc"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：Hyperliquid (HYPE)",
-      "summary_zh": "CoinGecko 趋势排名第 15。"
+      "title_zh": "流行加密货币：比特币 (BTC)",
+      "summary_zh": "CoinGecko 趋势排名第一。"
+    },
+    {
+      "id": "21da4f9ff86fe396",
+      "title": "Trending Crypto: Solana (SOL)",
+      "summary": "CoinGecko trending rank #7.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/solana",
+      "image_url": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
+      "published_at": "2026-04-08T01:18:44.411Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "sol"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：Solana (SOL)",
+      "summary_zh": "CoinGecko 趋势排名第七。"
     },
     {
       "id": "62f8604791e3befc",
@@ -690,7 +690,7 @@
       ],
       "region": "global",
       "title_zh": "麻省理工学院的研究人员利用人工智能发现材料中的原子缺陷",
-      "summary_zh": "一种新模型可测量可用来提高材料机械强度、传热和能量转换效率的缺陷。"
+      "summary_zh": "一种新模型可以测量可用来提高材料机械强度、传热和能量转换效率的缺陷。"
     },
     {
       "id": "ade2f289edefa769",
@@ -1153,7 +1153,7 @@
       ],
       "region": "global",
       "title_zh": "巴黎地下墓穴的修复能否为这座城市的死者带来新的生命？",
-      "summary_zh": "几个世纪以来，大约六百万人的尸骨被埋在城市地下的墓穴中。策展人正在努力保护隧道并使其现代化，同时保持怪异的氛围。"
+      "summary_zh": "几个世纪以来，大约六百万人的尸骨被埋在城市地下的墓穴中。策展人正在努力保护隧道并使之现代化，同时保持怪异的氛围。"
     },
     {
       "id": "96eb1a281fe4308f",
