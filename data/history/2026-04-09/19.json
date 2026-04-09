@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T19:02:11.010Z",
+  "generated_at": "2026-04-09T19:57:23.999Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】会议纪要显示，尽管受到战争影响，美联储官员仍预计今年降息；【WORLD】伊朗部长告诉BBC，以色列对黎巴嫩的袭击“严重违反”停火协议；【FINANCE】Visa推出新的人工智能工具来管理收费争议流程。",
   "meta": {
     "sources_count": 11,
@@ -78,14 +78,14 @@
       "summary_zh": "Visa 的新工具是主要银行和金融机构将人工智能融入其业务的更大努力的一部分。"
     },
     {
-      "id": "f7d05bf375d3bdf9",
-      "title": "Iran War Live Updates: Israel Agrees to Talks With Lebanon but Will Still Strike Hezbollah",
+      "id": "f9afdcab0125685e",
+      "title": "Iran War Live Updates: Israel Agrees to Talks With Lebanon but Keeps Striking Hezbollah",
       "summary": "Iran has insisted that Lebanon is covered by the cease-fire, while the United States and Israel have said it is not, threatening the days-old truce.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/live/2026/04/09/world/iran-ceasefire-trump-lebanon",
       "image_url": null,
-      "published_at": "2026-04-09T18:50:11.000Z",
+      "published_at": "2026-04-09T19:51:05.000Z",
       "importance_score": 76,
       "sentiment": 0,
       "tags": [
@@ -93,7 +93,7 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "伊朗战争实时更新：以色列同意与黎巴嫩谈判，但仍将打击真主党",
+      "title_zh": "伊朗战争实时更新：以色列同意与黎巴嫩谈判，但继续打击真主党",
       "summary_zh": "伊朗坚称黎巴嫩处于停火范围内，而美国和以色列则表示并非如此，这对持续数天的停火协议构成了威胁。"
     },
     {
@@ -134,22 +134,6 @@
       "summary_zh": "即使伯克希尔哈撒韦公司去年底减持了其股份，苹果公司仍然是伯克希尔哈撒韦公司最大的持股公司。"
     },
     {
-      "id": "935d6e486f5d2779",
-      "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
-      "summary": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley, hours after a US-Iran ceasefire was announced.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-04-08T20:54:59.000Z",
-      "importance_score": 70,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "以色列大规模袭击造成黎巴嫩全境至少182人死亡",
-      "summary_zh": "在美伊宣布停火数小时后，贝鲁特南郊、黎巴嫩南部和贝卡谷地东部发生袭击。"
-    },
-    {
       "id": "dd68ee16e79558b2",
       "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
       "summary": "Ben Roberts-Smith's case is not only unprecedented for Australia but \"extraordinary\" for the globe too, scholars say.",
@@ -166,6 +150,25 @@
       "region": "global",
       "title_zh": "他是澳大利亚获得勋章最多的士兵。现在他处于历史性战争罪案件的中心",
       "summary_zh": "学者们表示，本·罗伯茨-史密斯的案件不仅对澳大利亚来说是史无前例的，对全球来说也是“非同寻常”的。"
+    },
+    {
+      "id": "3bb03d1d266fa675",
+      "title": "Zelensky Sees Small Window for Peace",
+      "summary": "Talks to end the war in Ukraine could resume soon, said President Volodymyr Zelensky as he expressed skepticism about a breakthrough.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/04/09/world/europe/ukraine-russia-war-peace-talks.html",
+      "image_url": null,
+      "published_at": "2026-04-09T19:34:02.000Z",
+      "importance_score": 70,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "泽伦斯基认为和平之窗很小",
+      "summary_zh": "总统泽连斯基表示，结束乌克兰战争的谈判可能很快就会恢复，他对取得突破表示怀疑。"
     },
     {
       "id": "56767e0984c4aab9",
@@ -336,6 +339,25 @@
       "summary_zh": "美国总统表示，在伊朗战争期间，北约“在我们需要的时候不在场”。"
     },
     {
+      "id": "fa02fe9ad97017ec",
+      "title": "Pioneering wildlife cameraman Doug Allan dies after falling ill in Nepal",
+      "summary": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-04-09T14:52:09.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "野生动物摄影师先驱道格·艾伦在尼泊尔生病后去世",
+      "summary_zh": "这位摄影师兼摄影师因与大卫·阿滕伯勒爵士合作拍摄《蓝色星球》等广受好评的剧集而荣获八项艾美奖。"
+    },
+    {
       "id": "8d9eb7ca808d32b4",
       "title": "Iran’s Battered Leaders Emerge From War Confident — and With New Cards",
       "summary": "For Iran’s theocratic rulers, just surviving the U.S.-Israeli onslaught means victory. But the seeds of their next crisis may already be planted.",
@@ -446,54 +468,14 @@
       "summary_zh": "无国界数据显示，在拉丁美洲和东非等主要市场，稳定币外汇已接近与传统银行业务持平。"
     },
     {
-      "id": "773fa0e477d959fa",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-04-09T19:01:53.628Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "btc"
-      ],
-      "region": "global",
-      "title_zh": "流行加密货币：比特币 (BTC)",
-      "summary_zh": "CoinGecko 趋势排名第一。"
-    },
-    {
-      "id": "ab47afb7a49bd674",
-      "title": "Trending Crypto: Siren (SIREN)",
-      "summary": "CoinGecko trending rank #98.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/siren-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/54479/large/siren.png?1739960056",
-      "published_at": "2026-04-09T19:01:53.628Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "siren"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：海妖 (SIREN)",
-      "summary_zh": "CoinGecko 趋势排名第 98。"
-    },
-    {
-      "id": "b17f4017dd91a85e",
+      "id": "8521339381e4f46d",
       "title": "Trending Crypto: Zcash (ZEC)",
       "summary": "CoinGecko trending rank #19.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/zcash",
       "image_url": "https://coin-images.coingecko.com/coins/images/486/large/circle-zcash-color.png?1696501740",
-      "published_at": "2026-04-09T19:01:53.628Z",
+      "published_at": "2026-04-09T19:57:07.694Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -506,14 +488,74 @@
       "summary_zh": "CoinGecko 趋势排名第 19。"
     },
     {
-      "id": "0eb1ec97ff345657",
+      "id": "6c1edf353e258498",
+      "title": "Trending Crypto: Siren (SIREN)",
+      "summary": "CoinGecko trending rank #98.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/siren-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/54479/large/siren.png?1739960056",
+      "published_at": "2026-04-09T19:57:07.694Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "siren"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：海妖 (SIREN)",
+      "summary_zh": "CoinGecko 趋势排名第 98。"
+    },
+    {
+      "id": "fb27541cc028afe1",
+      "title": "Trending Crypto: Fartcoin (FARTCOIN)",
+      "summary": "CoinGecko trending rank #176.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/fartcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/50891/large/fart.jpg?1729503972",
+      "published_at": "2026-04-09T19:57:07.694Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "fartcoin"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：Fartcoin (FARTCOIN)",
+      "summary_zh": "CoinGecko 趋势排名第 176 位。"
+    },
+    {
+      "id": "b5d1a5cdbefe62ea",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-04-09T19:57:07.694Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "btc"
+      ],
+      "region": "global",
+      "title_zh": "流行加密货币：比特币 (BTC)",
+      "summary_zh": "CoinGecko 趋势排名第一。"
+    },
+    {
+      "id": "7722b5186033c738",
       "title": "Trending Crypto: Bittensor (TAO)",
       "summary": "CoinGecko trending rank #33.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bittensor",
       "image_url": "https://coin-images.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg?1696527447",
-      "published_at": "2026-04-09T19:01:53.628Z",
+      "published_at": "2026-04-09T19:57:07.694Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -524,26 +566,6 @@
       "region": "global",
       "title_zh": "加密货币趋势：Bittensor (TAO)",
       "summary_zh": "CoinGecko 趋势排名第 33 位。"
-    },
-    {
-      "id": "01a84eac7804d73f",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #108.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-04-09T19:01:53.628Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pengu"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：矮胖企鹅 (PENGU)",
-      "summary_zh": "CoinGecko 趋势排名第 108。"
     },
     {
       "id": "4266ffd3e749cd8a",
@@ -651,7 +673,7 @@
       ],
       "region": "global",
       "title_zh": "麻省理工学院的研究人员利用人工智能发现材料中的原子缺陷",
-      "summary_zh": "一种新模型可测量可用来提高材料机械强度、传热和能量转换效率的缺陷。"
+      "summary_zh": "一种新模型可以测量可用来提高材料机械强度、传热和能量转换效率的缺陷。"
     },
     {
       "id": "70652f2dbf4c4d7b",
@@ -1077,22 +1099,6 @@
       "summary_zh": "国防部长约翰·希利表示，这些船只正在收集有关海底管道的信息，并表示他相信弗拉基米尔·V·普京总统“希望我们因中东问题而分心”。"
     },
     {
-      "id": "e1911e366770b6b6",
-      "title": "Amid U.S.-Iran Negotiations, Netanyahu’s Interests May Conflict With Trump’s",
-      "summary": "As the focus shifts to negotiations between the United States and Iran, no formal Israeli participation is planned.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/04/09/world/middleeast/us-iran-negotiations-israel-netanyahu.html",
-      "image_url": null,
-      "published_at": "2026-04-09T16:30:02.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "在美伊谈判中，内塔尼亚胡的利益可能与特朗普的利益发生冲突",
-      "summary_zh": "随着焦点转向美国和伊朗之间的谈判，以色列没有正式参与的计划。"
-    },
-    {
       "id": "96eb1a281fe4308f",
       "title": "Recent Quant Links from Quantocracy as of 03/29/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Sunday, 03/29/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Brave New Backtest [Robot Wealth] My last two articles on AI and trading research got more engagement than almost anything ",
@@ -1233,6 +1239,25 @@
       "summary_zh": "德洛没有具体说明他是否以法定货币或加密货币进行捐赠，但他表示支持英国政府暂停以加密资产进行政治捐赠的提议"
     },
     {
+      "id": "7af071a29ab42e39",
+      "title": "Binance’s Changpeng Zhao claims U.S. crypto rivals ‘paid millions’ to block his pardon",
+      "summary": "The Binance founder also says friends told him firms funded \"smear articles\" because they opposed Binance doing business in the U.S.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/post/396926/binance-changpeng-zhao-claims-crypto-rivals-paid-millions-block-pardon?utm_source=rss&utm_medium=rss",
+      "image_url": null,
+      "published_at": "2026-04-09T19:54:38.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "币安的赵长鹏声称美国加密货币竞争对手“支付了数百万美元”来阻止他的赦免",
+      "summary_zh": "这位币安创始人还表示，朋友们告诉他，一些公司资助“诽谤文章”，因为他们反对币安在美国开展业务。"
+    },
+    {
       "id": "2bd57db7e068360b",
       "title": "‘This is a lot,’ judge says as Tornado Cash developer Roman Storm’s case is unclear",
       "summary": "Tornado Cash developer Roman Storm and the Department of Justice faced off in court on Thursday in Manhattan.",
@@ -1337,22 +1362,6 @@
       "region": "global",
       "title_zh": "前 SEC、摩根大通高管 Brett Redfearn 加入 Securitize 担任总裁",
       "summary_zh": "代币化公司 Securitize 约占美国代币化市场的 70%，并与贝莱德 (BlackRock) 和阿波罗 (Apollo) 合作。"
-    },
-    {
-      "id": "1ee7fe4ace972583",
-      "title": "Tom Lee’s Bitmine uplists to NYSE with 4.8M ETH and $4 billion buyback authorization",
-      "summary": "Bitmine uplists to the NYSE, expands its share buyback, and continues building one of the largest ETH treasuries.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/post/396865/tom-lees-bitmine-uplists-nyse-eth-4-billion-buyback-authorization?utm_source=rss&utm_medium=rss",
-      "image_url": null,
-      "published_at": "2026-04-09T13:55:44.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Tom Lee 的 Bitmine 在纽约证券交易所上市，拥有 480 万枚 ETH 和 40 亿美元的回购授权",
-      "summary_zh": "Bitmine 在纽约证券交易所上市，扩大股票回购，并继续打造最大的 ETH 金库之一。"
     },
     {
       "id": "ffd3aeb93f30f928",
