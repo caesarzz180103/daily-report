@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T17:13:22.932Z",
+  "generated_at": "2026-04-13T17:50:53.293Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】会议纪要显示，尽管受到战争影响，美联储官员仍预计今年降息；【CRYPTO】随着周末最糟糕的担忧消失，比特币脱离最低水平；【CRYPTO】霍尔木兹紧张局势再度紧张，停火反弹消退，比特币回落：分析师。",
   "meta": {
     "sources_count": 11,
@@ -156,14 +156,14 @@
       "summary_zh": "在美国和以色列对伊朗发动战争之前，世界上大约 20% 的石油是通过狭窄的霍尔木兹海峡运输的。"
     },
     {
-      "id": "f35974e90a8f6007",
-      "title": "Iran War Live Updates: Trump Says Iran Wants to Resume Talks",
-      "summary": "The president did not say whether the United States had agreed to negotiate again. The U.S. military is blocking ships entering or leaving Iranian ports or coastal areas, in an effort to cut off Iran’s oil income.",
+      "id": "8c7959b019125eb6",
+      "title": "Iran War Live Updates: U.S. Begins Blockade of Strait of Hormuz",
+      "summary": "President Trump asserted that Iran asked for another round of negotiations, but Iran did not immediately respond. The U.S. military is blocking ships entering or leaving Iran in an effort to cut off its oil income.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news",
       "image_url": null,
-      "published_at": "2026-04-13T17:10:37.000Z",
+      "published_at": "2026-04-13T17:42:52.000Z",
       "importance_score": 64,
       "sentiment": 0,
       "tags": [
@@ -171,8 +171,8 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "伊朗战争实时更新：特朗普表示伊朗希望恢复谈判",
-      "summary_zh": "总统没有透露美国是否同意再次谈判。美国军方正在阻止船只进出伊朗港口或沿海地区，以切断伊朗的石油收入。"
+      "title_zh": "伊朗战争实时更新：美国开始封锁霍尔木兹海峡",
+      "summary_zh": "特朗普总统声称伊朗要求进行另一轮谈判，但伊朗没有立即回应。美国军方正在阻止船只进出伊朗，以切断其石油收入。"
     },
     {
       "id": "ff2f665bb619f704",
@@ -372,22 +372,24 @@
       "summary_zh": "总理欧尔班·维克托(Viktor Orban)的选举失败与其说是匈牙利意识形态转变的结果，不如说是基本政治规则的结果。"
     },
     {
-      "id": "7a79f55cf556228b",
-      "title": "Defeat of Orban Removes Ukraine’s Biggest Nemesis in Europe",
-      "summary": "The Hungarian leader’s pro-Moscow tilt cemented his reputation in Kyiv as a spoiler. Now, Ukraine hopes a 90-billion-euro loan he blocked will be disbursed.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/04/13/world/europe/hungary-orban-ukraine-zelensky.html",
+      "id": "e594b68a9ec15d80",
+      "title": "U.S. SEC says software allowing crypto wallet transactions not considered broker",
+      "summary": "The latest crypto view from the securities agency concludes software that clears the way for securities transactions with individual wallets won't trip regulations.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/04/13/u-s-sec-says-software-allowing-crypto-wallet-transactions-aren-t-considered-brokers",
       "image_url": null,
-      "published_at": "2026-04-13T12:21:55.000Z",
-      "importance_score": 58,
+      "published_at": "2026-04-13T17:17:12.000Z",
+      "importance_score": 56,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "crypto",
+        "war",
+        "regulation"
       ],
       "region": "global",
-      "title_zh": "欧尔班的失败消除了乌克兰在欧洲最大的敌人",
-      "summary_zh": "这位匈牙利领导人的亲莫斯科倾向巩固了他在基辅破坏者的声誉。现在，乌克兰希望他阻止的900亿欧元贷款能够得到支付。"
+      "title_zh": "美国 SEC 称允许加密钱包交易的软件不被视为经纪人",
+      "summary_zh": "证券机构的最新加密货币观点得出结论，为个人钱包进行证券交易扫清道路的软件不会违反法规。"
     },
     {
       "id": "a7c389fbc8077e5a",
@@ -476,14 +478,14 @@
       "summary_zh": "StarkWare 正在裁员并重组两个部门，首席执行官 Eli Ben-Sasson 表示，该公司“太大了”，无法快速行动。"
     },
     {
-      "id": "6baa6a02f4055bc7",
+      "id": "2881d1e2092a97ab",
       "title": "Trending Crypto: RaveDAO (RAVE)",
       "summary": "CoinGecko trending rank #35.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/ravedao",
       "image_url": "https://coin-images.coingecko.com/coins/images/70544/large/coin.jpeg?1762452940",
-      "published_at": "2026-04-13T17:13:11.028Z",
+      "published_at": "2026-04-13T17:50:43.842Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -496,14 +498,14 @@
       "summary_zh": "CoinGecko 趋势排名第 35 位。"
     },
     {
-      "id": "09aacb27a71aedba",
+      "id": "b1184ea2a322cdfa",
       "title": "Trending Crypto: Genius (GENIUS)",
-      "summary": "CoinGecko trending rank #170.",
+      "summary": "CoinGecko trending rank #165.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/genius-3",
       "image_url": "https://coin-images.coingecko.com/coins/images/71660/large/genius.png?1768804210",
-      "published_at": "2026-04-13T17:13:11.028Z",
+      "published_at": "2026-04-13T17:50:43.842Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -513,17 +515,17 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：天才（GENIUS）",
-      "summary_zh": "CoinGecko 趋势排名第 170。"
+      "summary_zh": "CoinGecko 趋势排名第 165 位。"
     },
     {
-      "id": "002f15c6c427fae3",
+      "id": "c31eef64f8f8a427",
       "title": "Trending Crypto: Polkadot (DOT)",
-      "summary": "CoinGecko trending rank #45.",
+      "summary": "CoinGecko trending rank #44.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/polkadot",
       "image_url": "https://coin-images.coingecko.com/coins/images/12171/large/polkadot.jpg?1766533446",
-      "published_at": "2026-04-13T17:13:11.028Z",
+      "published_at": "2026-04-13T17:50:43.842Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -533,17 +535,37 @@
       ],
       "region": "global",
       "title_zh": "流行加密货币：Polkadot (DOT)",
-      "summary_zh": "CoinGecko 趋势排名第 45 位。"
+      "summary_zh": "CoinGecko 趋势排名第 44。"
     },
     {
-      "id": "c5657052a1d1fd12",
+      "id": "b645024f756e588e",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #109.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-04-13T17:50:43.842Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pengu"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：矮胖企鹅 (PENGU)",
+      "summary_zh": "CoinGecko 趋势排名第 109 位。"
+    },
+    {
+      "id": "29b7f487bc9a5576",
       "title": "Trending Crypto: Bittensor (TAO)",
       "summary": "CoinGecko trending rank #39.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bittensor",
       "image_url": "https://coin-images.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg?1696527447",
-      "published_at": "2026-04-13T17:13:11.028Z",
+      "published_at": "2026-04-13T17:50:43.842Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -554,26 +576,6 @@
       "region": "global",
       "title_zh": "加密货币趋势：Bittensor (TAO)",
       "summary_zh": "CoinGecko 趋势排名第 39 名。"
-    },
-    {
-      "id": "adf53a0c51f10bb3",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-04-13T17:13:11.028Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "btc"
-      ],
-      "region": "global",
-      "title_zh": "流行加密货币：比特币 (BTC)",
-      "summary_zh": "CoinGecko 趋势排名第一。"
     },
     {
       "id": "877776222511e3d2",
@@ -938,22 +940,20 @@
       "summary_zh": "英国广播公司欧洲编辑写道，欧洲领导人与匈牙利人一样，对弗拉基米尔·普京的欧盟盟友被驱逐感到高兴。"
     },
     {
-      "id": "3e6069aad475c446",
-      "title": "Pope says he has 'no fear' of Trump after scathing criticism",
-      "summary": "The US president accuses Leo of being \"weak on crime and terrible for foreign policy\".",
+      "id": "d56b63a4d25a951f",
+      "title": "Italian PM condemns ally Trump over 'unacceptable' Pope criticism",
+      "summary": "Italy's prime minister and the US president are close allies, but Trump has refused to apologise to the \"very weak\" Pope Leo XIV.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-04-13T12:50:30.000Z",
+      "published_at": "2026-04-13T17:32:43.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [
-        "policy"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "教皇在严厉批评后表示他“不害怕”特朗普",
-      "summary_zh": "美国总统指责利奥“在犯罪方面软弱，在外交政策方面糟糕”。"
+      "title_zh": "意大利总理谴责盟友特朗普对教皇的批评“不可接受”",
+      "summary_zh": "意大利总理和美国总统是亲密盟友，但特朗普拒绝向“非常软弱”的教皇利奥十四世道歉。"
     },
     {
       "id": "da6a4c7e76aa4981",
@@ -1079,7 +1079,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/04/13/world/europe/pope-leo-africa-future.html",
       "image_url": null,
-      "published_at": "2026-04-13T15:54:44.000Z",
+      "published_at": "2026-04-13T15:54:45.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1120,6 +1120,24 @@
       "region": "global",
       "title_zh": "“有史以来最奇怪的过夜”：荷兰皇室成员拜访特朗普时持怀疑态度",
       "summary_zh": "荷兰国王和王后定于周一晚上入住白宫。在跨大西洋局势紧张之际，荷兰不确定对此有何感受。"
+    },
+    {
+      "id": "49b386283ca59666",
+      "title": "Killer’s Parents Could Have Prevented Southport Attack in U.K., Report Says",
+      "summary": "An official inquiry said the perpetrator’s parents, as well as government agencies, had missed several chances to avert the deadly attack.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/04/13/world/europe/southport-attack-killers-parents-report.html",
+      "image_url": null,
+      "published_at": "2026-04-13T16:51:15.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "报告称，凶手的父母本可以阻止英国绍斯波特袭击",
+      "summary_zh": "官方调查称，肇事者的父母以及政府机构错过了几次避免致命袭击的机会。"
     },
     {
       "id": "96eb1a281fe4308f",
@@ -1175,22 +1193,22 @@
       "summary_zh": "XRP 在过去 24 小时内持平，但较 2025 年夏季峰值下跌了 60% 以上。"
     },
     {
-      "id": "040cb192db2f7d47",
-      "title": "World Liberty Financial executes a massive $22 million stablecoin shuffle amid its borrowing controversy",
-      "summary": "The mint and a simultaneous $3 million burn come days after the venture said it had repaid $25 million of the borrowing position that left depositors unable to withdraw from a DeFi lending pool.",
+      "id": "af822a575303f5db",
+      "title": "Kraken security chief says exchange won’t negotiate as it faces extortion threat",
+      "summary": "The attackers obtained videos showing Kraken support staff accessing internal client support systems and limited client data.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/04/13/wlfi-mints-usd25-million-in-fresh-usd1-and-burns-usd3-million-days-after-repayment-claim",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/post/397260/kraken-security-says-exchange-wont-negotiate-faces-extortion-threat?utm_source=rss&utm_medium=rss",
       "image_url": null,
-      "published_at": "2026-04-13T12:30:00.000Z",
+      "published_at": "2026-04-13T17:23:29.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "World Liberty Financial 在借贷争议中进行了 2200 万美元的大规模稳定币洗牌",
-      "summary_zh": "几天前，该公司表示已经偿还了 2500 万美元的借款头寸，导致储户无法从 DeFi 贷款池中提取资金，并同时烧毁了 300 万美元。"
+      "title_zh": "Kraken 安全主管表示，交易所不会进行谈判，因为面临勒索威胁",
+      "summary_zh": "攻击者获得的视频显示 Kraken 支持人员访问内部客户支持系统和有限的客户数据。"
     },
     {
       "id": "db6053bc370dc520",
@@ -1264,22 +1282,6 @@
       "region": "global",
       "title_zh": "Circle 首席执行官 Allaire 为不冻结 USDC 漂移利用的决定进行辩护，理由是“道德困境”",
       "summary_zh": "Circle 首席执行官 Jeremy Allaire 强调，稳定币发行人有“非常明确的履约义务”，要依法行事。"
-    },
-    {
-      "id": "8125f757e891aa98",
-      "title": "Attacker exploits Polkadot-based Hyperbridge to mint 1 billion bridged DOT, nets $237K",
-      "summary": "Upbit and Bithumb have since temporarily suspended deposits and withdrawals of Polkadot's DOT, citing signs of a security incident.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/post/397167/bridged-dot-hyperbridge-exploit?utm_source=rss&utm_medium=rss",
-      "image_url": null,
-      "published_at": "2026-04-13T07:50:47.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "攻击者利用基于 Polkadot 的 Hyperbridge 铸造 10 亿个桥接 DOT，净赚 23.7 万美元",
-      "summary_zh": "此后，Upbit 和 Bithumb 以存在安全事件迹象为由，暂时停止了 Polkadot 的 DOT 充值和提现。"
     },
     {
       "id": "a598b3eec575b771",
