@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T20:25:47.278Z",
+  "generated_at": "2026-04-14T20:41:28.143Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】高盛申请比特币收入 ETF 推动加密货币发展；【CRYPTO】下一任美联储主席的投资组合中有加密货币敞口。这是详细信息；【WORLD】伊朗战争实时更新：美国称以色列和黎巴嫩同意进行更多和平谈判。",
   "meta": {
     "sources_count": 11,
@@ -70,7 +70,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/live/2026/04/14/world/iran-war-oil-hormuz",
       "image_url": null,
-      "published_at": "2026-04-14T20:22:40.000Z",
+      "published_at": "2026-04-14T20:29:45.000Z",
       "importance_score": 76,
       "sentiment": 0,
       "tags": [
@@ -431,7 +431,7 @@
       ],
       "region": "global",
       "title_zh": "巴勒斯坦官员称哈马斯拒绝加沙解除武装计划",
-      "summary_zh": "这位官员告诉英国广播公司，在以色列完全遵守其承诺之前，武装组织不会推进谈判。"
+      "summary_zh": "这位官员告诉英国广播公司，在以色列完全履行其承诺之前，武装组织不会推进谈判。"
     },
     {
       "id": "825caf69e06180f1",
@@ -492,12 +492,12 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/04/14/world/europe/viktor-orban-peter-magyar-election.html",
       "image_url": null,
-      "published_at": "2026-04-14T20:10:10.000Z",
+      "published_at": "2026-04-14T20:25:37.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "彼得·马扎尔 (Peter Magyar) 如何在匈牙利选举中击败前盟友欧尔班·维克托 (Viktor Orban)",
+      "title_zh": "彼得·马扎尔 (Peter Magyar) 如何在匈牙利选举中击败前盟友欧尔班·维克多 (Viktor Orban)",
       "summary_zh": "多年来，彼得·马扎尔 (Peter Magyar) 一直是匈牙利极右翼领导人欧尔班·维克多 (Viktor Orban) 的忠实盟友。然后他改变了立场，并在周日以压倒性胜利击败了他的前任老板。他代表了真正的改变吗？"
     },
     {
@@ -516,7 +516,7 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "巴林在战争中镇压，拘留期间死亡引发愤怒",
+      "title_zh": "巴林在战争中镇压，一名狱中死亡事件引发愤怒",
       "summary_zh": "目击者称，被指控为伊朗从事间谍活动的男子穆罕默德·穆萨维的尸体上有遭受酷刑的迹象。联合国已呼吁进行调查。"
     },
     {
@@ -570,14 +570,14 @@
       "summary_zh": "Scroll 的顶级协议迁移到 Optimism 后，财务遭受重创，损失了近 1.6 亿美元的 TVL 和 1300 万美元的年费，此次裁员是在财务上受到打击之后发生的。"
     },
     {
-      "id": "bffba0f9c6fd115d",
+      "id": "538c860a10f1c39e",
       "title": "Trending Crypto: RaveDAO (RAVE)",
       "summary": "CoinGecko trending rank #29.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/ravedao",
       "image_url": "https://coin-images.coingecko.com/coins/images/70544/large/coin.jpeg?1762452940",
-      "published_at": "2026-04-14T20:25:12.946Z",
+      "published_at": "2026-04-14T20:41:10.839Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -590,14 +590,14 @@
       "summary_zh": "CoinGecko 趋势排名第 29 位。"
     },
     {
-      "id": "dbb9363f5556c622",
+      "id": "d1f819769e917ef4",
       "title": "Trending Crypto: Aria.AI (ARIA)",
-      "summary": "CoinGecko trending rank #796.",
+      "summary": "CoinGecko trending rank #806.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/aria-ai",
       "image_url": "https://coin-images.coingecko.com/coins/images/68392/large/aria.png?1755601564",
-      "published_at": "2026-04-14T20:25:12.946Z",
+      "published_at": "2026-04-14T20:41:10.839Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -607,17 +607,17 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：Aria.AI (ARIA)",
-      "summary_zh": "CoinGecko 趋势排名#796。"
+      "summary_zh": "CoinGecko 趋势排名#806。"
     },
     {
-      "id": "4952d695c63c840e",
+      "id": "69fe69a2c17334a6",
       "title": "Trending Crypto: Pudgy Penguins (PENGU)",
       "summary": "CoinGecko trending rank #109.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
       "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-04-14T20:25:12.946Z",
+      "published_at": "2026-04-14T20:41:10.839Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -630,34 +630,14 @@
       "summary_zh": "CoinGecko 趋势排名第 109 位。"
     },
     {
-      "id": "adf832d989510029",
-      "title": "Trending Crypto: Hyperliquid (HYPE)",
-      "summary": "CoinGecko trending rank #13.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
-      "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-04-14T20:25:12.946Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "hype"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：Hyperliquid (HYPE)",
-      "summary_zh": "CoinGecko 趋势排名第 13。"
-    },
-    {
-      "id": "ba1726570f8708b6",
+      "id": "fb5a736972f7da43",
       "title": "Trending Crypto: Genius (GENIUS)",
       "summary": "CoinGecko trending rank #180.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/genius-3",
       "image_url": "https://coin-images.coingecko.com/coins/images/71660/large/genius.png?1768804210",
-      "published_at": "2026-04-14T20:25:12.946Z",
+      "published_at": "2026-04-14T20:41:10.839Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -668,6 +648,26 @@
       "region": "global",
       "title_zh": "加密货币趋势：天才（GENIUS）",
       "summary_zh": "CoinGecko 趋势排名第 180 位。"
+    },
+    {
+      "id": "f2fd3a6c5c61b499",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-04-14T20:41:10.839Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "btc"
+      ],
+      "region": "global",
+      "title_zh": "流行加密货币：比特币 (BTC)",
+      "summary_zh": "CoinGecko 趋势排名第一。"
     },
     {
       "id": "877776222511e3d2",
@@ -737,7 +737,7 @@
       ],
       "region": "global",
       "title_zh": "麻省理工学院的研究人员利用人工智能发现材料中的原子缺陷",
-      "summary_zh": "一种新模型可以测量可用来提高材料机械强度、传热和能量转换效率的缺陷。"
+      "summary_zh": "一种新模型可测量可用来提高材料机械强度、传热和能量转换效率的缺陷。"
     },
     {
       "id": "70652f2dbf4c4d7b",
@@ -1105,7 +1105,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-04-14T19:54:52.000Z",
+      "published_at": "2026-04-14T20:30:57.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1389,7 +1389,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "提示基础知识",
-      "summary_zh": "学习提示基础知识以及如何编写清晰、有效的提示，以便从 ChatGPT 获得更好、更有用的响应。"
+      "summary_zh": "学习提示基础知识以及如何编写清晰、有效的提示，以便从 ChatGPT 获得更好、更有用的回复。"
     },
     {
       "id": "8081ac1cdac4ba3e",
