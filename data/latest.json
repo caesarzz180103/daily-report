@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T17:11:10.022Z",
+  "generated_at": "2026-04-25T17:29:55.942Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】这只鲜为人知的ETF在美伊战争期间上涨了600%以上，比石油或能源股更好的交易；【CRYPTO】比特币有望迎来一年来最好的月份。 50 亿美元 USDT 增长推动反弹；【WORLD】欧洲准备在乌克兰打一场更长时间的战争，但没有结束战争的战略。",
   "meta": {
     "sources_count": 11,
@@ -127,7 +127,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan",
       "image_url": null,
-      "published_at": "2026-04-25T17:06:35.000Z",
+      "published_at": "2026-04-25T17:18:06.000Z",
       "importance_score": 64,
       "sentiment": 0,
       "tags": [
@@ -351,7 +351,7 @@
       ],
       "region": "global",
       "title_zh": "北约称美国可能寻求暂停西班牙成员国资格后“没有规定”驱逐成员国",
-      "summary_zh": "据报道，五角大楼的一封内部电子邮件概述了因盟友缺乏对伊朗战争的支持而惩罚盟友的选项。"
+      "summary_zh": "据报道，五角大楼的一封内部电子邮件概述了因盟友缺乏对伊朗战争支持而惩罚盟友的选项。"
     },
     {
       "id": "341a1f0ae2a03f8d",
@@ -571,14 +571,14 @@
       "summary_zh": "这项一致通过的法律将责任从加密 ATM 运营商扩展到托管机器的企业。"
     },
     {
-      "id": "ea9913c1eab4a10a",
+      "id": "b8eafa7602680c64",
       "title": "Trending Crypto: Ultima (ULTIMA)",
       "summary": "CoinGecko trending rank #259.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/ultima",
       "image_url": "https://coin-images.coingecko.com/coins/images/31844/large/ULTIMA-200x200.png?1763090865",
-      "published_at": "2026-04-25T17:10:38.396Z",
+      "published_at": "2026-04-25T17:29:35.719Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -591,14 +591,14 @@
       "summary_zh": "CoinGecko 趋势排名第 259 位。"
     },
     {
-      "id": "5c2b85cfac53b09b",
+      "id": "1b46a977d7541e8b",
       "title": "Trending Crypto: Hyperlane (HYPER)",
-      "summary": "CoinGecko trending rank #453.",
+      "summary": "CoinGecko trending rank #455.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperlane",
       "image_url": "https://coin-images.coingecko.com/coins/images/55298/large/Hyperlane.png?1745248900",
-      "published_at": "2026-04-25T17:10:38.396Z",
+      "published_at": "2026-04-25T17:29:35.719Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -608,67 +608,67 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：Hyperlane (HYPER)",
-      "summary_zh": "CoinGecko 趋势排名#453。"
+      "summary_zh": "CoinGecko 趋势排名#455。"
     },
     {
-      "id": "2fdac7a196c64d20",
-      "title": "Trending Crypto: ApeCoin (APE)",
-      "summary": "CoinGecko trending rank #213.",
+      "id": "cfe0e589e2c62470",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #100.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/apecoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/24383/large/APECOIN.png?1756551529",
-      "published_at": "2026-04-25T17:10:38.396Z",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-04-25T17:29:35.719Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "ape"
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "流行加密货币：ApeCoin (APE)",
-      "summary_zh": "CoinGecko 趋势排名第 213 位。"
+      "title_zh": "加密货币趋势：矮胖企鹅 (PENGU)",
+      "summary_zh": "CoinGecko 趋势排名第 100。"
     },
     {
-      "id": "71ffaed3badf443d",
-      "title": "Trending Crypto: Axie Infinity (AXS)",
-      "summary": "CoinGecko trending rank #157.",
+      "id": "8b4dd8b28f0e31cf",
+      "title": "Trending Crypto: Official Trump (TRUMP)",
+      "summary": "CoinGecko trending rank #93.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/axie-infinity",
-      "image_url": "https://coin-images.coingecko.com/coins/images/13029/large/axie_infinity_logo.png?1696512817",
-      "published_at": "2026-04-25T17:10:38.396Z",
+      "source_url": "https://www.coingecko.com/en/coins/official-trump",
+      "image_url": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561",
+      "published_at": "2026-04-25T17:29:35.719Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "axs"
+        "trump"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：Axie Infinity (AXS)",
-      "summary_zh": "CoinGecko 趋势排名第 157 位。"
+      "title_zh": "加密货币趋势：特朗普官方 (TRUMP)",
+      "summary_zh": "CoinGecko 趋势排名第 93。"
     },
     {
-      "id": "33df701cee048c30",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
+      "id": "dc22b8728d324cc9",
+      "title": "Trending Crypto: Block Street (BSB)",
+      "summary": "CoinGecko trending rank #210.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-04-25T17:10:38.396Z",
+      "source_url": "https://www.coingecko.com/en/coins/block-street",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102172257/large/bsb_400x400.jpg?1772553610",
+      "published_at": "2026-04-25T17:29:35.719Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "btc"
+        "bsb"
       ],
       "region": "global",
-      "title_zh": "流行加密货币：比特币 (BTC)",
-      "summary_zh": "CoinGecko 趋势排名第一。"
+      "title_zh": "加密货币趋势：Block Street (BSB)",
+      "summary_zh": "CoinGecko 趋势排名第 210 位。"
     },
     {
       "id": "493543640f294a41",
@@ -866,7 +866,7 @@
         "bitcoin"
       ],
       "region": "global",
-      "title_zh": "比特币防范量子威胁的时间紧迫，因为它可能会耗尽 690 万比特币，其中包括中本聪的比特币",
+      "title_zh": "比特币防范量子威胁的时间紧迫，因为它可能会消耗 690 万枚比特币，其中包括中本聪的比特币",
       "summary_zh": "没有正式治理的网络能否协调其历史上最大的加密货币迁移？"
     },
     {
@@ -902,7 +902,7 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "使用句子转换器训练和微调多模态嵌入和重排序模型",
+      "title_zh": "使用句子变压器训练和微调多模态嵌入和重排序模型",
       "summary_zh": ""
     },
     {
@@ -1280,8 +1280,8 @@
         "crypto"
       ],
       "region": "global",
-      "title_zh": "美国制裁与伊朗有关的加密钱包，其中包括被 Tether 冻结的持有 3.44 亿美元的地址：CNN",
-      "summary_zh": "据 CNN 报道，此举是在 Tether 冻结了价值 3.44 亿美元的 USDT 后一天进行的，该 USDT 目前已与伊朗有关。"
+      "title_zh": "美国制裁与伊朗有关的加密钱包，其中包括被 Tether 冻结的 3.44 亿美元地址：CNN",
+      "summary_zh": "据 CNN 报道，此举是在 Tether 冻结了价值 3.44 亿美元的 USDT 一天后发生的，该 USDT 目前已与伊朗有关。"
     },
     {
       "id": "a0cde06ef06c96c7",
@@ -1512,7 +1512,7 @@
         "llm"
       ],
       "region": "global",
-      "title_zh": "QIMMA قِّבÉ ⛰：质量第一的阿拉伯语 LLM 排行榜",
+      "title_zh": "QIMMA قِّÉ ⛰：质量第一的阿拉伯语 LLM 排行榜",
       "summary_zh": ""
     },
     {
@@ -1823,7 +1823,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "截至 2026 年 4 月 15 日，来自 Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 4 月 15 日星期三 Quantocracy 最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！什么是最佳堆栈？ [Return Stacked] 我们从顾问那里听到的最常见问题是最佳堆栈是什么？所以"
+      "summary_zh": "这是截至 2026 年 4 月 15 日星期三 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！什么是最佳堆栈？ [Return Stacked] 我们从顾问那里听到的最常见问题是最佳堆栈是什么？所以"
     },
     {
       "id": "8354f66570d46aa0",
@@ -1871,7 +1871,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "截至 2026 年 4 月 5 日，来自 Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 4 月 5 日星期日 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！事件驱动交易初级量化指南 [Quant Galore] 你必须知道这并不是一朝一夕的事情。还有莫"
+      "summary_zh": "这是截至 2026 年 4 月 5 日星期日 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！事件驱动交易初级量化指南 [Quant Galore] 你必须知道这并不是一朝一夕就能实现的。还有莫"
     }
   ]
 }
