@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T21:22:17.610Z",
+  "generated_at": "2026-05-03T21:31:53.472Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】摩根大通的杰米戴蒙发出模糊的信贷衰退警告，但债券市场有更紧迫的问题；【WORLD】伊朗战争以令人惊讶的方式增强了乌克兰的实力。与俄罗斯的停火能否更接近？；【CRYPTO】加密货币行业支持《清晰法案》收益率妥协，推动参议院银行业加价。",
   "meta": {
     "sources_count": 11,
@@ -468,33 +468,14 @@
       "summary_zh": "Coinbase 首席执行官布莱恩·阿姆斯特朗 (Brian Armstrong) 敦促参议院银行委员会“标记这一点”，因为长达数月的僵局似乎已经结束。"
     },
     {
-      "id": "9591176c4d1aa459",
-      "title": "Paradigm researcher proposes timestamp ‘escape hatch’ to protect Satoshi-era bitcoin from quantum threats",
-      "summary": "PACTs would let long-term bitcoin holders prepare for a worst-case quantum scenario without moving funds or signaling activity onchain.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/post/399738/paradigm-researcher-timestamp-escape-hatch-satoshi-era-bitcoin-quantum?utm_source=rss&utm_medium=rss",
-      "image_url": null,
-      "published_at": "2026-05-01T17:44:32.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Paradigm 研究人员提出时间戳“逃生舱”，以保护中本聪时代的比特币免受量子威胁",
-      "summary_zh": "PACT 可以让长期比特币持有者为最坏的量子场景做好准备，而无需转移资金或发出链上活动信号。"
-    },
-    {
-      "id": "022b5a122126d64c",
+      "id": "70116cfba0144d15",
       "title": "Trending Crypto: TROLL (TROLL)",
-      "summary": "CoinGecko trending rank #488.",
+      "summary": "CoinGecko trending rank #485.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/troll-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/55282/large/Untitled_design.png?1777015928",
-      "published_at": "2026-05-03T21:22:04.331Z",
+      "published_at": "2026-05-03T21:31:45.424Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -504,17 +485,17 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：TROLL（TROLL）",
-      "summary_zh": "CoinGecko 趋势排名#488。"
+      "summary_zh": "CoinGecko 趋势排名#485。"
     },
     {
-      "id": "47e0aefd017b2e94",
+      "id": "7e33c781f4fad34f",
       "title": "Trending Crypto: MegaETH (MEGA)",
       "summary": "CoinGecko trending rank #236.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/megaeth",
       "image_url": "https://coin-images.coingecko.com/coins/images/69995/large/ICON.png?1760337992",
-      "published_at": "2026-05-03T21:22:04.331Z",
+      "published_at": "2026-05-03T21:31:45.424Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -527,14 +508,14 @@
       "summary_zh": "CoinGecko 趋势排名第 236 位。"
     },
     {
-      "id": "eac68aed2d6897fb",
+      "id": "afaa277b152e81c0",
       "title": "Trending Crypto: LAB (LAB)",
-      "summary": "CoinGecko trending rank #196.",
+      "summary": "CoinGecko trending rank #195.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/lab",
       "image_url": "https://coin-images.coingecko.com/coins/images/70014/large/lab.png?1760352822",
-      "published_at": "2026-05-03T21:22:04.331Z",
+      "published_at": "2026-05-03T21:31:45.424Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -544,37 +525,17 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：LAB (LAB)",
-      "summary_zh": "CoinGecko 趋势排名第 196 位。"
+      "summary_zh": "CoinGecko 趋势排名第 195 位。"
     },
     {
-      "id": "4d2a903b01fd1ca4",
-      "title": "Trending Crypto: Ondo (ONDO)",
-      "summary": "CoinGecko trending rank #57.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/ondo-finance",
-      "image_url": "https://coin-images.coingecko.com/coins/images/26580/large/ONDO.png?1696525656",
-      "published_at": "2026-05-03T21:22:04.331Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "ondo"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：Ondo (ONDO)",
-      "summary_zh": "CoinGecko 趋势排名第 57。"
-    },
-    {
-      "id": "ccc3ec4b933f7f34",
+      "id": "3e4ea7ee4c711119",
       "title": "Trending Crypto: Bio Protocol (BIO)",
       "summary": "CoinGecko trending rank #240.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bio-protocol",
       "image_url": "https://coin-images.coingecko.com/coins/images/53022/large/bio.jpg?1735011002",
-      "published_at": "2026-05-03T21:22:04.331Z",
+      "published_at": "2026-05-03T21:31:45.424Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -585,6 +546,26 @@
       "region": "global",
       "title_zh": "加密货币趋势：生物协议（BIO）",
       "summary_zh": "CoinGecko 趋势排名第 240 位。"
+    },
+    {
+      "id": "5744159bcf25f386",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #87.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-05-03T21:31:45.424Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pengu"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：矮胖企鹅 (PENGU)",
+      "summary_zh": "CoinGecko 趋势排名第 87。"
     },
     {
       "id": "91e1bc763ba1f632",
@@ -971,7 +952,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-05-03T20:25:25.000Z",
+      "published_at": "2026-05-03T21:28:09.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1125,7 +1106,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/05/03/world/americas/illegal-miners-amazon-rainforest-critical-minerals.html",
       "image_url": null,
-      "published_at": "2026-05-03T09:00:24.000Z",
+      "published_at": "2026-05-03T21:22:54.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1308,6 +1289,25 @@
       "region": "global",
       "title_zh": "预测市场正在抛弃“赌场”标签，成为人们追踪新闻的常规部分",
       "summary_zh": "Bitget 和 Polymarket 的一份新报告显示，预测市场正在演变成一个价值 2400 亿美元的行业，由散户用户推动，这些散户用户在从加密货币到政治的各种领域进行更频繁的交易。"
+    },
+    {
+      "id": "56c4b52395cb80fa",
+      "title": "New York AG settles for $5 million with Uphold in first enforcement action against a crypto yield product promoter",
+      "summary": "The settlement is the first New York enforcement action to target a platform that promoted someone else's crypto yield product rather than its own issuer.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/post/399825/new-york-ag-settles-for-5-million-with-uphold-in-first-enforcement-action-against-a-crypto-yield-product-promoter?utm_source=rss&utm_medium=rss",
+      "image_url": null,
+      "published_at": "2026-05-03T21:26:02.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "New York AG 在针对加密收益产品推广者的首次执法行动中与 Uphold 达成 500 万美元和解",
+      "summary_zh": "该和解协议是纽约首个针对推广他人加密收益产品而非其发行人的平台的执法行动。"
     },
     {
       "id": "6167809eb00dd035",
