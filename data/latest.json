@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T15:11:44.081Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Kraken 母公司申请 OCC 执照，力争成为联邦加密货币银行；【FINANCE】Anthropic 的神话引发了网络安全的“歇斯底里”。专家称威胁已经存在；【WORLD】国际网络攻击扰乱了大片大学和学校。",
+  "generated_at": "2026-05-09T15:40:21.398Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Anthropic 的神话引发了网络安全的“歇斯底里”。专家称威胁已经存在；【WORLD】国际网络攻击扰乱了大片大学和学校；【WORLD】英国选民正在“分裂”。其制度能否承受压力？。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -19,26 +19,6 @@
     "FINANCE": 10
   },
   "items": [
-    {
-      "id": "35451f04af031db8",
-      "title": "Kraken parent goes for the OCC charter in bid to become a federal crypto bank",
-      "summary": "Payward’s application would add a federally regulated trust company to the Kraken group’s existing Wyoming bank charter and Fed master account.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/05/08/kraken-parent-goes-for-the-occ-charter-in-big-to-become-a-federal-crypto-bank",
-      "image_url": null,
-      "published_at": "2026-05-08T17:00:00.000Z",
-      "importance_score": 80,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "fed",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Kraken 母公司申请 OCC 执照，力争成为联邦加密货币银行",
-      "summary_zh": "Payward 的申请将在 Kraken 集团现有的怀俄明州银行执照和美联储主账户中添加一家受联邦监管的信托公司。"
-    },
     {
       "id": "b7da4a37497acc20",
       "title": "Anthropic's Mythos set off a cybersecurity 'hysteria.' Experts say the threat was already here",
@@ -93,6 +73,43 @@
       "region": "global",
       "title_zh": "英国选民正在“分裂”。其制度能否承受压力？",
       "summary_zh": "像英国改革党这样的叛乱政党本周在民意调查中的支持率飙升。但英国的选举制度并不是为多党民主而建立的。"
+    },
+    {
+      "id": "2f26eb93d790495a",
+      "title": "CME is set to let traders bet on bitcoin volatility, not just price",
+      "summary": "CME Group plans to launch bitcoin volatility futures on June 1 pending regulatory approval bringing a easy way to bet on the degree of price swings.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/05/09/you-ll-soon-be-able-to-bet-on-bitcoin-volatility-not-just-price-on-cme",
+      "image_url": null,
+      "published_at": "2026-05-09T15:14:52.000Z",
+      "importance_score": 68,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "芝商所将让交易者押注比特币波动性，而不仅仅是价格",
+      "summary_zh": "芝商所计划于 6 月 1 日推出比特币波动率期货，等待监管机构批准，从而为押注价格波动程度提供一种简单的方法。"
+    },
+    {
+      "id": "a84ffd438bfff1bc",
+      "title": "Swiss central bank bitcoin reserve push fails over signature shortfall",
+      "summary": "The initiative sought to amend Switzerland's constitution, requiring the Swiss National Bank (SNB) to hold BTC alongside gold and foreign-currency reserves.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/05/09/swiss-central-bank-bitcoin-reserve-push-fails-over-signature-shortfall",
+      "image_url": null,
+      "published_at": "2026-05-09T15:28:09.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "瑞士央行比特币储备计划因签名短缺而失败",
+      "summary_zh": "该倡议旨在修改瑞士宪法，要求瑞士国家银行（SNB）除了持有黄金和外汇储备外，还持有比特币。"
     },
     {
       "id": "5c91361d90275d0c",
@@ -410,7 +427,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/05/09/world/europe/peter-magyar-hungary-viktor-orban.html",
       "image_url": null,
-      "published_at": "2026-05-09T15:06:20.000Z",
+      "published_at": "2026-05-09T15:06:21.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
@@ -527,14 +544,34 @@
       "summary_zh": "美国证券交易委员会主席保罗·阿特金斯周五表示，美国证券交易委员会需要明确其监管框架如何适用于软件应用程序。"
     },
     {
-      "id": "82ed8fcdaba6d54f",
+      "id": "2ea9e51780c3794d",
+      "title": "Trending Crypto: aura (AURA)",
+      "summary": "CoinGecko trending rank #720.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/aura-on-sol",
+      "image_url": "https://coin-images.coingecko.com/coins/images/38376/large/aura_logo_200x200-01-01.png?1751114135",
+      "published_at": "2026-05-09T15:40:08.856Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "aura"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：光环（AURA）",
+      "summary_zh": "CoinGecko 趋势排名#720。"
+    },
+    {
+      "id": "2dc81f02b52eaa3c",
       "title": "Trending Crypto: Billions Network (BILL)",
       "summary": "CoinGecko trending rank #168.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/billions-network",
       "image_url": "https://coin-images.coingecko.com/coins/images/68464/large/billions.png?1755828007",
-      "published_at": "2026-05-09T15:11:32.298Z",
+      "published_at": "2026-05-09T15:40:08.856Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -547,74 +584,14 @@
       "summary_zh": "CoinGecko 趋势排名第 168 位。"
     },
     {
-      "id": "14869901b3ed6b8e",
-      "title": "Trending Crypto: aura (AURA)",
-      "summary": "CoinGecko trending rank #789.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/aura-on-sol",
-      "image_url": "https://coin-images.coingecko.com/coins/images/38376/large/aura_logo_200x200-01-01.png?1751114135",
-      "published_at": "2026-05-09T15:11:32.298Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "aura"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：光环（AURA）",
-      "summary_zh": "CoinGecko 趋势排名#789。"
-    },
-    {
-      "id": "78c481686eb33bb3",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-05-09T15:11:32.298Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "btc"
-      ],
-      "region": "global",
-      "title_zh": "流行加密货币：比特币 (BTC)",
-      "summary_zh": "CoinGecko 趋势排名第一。"
-    },
-    {
-      "id": "f333e6d9f6ee2614",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #89.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-05-09T15:11:32.298Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pengu"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：矮胖企鹅 (PENGU)",
-      "summary_zh": "CoinGecko 趋势排名第 89。"
-    },
-    {
-      "id": "3fdb46c909f8fc21",
+      "id": "92294576ead6b1b8",
       "title": "Trending Crypto: wojak (WOJAK)",
       "summary": "CoinGecko trending rank #655.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/wojak-5",
       "image_url": "https://coin-images.coingecko.com/coins/images/102172016/large/usz-J1DohLTr0BHrWVa5zpZ-JocyeixXhmlZT3ytjdOM9cn0aYq6PT8CeUjnGEKAkZSuNa8BW2KkSsCQvYFQe8A-bvqs_AibzILyjP8sIBtqPZu3gTFjLLCvB6WjlzXIrRrnd_Hlg-fKWlf9byXwsQBZqvJ_lC8OHuz351DVfntD30avGrTc3msIIsZzobmywtrwuesT.jpg?1770967858",
-      "published_at": "2026-05-09T15:11:32.298Z",
+      "published_at": "2026-05-09T15:40:08.856Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -625,6 +602,46 @@
       "region": "global",
       "title_zh": "加密货币趋势：wojak (WOJAK)",
       "summary_zh": "CoinGecko 趋势排名#655。"
+    },
+    {
+      "id": "a22166bcdc09798a",
+      "title": "Trending Crypto: Venice Token (VVV)",
+      "summary": "CoinGecko trending rank #87.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/venice-token",
+      "image_url": "https://coin-images.coingecko.com/coins/images/54023/large/VVV_Token_Transparent.png?1741856877",
+      "published_at": "2026-05-09T15:40:08.856Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "vvv"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：Venice Token (VVV)",
+      "summary_zh": "CoinGecko 趋势排名第 87。"
+    },
+    {
+      "id": "06454fd94d0e545c",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-05-09T15:40:08.856Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "btc"
+      ],
+      "region": "global",
+      "title_zh": "流行加密货币：比特币 (BTC)",
+      "summary_zh": "CoinGecko 趋势排名第一。"
     },
     {
       "id": "faef99e918276759",
@@ -1127,19 +1144,19 @@
       "summary_zh": "美国公布了有关不明飞行物的文字记录、视频剪辑和录音。"
     },
     {
-      "id": "ef1d81b7a93d9f2d",
-      "title": "Hungary's new PM sworn in after landslide victory over Orbán",
+      "id": "d288b3cbb2236e51",
+      "title": "'I will serve not rule over Hungary,' says new PM",
       "summary": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-05-09T13:58:01.000Z",
+      "published_at": "2026-05-09T15:12:04.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "匈牙利新总理以压倒性优势击败欧尔班后宣誓就职",
+      "title_zh": "新总理表示：“我将服务而不是统治匈牙利”",
       "summary_zh": "大约一个月前，彼得·马扎尔 (Péter Magyar) 带领蒂萨党取得压倒性胜利，推翻了欧尔班·维克多 (Viktor Orbán) 16 年的统治。"
     },
     {
@@ -1335,24 +1352,6 @@
       "region": "global",
       "title_zh": "LayerZero 表示，它在价值 2.92 亿美元的 Kelp 攻击中“犯了一个错误”",
       "summary_zh": "在最初将该漏洞定位为开发人员配置失败后，LayerZero 表示，它“拥有”让自己的验证程序在易受攻击的设置中保护高价值传输的决定。"
-    },
-    {
-      "id": "35e72f527890b29c",
-      "title": "SEC chair Atkins signals new rules for onchain markets, AI-driven finance",
-      "summary": "The SEC chair linked the rise of AI-powered financial systems with growing demand for blockchain-based market infrastructure and automated settlement.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/05/08/sec-chair-atkins-signals-new-rules-for-onchain-markets-ai-driven-finance",
-      "image_url": null,
-      "published_at": "2026-05-08T18:32:23.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "SEC 主席阿特金斯表示链上市场和人工智能驱动金融的新规则",
-      "summary_zh": "这位 SEC 主席将人工智能驱动的金融系统的兴起与对基于区块链的市场基础设施和自动结算的需求不断增长联系起来。"
     },
     {
       "id": "a53050912c77268d",
