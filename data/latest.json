@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T20:26:07.253Z",
+  "generated_at": "2026-05-17T20:51:19.928Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】凯文·沃什 (Kevin Warsh) 进入美联储，面临降息问题的“家庭斗争”；【CRYPTO】随着下一个山寨币现货 ETF 竞争的加速，VanEck 和 Grayscale 提交了新的 BNB ETF 修正案；【FINANCE】斯蒂芬·米兰退出美联储。他如何为凯文·沃什奠定了基础。。",
   "meta": {
     "sources_count": 11,
@@ -173,24 +173,6 @@
       "region": "global",
       "title_zh": "随着阿布扎比主权基金不断增加比特币头寸，哈佛抛售以太坊 ETF",
       "summary_zh": "总部位于阿布扎比的 Mubadala 在贝莱德 iShares 比特币信托 ETF 中本已相当大的头寸基础上又增加了超过 9000 万美元。"
-    },
-    {
-      "id": "3a90088bd257848c",
-      "title": "21Shares’ Hyperliquid ETF posts ‘best day’ inflows of $5 million as Coinbase becomes treasury deployer",
-      "summary": "The newly-launched ETF “had its best day yet\" on Thursday with $8.1 million trading volume and net inflows of roughly $4.9 million.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/post/401479/21shares-hyperliquid-etf-best-day-inflows-5-million-coinbase-treasury-deployer?utm_source=rss&utm_medium=rss",
-      "image_url": null,
-      "published_at": "2026-05-15T13:16:39.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "etf"
-      ],
-      "region": "global",
-      "title_zh": "随着 Coinbase 成为资金部署者，21Shares 的 Hyperliquid ETF 迎来了 500 万美元的“最佳日”流入",
-      "summary_zh": "周四，这只新推出的 ETF 迎来了“迄今为止最好的一天”，交易量为 810 万美元，净流入约为 490 万美元。"
     },
     {
       "id": "c166acc926f72c0e",
@@ -411,34 +393,14 @@
       "summary_zh": "DeFi 保险协议在 2020 年加密货币热潮期间首次亮相，雄心勃勃。但随着黑客的发展以及用户追逐收益而不是保护，该行业的大部分都在其旨在应对的相同风险下崩溃了。"
     },
     {
-      "id": "bec91118766d450d",
-      "title": "Trending Crypto: Dolphin (POD)",
-      "summary": "CoinGecko trending rank #791.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/dolphin-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/70187/large/1_to_1_Dolphin_imresizer.jpg?1760947185",
-      "published_at": "2026-05-17T20:25:47.458Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pod"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：Dolphin (POD)",
-      "summary_zh": "CoinGecko 趋势排名#791。"
-    },
-    {
-      "id": "e8cd8a4982a94a28",
+      "id": "cb69a928225caf12",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
-      "summary": "CoinGecko trending rank #12.",
+      "summary": "CoinGecko trending rank #13.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
       "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-05-17T20:25:47.458Z",
+      "published_at": "2026-05-17T20:51:05.019Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -448,37 +410,57 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：Hyperliquid (HYPE)",
-      "summary_zh": "CoinGecko 趋势排名第 12。"
+      "summary_zh": "CoinGecko 趋势排名第 13。"
     },
     {
-      "id": "9f17550d47702bde",
-      "title": "Trending Crypto: OpenServ (SERV)",
-      "summary": "CoinGecko trending rank #553.",
+      "id": "4b8cae2c98ed855e",
+      "title": "Trending Crypto: Dolphin (POD)",
+      "summary": "CoinGecko trending rank #809.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/openserv",
-      "image_url": "https://coin-images.coingecko.com/coins/images/51430/large/X_Logo_Blue_%282%29.png?1747853206",
-      "published_at": "2026-05-17T20:25:47.458Z",
+      "source_url": "https://www.coingecko.com/en/coins/dolphin-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/70187/large/1_to_1_Dolphin_imresizer.jpg?1760947185",
+      "published_at": "2026-05-17T20:51:05.019Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "serv"
+        "pod"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：OpenServ (SERV)",
-      "summary_zh": "CoinGecko 趋势排名#553。"
+      "title_zh": "加密货币趋势：Dolphin (POD)",
+      "summary_zh": "CoinGecko 趋势排名#809。"
     },
     {
-      "id": "2cdb69b010b0db2b",
+      "id": "5b72afc419f5308b",
+      "title": "Trending Crypto: Venice Token (VVV)",
+      "summary": "CoinGecko trending rank #86.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/venice-token",
+      "image_url": "https://coin-images.coingecko.com/coins/images/54023/large/VVV_Token_Transparent.png?1741856877",
+      "published_at": "2026-05-17T20:51:05.019Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "vvv"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：Venice Token (VVV)",
+      "summary_zh": "CoinGecko 趋势排名第 86。"
+    },
+    {
+      "id": "4e00e76d739b8267",
       "title": "Trending Crypto: Pudgy Penguins (PENGU)",
       "summary": "CoinGecko trending rank #98.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
       "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-05-17T20:25:47.458Z",
+      "published_at": "2026-05-17T20:51:05.019Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -491,24 +473,24 @@
       "summary_zh": "CoinGecko 趋势排名第 98。"
     },
     {
-      "id": "59d651ccf90b289a",
-      "title": "Trending Crypto: Gitlawb (GITLAWB)",
-      "summary": "CoinGecko trending rank #611.",
+      "id": "af7d1087493af4d2",
+      "title": "Trending Crypto: OpenServ (SERV)",
+      "summary": "CoinGecko trending rank #548.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/gitlawb",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102172941/large/b16bfbf1-8384-43fc-9797-88fba91ddca5.png?1776736251",
-      "published_at": "2026-05-17T20:25:47.458Z",
+      "source_url": "https://www.coingecko.com/en/coins/openserv",
+      "image_url": "https://coin-images.coingecko.com/coins/images/51430/large/X_Logo_Blue_%282%29.png?1747853206",
+      "published_at": "2026-05-17T20:51:05.019Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "gitlawb"
+        "serv"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：Gitlawb (GITLAWB)",
-      "summary_zh": "CoinGecko 趋势排名#611。"
+      "title_zh": "加密货币趋势：OpenServ (SERV)",
+      "summary_zh": "CoinGecko 趋势排名#548。"
     },
     {
       "id": "91e1bc763ba1f632",
@@ -1220,6 +1202,24 @@
       "region": "global",
       "title_zh": "日本 SBI 证券和乐天证券计划提供加密货币投资信托",
       "summary_zh": "另外 11 家公司在接受调查时表示，一旦监管环境变得清晰，他们将考虑提供加密货币基金。"
+    },
+    {
+      "id": "5b8d25a2da35e6ce",
+      "title": "Alleged Forsage co-founder extradited from Thailand, pleads not guilty in $340 million Ponzi case",
+      "summary": "The alleged mastermind behind Forsage, co-defendant Vladimir Okhotnikov, resurfaced in a film with disgraced actor Kevin Spacey last year.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/post/401563/alleged-forsage-co-founder-extradited-from-thailand-pleads-not-guilty-in-340-million-ponzi-case?utm_source=rss&utm_medium=rss",
+      "image_url": null,
+      "published_at": "2026-05-17T20:40:21.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "据称 Forsage 联合创始人从泰国被引渡，在价值 3.4 亿美元的庞氏骗局中不认罪",
+      "summary_zh": "被指控为“Forsage”背后主谋的同案被告弗拉基米尔·奥霍特尼科夫(Vladimir Okhotnikov)去年在与名誉扫地的演员凯文·史派西(Kevin Spacey)合作的一部电影中重新露面。"
     },
     {
       "id": "a90fee419ffb6cce",
