@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-18T23:01:45.048Z",
+  "generated_at": "2026-05-18T23:55:02.545Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】凯文·沃什 (Kevin Warsh) 进入美联储，面临降息问题的“家庭斗争”；【WORLD】中东紧张局势再次加剧，特朗普警告伊朗“时间紧迫”；【FINANCE】三月份，沃伦·巴菲特向 CNBC 开玩笑说这是一次“小额收购”。伯克希尔的文件可能已经透露了这一点。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
     "feed_failed": 0,
     "failed_sources": [],
-    "translated_items": 104,
+    "translated_items": 105,
     "translation_target": "zh-CN",
     "version": "1.3.0"
   },
@@ -329,7 +329,7 @@
       ],
       "region": "global",
       "title_zh": "Mike Novogratz 的 Galaxy 获得纽约机构加密货币推广许可证",
-      "summary_zh": "Galaxy Digital became the second company this year to secure a New York BitLicense, following Strike’s approval in March."
+      "summary_zh": "继 3 月份 Strike 获得批准后，Galaxy Digital 成为今年第二家获得纽约 BitLicense 的公司。"
     },
     {
       "id": "287d3167a1032444",
@@ -365,7 +365,7 @@
       ],
       "region": "global",
       "title_zh": "又有两名以太坊基金会研究人员在离职潮中辞职",
-      "summary_zh": "Carl Beek and Julian Ma announced they were leaving the Ethereum Foundation on Monday, the latest employees to publicly resign."
+      "summary_zh": "Carl Beek 和 Julian Ma 于周一宣布离开以太坊基金会，成为最新公开辞职的员工。"
     },
     {
       "id": "d7a138ce93d0d317",
@@ -384,17 +384,17 @@
       ],
       "region": "global",
       "title_zh": "Kraken 联合首席执行官表示，交易所收入增长 3%，达到 5.07 亿美元，在消费狂潮中是一个“更具弹性”的组合",
-      "summary_zh": "Payward filed confidentially for an IPO in November, but may be delaying plans amid a fluctuating valuation and uncertain market."
+      "summary_zh": "无限循环无限循环有限公司于 11 月秘密申请首次公开募股，但由于估值波动和市场不确定，可能会推迟计划。"
     },
     {
-      "id": "81af747367f7d37b",
+      "id": "8129a1dadd9623c9",
       "title": "Trending Crypto: Ronin (RON)",
-      "summary": "CoinGecko trending rank #298.",
+      "summary": "CoinGecko trending rank #286.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/ronin",
       "image_url": "https://coin-images.coingecko.com/coins/images/20009/large/photo_2024-04-06_22-52-24.jpg?1712415367",
-      "published_at": "2026-05-18T23:01:09.522Z",
+      "published_at": "2026-05-18T23:54:41.599Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -404,17 +404,17 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：Ronin (RON)",
-      "summary_zh": "CoinGecko trending rank #298."
+      "summary_zh": "CoinGecko 趋势排名第 286 位。"
     },
     {
-      "id": "18e9d63b01a04a0e",
+      "id": "19c79fb091bc7f88",
       "title": "Trending Crypto: Zano (ZANO)",
-      "summary": "CoinGecko trending rank #201.",
+      "summary": "CoinGecko trending rank #200.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/zano",
       "image_url": "https://coin-images.coingecko.com/coins/images/8370/large/Icon-App-512x512.png?1761825305",
-      "published_at": "2026-05-18T23:01:09.522Z",
+      "published_at": "2026-05-18T23:54:41.599Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -424,37 +424,17 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：ZANO (ZANO)",
-      "summary_zh": "CoinGecko 趋势排名第 201。"
+      "summary_zh": "CoinGecko 趋势排名第 200 位。"
     },
     {
-      "id": "796bb16427fc8dc7",
-      "title": "Trending Crypto: Ondo (ONDO)",
-      "summary": "CoinGecko trending rank #47.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/ondo-finance",
-      "image_url": "https://coin-images.coingecko.com/coins/images/26580/large/ONDO.png?1696525656",
-      "published_at": "2026-05-18T23:01:09.522Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "ondo"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Ondo (ONDO)",
-      "summary_zh": "CoinGecko 趋势排名第 47。"
-    },
-    {
-      "id": "3761141ef7d05092",
+      "id": "56dc942b01928048",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
       "summary": "CoinGecko trending rank #12.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
       "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-05-18T23:01:09.522Z",
+      "published_at": "2026-05-18T23:54:41.599Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -467,24 +447,44 @@
       "summary_zh": "CoinGecko 趋势排名第 12。"
     },
     {
-      "id": "0ba05ce1f0d902ae",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #99.",
+      "id": "f734f8c3015e7a85",
+      "title": "Trending Crypto: Ondo (ONDO)",
+      "summary": "CoinGecko trending rank #47.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-05-18T23:01:09.522Z",
+      "source_url": "https://www.coingecko.com/en/coins/ondo-finance",
+      "image_url": "https://coin-images.coingecko.com/coins/images/26580/large/ONDO.png?1696525656",
+      "published_at": "2026-05-18T23:54:41.599Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pengu"
+        "ondo"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：矮胖企鹅 (PENGU)",
-      "summary_zh": "CoinGecko 趋势排名第 99。"
+      "title_zh": "加密货币趋势：Ondo (ONDO)",
+      "summary_zh": "CoinGecko 趋势排名第 47。"
+    },
+    {
+      "id": "33ef4940fccc7089",
+      "title": "Trending Crypto: Venice Token (VVV)",
+      "summary": "CoinGecko trending rank #86.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/venice-token",
+      "image_url": "https://coin-images.coingecko.com/coins/images/54023/large/VVV_Token_Transparent.png?1741856877",
+      "published_at": "2026-05-18T23:54:41.599Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "vvv"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：Venice Token (VVV)",
+      "summary_zh": "CoinGecko 趋势排名第 86。"
     },
     {
       "id": "91e1bc763ba1f632",
@@ -521,7 +521,7 @@
       ],
       "region": "global",
       "title_zh": "人和机器玩的游戏：理清战略推理以推进人工智能",
-      "summary_zh": "Assistant Professor Gabriele Farina mines the foundations of decision-making in complex multi-agent scenarios."
+      "summary_zh": "助理教授 Gabriele Farina 挖掘复杂多智能体场景中决策的基础。"
     },
     {
       "id": "abff3c9254205563",
@@ -661,7 +661,7 @@
       ],
       "region": "global",
       "title_zh": "HIVE 斥资 5800 万美元在多伦多购买人工智能设施地块；股价攀升",
-      "summary_zh": "The bitcoin mining firm continues on its investment path into AI data centers after raising $115 million to expand its global footprint in the industry."
+      "summary_zh": "这家比特币挖矿公司在筹集了 1.15 亿美元以扩大其在该行业的全球影响力后，继续投资人工智能数据中心。"
     },
     {
       "id": "5138ee4ad93eed2c",
@@ -682,7 +682,7 @@
       ],
       "region": "global",
       "title_zh": "前 OpenAI 的 Leopold Aschenbrenner 在加密货币矿工上押下重注，投入 136 亿美元的 AI 投资",
-      "summary_zh": "Aschenbrenner is shorting Nvidia and AMD in favor of bitcoin miners that own the electricity and data centers needed to fuel the next phase of the AI boom."
+      "summary_zh": "阿申布伦纳（Aschenbrenner）做空英伟达（Nvidia）和AMD，转而看好比特币矿商，这些矿商拥有推动下一阶段人工智能繁荣所需的电力和数据中心。"
     },
     {
       "id": "d5852548a708b625",
@@ -1136,7 +1136,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/05/18/world/americas/fifa-south-america-conmebol-dominguez.html",
       "image_url": null,
-      "published_at": "2026-05-18T17:52:23.000Z",
+      "published_at": "2026-05-18T17:52:24.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1580,7 +1580,7 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "EMO: Pretraining mixture of experts for emergent modularity",
+      "title_zh": "EMO：针对紧急模块化的专家预培训组合",
       "summary_zh": ""
     },
     {
