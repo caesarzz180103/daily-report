@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T20:00:22.006Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】凯文·沃什真正的美联储“政权更迭”可能发生在华尔街的管道深处；【FINANCE】尽管法律环境不明朗，但企业并没有被吓倒在预测市场投资；【FINANCE】预测市场正在加剧各州和联邦监管机构之间的高风险争吵。",
+  "generated_at": "2026-05-23T20:55:55.306Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】欧洲央行警告欧盟财长放宽欧元稳定币规则将削弱银行实力：路透；【FINANCE】凯文·沃什真正的美联储“政权更迭”可能发生在华尔街的管道深处；【FINANCE】尽管法律环境不明朗，但企业并没有被吓倒在预测市场投资。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -19,6 +19,24 @@
     "FINANCE": 10
   },
   "items": [
+    {
+      "id": "30e367ba3a26ae36",
+      "title": "ECB warns EU finance ministers that easing euro stablecoin rules would weaken banks: Reuters",
+      "summary": "ECB President Christine Lagarde warned the changes would destabilize bank funding and weaken interest-rate transmission.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/post/402427/ecb-warns-eu-finance-ministers-that-easing-euro-stablecoin-rules-would-weaken-banks-reuters?utm_source=rss&utm_medium=rss",
+      "image_url": null,
+      "published_at": "2026-05-23T20:21:18.000Z",
+      "importance_score": 80,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "欧洲央行警告欧盟财长放宽欧元稳定币规则将削弱银行实力：路透",
+      "summary_zh": "欧洲央行行长克里斯蒂娜·拉加德警告称，这些变化将破坏银行融资的稳定并削弱利率传导。"
+    },
     {
       "id": "f9ac55c9520139f8",
       "title": "Kevin Warsh's real Fed 'regime change' may happen deep inside Wall Street's plumbing",
@@ -276,6 +294,25 @@
       "summary_zh": "国务卿希望向德里出售美国能源，以弥补伊朗战争造成的能源短缺。"
     },
     {
+      "id": "b4a5970360180ef8",
+      "title": "California declares state of emergency as fire crews race to contain toxic chemical leak",
+      "summary": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-05-23T20:07:01.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "加州宣布进入紧急状态，消防人员竞相遏制有毒化学品泄漏",
+      "summary_zh": "由于官员警告称，一个装有约 7,000 加仑甲基丙烯酸甲酯的储罐可能会爆炸，数千人已被疏散。"
+    },
+    {
       "id": "426485fd74b52d5f",
       "title": "France Bans Israeli Minister Over Treatment of Detained Flotilla Activists",
       "summary": "Itamar Ben-Gvir, the Israeli national security minister, has long drawn criticism for his hard-line statements and harsh policies against Palestinian prisoners.",
@@ -385,24 +422,6 @@
       "summary_zh": "一位当地银行家告诉 CoinDesk，鉴于华尔街大举进军加密货币行业，明尼苏达州的金融机构不能继续袖手旁观。"
     },
     {
-      "id": "0b3b0ed0a6899d74",
-      "title": "Congress hits Polymarket and Kalshi with a massive insider trading probe",
-      "summary": "Rep. James Comer is demanding internal records from the prediction market CEOs, warning that government employees could be using classified information to make “huge profits”.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/05/22/congress-probes-polymarket-and-kalshi-over-fears-government-employees-are-trading-on-secret-info",
-      "image_url": null,
-      "published_at": "2026-05-22T15:27:40.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "国会对 Polymarket 和 Kalshi 进行大规模内幕交易调查",
-      "summary_zh": "众议员詹姆斯·科默要求预测市场首席执行官提供内部记录，警告政府雇员可能会利用机密信息来赚取“巨额利润”。"
-    },
-    {
       "id": "a721e6239c5ca1b1",
       "title": "FTX’s former law firm, auditor agree to pay $66 million to settle customer claims over fraud",
       "summary": "The law firm, Fenwick & West, denied wrongdoing and still faces a separate $525 million suit in Washington that is not covered by Friday's deal.",
@@ -440,14 +459,14 @@
       "summary_zh": "第九巡回法院表示，联邦衍生品监管并不能保护预测市场公司免受州博彩执法的影响。"
     },
     {
-      "id": "b01108704c16ccde",
+      "id": "a5ad8327ab8d397c",
       "title": "Trending Crypto: Convex Finance (CVX)",
-      "summary": "CoinGecko trending rank #223.",
+      "summary": "CoinGecko trending rank #221.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/convex-finance",
       "image_url": "https://coin-images.coingecko.com/coins/images/15585/large/convex.png?1696515221",
-      "published_at": "2026-05-23T20:00:07.052Z",
+      "published_at": "2026-05-23T20:55:45.492Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -457,57 +476,17 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：Convex Finance (CVX)",
-      "summary_zh": "CoinGecko 趋势排名第 223 位。"
+      "summary_zh": "CoinGecko 趋势排名第 221。"
     },
     {
-      "id": "e74b8f906f06f016",
-      "title": "Trending Crypto: Ergo (ERG)",
-      "summary": "CoinGecko trending rank #817.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/ergo",
-      "image_url": "https://coin-images.coingecko.com/coins/images/2484/large/channels4_profile.jpg?1726043738",
-      "published_at": "2026-05-23T20:00:07.052Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "erg"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：尔格 (ERG)",
-      "summary_zh": "CoinGecko 趋势排名#817。"
-    },
-    {
-      "id": "5d115c35267a5ee9",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #96.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-05-23T20:00:07.052Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pengu"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：矮胖企鹅 (PENGU)",
-      "summary_zh": "CoinGecko 趋势排名第 96。"
-    },
-    {
-      "id": "747c67cf436c77c8",
+      "id": "0d13d32584ea62ad",
       "title": "Trending Crypto: NEAR Protocol (NEAR)",
       "summary": "CoinGecko trending rank #34.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/near",
       "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
-      "published_at": "2026-05-23T20:00:07.052Z",
+      "published_at": "2026-05-23T20:55:45.492Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -520,14 +499,54 @@
       "summary_zh": "CoinGecko 趋势排名第 34 位。"
     },
     {
-      "id": "c30bd4855304361c",
+      "id": "4139e38af601883a",
+      "title": "Trending Crypto: Venice Token (VVV)",
+      "summary": "CoinGecko trending rank #78.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/venice-token",
+      "image_url": "https://coin-images.coingecko.com/coins/images/54023/large/VVV_Token_Transparent.png?1741856877",
+      "published_at": "2026-05-23T20:55:45.492Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "vvv"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：Venice Token (VVV)",
+      "summary_zh": "CoinGecko 趋势排名第 78 位。"
+    },
+    {
+      "id": "c27c042e3046c399",
+      "title": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary": "CoinGecko trending rank #11.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
+      "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
+      "published_at": "2026-05-23T20:55:45.492Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "hype"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：Hyperliquid (HYPE)",
+      "summary_zh": "CoinGecko 趋势排名第 11。"
+    },
+    {
+      "id": "6605057b2514e2ca",
       "title": "Trending Crypto: Railgun (RAIL)",
-      "summary": "CoinGecko trending rank #210.",
+      "summary": "CoinGecko trending rank #209.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/railgun",
       "image_url": "https://coin-images.coingecko.com/coins/images/16840/large/railgun.jpeg?1696516407",
-      "published_at": "2026-05-23T20:00:07.052Z",
+      "published_at": "2026-05-23T20:55:45.492Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -537,7 +556,7 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：轨道炮 (RAIL)",
-      "summary_zh": "CoinGecko 趋势排名第 210 位。"
+      "summary_zh": "CoinGecko 趋势排名第 209 位。"
     },
     {
       "id": "d39a33c95c54e887",
@@ -729,6 +748,24 @@
       "region": "global",
       "title_zh": "截至 2026 年 4 月 29 日，来自 Quantocracy 的最新量化链接",
       "summary_zh": "这是截至 2026 年 4 月 29 日星期三 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！根据近期表现选择 TAA 策略（第 1 部分）[智能分配] 这是多部分系列的第一篇"
+    },
+    {
+      "id": "49382859455fcf71",
+      "title": "Bitcoin heads higher as President Trump announces Iran peace agreement",
+      "summary": "\"An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries,\" wrote President Trump late Saturday afternoon.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement",
+      "image_url": null,
+      "published_at": "2026-05-23T20:52:21.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "特朗普总统宣布伊朗和平协议，比特币走高",
+      "summary_zh": "特朗普总统周六下午晚些时候写道：“一项协议已基本通过谈判，有待美利坚合众国、伊朗伊斯兰共和国和其他国家之间最终敲定。”"
     },
     {
       "id": "dc5b58bec7c27fce",
@@ -1004,19 +1041,21 @@
       "summary_zh": "预测市场 Polymarket 的交易员认为 SpaceX、OpenAI 和 Anthropic 在上市首日的估值将超过至少 1.4 万亿美元。"
     },
     {
-      "id": "029499be8c78b23c",
-      "title": "Iran 'getting a lot closer' to agreement with US, Trump says",
+      "id": "52b873a191b25522",
+      "title": "Trump says deal with Iran 'largely negotiated' and would include opening Strait of Hormuz",
       "summary": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-05-23T19:46:54.000Z",
+      "published_at": "2026-05-23T20:55:01.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai"
+      ],
       "region": "global",
-      "title_zh": "特朗普称伊朗与美国达成协议“更加接近”",
+      "title_zh": "特朗普表示与伊朗的协议“很大程度上是通过谈判达成的”，其中包括开放霍尔木兹海峡",
       "summary_zh": "德黑兰也表示谈判取得了进展，但表示核武器的关键问题并不是其正在制定的初步框架的一部分。"
     },
     {
@@ -1122,24 +1161,6 @@
       "summary_zh": "巴西鲁·迪马耶·法耶还解散了政府，给该国的债务危机带来了不确定性。"
     },
     {
-      "id": "997e485fb479ca6b",
-      "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-      "summary": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations are false.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-05-23T08:10:51.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "加沙船队活动人士声称以色列军队在被拘留期间实施虐待行为",
-      "summary_zh": "被拘留者称，他们遭到掌掴、殴打、羞辱，甚至遭受性暴力，但以色列监狱部门表示，这些指控是虚假的。"
-    },
-    {
       "id": "29f39c8f28ab08bd",
       "title": "A Lull in Fighting Gave Time to Bury Their Dead",
       "summary": "In the relative calm of the early days of a cease-fire, there were heart-rending scenes as people exhumed their loved ones from temporary graves and reburied them.",
@@ -1163,7 +1184,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html",
       "image_url": null,
-      "published_at": "2026-05-23T18:08:40.000Z",
+      "published_at": "2026-05-23T20:45:31.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1396,24 +1417,6 @@
       "region": "global",
       "title_zh": "卡尔什支持的预测市场倡导组织在前特朗普助手的支持下首次亮相",
       "summary_zh": "在前白宫副幕僚长泰勒·布多维奇的支持下，一个专注于预测市场的倡导组织已经成立。"
-    },
-    {
-      "id": "93fe6f12786bbd0a",
-      "title": "Binance disputes latest WSJ report on alleged Iran-linked transactions",
-      "summary": "WSJ reported Iranian financier Babak Zanjani allegedly moved $850 million through Binance, which CEO Richard Teng said was mischaracterized.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/post/402353/binance-disputes-latest-wsj-report-on-alleged-iran-linked-transactions?utm_source=rss&utm_medium=rss",
-      "image_url": null,
-      "published_at": "2026-05-22T14:02:44.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "币安对《华尔街日报》关于涉嫌与伊朗相关交易的最新报道提出异议",
-      "summary_zh": "《华尔街日报》报道称，伊朗金融家巴巴克·赞贾尼 (Babak Zanjani) 涉嫌通过币安转移 8.5 亿美元，首席执行官理查德·滕 (Richard Teng) 表示，这种行为被错误描述。"
     },
     {
       "id": "9878deb688e66ca8",
