@@ -1,43 +1,29 @@
 {
-  "generated_at": "2026-06-15T22:12:36.533Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】从初创公司到 1.8 万亿美元：抓住 SpaceX 机会的投资者现在获得了回报；【CRYPTO】Bitmine 在发行优先股筹集了 2.74 亿美元后，又增加了 1.36 亿美元的以太币；【CRYPTO】尽管存在中东风险，市场仍欢呼美国与伊朗的突破，美联储仍是焦点。",
+  "generated_at": "2026-06-15T22:54:02.829Z",
+  "hourly_summary": "本小时共收录 95 条：AI 30 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Bitmine 在发行优先股筹集了 2.74 亿美元后，又增加了 1.36 亿美元的以太币；【CRYPTO】尽管存在中东风险，市场仍欢呼美国与伊朗的突破，美联储仍是焦点；【CRYPTO】渣打银行表示 Uniswap 的 UNI 代币到 2030 年可能会飙升 40 倍，达到 100 美元。",
   "meta": {
     "sources_count": 11,
-    "feed_ok": 10,
-    "feed_failed": 0,
-    "failed_sources": [],
-    "translated_items": 105,
+    "feed_ok": 9,
+    "feed_failed": 1,
+    "failed_sources": [
+      {
+        "source": "Hugging Face Blog",
+        "error": "Status code 429"
+      }
+    ],
+    "translated_items": 95,
     "translation_target": "zh-CN",
     "version": "1.3.0"
   },
   "stats": {
-    "total": 105,
-    "AI": 40,
+    "total": 95,
+    "AI": 30,
     "STRATEGY": 10,
     "CRYPTO": 25,
     "WORLD": 20,
     "FINANCE": 10
   },
   "items": [
-    {
-      "id": "73a9f3138b226769",
-      "title": "From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards",
-      "summary": "With SpaceX seeking an IPO valuation of nearly $1.8 trillion, early bets are poised to generate some of the biggest paper gains in venture capital history.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html",
-      "image_url": null,
-      "published_at": "2026-06-12T14:46:10.000Z",
-      "importance_score": 70,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "从初创公司到 1.8 万亿美元：抓住 SpaceX 机会的投资者现在获得了回报",
-      "summary_zh": "随着 SpaceX 寻求近 1.8 万亿美元的 IPO 估值，早期押注有望创造风险投资历史上最大的账面收益。"
-    },
     {
       "id": "0b1df5354e6b7448",
       "title": "Bitmine adds another $136 million of ether after raising $274 million in preferred stock sale",
@@ -120,7 +106,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
       "image_url": null,
-      "published_at": "2026-06-15T21:55:36.000Z",
+      "published_at": "2026-06-15T22:47:19.000Z",
       "importance_score": 64,
       "sentiment": 0,
       "tags": [
@@ -365,7 +351,7 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "哥伦比亚永无休止的毒品战争",
+      "title_zh": "哥伦比亚永无休止的毒品战争的内部",
       "summary_zh": "在达成具有里程碑意义的和平协议十年后，武装团体正在制造致命的暴力，将丛林战斗与新的无人机战争融为一体。"
     },
     {
@@ -492,14 +478,14 @@
       "summary_zh": "Forward Industries 提出以溢价收购 Solana DAT 竞争对手，因为他们的 mNAV 随着 SOL 价格的下降而下滑。"
     },
     {
-      "id": "3e07b436e4aeb9b9",
+      "id": "de903ad0b16311b0",
       "title": "Trending Crypto: Zano (ZANO)",
       "summary": "CoinGecko trending rank #208.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/zano",
       "image_url": "https://coin-images.coingecko.com/coins/images/8370/large/Icon-App-512x512.png?1761825305",
-      "published_at": "2026-06-15T22:12:14.074Z",
+      "published_at": "2026-06-15T22:53:50.502Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -512,34 +498,14 @@
       "summary_zh": "CoinGecko 趋势排名第 208 位。"
     },
     {
-      "id": "8f8ac91298cc59b7",
-      "title": "Trending Crypto: SpaceX xStock (SPCXX)",
-      "summary": "CoinGecko trending rank #659.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/spacex-xstocks",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102173688/large/SPCXx.png?1780961372",
-      "published_at": "2026-06-15T22:12:14.074Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "spcxx"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：SpaceX xStock (SPCXX)",
-      "summary_zh": "CoinGecko 趋势排名#659。"
-    },
-    {
-      "id": "f7f2fb4c287e4a80",
+      "id": "971f0938b563b9f8",
       "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #114.",
+      "summary": "CoinGecko trending rank #115.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
       "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-06-15T22:12:14.074Z",
+      "published_at": "2026-06-15T22:53:50.502Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -549,37 +515,17 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：矮胖企鹅 (PENGU)",
-      "summary_zh": "CoinGecko 趋势排名第 114。"
+      "summary_zh": "CoinGecko 趋势排名第 115 位。"
     },
     {
-      "id": "065047965bdada22",
-      "title": "Trending Crypto: Jito (JTO)",
-      "summary": "CoinGecko trending rank #128.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/jito-governance-token",
-      "image_url": "https://coin-images.coingecko.com/coins/images/33228/large/jto.png?1701137022",
-      "published_at": "2026-06-15T22:12:14.074Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "jto"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：Jito (JTO)",
-      "summary_zh": "CoinGecko 趋势排名第 128 位。"
-    },
-    {
-      "id": "893ffcecebc0b410",
+      "id": "92eee481f59f9633",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
       "summary": "CoinGecko trending rank #10.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
       "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-06-15T22:12:14.074Z",
+      "published_at": "2026-06-15T22:53:50.502Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -590,6 +536,46 @@
       "region": "global",
       "title_zh": "加密货币趋势：Hyperliquid (HYPE)",
       "summary_zh": "CoinGecko 趋势排名第 10。"
+    },
+    {
+      "id": "ce86b1c5ba0c824c",
+      "title": "Trending Crypto: Siren (SIREN)",
+      "summary": "CoinGecko trending rank #521.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/siren-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/54479/large/siren.png?1739960056",
+      "published_at": "2026-06-15T22:53:50.502Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "siren"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：海妖 (SIREN)",
+      "summary_zh": "CoinGecko 趋势排名#521。"
+    },
+    {
+      "id": "c6d5d04762bb4526",
+      "title": "Trending Crypto: Jito (JTO)",
+      "summary": "CoinGecko trending rank #128.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/jito-governance-token",
+      "image_url": "https://coin-images.coingecko.com/coins/images/33228/large/jto.png?1701137022",
+      "published_at": "2026-06-15T22:53:50.502Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "jto"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：Jito (JTO)",
+      "summary_zh": "CoinGecko 趋势排名第 128 位。"
     },
     {
       "id": "94d86f53f9316115",
@@ -700,7 +686,7 @@
       ],
       "region": "global",
       "title_zh": "截至 2026 年 5 月 27 日，来自 Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 5 月 27 日星期三 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ 2026 年 Quantpedia 奖获奖者公布 [Quantpedia] 欢迎来到 2026 年 Quantpedia 奖获奖者公布。为了"
+      "summary_zh": "这是截至 2026 年 5 月 27 日星期三 Quantocracy 最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ 2026 年 Quantpedia 奖获奖者公布 [Quantpedia] 欢迎来到 2026 年 Quantpedia 奖获奖者公布。为了"
     },
     {
       "id": "de252133facf5c41",
@@ -813,22 +799,6 @@
       "summary_zh": "通过 Oracle Cloud 访问 OpenAI 模型和 Codex，利用现有承诺构建和部署具有企业安全性和治理的 AI。"
     },
     {
-      "id": "7fd40bb6ab463c28",
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "image_url": null,
-      "published_at": "2026-06-12T15:56:10.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "olmo-eval：模型开发循环的评估工作台",
-      "summary_zh": ""
-    },
-    {
       "id": "8160d3414186e2e9",
       "title": "The latest AI news we announced in May 2026",
       "summary": "Here are Google’s latest AI updates from May 2026",
@@ -900,6 +870,24 @@
       "region": "global",
       "title_zh": "NSF 继续支持麻省理工学院领导的人工智能和物理研究所，拓展新的发现模式",
       "summary_zh": "IAIFI 进入第二阶段，资金增加、雄心勃勃，人工智能和基础物理学前沿社区不断壮大。"
+    },
+    {
+      "id": "864fb7631761e58c",
+      "title": "CFTC chair Selig defends decision to approve ‘perps’ in U.S.",
+      "summary": "Michael Selig said that incumbents will always fear the future, but it's important to develop the new asset class domestically rather than only offshore.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/06/15/cftc-chair-selig-defends-decision-to-approve-perps-in-us.html",
+      "image_url": null,
+      "published_at": "2026-06-15T22:39:09.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "CFTC 主席 Selig 为美国批准“perps”的决定进行辩护",
+      "summary_zh": "迈克尔·塞利格(Michael Selig)表示，现有企业总是担心未来，但重要的是在国内而不是仅在海外开发新的资产类别。"
     },
     {
       "id": "b5c4a49db3414b64",
@@ -1213,7 +1201,7 @@
       ],
       "region": "global",
       "title_zh": "拥有最大的欧盟对手走了，乌克兰正在努力加入",
-      "summary_zh": "尽管乌克兰加入欧盟的谈判已经开始，但前面的道路仍然漫长。"
+      "summary_zh": "尽管乌克兰加入欧盟的谈判已经开始，但前方的道路仍然漫长。"
     },
     {
       "id": "13a46ea45ffa97f3",
@@ -1427,154 +1415,6 @@
       "region": "global",
       "title_zh": "从数据到决策：伦敦证券交易所集团如何扩展可信人工智能",
       "summary_zh": "了解 LSEG 如何使用 OpenAI 在其全球业务中扩展可信 AI，加速洞察、缩短发布周期并为 4,000 名员工提供支持。"
-    },
-    {
-      "id": "b3878edc70fdd797",
-      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/torch-mlp-fusion",
-      "image_url": null,
-      "published_at": "2026-06-11T00:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "PyTorch 中的分析（第 2 部分）：从 nn.Linear 到融合 MLP",
-      "summary_zh": ""
-    },
-    {
-      "id": "08e2b9de162a46bb",
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "image_url": null,
-      "published_at": "2026-06-09T10:46:19.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "特工如何通过链接两个拥抱的面部空间来构建 3D 巴黎画廊",
-      "summary_zh": ""
-    },
-    {
-      "id": "7f146ee793682f83",
-      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/github-ci-hf-jobs",
-      "image_url": null,
-      "published_at": "2026-06-09T00:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "将 GitHub CI 迁移到 Hugging Face 作业",
-      "summary_zh": ""
-    },
-    {
-      "id": "1e114f4be6eed7c9",
-      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/openenv-agentic-rl",
-      "image_url": null,
-      "published_at": "2026-06-08T00:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "开源社区支持 OpenEnv 用于 Agentic RL",
-      "summary_zh": ""
-    },
-    {
-      "id": "3a9464241adc0f34",
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "image_url": null,
-      "published_at": "2026-06-04T18:57:45.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Nemotron 3.5 内容安全：全球企业人工智能的可定制多模式安全",
-      "summary_zh": ""
-    },
-    {
-      "id": "dcd798c4811b931d",
-      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/hf-cli-for-agents",
-      "image_url": null,
-      "published_at": "2026-06-04T00:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "将 hf CLI 设计为与 Hub 配合使用的代理优化方式",
-      "summary_zh": ""
-    },
-    {
-      "id": "433efd2b161a7739",
-      "title": "Direct Preference Optimization Beyond Chatbots",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-      "image_url": null,
-      "published_at": "2026-06-03T12:55:11.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "超越聊天机器人的直接偏好优化",
-      "summary_zh": ""
-    },
-    {
-      "id": "c680c7f1624cd519",
-      "title": "Adding MCP Tools to Reachy Mini",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-      "image_url": null,
-      "published_at": "2026-06-03T00:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "将 MCP 工具添加到 Reachy Mini",
-      "summary_zh": ""
-    },
-    {
-      "id": "d840dc7aab933a32",
-      "title": "Holo3.1: Fast & Local Computer Use Agents",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/Hcompany/holo31",
-      "image_url": null,
-      "published_at": "2026-06-02T14:13:23.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Holo3.1：快速且本地计算机使用代理",
-      "summary_zh": ""
     },
     {
       "id": "2fadc3e02aac4fd8",
@@ -1821,7 +1661,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "截至 2026 年 6 月 9 日，来自 Quantocracy 的最新量化链接",
+      "title_zh": "截至 2026 年 6 月 9 日来自 Quantocracy 的最新量化链接",
       "summary_zh": "这是截至 2026 年 6 月 9 日星期二 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！当数据真实时预测统计估计 [投资白痴] 这是我关于 optimisa 的系列文章中的第三篇文章"
     },
     {
