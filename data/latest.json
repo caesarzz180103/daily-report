@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T02:26:25.715Z",
+  "generated_at": "2026-06-25T02:37:58.807Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【AI】新芯片可以帮助微型机器人穿越复杂的环境；【FINANCE】摩根大通宣布500亿美元回购 高盛在美联储压力测试后提高股息；【FINANCE】美联储称美国银行可承受资本规则改革期间7080亿美元的损失。",
   "meta": {
     "sources_count": 11,
@@ -163,7 +163,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "GPT-5 如何帮助免疫学家 Derya Unutmaz 解开 3 年前的谜团",
+      "title_zh": "GPT-5 如何帮助免疫学家 Derya Unutmaz 解开三年之久的谜团",
       "summary_zh": "GPT-5 Pro 帮助解决了一个长达 3 年的免疫学谜团，提供了对 T 细胞行为的见解。这一突破可以支持癌症和自身免疫研究。"
     },
     {
@@ -470,14 +470,14 @@
       "summary_zh": "该应用程序将在预测市场领域面临激烈的竞争，与占主导地位的市场领导者 Kalshi 和 Polymarket 竞争。"
     },
     {
-      "id": "0a6f53c753a05b04",
+      "id": "02f4202670ae8e9f",
       "title": "Trending Crypto: MemeCore (M)",
-      "summary": "CoinGecko trending rank #59.",
+      "summary": "CoinGecko trending rank #60.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/memecore",
       "image_url": "https://coin-images.coingecko.com/coins/images/53247/large/square-bg-transparent.png?1752637478",
-      "published_at": "2026-06-25T02:26:13.201Z",
+      "published_at": "2026-06-25T02:37:38.213Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -487,17 +487,17 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：MemeCore (M)",
-      "summary_zh": "CoinGecko 趋势排名第 59 位。"
+      "summary_zh": "CoinGecko 趋势排名第 60。"
     },
     {
-      "id": "75a24e5c6f1885ed",
+      "id": "6aedefea902bd883",
       "title": "Trending Crypto: Zano (ZANO)",
       "summary": "CoinGecko trending rank #195.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/zano",
       "image_url": "https://coin-images.coingecko.com/coins/images/8370/large/Icon-App-512x512.png?1761825305",
-      "published_at": "2026-06-25T02:26:13.201Z",
+      "published_at": "2026-06-25T02:37:38.213Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -510,14 +510,14 @@
       "summary_zh": "CoinGecko 趋势排名第 195 位。"
     },
     {
-      "id": "7ebd14c2646faba8",
+      "id": "7a0eb2ead7b5e814",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-06-25T02:26:13.201Z",
+      "published_at": "2026-06-25T02:37:38.213Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -530,34 +530,34 @@
       "summary_zh": "CoinGecko 趋势排名第一。"
     },
     {
-      "id": "8274a3b6dbdcf547",
-      "title": "Trending Crypto: Aave (AAVE)",
-      "summary": "CoinGecko trending rank #58.",
+      "id": "c57df1e7e3a7e772",
+      "title": "Trending Crypto: Collector Crypt (CARDS)",
+      "summary": "CoinGecko trending rank #316.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/aave",
-      "image_url": "https://coin-images.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354",
-      "published_at": "2026-06-25T02:26:13.201Z",
+      "source_url": "https://www.coingecko.com/en/coins/collector-crypt",
+      "image_url": "https://coin-images.coingecko.com/coins/images/68728/large/cards-logo.jpeg?1756534539",
+      "published_at": "2026-06-25T02:37:38.213Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "aave"
+        "cards"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：Aave (AAVE)",
-      "summary_zh": "CoinGecko 趋势排名第 58。"
+      "title_zh": "加密货币趋势：Collector Crypt（卡牌）",
+      "summary_zh": "CoinGecko 趋势排名#316。"
     },
     {
-      "id": "ee0159796c1bfc32",
+      "id": "6a8afc64af06c3dd",
       "title": "Trending Crypto: Pudgy Penguins (PENGU)",
       "summary": "CoinGecko trending rank #117.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
       "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-06-25T02:26:13.201Z",
+      "published_at": "2026-06-25T02:37:38.213Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -674,7 +674,7 @@
       ],
       "region": "global",
       "title_zh": "截至 2026 年 5 月 27 日，来自 Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 5 月 27 日星期三 Quantocracy 最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ 2026 年 Quantpedia 奖获奖者公布 [Quantpedia] 欢迎来到 2026 年 Quantpedia 奖获奖者公布。为了"
+      "summary_zh": "这是截至 2026 年 5 月 27 日星期三 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ 2026 年 Quantpedia 奖获奖者公布 [Quantpedia] 欢迎来到 2026 年 Quantpedia 奖获奖者公布。为了"
     },
     {
       "id": "be013ebf03a3515f",
@@ -922,8 +922,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "新meme股票Wendy's飙升逾25%，一度停牌",
-      "summary_zh": "虽然管理层变动会影响投资者情绪，但变动幅度之大表明可能还有其他因素在起作用。"
+      "title_zh": "新meme股票Wendy’s飙升逾25%，一度停牌",
+      "summary_zh": "虽然管理层变动会影响投资者的情绪，但变动的幅度表明可能还有其他因素在起作用。"
     },
     {
       "id": "59483aa16cf756fd",
@@ -1275,6 +1275,24 @@
       "summary_zh": "FCA 前政策制定者兼 Hedera 全球政策副总裁 Isadora Arredondo 表示，英国的加密货币雄心与政策的实际执行方式之间存在差距。"
     },
     {
+      "id": "de54dd2788bd562f",
+      "title": "Kalshi in talks to raise funds at $40 billion valuation: FT",
+      "summary": "Kalshi's reported valuation reflects the firm's rapid growth, as it reported a $5 billion valuation last October.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/post/406061/kalshi-40-billion-valuation?utm_source=rss&utm_medium=rss",
+      "image_url": null,
+      "published_at": "2026-06-25T02:12:17.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Kalshi 正在洽谈以 400 亿美元估值筹集资金：FT",
+      "summary_zh": "Kalshi 公布的估值反映了该公司的快速增长，去年 10 月该公司公布的估值为 50 亿美元。"
+    },
+    {
       "id": "ac3e2ddf7412c9ed",
       "title": "Pump.fun offers up to $5 million salary for chief legal officer role",
       "summary": "The position covers everything from SEC oversight to MiCA rules and U.K. regulations, and offers a salary between $1 million and $5 million.",
@@ -1344,22 +1362,6 @@
       "region": "global",
       "title_zh": "世界杯热潮使得 Polymarket 交易量增长 300%，而 Kalshi 创下未平仓合约记录",
       "summary_zh": "上周，Kalshi 的 OI 总额达到创纪录的 11.6 亿美元，这是该平台的 OI 首次突破 10 亿美元大关。"
-    },
-    {
-      "id": "daf84c7ca10d555d",
-      "title": "Kalshi sues Illinois, Pritzker over state bill implementing prediction markets regulatory regime",
-      "summary": "Kalshi is taking the state of Illinois to court over its new law that establishes a regulatory regime for prediction markets.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/post/406000/kalshi-sues-illinois-pritzker-over-state-bill-implementing-prediction-markets-regulatory-regime?utm_source=rss&utm_medium=rss",
-      "image_url": null,
-      "published_at": "2026-06-24T14:41:19.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "卡尔希就实施预测市场监管制度的州法案起诉伊利诺伊州和普利兹克",
-      "summary_zh": "卡尔希正在将伊利诺伊州告上法庭，因为该州建立了预测市场监管制度的新法律。"
     },
     {
       "id": "789c4e4a0f4f67a6",
@@ -1552,7 +1554,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "在 Transformers.js 中试验建议的跨源存储 API",
+      "title_zh": "在 Transformers.js 中试验建议的跨域存储 API",
       "summary_zh": ""
     },
     {
