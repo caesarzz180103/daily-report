@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T23:11:09.934Z",
+  "generated_at": "2026-07-05T23:55:10.324Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】随着美联储制定新方针，沃什面临多种替代通胀迹象；【AI】惠普公司与 OpenAI 建立 Frontier 战略合作伙伴关系；【CRYPTO】道德黑客如何仅用一台价值 3,000 美元的服务器发现一个可能使 700 亿美元的加密货币面临风险的缺陷。",
   "meta": {
     "sources_count": 11,
@@ -387,14 +387,14 @@
       "summary_zh": "Falcon Finance 首席 RWA 官 Artem Tolkachev 认为，随着具有收益的稳定币市值争夺 500 亿美元，该行业正在针对错误的指标进行优化。"
     },
     {
-      "id": "c761f4d484eca849",
+      "id": "efcfc47948930c8f",
       "title": "Trending Crypto: The Black Bull (ANSEM)",
-      "summary": "CoinGecko trending rank #221.",
+      "summary": "CoinGecko trending rank #222.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/the-black-bull",
       "image_url": "https://coin-images.coingecko.com/coins/images/102174035/large/IMG_9497.jpeg?1782005339",
-      "published_at": "2026-07-05T23:10:36.696Z",
+      "published_at": "2026-07-05T23:54:56.600Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -404,17 +404,57 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：黑牛 (ANSEM)",
-      "summary_zh": "CoinGecko 趋势排名第 221 位。"
+      "summary_zh": "CoinGecko 趋势排名第 222 位。"
     },
     {
-      "id": "de55f6a4e2f1bf8b",
+      "id": "81f207171f8a4208",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-07-05T23:54:56.600Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "btc"
+      ],
+      "region": "global",
+      "title_zh": "流行加密货币：比特币 (BTC)",
+      "summary_zh": "CoinGecko 趋势排名第一。"
+    },
+    {
+      "id": "295d7d34c6961a9b",
+      "title": "Trending Crypto: Solstice (SLX)",
+      "summary": "CoinGecko trending rank #439.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/solstice",
+      "image_url": "https://coin-images.coingecko.com/coins/images/71128/large/slx.png?1779455873",
+      "published_at": "2026-07-05T23:54:56.600Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "slx"
+      ],
+      "region": "global",
+      "title_zh": "热门加密货币：Solstice (SLX)",
+      "summary_zh": "CoinGecko 趋势排名#439。"
+    },
+    {
+      "id": "2072cd4d2b9c0f2c",
       "title": "Trending Crypto: Lighter (LIT)",
       "summary": "CoinGecko trending rank #94.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/lighter",
       "image_url": "https://coin-images.coingecko.com/coins/images/71121/large/lighter.png?1765888098",
-      "published_at": "2026-07-05T23:10:36.696Z",
+      "published_at": "2026-07-05T23:54:56.600Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -427,54 +467,14 @@
       "summary_zh": "CoinGecko 趋势排名第 94。"
     },
     {
-      "id": "1e06aeaee9204a37",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #114.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-07-05T23:10:36.696Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pengu"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：矮胖企鹅 (PENGU)",
-      "summary_zh": "CoinGecko 趋势排名第 114。"
-    },
-    {
-      "id": "24b904fcba73c355",
-      "title": "Trending Crypto: Solstice (SLX)",
-      "summary": "CoinGecko trending rank #441.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/solstice",
-      "image_url": "https://coin-images.coingecko.com/coins/images/71128/large/slx.png?1779455873",
-      "published_at": "2026-07-05T23:10:36.696Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "slx"
-      ],
-      "region": "global",
-      "title_zh": "热门加密货币：Solstice (SLX)",
-      "summary_zh": "CoinGecko 趋势排名#441。"
-    },
-    {
-      "id": "52309c7b53cc16ba",
+      "id": "8fb06357b2208f92",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
       "summary": "CoinGecko trending rank #10.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
       "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-07-05T23:10:36.696Z",
+      "published_at": "2026-07-05T23:54:56.600Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -969,6 +969,38 @@
       "summary_zh": "英国广播公司首席国际记者从德黑兰报道，德黑兰正在举行葬礼活动，纪念伊朗前领导人阿亚图拉·阿里·哈梅内伊。"
     },
     {
+      "id": "d2bb4ee024cf31a6",
+      "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
+      "summary": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-07-05T23:31:04.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "马琳·勒庞上诉判决：为什么这一刻对法国很重要",
+      "summary_zh": "法国全国集会领袖在 2027 年总统选举前的民意调查中领先，现在将看看她是否能参选。"
+    },
+    {
+      "id": "f23c4a67dae82ec2",
+      "title": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
+      "summary": "The Trump administration wants Vietnam to stamp out its booming counterfeit industry. Locals are divided.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-07-05T22:01:43.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "作为全球假冒奢侈品中心，越南打击黑市",
+      "summary_zh": "特朗普政府希望越南消灭其蓬勃发展的假冒产业。当地人意见分歧。"
+    },
+    {
       "id": "7f7323b0e9d39b47",
       "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
       "summary": "Some of the famous guests have been posting on social media about the big day in New York.",
@@ -983,40 +1015,6 @@
       "region": "global",
       "title_zh": "从“一个美丽的夜晚”到“世界上最棒的宿醉”，宾客们对泰勒和特拉维斯婚礼的反应",
       "summary_zh": "一些著名嘉宾在社交媒体上发布了有关纽约这一重要日子的信息。"
-    },
-    {
-      "id": "212cb874c70401ff",
-      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-      "summary": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-07-04T23:17:24.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "法国勒庞的命运时刻将决定她在总统竞选中的未来",
-      "summary_zh": "极右翼领导人马琳·勒庞正在对一项判定她滥用欧盟资金罪的判决提出上诉。"
-    },
-    {
-      "id": "e8ff9d5fb177f97e",
-      "title": "Australia probes mystery space balls that washed up on beach",
-      "summary": "Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-07-05T12:55:58.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "澳大利亚调查被冲上海滩的神秘太空球",
-      "summary_zh": "官员们正在寻找在昆士兰州福雷斯特海滩发现的六块太空碎片的来源。"
     },
     {
       "id": "c966759378979a5e",
@@ -1035,6 +1033,22 @@
       "summary_zh": "这场风暴的风速接近 290 公里/小时（180 英里/小时），阵风高达 350 公里/小时，正在袭击罗塔岛。"
     },
     {
+      "id": "e8ff9d5fb177f97e",
+      "title": "Australia probes mystery space balls that washed up on beach",
+      "summary": "Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-07-05T12:55:58.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "澳大利亚调查被冲上海滩的神秘太空球",
+      "summary_zh": "官员们正在寻找在昆士兰州福雷斯特海滩发现的六块太空碎片的来源。"
+    },
+    {
       "id": "43da96f86b9cb04b",
       "title": "Thousands welcome home Cape Verde footballers after stunning World Cup run",
       "summary": "Tens of thousands of fans formed an ocean of blue outside the airport in capital city, Praia.",
@@ -1051,22 +1065,6 @@
       "region": "global",
       "title_zh": "数千人欢迎佛得角足球运动员在令人惊叹的世界杯之旅后回国",
       "summary_zh": "数万名球迷在首都普拉亚机场外形成了一片蓝色的海洋。"
-    },
-    {
-      "id": "ca9af1b689a40b9f",
-      "title": "Chinese underground church figure Jin Mingri freed from prison",
-      "summary": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-07-05T05:58:21.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "中国地下教会人物金明日出狱",
-      "summary_zh": "锡安教会创始人在唐纳德·特朗普直接向习近平发出请求后获释。"
     },
     {
       "id": "4a8ebad62924b197",
