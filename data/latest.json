@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T21:15:55.448Z",
+  "generated_at": "2026-07-11T21:38:32.911Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】凯文·沃什 (Kevin Warsh) 任命了美联储特别工作组成员，其中包括马克·安德森 (Marc Andreessen)、道格·麦克米伦 (Doug McMillon)；【FINANCE】会议记录显示，美联储官员在上次会议上对利率方向存在分歧；【FINANCE】美联储会议纪要显示利率问题上的“家庭斗争”。争吵可能会持续一段时间。",
   "meta": {
     "sources_count": 11,
@@ -391,14 +391,14 @@
       "summary_zh": "Cambridge 发现美国 31% 的以太坊节点活动集中在 AWS、Hetzner 和 OVH 上，这引发了管辖权/交易对手问题。"
     },
     {
-      "id": "ab549051854ba299",
+      "id": "7f4f9e93933382bf",
       "title": "Trending Crypto: HOODIE (HOODIE)",
-      "summary": "CoinGecko trending rank #672.",
+      "summary": "CoinGecko trending rank #690.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hoodie-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102174419/large/75gsMvIt_400x400.png?1783667444",
-      "published_at": "2026-07-11T21:15:35.477Z",
+      "published_at": "2026-07-11T21:37:54.743Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -408,17 +408,17 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：连帽衫 (HOODIE)",
-      "summary_zh": "CoinGecko 趋势排名#672。"
+      "summary_zh": "CoinGecko 趋势排名#690。"
     },
     {
-      "id": "2af8dbb521fe2611",
+      "id": "5db13cee7334765e",
       "title": "Trending Crypto: Cash Cat (CASHCAT)",
-      "summary": "CoinGecko trending rank #161.",
+      "summary": "CoinGecko trending rank #160.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/cash-cat",
       "image_url": "https://coin-images.coingecko.com/coins/images/102174280/large/cashcat-logo.jpg?1782922765",
-      "published_at": "2026-07-11T21:15:35.477Z",
+      "published_at": "2026-07-11T21:37:54.743Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -428,17 +428,57 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：现金猫（CASHCAT）",
-      "summary_zh": "CoinGecko 趋势排名第 161。"
+      "summary_zh": "CoinGecko 趋势排名第 160 位。"
     },
     {
-      "id": "a5f46939780cf0dd",
+      "id": "e409c9d5627f7ed0",
+      "title": "Trending Crypto: Lighter (LIT)",
+      "summary": "CoinGecko trending rank #91.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/lighter",
+      "image_url": "https://coin-images.coingecko.com/coins/images/71121/large/lighter.png?1765888098",
+      "published_at": "2026-07-11T21:37:54.743Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "lit"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：打火机 (LIT)",
+      "summary_zh": "CoinGecko 趋势排名第 91。"
+    },
+    {
+      "id": "0cd54b81c4ff71e2",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #116.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-07-11T21:37:54.743Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pengu"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：矮胖企鹅 (PENGU)",
+      "summary_zh": "CoinGecko 趋势排名第 116 位。"
+    },
+    {
+      "id": "3d8b2faf85f94111",
       "title": "Trending Crypto: LAB (LAB)",
-      "summary": "CoinGecko trending rank #156.",
+      "summary": "CoinGecko trending rank #161.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/lab",
       "image_url": "https://coin-images.coingecko.com/coins/images/70014/large/lab.png?1760352822",
-      "published_at": "2026-07-11T21:15:35.477Z",
+      "published_at": "2026-07-11T21:37:54.743Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -448,47 +488,7 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：LAB (LAB)",
-      "summary_zh": "CoinGecko 趋势排名第 156 位。"
-    },
-    {
-      "id": "958c1fbc423e9591",
-      "title": "Trending Crypto: Space and Time (SXT)",
-      "summary": "CoinGecko trending rank #714.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/space-and-time",
-      "image_url": "https://coin-images.coingecko.com/coins/images/55424/large/sxt-token_circle.jpg?1745935919",
-      "published_at": "2026-07-11T21:15:35.477Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "sxt"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：空间和时间 (SXT)",
-      "summary_zh": "CoinGecko 趋势排名#714。"
-    },
-    {
-      "id": "05999f21c5f34a4b",
-      "title": "Trending Crypto: Arbitrum (ARB)",
-      "summary": "CoinGecko trending rank #93.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/arbitrum",
-      "image_url": "https://coin-images.coingecko.com/coins/images/16547/large/arb.jpg?1721358242",
-      "published_at": "2026-07-11T21:15:35.477Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "arb"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：套利（ARB）",
-      "summary_zh": "CoinGecko 趋势排名第 93。"
+      "summary_zh": "CoinGecko 趋势排名第 161。"
     },
     {
       "id": "668fbe62860d90dc",
@@ -523,7 +523,7 @@
       ],
       "region": "global",
       "title_zh": "纽约市的教育工作者和行业领袖齐聚 Google 办公室，共同塑造课堂人工智能的未来。",
-      "summary_zh": "Google、纽约就业首席执行官委员会和 Urban Assembly 为 150 名教育和行业领导者举办了人工智能峰会。"
+      "summary_zh": "Google、纽约就业首席执行官委员会和 Urban Assembly 为 150 名教育和行业领袖举办了人工智能峰会。"
     },
     {
       "id": "7713ba92370fdd69",
@@ -1323,7 +1323,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Meta 的首席数据官表示代理商务是“下一个业务层”",
-      "summary_zh": "Alex Schultz 表示，Meta 内部假定存在稳定币。更困难的问题是让世界其他地方也能实现这一目标。"
+      "summary_zh": "Alex Schultz 表示，Meta 内部假设存在稳定币。更困难的问题是让世界其他地方也能实现这一目标。"
     },
     {
       "id": "386e236f85e5c0eb",
