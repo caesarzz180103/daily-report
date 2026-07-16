@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T19:16:03.067Z",
+  "generated_at": "2026-07-16T19:55:00.905Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】美联储主席凯文·沃什向参议院银行委员会作证对经济和利率造成打击；【FINANCE】纽约联储主席威廉姆斯表示通胀已见顶，利率“处于有利位置”；【FINANCE】达拉斯联储主席洛根呼吁“适度”提高利率。",
   "meta": {
     "sources_count": 11,
@@ -100,6 +100,25 @@
       "summary_zh": "沃伦·巴菲特相信美联储主席凯文·沃什将尽其所能。"
     },
     {
+      "id": "ebad037a56319150",
+      "title": "Iran War Live Updates: U.S. and Iran Trade Strikes, Escalating Tensions Over Strait of Hormuz",
+      "summary": "U.S. forces launched new attacks on Thursday afternoon. But both sides appeared to leave the door open to more negotiations to end the war.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz",
+      "image_url": null,
+      "published_at": "2026-07-16T19:49:29.000Z",
+      "importance_score": 70,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "伊朗战争实时更新：美国和伊朗贸易打击，霍尔木兹海峡紧张局势升级",
+      "summary_zh": "美军周四下午发动了新的袭击。但双方似乎都为结束战争的更多谈判敞开了大门。"
+    },
+    {
       "id": "2192adb924bc9494",
       "title": "Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out",
       "summary": "Mykhailo Fedorov announced he was leaving the ministry on Wednesday after conflicts with generals and military contractors over the role of innovative weaponry.",
@@ -192,24 +211,6 @@
       "summary_zh": "新公司Yorkville Ives & Co.将把投资银行、股票研究、机构交易和本金投资结合起来。"
     },
     {
-      "id": "cddb0d31ea232ac7",
-      "title": "Iran War Live Updates: U.S. and Iran Escalate Attacks, While Hinting at Diplomacy",
-      "summary": "As the renewed fighting entered its sixth day, both sides appeared to leave the door open to more negotiations to end the war.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz",
-      "image_url": null,
-      "published_at": "2026-07-16T18:53:37.000Z",
-      "importance_score": 64,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "伊朗战争实时更新：美国和伊朗升级袭击，同时暗示外交",
-      "summary_zh": "随着新一轮战斗进入第六天，双方似乎都为结束战争的更多谈判敞开了大门。"
-    },
-    {
       "id": "27db37c5ca2dbf6f",
       "title": "Global Opinion Shifts Toward Favoring China Over the U.S., Poll Finds",
       "summary": "An annual survey from the Pew Research Center found that more countries felt positively about China than America.",
@@ -280,6 +281,25 @@
       "region": "global",
       "title_zh": "Galaxy 通过新的 DeFi 金库瞄准机构稳定币收益率",
       "summary_zh": "这家加密金融服务公司推出了 Galaxy Curator，这是一个基于 Morpho 的平台，让 Fireblocks 的 2,400 家机构客户能够访问链上收益策略。"
+    },
+    {
+      "id": "9cb948a74e984405",
+      "title": "JPMorgan says bitcoin outlook sees ‘encouraging sign’ as Strategy boosts cash reserves",
+      "summary": "Strategy's larger cash reserves and improving institutional demand in bitcoin futures are \"encouraging signs\" for bitcoin, JPMorgan said.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/post/408712/jpmorgan-bitcoin-outlook-encouraging-sign-strategy-cash-reserves?utm_source=rss&utm_medium=rss",
+      "image_url": null,
+      "published_at": "2026-07-16T19:21:56.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "摩根大通表示，随着战略增加现金储备，比特币前景出现“令人鼓舞的迹象”",
+      "summary_zh": "摩根大通表示，Strategy 更大的现金储备和机构对比特币期货的需求不断改善，对比特币来说是“令人鼓舞的迹象”。"
     },
     {
       "id": "a0e7a326f91af02f",
@@ -413,8 +433,8 @@
       "summary_zh": "费多罗夫和总司令亚历山大·西尔斯基之间的分歧显然是泽连斯基做出这一决定的核心原因。"
     },
     {
-      "id": "3af11cad895cbeba",
-      "title": "Fifa 'assessing reports' over Falklands banner",
+      "id": "d02a9e6f1779792c",
+      "title": "Fifa 'assessing match reports' over Falklands banner",
       "summary": "Fifa is \"assessing the match reports\" before deciding whether to punish Argentina after players held a banner in support of their country's claims to the Falkland Islands.",
       "category": "WORLD",
       "source_name": "BBC World",
@@ -427,7 +447,7 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "国际足联对福克兰群岛旗帜进行“评估报告”",
+      "title_zh": "国际足联在福克兰群岛旗帜上“评估比赛报告”",
       "summary_zh": "在球员们举着横幅支持阿根廷对福克兰群岛的主权主张后，国际足联正在“评估比赛报道”，然后再决定是否惩罚阿根廷。"
     },
     {
@@ -522,14 +542,54 @@
       "summary_zh": "这家总部位于布鲁塞尔的公司早些时候在 BlockFills 第 11 章破产程序中被选为 325 万美元的买家。"
     },
     {
-      "id": "d64b05b575ae9801",
+      "id": "701e8e28a6f2ebff",
+      "title": "Trending Crypto: Cash Cat (CASHCAT)",
+      "summary": "CoinGecko trending rank #291.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/cash-cat",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102174280/large/cashcat-logo.jpg?1782922765",
+      "published_at": "2026-07-16T19:54:36.854Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "cashcat"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：现金猫（CASHCAT）",
+      "summary_zh": "CoinGecko 趋势排名第 291。"
+    },
+    {
+      "id": "df3fc1bc9c27da54",
+      "title": "Trending Crypto: ZIGChain (ZIG)",
+      "summary": "CoinGecko trending rank #378.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/zignaly",
+      "image_url": "https://coin-images.coingecko.com/coins/images/14796/large/ZIG_COIN_%281%29.png?1779272472",
+      "published_at": "2026-07-16T19:54:36.854Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "zig"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：ZIGChain (ZIG)",
+      "summary_zh": "CoinGecko 趋势排名#378。"
+    },
+    {
+      "id": "85c3ef85a8d7d748",
       "title": "Trending Crypto: Zano (ZANO)",
       "summary": "CoinGecko trending rank #198.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/zano",
       "image_url": "https://coin-images.coingecko.com/coins/images/8370/large/Icon-App-512x512.png?1761825305",
-      "published_at": "2026-07-16T19:15:43.955Z",
+      "published_at": "2026-07-16T19:54:36.854Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -542,74 +602,34 @@
       "summary_zh": "CoinGecko 趋势排名第 198 位。"
     },
     {
-      "id": "cd3ede846981531e",
-      "title": "Trending Crypto: ZIGChain (ZIG)",
-      "summary": "CoinGecko trending rank #379.",
+      "id": "b14979082a52c1d5",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #118.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/zignaly",
-      "image_url": "https://coin-images.coingecko.com/coins/images/14796/large/ZIG_COIN_%281%29.png?1779272472",
-      "published_at": "2026-07-16T19:15:43.955Z",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-07-16T19:54:36.854Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "zig"
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：ZIGChain (ZIG)",
-      "summary_zh": "CoinGecko 趋势排名#379。"
+      "title_zh": "加密货币趋势：矮胖企鹅 (PENGU)",
+      "summary_zh": "CoinGecko 趋势排名第 118 位。"
     },
     {
-      "id": "4c2c422839098ae2",
-      "title": "Trending Crypto: Cronos (CRO)",
-      "summary": "CoinGecko trending rank #34.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/crypto-com-chain",
-      "image_url": "https://coin-images.coingecko.com/coins/images/7310/large/cro_token_logo.png?1696507599",
-      "published_at": "2026-07-16T19:15:43.955Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "cro"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：克罗诺斯 (CRO)",
-      "summary_zh": "CoinGecko 趋势排名第 34 位。"
-    },
-    {
-      "id": "17744a157075cc09",
-      "title": "Trending Crypto: Ondo (ONDO)",
-      "summary": "CoinGecko trending rank #43.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/ondo-finance",
-      "image_url": "https://coin-images.coingecko.com/coins/images/26580/large/ONDO.png?1696525656",
-      "published_at": "2026-07-16T19:15:43.955Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "ondo"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：Ondo (ONDO)",
-      "summary_zh": "CoinGecko 趋势排名第 43 位。"
-    },
-    {
-      "id": "c0b6ee746d72b34d",
+      "id": "ce983152820b1947",
       "title": "Trending Crypto: The Black Bull (ANSEM)",
-      "summary": "CoinGecko trending rank #282.",
+      "summary": "CoinGecko trending rank #294.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/the-black-bull",
       "image_url": "https://coin-images.coingecko.com/coins/images/102174035/large/IMG_9497.jpeg?1782005339",
-      "published_at": "2026-07-16T19:15:43.955Z",
+      "published_at": "2026-07-16T19:54:36.854Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -619,7 +639,7 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：黑牛 (ANSEM)",
-      "summary_zh": "CoinGecko 趋势排名第 282 位。"
+      "summary_zh": "CoinGecko 趋势排名#294。"
     },
     {
       "id": "34c43118371e2008",
@@ -694,7 +714,7 @@
       ],
       "region": "global",
       "title_zh": "帮助AI模型满足现实世界",
-      "summary_zh": "通过研究和创业，Devavrat Shah 教授正在帮助设计可以使用有限的计算资源处理持续决策的方法。"
+      "summary_zh": "通过研究和创业，Devavrat Shah 教授正在帮助设计能够使用有限的计算资源处理持续决策的方法。"
     },
     {
       "id": "4f7cd07193ff32b7",
@@ -1011,9 +1031,9 @@
       "summary_zh": "一名白宫工作人员被指控利用演讲内幕知识在卡尔希事件上赚取近 10 万美元。"
     },
     {
-      "id": "d3e1f1d93c403b95",
-      "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
-      "summary": "The air quality in large parts of Michigan, Minneapolis and Minnesota is deemed \"hazardous\" by authorities.",
+      "id": "574ecc5a6b7288c8",
+      "title": "Canada wildfires spread smoke across North America, sparking air quality alerts",
+      "summary": "Smoke from more than 800 blazes has prompted air quality concerns in Toronto, New York and large parts of Michigan, Minneapolis and Minnesota.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
@@ -1025,8 +1045,24 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "空气质量警报延伸至美国 加拿大800多处山火在燃烧",
-      "summary_zh": "密歇根州、明尼阿波利斯和明尼苏达州大部分地区的空气质量被当局视为“危险”。"
+      "title_zh": "加拿大山火烟雾蔓延整个北美，引发空气质量警报",
+      "summary_zh": "800多起火灾产生的烟雾引发了多伦多、纽约以及密歇根州、明尼阿波利斯和明尼苏达州大部分地区的空气质量问题。"
+    },
+    {
+      "id": "d3359891e9e3c80f",
+      "title": "Mary Jo, mother of Kardashian matriarch Kris Jenner, dies aged 91",
+      "summary": "Mary Jo Campbell was featured on multiple episodes of Keeping Up with the Kardashians over the years.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c70g35n4518o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-07-16T19:36:51.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "卡戴珊女族长克里斯·詹纳的母亲玛丽·乔去世，享年 91 岁",
+      "summary_zh": "多年来，玛丽·乔·坎贝尔在《与卡戴珊同行》的多集节目中都有出演。"
     },
     {
       "id": "a806163c3a53daaf",
@@ -1045,24 +1081,6 @@
       "region": "global",
       "title_zh": "得克萨斯州洪水肆虐露营者死亡的同一地区，造成至少一人死亡",
       "summary_zh": "去年遭受洪水破坏的同一地区再次遭受洪水袭击，造成 130 多人死亡，其中包括米斯蒂克营 (Camp Mystic) 的遇难者。"
-    },
-    {
-      "id": "a645f43e9a1972d4",
-      "title": "Volunteer firefighter suspected of starting devastating France forest fire",
-      "summary": "President Macron said there would be no leniency for arsonists, as France - along with much of Europe - deals with a series of unusual heatwaves.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-07-16T12:44:26.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "志愿消防员涉嫌引发毁灭性的法国森林大火",
-      "summary_zh": "马克龙总统表示，法国和欧洲大部分地区正在应对一系列不寻常的热浪，因此对纵火犯不会手下留情。"
     },
     {
       "id": "77236fd899a56fc9",
@@ -1366,24 +1384,6 @@
       "region": "global",
       "title_zh": "SBI 通过 Ondo 交易扩大链上金融推动力，对日本股票进行代币化",
       "summary_zh": "日本 SBI Holdings 将使用 JPYSC 进行结算和抵押，同时通过其网络分销 Ondo 产品。"
-    },
-    {
-      "id": "6a588a8a68be855d",
-      "title": "Polygon Labs announces second round of layoffs in 2026 as firm looks to finalize Coinme acquisition",
-      "summary": "\"Two rounds of changes in one year is a lot to ask of a team, and I understand it is hard to manage,\" Polygon Labs CEO Marc Boiron said.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/post/408625/polygon-labs-second-round-of-layoffs-2026-finalize-coinme-acquisition?utm_source=rss&utm_medium=rss",
-      "image_url": null,
-      "published_at": "2026-07-16T13:47:51.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Polygon Labs 宣布 2026 年第二轮裁员，公司希望完成对 Coinme 的收购",
-      "summary_zh": "Polygon Labs 首席执行官 Marc Boiron 表示：“一年内进行两轮变革对团队的要求很高，而且我知道这很难管理。”"
     },
     {
       "id": "188d768fb91c31e3",
@@ -1896,7 +1896,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "截至 2026 年 6 月 21 日，来自 Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 6 月 21 日星期日 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！为什么大多数投资组合都是多元化的 [Quantpedia] 多元化是投资组合构建的关键原则，但也"
+      "summary_zh": "这是截至 2026 年 6 月 21 日星期日 Quantocracy 上最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！为什么大多数投资组合都是多元化的 [Quantpedia] 多元化是投资组合构建的关键原则，但也"
     }
   ]
 }
