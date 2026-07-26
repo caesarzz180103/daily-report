@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T14:05:24.788Z",
+  "generated_at": "2026-07-26T14:22:46.623Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】随着油价上涨，美联储加息的可能性激增；【FINANCE】摩根大通报告发现，尽管季度业绩不佳，但以人工智能为主题的 ETF 仍大幅增长；【CRYPTO】朝鲜逮捕了被指控通过加密货币从该国银行洗钱的黑客。",
   "meta": {
     "sources_count": 11,
@@ -217,7 +217,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "巴勒斯坦人称，以色列定居者放火烧毁约旦河西岸的清真寺、汽车和农田",
-      "summary_zh": "两天前，定居者和巴勒斯坦人在泰尔村附近发生冲突，造成四名巴勒斯坦人和两名以色列人死亡。"
+      "summary_zh": "两天前，定居者与巴勒斯坦人在泰尔村附近发生冲突，造成四名巴勒斯坦人和两名以色列人死亡。"
     },
     {
       "id": "8cf212c98919002a",
@@ -378,7 +378,7 @@
         "regulation"
       ],
       "region": "global",
-      "title_zh": "俄罗斯最大银行 Sberbank 计划在 12 月之前建立加密货币交易基础设施",
+      "title_zh": "俄罗斯最大的银行 Sberbank 计划在 12 月之前建立加密货币交易基础设施",
       "summary_zh": "俄罗斯加密货币交易、托管和结算的新规定将于 9 月 1 日生效，对持牌中介机构的要求从 2027 年 7 月起适用。"
     },
     {
@@ -438,14 +438,14 @@
       "summary_zh": "BitMEX、Arthur Hayes、Samuel Reed 和 Benjamin Delo 面临拟议的集体诉讼，指控内幕交易和故意冻结服务器。"
     },
     {
-      "id": "8bc02bb11415553a",
+      "id": "03e2989d6462af01",
       "title": "Trending Crypto: Pudgy Penguins (PENGU)",
       "summary": "CoinGecko trending rank #111.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
       "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-07-26T14:04:55.070Z",
+      "published_at": "2026-07-26T14:22:30.649Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -458,14 +458,14 @@
       "summary_zh": "CoinGecko 趋势排名第 111。"
     },
     {
-      "id": "d0ab11845dc2cf4f",
+      "id": "84643185a5cea6ac",
       "title": "Trending Crypto: BitMart (BMX)",
-      "summary": "CoinGecko trending rank #752.",
+      "summary": "CoinGecko trending rank #751.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitmart-token",
       "image_url": "https://coin-images.coingecko.com/coins/images/5236/large/bitmart-token.png?1696505741",
-      "published_at": "2026-07-26T14:04:55.070Z",
+      "published_at": "2026-07-26T14:22:30.649Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -475,17 +475,17 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：BitMart (BMX)",
-      "summary_zh": "CoinGecko 趋势排名#752。"
+      "summary_zh": "CoinGecko 趋势排名#751。"
     },
     {
-      "id": "bcd5cf59126fbff9",
+      "id": "a28d1984b60e16c9",
       "title": "Trending Crypto: Pons (PONS)",
-      "summary": "CoinGecko trending rank #501.",
+      "summary": "CoinGecko trending rank #500.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pons",
       "image_url": "https://coin-images.coingecko.com/coins/images/102174571/large/jhitvkisdq8fhxvimdkpcw7y3dx5.?1784093932",
-      "published_at": "2026-07-26T14:04:55.070Z",
+      "published_at": "2026-07-26T14:22:30.649Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -495,17 +495,17 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：Pons (PONS)",
-      "summary_zh": "CoinGecko 趋势排名#501。"
+      "summary_zh": "CoinGecko 趋势排名#500。"
     },
     {
-      "id": "ca3263cd49b94402",
+      "id": "3ccea19266605c96",
       "title": "Trending Crypto: Shiba Inu (SHIB)",
       "summary": "CoinGecko trending rank #30.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/shiba-inu",
       "image_url": "https://coin-images.coingecko.com/coins/images/11939/large/shiba.png?1696511800",
-      "published_at": "2026-07-26T14:04:55.070Z",
+      "published_at": "2026-07-26T14:22:30.649Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -518,14 +518,14 @@
       "summary_zh": "CoinGecko 趋势排名第 30 位。"
     },
     {
-      "id": "9a916d1fdfc6f3e6",
+      "id": "553b945c2c34f707",
       "title": "Trending Crypto: KAITO (KAITO)",
       "summary": "CoinGecko trending rank #130.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/kaito",
       "image_url": "https://coin-images.coingecko.com/coins/images/54411/large/Qm4DW488_400x400.jpg?1739552780",
-      "published_at": "2026-07-26T14:04:55.070Z",
+      "published_at": "2026-07-26T14:22:30.649Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -573,7 +573,7 @@
       ],
       "region": "global",
       "title_zh": "纽约市的教育工作者和行业领袖齐聚 Google 办公室，共同塑造课堂人工智能的未来。",
-      "summary_zh": "Google、纽约就业首席执行官委员会和 Urban Assembly 为 150 名教育和行业领导者举办了人工智能峰会。"
+      "summary_zh": "Google、纽约就业首席执行官委员会和 Urban Assembly 为 150 名教育和行业领袖举办了人工智能峰会。"
     },
     {
       "id": "7713ba92370fdd69",
@@ -655,7 +655,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions",
       "image_url": null,
-      "published_at": "2026-07-26T13:38:40.000Z",
+      "published_at": "2026-07-26T14:10:56.000Z",
       "importance_score": 52,
       "sentiment": 0,
       "tags": [
@@ -998,7 +998,7 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "教育部长辞职后印度“蟑螂”抗议活动被取消",
+      "title_zh": "印度教育部长辞职后取消“蟑螂”抗议活动",
       "summary_zh": "CJP 的抗议是近年来公众对纳伦德拉·莫迪总理政府愤怒最明显的表达。"
     },
     {
@@ -1427,7 +1427,7 @@
       ],
       "region": "global",
       "title_zh": "David Vélez 和 Robin Vince 加入 OpenAI 基金会和 OpenAI Group PBC 董事会",
-      "summary_zh": "David Vélez 和 Robin Vince 加入 OpenAI 基金会和 OpenAI Group PBC 的董事会，带来了金融、技术和治理领域的全球领导力。"
+      "summary_zh": "David Vélez 和 Robin Vince 加入 OpenAI 基金会和 OpenAI Group PBC 董事会，在金融、技术和治理方面发挥全球领导作用。"
     },
     {
       "id": "c2cab002ff40fc38",
@@ -1508,7 +1508,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Shippy 的建造教会了我们关于建筑代理的哪些知识",
+      "title_zh": "建筑 Shippy 教会了我们关于建筑代理的哪些知识",
       "summary_zh": ""
     },
     {
@@ -1823,7 +1823,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "截至 2026 年 7 月 20 日，来自 Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 7 月 20 日星期一 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ RSI 超买是卖出信号吗？我们测试了 70/30 [反驳] RSI 70/30 规则的简短版本（高于 70 = overboug"
+      "summary_zh": "这是截至 2026 年 7 月 20 日星期一 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ RSI 超买是卖出信号吗？我们测试了 70/30 [反驳] RSI 70/30 规则的简短版本（高于 70 = overboug"
     },
     {
       "id": "d524e2dad3075ed9",
