@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T21:11:33.102Z",
+  "generated_at": "2026-07-28T21:56:25.356Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】摩根士丹利以市场最低的费用和质押奖励推出以太坊和 Solana ETF；【FINANCE】随着油价上涨，美联储加息的可能性激增；【CRYPTO】分析师表示，美联储“任何偏鸽派的举措”都可能对比特币有利。",
   "meta": {
     "sources_count": 11,
@@ -372,14 +372,14 @@
       "summary_zh": "Core Scientific 和 AMD 合作，从 2027 年开始在美国人工智能数据中心容量达到 500 MW，可扩展至 2.5 GW，并提供购买 CORZ 股票的认股权证。"
     },
     {
-      "id": "e50c0222b7472962",
+      "id": "9d9057fde1b4b24c",
       "title": "Trending Crypto: Casper Network (CSPR)",
-      "summary": "CoinGecko trending rank #642.",
+      "summary": "CoinGecko trending rank #643.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/casper-network",
       "image_url": "https://coin-images.coingecko.com/coins/images/15279/large/Casper_Monogram_Favicon_White_on_Red_Circle_RGB_200px.png?1749832573",
-      "published_at": "2026-07-28T21:11:09.916Z",
+      "published_at": "2026-07-28T21:56:13.387Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -389,37 +389,37 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：Casper Network (CSPR)",
-      "summary_zh": "CoinGecko 趋势排名#642。"
+      "summary_zh": "CoinGecko 趋势排名#643。"
     },
     {
-      "id": "e57626d2fb39673e",
-      "title": "Trending Crypto: Solana (SOL)",
-      "summary": "CoinGecko trending rank #7.",
+      "id": "7e624600d20a4bde",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #111.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/solana",
-      "image_url": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
-      "published_at": "2026-07-28T21:11:09.916Z",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-07-28T21:56:13.387Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "sol"
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：Solana (SOL)",
-      "summary_zh": "CoinGecko 趋势排名第七。"
+      "title_zh": "加密货币趋势：矮胖企鹅 (PENGU)",
+      "summary_zh": "CoinGecko 趋势排名第 111。"
     },
     {
-      "id": "db74c6bdf2cc25b3",
+      "id": "6940e44144c2cbf2",
       "title": "Trending Crypto: Lighter (LIT)",
       "summary": "CoinGecko trending rank #92.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/lighter",
       "image_url": "https://coin-images.coingecko.com/coins/images/71121/large/lighter.png?1765888098",
-      "published_at": "2026-07-28T21:11:09.916Z",
+      "published_at": "2026-07-28T21:56:13.387Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -432,34 +432,34 @@
       "summary_zh": "CoinGecko 趋势排名第 92。"
     },
     {
-      "id": "ec84796ab642b628",
-      "title": "Trending Crypto: Ondo (ONDO)",
-      "summary": "CoinGecko trending rank #41.",
+      "id": "bb1b77b05032a200",
+      "title": "Trending Crypto: Pump.fun (PUMP)",
+      "summary": "CoinGecko trending rank #77.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/ondo-finance",
-      "image_url": "https://coin-images.coingecko.com/coins/images/26580/large/ONDO.png?1696525656",
-      "published_at": "2026-07-28T21:11:09.916Z",
+      "source_url": "https://www.coingecko.com/en/coins/pump-fun",
+      "image_url": "https://coin-images.coingecko.com/coins/images/67164/large/pump.jpg?1751949376",
+      "published_at": "2026-07-28T21:56:13.387Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "ondo"
+        "pump"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：Ondo (ONDO)",
-      "summary_zh": "CoinGecko 趋势排名第 41。"
+      "title_zh": "加密货币趋势：Pump.fun (PUMP)",
+      "summary_zh": "CoinGecko 趋势排名第 77。"
     },
     {
-      "id": "1e778666a95a908c",
+      "id": "af36b2c283ec0237",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-07-28T21:11:09.916Z",
+      "published_at": "2026-07-28T21:56:13.387Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -1086,19 +1086,19 @@
       "summary_zh": "周一，家人哀悼在美食节枪击事件中丧生的三人。"
     },
     {
-      "id": "a2d632d327e08d4c",
-      "title": "'A narcissist': Victim's family hits out at Kohberger for challenging murder conviction",
+      "id": "e5fe5ced86bd1b3c",
+      "title": "'A narcissist' - victim's family blasts Kohberger for challenging Idaho murder conviction",
       "summary": "The man accused of killing four students in Idaho is taking back his plea, which was made to avoid the death penalty.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cgewg57rq2ro?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-07-28T12:27:48.000Z",
+      "published_at": "2026-07-28T21:43:30.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "“自恋者”：受害者家人猛烈抨击科伯格挑战谋杀定罪",
+      "title_zh": "“自恋者”——受害者家人抨击科伯格挑战爱达荷州谋杀定罪",
       "summary_zh": "被指控在爱达荷州杀害四名学生的男子正在收回他的抗辩，他的抗辩是为了避免死刑。"
     },
     {
@@ -1120,19 +1120,19 @@
       "summary_zh": "吴告诉英国广播公司，上周他在伦敦希思罗机场被拘留了几个小时，并被拒绝入境。"
     },
     {
-      "id": "5c704902997c5d6c",
-      "title": "Many Feared Trapped in Mall Collapse After Japan Earthquake, Officials Say",
+      "id": "e11d6c095713dcb8",
+      "title": "Japan Mounts Rescues in Buildings That Collapsed After Strong Quake",
       "summary": "Emergency workers were racing to find people and extinguish fires after the 6.8 magnitude quake struck the southwestern prefecture of Kumamoto.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
       "image_url": null,
-      "published_at": "2026-07-28T19:41:47.000Z",
+      "published_at": "2026-07-28T21:43:17.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "官员称，日本地震后许多人担心被困在商场倒塌中",
+      "title_zh": "日本在强烈地震后倒塌的建筑物中展开救援",
       "summary_zh": "熊本县西南部发生 6.8 级地震后，应急人员正在竞相寻找人员并扑灭火灾。"
     },
     {
