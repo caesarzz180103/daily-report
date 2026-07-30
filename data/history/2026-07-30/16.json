@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T16:10:46.350Z",
+  "generated_at": "2026-07-30T16:27:23.299Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】杰弗里·冈拉克表示，债券市场正在告诉沃什，美联储必须开始对通胀采取行动；【CRYPTO】“付费等待”：随着美国国债收益率有史以来第二次超过套利交易，比特币逼近 65,000 美元；【CRYPTO】Bernstein 表示 Core Scientific 与 AMD 的合作伙伴关系可能在 15 年内产生 14B 美元的收入。",
   "meta": {
     "sources_count": 11,
@@ -114,7 +114,7 @@
       ],
       "region": "global",
       "title_zh": "以下是本周美联储会议的五个要点",
-      "summary_zh": "美联储周三兑现了不会改变利率的预期。"
+      "summary_zh": "美联储周三兑现了不调整利率的预期。"
     },
     {
       "id": "fd9bf4e99298c93f",
@@ -199,7 +199,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
       "image_url": null,
-      "published_at": "2026-07-30T15:30:25.000Z",
+      "published_at": "2026-07-30T16:08:11.000Z",
       "importance_score": 64,
       "sentiment": 0,
       "tags": [
@@ -465,14 +465,14 @@
       "summary_zh": "据报道，鲁内茨和他的公司参与了与当地企业集团 En+ 的一项交易，该交易导致了 1250 万美元的损失。"
     },
     {
-      "id": "47f9e23b27fdfbdc",
+      "id": "52323a62aa3f48ca",
       "title": "Trending Crypto: GRVT Token (GRVT)",
-      "summary": "CoinGecko trending rank #677.",
+      "summary": "CoinGecko trending rank #685.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/grvt",
       "image_url": "https://coin-images.coingecko.com/coins/images/102172513/large/grvt_400x400.jpg?1773653767",
-      "published_at": "2026-07-30T16:10:27.966Z",
+      "published_at": "2026-07-30T16:27:09.118Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -482,17 +482,17 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：GRVT 代币 (GRVT)",
-      "summary_zh": "CoinGecko 趋势排名#677。"
+      "summary_zh": "CoinGecko 趋势排名#685。"
     },
     {
-      "id": "cc8fed695769ded8",
+      "id": "8b48f90ca8825d1e",
       "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #112.",
+      "summary": "CoinGecko trending rank #113.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
       "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-07-30T16:10:27.966Z",
+      "published_at": "2026-07-30T16:27:09.118Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -502,17 +502,17 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：矮胖企鹅 (PENGU)",
-      "summary_zh": "CoinGecko 趋势排名第 112。"
+      "summary_zh": "CoinGecko 趋势排名第 113 位。"
     },
     {
-      "id": "41dca776f2d14be8",
+      "id": "680d5cc3daa8f3e4",
       "title": "Trending Crypto: Cash Cat (CASHCAT)",
       "summary": "CoinGecko trending rank #464.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/cash-cat",
       "image_url": "https://coin-images.coingecko.com/coins/images/102174280/large/cashcat-logo.jpg?1782922765",
-      "published_at": "2026-07-30T16:10:27.966Z",
+      "published_at": "2026-07-30T16:27:09.118Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -525,44 +525,44 @@
       "summary_zh": "CoinGecko 趋势排名#464。"
     },
     {
-      "id": "d71bf861c98f52d8",
-      "title": "Trending Crypto: Hyperliquid (HYPE)",
-      "summary": "CoinGecko trending rank #10.",
+      "id": "8bdd5544287b9e7d",
+      "title": "Trending Crypto: Artificial Superintelligence Alliance (FET)",
+      "summary": "CoinGecko trending rank #120.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
-      "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-07-30T16:10:27.966Z",
+      "source_url": "https://www.coingecko.com/en/coins/fetch-ai",
+      "image_url": "https://coin-images.coingecko.com/coins/images/5681/large/ASI.png?1719827289",
+      "published_at": "2026-07-30T16:27:09.118Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "hype"
+        "fet"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：Hyperliquid (HYPE)",
-      "summary_zh": "CoinGecko 趋势排名第 10。"
+      "title_zh": "加密货币趋势：人工超级智能联盟（FET）",
+      "summary_zh": "CoinGecko 趋势排名第 120 位。"
     },
     {
-      "id": "ef7514f69d31a403",
-      "title": "Trending Crypto: Zcash (ZEC)",
-      "summary": "CoinGecko trending rank #15.",
+      "id": "25b3e13b26489871",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/zcash",
-      "image_url": "https://coin-images.coingecko.com/coins/images/486/large/circle-zcash-color.png?1696501740",
-      "published_at": "2026-07-30T16:10:27.966Z",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-07-30T16:27:09.118Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "zec"
+        "btc"
       ],
       "region": "global",
-      "title_zh": "流行加密货币：Zcash (ZEC)",
-      "summary_zh": "CoinGecko 趋势排名第 15。"
+      "title_zh": "流行加密货币：比特币 (BTC)",
+      "summary_zh": "CoinGecko 趋势排名第一。"
     },
     {
       "id": "8ebf4b641eb95d06",
@@ -619,7 +619,7 @@
       ],
       "region": "global",
       "title_zh": "纽约市的教育工作者和行业领袖齐聚 Google 办公室，共同塑造课堂人工智能的未来。",
-      "summary_zh": "Google、纽约就业首席执行官委员会和 Urban Assembly 为 150 名教育和行业领袖举办了人工智能峰会。"
+      "summary_zh": "Google、纽约就业首席执行官委员会和 Urban Assembly 为 150 名教育和行业领导者举办了人工智能峰会。"
     },
     {
       "id": "0c7d5d75f8352989",
@@ -655,7 +655,7 @@
       ],
       "region": "global",
       "title_zh": "美国希望亚洲使用其人工智能——但中国在更便宜的型号上占据主导地位",
-      "summary_zh": "世界上最大的大陆正在成为中美人工智能竞赛的中心。"
+      "summary_zh": "全球最大的大陆正在成为中美人工智能竞赛的中心。"
     },
     {
       "id": "71d14b7603a5f59f",
@@ -863,7 +863,7 @@
       ],
       "region": "global",
       "title_zh": "通过两项 Google Vids 更新创建、编辑视频并为其加注星标",
-      "summary_zh": "Gemini Omni 和 Google Vids 中的个人头像使视频创作变得比以往更容易。"
+      "summary_zh": "Gemini Omni 和 Google Vids 中的个人头像让视频创作变得比以往更容易。"
     },
     {
       "id": "f9e3a7d591f3bf94",
@@ -999,7 +999,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "泽伦斯基称，同一家庭的至少五名成员在俄罗斯导弹袭击中丧生",
+      "title_zh": "泽连斯基称，同一家庭的至少五名成员在俄罗斯导弹袭击中丧生",
       "summary_zh": "中部城市克里沃罗格附近的一个村庄有六人遇难，其中包括一名六岁女孩和两名年龄分别为 11 岁和 17 岁的男孩。"
     },
     {
@@ -1280,7 +1280,7 @@
       ],
       "region": "global",
       "title_zh": "Telegram创始人被俄罗斯指控一天后，在澳大利亚面临与恐怖主义有关的法律诉讼",
-      "summary_zh": "该平台因涉嫌未能删除与恐怖相关的内容而面临高达 3800 万美元的罚款。"
+      "summary_zh": "该平台因涉嫌未能删除恐怖相关内容而面临高达 3800 万美元的罚款。"
     },
     {
       "id": "b731f607459b2da7",
@@ -1317,7 +1317,7 @@
       ],
       "region": "global",
       "title_zh": "随着加密货币股票下跌，Cathie Wood 的 Ark Invest 出售 Bitmine、Bullish、Block 股票",
-      "summary_zh": "与此同时，该投资公司购买了埃隆·马斯克 (Elon Musk) 旗下 SpaceX 的 128,932 股股票，价值约 1,450 万美元。"
+      "summary_zh": "与此同时，这家投资公司购买了埃隆·马斯克 (Elon Musk) 旗下 SpaceX 的 128,932 股股票，价值约 1,450 万美元。"
     },
     {
       "id": "49d20a794faccd23",
@@ -1626,7 +1626,7 @@
         "google"
       ],
       "region": "global",
-      "title_zh": "使用 Google 搜索举办终极晚宴的 5 种方法",
+      "title_zh": "利用 Google 搜索举办终极晚宴的 5 种方式",
       "summary_zh": "这些人工智能功能可以帮助您制作菜单、设计桌面景观以及处理其他派对策划任务。"
     },
     {
@@ -1803,7 +1803,7 @@
       ],
       "region": "global",
       "title_zh": "截至 2026 年 7 月 29 日，来自 Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 7 月 29 日星期三 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！我发明了 2021 年蜡烛类型来寻找圣杯 [纸上获利] 我们在交易生涯中都在看图表，"
+      "summary_zh": "这是截至 2026 年 7 月 29 日星期三 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！我发明了 2021 年蜡烛类型来寻找一个圣杯 [Paper to Profit] 我们在交易生涯中都在看图表，"
     },
     {
       "id": "6a677899b9cb14e3",
@@ -1853,7 +1853,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "截至 2026 年 7 月 20 日，来自 Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 7 月 20 日星期一 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ RSI 超买是卖出信号吗？我们测试了 70/30 [反驳] RSI 70/30 规则的简短版本（高于 70 = overboug"
+      "summary_zh": "这是截至 2026 年 7 月 20 日星期一 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ RSI 超买是卖出信号吗？我们测试了 70/30 [反驳] RSI 70/30 规则的简短版本（高于 70 = overboug"
     },
     {
       "id": "d524e2dad3075ed9",
@@ -1885,7 +1885,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "截至 2026 年 7 月 12 日，Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 7 月 12 日星期日 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！网络动量作为一种跨资产因素 [Algrithm] 动量是没有人争论的一个因素。胜利者不断获胜，"
+      "summary_zh": "这是截至 2026 年 7 月 12 日星期日 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！网络动量作为跨资产因素 [Algrithm] 动量是没有人争论的一个因素。胜利者不断获胜，"
     }
   ]
 }
