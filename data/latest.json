@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T12:01:59.560Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】杰弗里·冈拉克表示，债券市场正在告诉沃什，美联储必须开始对通胀采取行动；【WORLD】被罢黜的部长表示，政治动荡不会破坏杀手机器人计划；【FINANCE】中国威胁对美国仿人机器人禁令进行报复，称其“严重损害”两国关系。",
+  "generated_at": "2026-07-31T12:49:41.266Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】投票支持加息的美联储官员表示，现在需要采取行动应对通胀；【FINANCE】杰弗里·冈拉克表示，债券市场正在告诉沃什，美联储必须开始对通胀采取行动；【WORLD】被罢免的部长表示，政治动荡不会破坏杀手机器人计划。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -19,6 +19,26 @@
     "FINANCE": 10
   },
   "items": [
+    {
+      "id": "0b6fc9da0916c35d",
+      "title": "Fed officials who voted to hike rates say action is needed now against inflation",
+      "summary": "Kashkari and Hammack joined Dallas Fed President Lorie Logan in dissenting against holding the Fed's key overnight borrowing rate steady.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
+      "image_url": null,
+      "published_at": "2026-07-31T12:40:00.000Z",
+      "importance_score": 82,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "fed",
+        "inflation"
+      ],
+      "region": "global",
+      "title_zh": "投票支持加息的美联储官员表示，现在需要采取行动应对通胀",
+      "summary_zh": "卡什卡里和哈马克与达拉斯联储主席洛里·洛根一起反对维持美联储关键隔夜借款利率稳定。"
+    },
     {
       "id": "98f9616418cd765a",
       "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
@@ -57,7 +77,7 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "被罢黜的部长表示，政治动荡不会破坏杀手机器人计划",
+      "title_zh": "被罢免的部长表示，政治动荡不会破坏杀手机器人计划",
       "summary_zh": "乌克兰前国防部长米哈伊洛·费多罗夫是无人机和机器人战争的倡导者，他表示该国的技术密集型战略将持续下去。"
     },
     {
@@ -95,7 +115,7 @@
       ],
       "region": "global",
       "title_zh": "以下是本周美联储会议的五个要点",
-      "summary_zh": "美联储周三兑现了不会改变利率的预期。"
+      "summary_zh": "美联储周三兑现了不调整利率的预期。"
     },
     {
       "id": "fd9bf4e99298c93f",
@@ -136,8 +156,8 @@
       "summary_zh": "尽管加息的支持率越来越高，联邦公开市场委员会还是以 9 比 3 的投票结果将联邦基金利率维持在 3.5% 至 3.75% 的范围内。"
     },
     {
-      "id": "4c6a5245dbf1d035",
-      "title": "Live updates: Bitcoin slides back below $64,000 as Nasdaq continues rally",
+      "id": "55b57ae0f4c9a8c3",
+      "title": "Live updates: 'Worst hit in Bitcoin history' – longtime Bitcoiners react to Coincard flaw",
       "summary": "The Bank of Japan left its benchmark at 1% and Governor Ueda's hawkish signals landed softly, since markets had already priced an October hike.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
@@ -150,7 +170,7 @@
         "bitcoin"
       ],
       "region": "global",
-      "title_zh": "实时更新：随着纳斯达克继续上涨，比特币跌回 64,000 美元以下",
+      "title_zh": "实时更新：“比特币历史上最严重的打击”——长期比特币爱好者对 Coincard 缺陷的反应",
       "summary_zh": "日本央行将基准利率维持在 1%，而上田行长的强硬信号也温和落地，因为市场已经消化了 10 月份加息的预期。"
     },
     {
@@ -191,6 +211,24 @@
       "summary_zh": "研究人员开发了一个自动化框架，帮助 AI 模型更准确、更高效地生成 CAD 程序。"
     },
     {
+      "id": "81a9991149c0760d",
+      "title": "Live Updates: Tens of Thousands Crossed Into Spanish Territory, Officials Say",
+      "summary": "As many as 60,000 people were estimated to have surged from Morocco into Ceuta, the small exclave at the center of a crisis for Spain’s pro-immigration government.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
+      "image_url": null,
+      "published_at": "2026-07-31T12:41:59.000Z",
+      "importance_score": 64,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "实时更新：官员称，数万人进入西班牙领土",
+      "summary_zh": "据估计，有多达 6 万人从摩洛哥涌入休达，这里是西班牙亲移民政府危机中心的一块飞地。"
+    },
+    {
       "id": "76a47146be938127",
       "title": "Archaeologists Find Hundreds of Ancient Glyphs in the Amazon",
       "summary": "The geometric earthwork structures, carved into the ground with embankments and ditches, are in some cases more than 2,500 years old, researchers said.",
@@ -198,7 +236,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html",
       "image_url": null,
-      "published_at": "2026-07-31T10:44:34.000Z",
+      "published_at": "2026-07-31T12:38:44.000Z",
       "importance_score": 64,
       "sentiment": 0,
       "tags": [
@@ -226,44 +264,6 @@
       "region": "global",
       "title_zh": "比特币持平于 64,000 美元附近，Kospi 创纪录的 17% 飙升使加密货币未受影响",
       "summary_zh": "三星和SK海力士股价均上涨超过23%。比特币在过去 24 小时内变动了百分之零点几，而本周大多数主要货币的价格仍然较低。"
-    },
-    {
-      "id": "1128e5afbac9181a",
-      "title": "Major bitcoin wallet flaw drains $38 million worth of BTC in 25-minute sweep",
-      "summary": "A hardware wallet randomness bug turned “impossible to guess” seeds into guessable ones, and $38 million is already gone.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep",
-      "image_url": null,
-      "published_at": "2026-07-31T05:12:55.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "比特币钱包重大缺陷在 25 分钟内耗尽了价值 3800 万美元的 BTC",
-      "summary_zh": "硬件钱包的随机性错误将“无法猜测”的种子变成了可猜测的种子，3800 万美元已经消失。"
-    },
-    {
-      "id": "b1b1d862d7fc215b",
-      "title": "Strategy books $8.2 billion Q2 loss on bitcoin price decline",
-      "summary": "The world's largest corporate bitcoin holder says it has built a cash reserve covering more than two years of dividend payments after investors questioned its growing stack of preferred securities.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline",
-      "image_url": null,
-      "published_at": "2026-07-30T20:32:13.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "由于比特币价格下跌，该策略第二季度亏损 82 亿美元",
-      "summary_zh": "全球最大的比特币持有企业表示，在投资者对其不断增加的优先证券提出质疑后，该公司已建立了足以支付两年多股息的现金储备。"
     },
     {
       "id": "4efd6b38c2e82d51",
@@ -370,7 +370,7 @@
       ],
       "region": "global",
       "title_zh": "截至 2026 年 7 月 27 日，来自 Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 7 月 27 日星期一 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！通货膨胀罗盘模型 [CSS Analytics] 当通货膨胀从低到高转变时，传统的 60/40 股票和债券都"
+      "summary_zh": "这是截至 2026 年 7 月 27 日星期一 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！通货膨胀罗盘模型 [CSS Analytics] 当通货膨胀从低转为高时，传统的 60/40 股票和债券都"
     },
     {
       "id": "05480f919a80150c",
@@ -429,14 +429,14 @@
       "summary_zh": "由于国税局要求纳税人披露活动，因此与过去几年相比，国税局有关加密货币的信件变得更加熟悉。"
     },
     {
-      "id": "92ed7a84071614b1",
+      "id": "3ebbe4e28b63368a",
       "title": "Trending Crypto: Moon Doge Coin (MOONDOGECOIN)",
-      "summary": "CoinGecko trending rank #846.",
+      "summary": "CoinGecko trending rank #858.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/moon-doge-coin",
       "image_url": "https://coin-images.coingecko.com/coins/images/102175181/large/logo.png?1785432559",
-      "published_at": "2026-07-31T12:01:47.618Z",
+      "published_at": "2026-07-31T12:49:28.811Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -446,17 +446,37 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：Moon Doge Coin (MOONDOGECOIN)",
-      "summary_zh": "CoinGecko 趋势排名#846。"
+      "summary_zh": "CoinGecko 趋势排名#858。"
     },
     {
-      "id": "144f521d2e22a60e",
+      "id": "2f6206424b5200ac",
+      "title": "Trending Crypto: GRVT Token (GRVT)",
+      "summary": "CoinGecko trending rank #619.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/grvt",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102172513/large/grvt_400x400.jpg?1773653767",
+      "published_at": "2026-07-31T12:49:28.811Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "grvt"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：GRVT 代币 (GRVT)",
+      "summary_zh": "CoinGecko 趋势排名#619。"
+    },
+    {
+      "id": "a228568f693cd945",
       "title": "Trending Crypto: Pudgy Penguins (PENGU)",
       "summary": "CoinGecko trending rank #111.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
       "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-07-31T12:01:47.618Z",
+      "published_at": "2026-07-31T12:49:28.811Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -469,34 +489,14 @@
       "summary_zh": "CoinGecko 趋势排名第 111。"
     },
     {
-      "id": "32cf5568eccdbaf7",
-      "title": "Trending Crypto: GRVT Token (GRVT)",
-      "summary": "CoinGecko trending rank #640.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/grvt",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102172513/large/grvt_400x400.jpg?1773653767",
-      "published_at": "2026-07-31T12:01:47.618Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "grvt"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：GRVT 代币 (GRVT)",
-      "summary_zh": "CoinGecko 趋势排名#640。"
-    },
-    {
-      "id": "1a4b1b78ad8499a1",
+      "id": "f3bc8552b5220e10",
       "title": "Trending Crypto: Uniswap (UNI)",
       "summary": "CoinGecko trending rank #34.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/uniswap",
       "image_url": "https://coin-images.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669",
-      "published_at": "2026-07-31T12:01:47.618Z",
+      "published_at": "2026-07-31T12:49:28.811Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -509,24 +509,24 @@
       "summary_zh": "CoinGecko 趋势排名第 34 位。"
     },
     {
-      "id": "aa93fc32e7cff5d8",
-      "title": "Trending Crypto: Bittensor (TAO)",
-      "summary": "CoinGecko trending rank #42.",
+      "id": "a246532c8fe2621d",
+      "title": "Trending Crypto: Momentum (MMT)",
+      "summary": "CoinGecko trending rank #403.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bittensor",
-      "image_url": "https://coin-images.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg?1696527447",
-      "published_at": "2026-07-31T12:01:47.618Z",
+      "source_url": "https://www.coingecko.com/en/coins/momentum-3",
+      "image_url": "https://coin-images.coingecko.com/coins/images/69899/large/4_icon_PFP_RGB.png?1762090516",
+      "published_at": "2026-07-31T12:49:28.811Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "tao"
+        "mmt"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：Bittensor (TAO)",
-      "summary_zh": "CoinGecko 趋势排名第 42 位。"
+      "title_zh": "加密货币趋势：动量 (MMT)",
+      "summary_zh": "CoinGecko 趋势排名#403。"
     },
     {
       "id": "8ebf4b641eb95d06",
@@ -600,23 +600,7 @@
       ],
       "region": "global",
       "title_zh": "美国希望亚洲使用其人工智能——但中国在更便宜的型号上占据主导地位",
-      "summary_zh": "世界上最大的大陆正在成为中美人工智能竞赛的中心。"
-    },
-    {
-      "id": "6457f86258e8f91a",
-      "title": "Live Updates: Spanish Leader Rushes to Ceuta After Thousands of Migrants Burst Into Territory",
-      "summary": "Prime Minister Pedro Sánchez arrived in Ceuta, a Spanish exclave in North Africa, amid an escalating crisis for his pro-immigration government.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
-      "image_url": null,
-      "published_at": "2026-07-31T11:58:32.000Z",
-      "importance_score": 52,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "实时更新：数千名移民涌入该地区后，西班牙领导人赶赴休达",
-      "summary_zh": "总理佩德罗·桑切斯抵达北非西班牙飞地休达，其亲移民政府的危机不断升级。"
+      "summary_zh": "全球最大的大陆正在成为中美人工智能竞赛的中心。"
     },
     {
       "id": "bf9313367178b144",
@@ -707,7 +691,7 @@
         "stocks"
       ],
       "region": "global",
-      "title_zh": "比特币、以太币下跌，股市上涨，加密货币市场有望创一年来最佳月份",
+      "title_zh": "比特币、以太坊下跌，股市上涨，加密货币市场有望创一年来最佳月份",
       "summary_zh": "7 月接近尾声时，尽管亚洲股市上涨且美国股指期货上涨，但 BTC 仍下跌。 CoinDesk 20 指数将创下 2025 年 7 月以来的最大涨幅。"
     },
     {
@@ -887,7 +871,7 @@
       ],
       "region": "global",
       "title_zh": "通过两项 Google Vids 更新创建、编辑视频并为其加注星标",
-      "summary_zh": "Gemini Omni 和 Google Vids 中的个人头像使视频创作变得比以往更容易。"
+      "summary_zh": "Gemini Omni 和 Google Vids 中的个人头像让视频创作变得比以往更容易。"
     },
     {
       "id": "f9e3a7d591f3bf94",
@@ -993,38 +977,20 @@
       "summary_zh": "道指下跌 1,000 点后，该指数通常会在接下来的一周表现疲软。然后平均值会在下个月和三个月内上涨。"
     },
     {
-      "id": "c7a0ec8f21aa4972",
-      "title": "44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering",
-      "summary": "The letter is part of the commission’s public comment period for the first draft of its proposed rule on regulating prediction markets.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/07/28/44-states-say-cftc-has-no-authority-over-sports-prediction-markets.html",
-      "image_url": null,
-      "published_at": "2026-07-28T18:27:43.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "44 个州在对抗预测市场的斗争中在一件事情上达成了一致。这是关于体育博彩",
-      "summary_zh": "这封信是该委员会就其监管预测市场规则初稿公开征求意见的一部分。"
-    },
-    {
-      "id": "667809a612cccf6b",
-      "title": "About 60,000 migrants Ceuta in 24 hours, Spanish territory's leader says",
+      "id": "e241866b93b8df7c",
+      "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
       "summary": "The estimated number of arrivals is more than 70% of the population of the city, which is about 83,600.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-07-31T12:00:18.000Z",
+      "published_at": "2026-07-31T12:39:39.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "西班牙领地领导人称，24小时内约有6万名移民休达",
-      "summary_zh": "估计抵达人数超过该市人口的 70%，即约 83,600 人。"
+      "title_zh": "西班牙领地领导人称，24小时内约有6万名移民抵达休达",
+      "summary_zh": "预计抵达人数超过该市人口的 70%，即约 83,600 人。"
     },
     {
       "id": "14eef57307e99197",
@@ -1056,7 +1022,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "AC米兰和意大利伟大球员巴雷西去世，享年66岁",
-      "summary_zh": "意大利AC米兰俱乐部宣布，意大利伟大球员弗兰科·巴雷西去世，享年66岁。"
+      "summary_zh": "意大利AC米兰俱乐部宣布，意大利伟大球员弗朗哥·巴雷西去世，享年66岁。"
     },
     {
       "id": "2d4ab85bc3093a20",
@@ -1073,8 +1039,8 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "秘鲁前总统因腐败指控被判处15年监禁",
-      "summary_zh": "奥兰塔·胡马拉 (Ollanta Humala) 于 2025 年与妻子一起被判犯有洗钱罪。"
+      "title_zh": "秘鲁前总统因腐败指控被判15年监禁",
+      "summary_zh": "奥兰塔·乌马拉 (Ollanta Humala) 于 2025 年与妻子一起被判犯有洗钱罪。"
     },
     {
       "id": "4feee869dccd200e",
@@ -1202,7 +1168,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
       "image_url": null,
-      "published_at": "2026-07-31T11:16:55.000Z",
+      "published_at": "2026-07-31T11:16:56.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1263,6 +1229,41 @@
       "region": "global",
       "title_zh": "截至 2026 年 7 月 16 日，来自 Quantocracy 的最新量化链接",
       "summary_zh": "这是截至 2026 年 7 月 16 日星期四 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！价格的状态空间模型：CryptoMamba 与 Transformers（持怀疑态度）[Aligithm] 每隔几年就会出现一个新的架构"
+    },
+    {
+      "id": "aa492c07f91ccaa5",
+      "title": "Dubai-based crypto exchange tied to $4 billion Iran sanctioned-evasion network",
+      "summary": "Shelbit allegedly sent hundreds of millions of dollars to major crypto exchanges, including Binance, as it linked gambling sites and sanctioned Iranian entities to global crypto markets.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters",
+      "image_url": null,
+      "published_at": "2026-07-31T12:28:02.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "迪拜加密货币交易所与价值 40 亿美元的伊朗制裁逃税网络挂钩",
+      "summary_zh": "据称，谢尔比特向包括币安在内的主要加密货币交易所发送了数亿美元，因为它将赌博网站与全球加密货币市场联系起来并制裁伊朗实体。"
+    },
+    {
+      "id": "39a45c3269651f37",
+      "title": "World Cup bets smash records as prediction markets hit $20 billion in volume",
+      "summary": "Markets ranged from the simple question of who would win the tournament to whether Cristiano Ronaldo would cry when Portugal were eliminated (he did).",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/07/31/world-cup-bets-smash-records-as-prediction-markets-hit-usd20-billion-in-volume",
+      "image_url": null,
+      "published_at": "2026-07-31T12:00:26.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "预测市场规模突破 200 亿美元，世界杯投注打破纪录",
+      "summary_zh": "市场的范围从谁将赢得世界杯的简单问题到克里斯蒂亚诺·罗纳尔多在葡萄牙被淘汰时是否会哭泣（他哭了）。"
     },
     {
       "id": "3247f1e6982e5b5e",
@@ -1645,7 +1646,7 @@
         "google"
       ],
       "region": "global",
-      "title_zh": "使用 Google 搜索举办终极晚宴的 5 种方法",
+      "title_zh": "利用 Google 搜索举办终极晚宴的 5 种方式",
       "summary_zh": "这些人工智能功能可以帮助您制作菜单、设计桌面景观以及处理其他派对策划任务。"
     },
     {
@@ -1804,7 +1805,7 @@
       ],
       "region": "global",
       "title_zh": "截至 2026 年 7 月 29 日，来自 Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 7 月 29 日星期三 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！我发明了 2021 年蜡烛类型来寻找圣杯 [纸上获利] 我们在交易生涯中都在看图表，"
+      "summary_zh": "这是截至 2026 年 7 月 29 日星期三 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！我发明了 2021 年蜡烛类型来寻找一个圣杯 [Paper to Profit] 我们在交易生涯中都在看图表，"
     },
     {
       "id": "6a677899b9cb14e3",
@@ -1854,7 +1855,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "截至 2026 年 7 月 20 日，来自 Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 7 月 20 日星期一 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ RSI 超买是卖出信号吗？我们测试了 70/30 [反驳] RSI 70/30 规则的简短版本（高于 70 = overboug"
+      "summary_zh": "这是截至 2026 年 7 月 20 日星期一 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ RSI 超买是卖出信号吗？我们测试了 70/30 [反驳] RSI 70/30 规则的简短版本（高于 70 = overboug"
     },
     {
       "id": "d524e2dad3075ed9",
@@ -1886,7 +1887,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "截至 2026 年 7 月 12 日，Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 7 月 12 日星期日 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！网络动量作为一种跨资产因素 [Algrithm] 动量是没有人争论的一个因素。胜利者不断获胜，"
+      "summary_zh": "这是截至 2026 年 7 月 12 日星期日 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！网络动量作为跨资产因素 [Algrithm] 动量是没有人争论的一个因素。胜利者不断获胜，"
     }
   ]
 }
