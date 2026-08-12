@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T00:44:30.944Z",
+  "generated_at": "2026-08-12T00:57:46.429Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】由于 ETF 资金流入抵消了抛售，比特币陷入困境，但通胀数据可能引发走势；【CRYPTO】交易员等待周三的通胀测试，比特币跌向 64,000 美元；【FINANCE】ETF行业的下一个大推动？为什么随着利率不确定性的持续存在，这些风险资产越来越受欢迎。",
   "meta": {
     "sources_count": 11,
@@ -128,7 +128,7 @@
       ],
       "region": "global",
       "title_zh": "截至 2026 年 8 月 6 日，来自 Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 8 月 6 日星期四 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！驯服通配符：大卫·瓦拉迪（David Varadi）的“通货膨胀指南针”[巧妙分配]这是对新颖策略的独立测试"
+      "summary_zh": "这是截至 2026 年 8 月 6 日星期四 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！驯服通配符：大卫·瓦拉迪（David Varadi）的“通货膨胀指南针”[巧妙分配]这是对新颖策略的独立测试"
     },
     {
       "id": "37edb57597431c06",
@@ -357,7 +357,7 @@
       ],
       "region": "global",
       "title_zh": "截至 2026 年 7 月 27 日，来自 Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 7 月 27 日星期一 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！通货膨胀罗盘模型 [CSS Analytics] 当通货膨胀从低到高转变时，传统的 60/40 股票和债券都"
+      "summary_zh": "这是截至 2026 年 7 月 27 日星期一 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！通货膨胀罗盘模型 [CSS Analytics] 当通货膨胀从低转为高时，传统的 60/40 股票和债券都"
     },
     {
       "id": "6eb9e96ac89bfc7f",
@@ -397,14 +397,14 @@
       "summary_zh": "在加密货币、人工智能和国防客户的推动下，总存款从 3 月份的 11 亿美元增长到 7 月份的 46 亿美元。"
     },
     {
-      "id": "301a91c1e7d79377",
+      "id": "b7a4ee7c22c9c713",
       "title": "Trending Crypto: DogBull (DOGO)",
       "summary": "CoinGecko trending rank #310.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/dogbull",
       "image_url": "https://coin-images.coingecko.com/coins/images/102175491/large/fy8vywsdpyv6zb2j7qtyt6u0dw24.?1786442622",
-      "published_at": "2026-08-12T00:44:18.355Z",
+      "published_at": "2026-08-12T00:57:35.464Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -417,14 +417,14 @@
       "summary_zh": "CoinGecko 趋势排名#310。"
     },
     {
-      "id": "bb66406ceae2d234",
+      "id": "38cf80ddcdc9e10e",
       "title": "Trending Crypto: XRP (XRP)",
       "summary": "CoinGecko trending rank #6.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/ripple",
       "image_url": "https://coin-images.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1696501442",
-      "published_at": "2026-08-12T00:44:18.355Z",
+      "published_at": "2026-08-12T00:57:35.464Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -437,14 +437,34 @@
       "summary_zh": "CoinGecko 趋势排名第 6。"
     },
     {
-      "id": "9bce44debd9eb5af",
+      "id": "fc026ba9e6f9592d",
+      "title": "Trending Crypto: Holoworld (HOLO)",
+      "summary": "CoinGecko trending rank #176.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/holoworld",
+      "image_url": "https://coin-images.coingecko.com/coins/images/68845/large/holo.png?1756787241",
+      "published_at": "2026-08-12T00:57:35.464Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "holo"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：Holoworld (HOLO)",
+      "summary_zh": "CoinGecko 趋势排名第 176 位。"
+    },
+    {
+      "id": "87ebede60f686558",
       "title": "Trending Crypto: Solana (SOL)",
       "summary": "CoinGecko trending rank #7.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/solana",
       "image_url": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
-      "published_at": "2026-08-12T00:44:18.355Z",
+      "published_at": "2026-08-12T00:57:35.464Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -457,44 +477,24 @@
       "summary_zh": "CoinGecko 趋势排名第七。"
     },
     {
-      "id": "7e400d97631ada26",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #105.",
+      "id": "33e891c16548eb31",
+      "title": "Trending Crypto: StonkBroker (STONKBROKER)",
+      "summary": "CoinGecko trending rank #403.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-08-12T00:44:18.355Z",
+      "source_url": "https://www.coingecko.com/en/coins/stonkbroker",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102174654/large/9gwu14e3hpizobkefg65k66l70wu.?1784445702",
+      "published_at": "2026-08-12T00:57:35.464Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pengu"
+        "stonkbroker"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：矮胖企鹅 (PENGU)",
-      "summary_zh": "CoinGecko 趋势排名第 105。"
-    },
-    {
-      "id": "d0189ee5a3accae0",
-      "title": "Trending Crypto: Pons (PONS)",
-      "summary": "CoinGecko trending rank #601.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pons",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102174571/large/jhitvkisdq8fhxvimdkpcw7y3dx5.?1784093932",
-      "published_at": "2026-08-12T00:44:18.355Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pons"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：Pons (PONS)",
-      "summary_zh": "CoinGecko 趋势排名#601。"
+      "title_zh": "加密货币趋势：StonkBroker (STONKBROKER)",
+      "summary_zh": "CoinGecko 趋势排名#403。"
     },
     {
       "id": "9ffcb5961674aad8",
@@ -616,7 +616,7 @@
       ],
       "region": "global",
       "title_zh": "由于 Coldcard 漏洞促使用户转移资金，新的比特币地址激增",
-      "summary_zh": "新的比特币地址数量从 26 万个攀升至 33 万个，大幅打破了今年大部分时间的下降趋势。"
+      "summary_zh": "新比特币地址数量从 26 万个攀升至 33 万个，大幅打破了今年大部分时间的下降趋势。"
     },
     {
       "id": "cece5c58acad15b1",
@@ -635,7 +635,7 @@
       ],
       "region": "global",
       "title_zh": "从比特币牛市到“彻底摧毁”：Keel首席执行官押注人工智能的更大价值",
-      "summary_zh": "2025 年 5 月，Keel 首席执行官表示公司的比特币业务“强劲​​”，并表示公司仍然“看好矿业经济”。"
+      "summary_zh": "2025 年 5 月，Keel 首席执行官表示公司的比特币业务“强劲​​”，并表示公司仍然“看好挖矿经济”。"
     },
     {
       "id": "5f850563c17690e2",
@@ -1024,7 +1024,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html",
       "image_url": null,
-      "published_at": "2026-08-11T23:48:47.000Z",
+      "published_at": "2026-08-12T00:44:27.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1334,7 +1334,7 @@
         "openai"
       ],
       "region": "global",
-      "title_zh": "OpenAI 致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信",
+      "title_zh": "OpenAI 致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信函",
       "summary_zh": "OpenAI 向州长 Greg Abbott 发送了一封信，概述了其对德克萨斯州负责任的人工智能基础设施的承诺。这封信支持可靠、透明的增长，有利于德克萨斯人。"
     },
     {
@@ -1451,7 +1451,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Meta 带着 Muse Glimmer 回归：本地、代理、多模式和开源",
+      "title_zh": "Meta 与 Muse Glimmer 一起回归：本地、代理、多模式和开源",
       "summary_zh": ""
     },
     {
@@ -1469,7 +1469,7 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "TutorMoments：人工智能导师知道什么时候该帮忙，什么时候该阻止吗？",
+      "title_zh": "TutorMoments：人工智能导师知道何时提供帮助、何时停止吗？",
       "summary_zh": ""
     },
     {
@@ -1712,7 +1712,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "亚历山大·拉赫林 (Alexander Rakhlin) 被任命为麻省理工学院统计和数据科学中心主任",
-      "summary_zh": "Rakhlin 是机器学习、统计和计算领域的专家，接替 Ankur Moitra 教授。"
+      "summary_zh": "Rakhlin 是机器学习、统计和计算方面的专家，接替 Ankur Moitra 教授。"
     },
     {
       "id": "3300c1ffe5822ea5",
@@ -1763,7 +1763,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "有影响力的计算机科学家和多产作家名誉教授迪米特里·贝尔塞卡斯 (Dimitri Bertsekas) 去世，享年 83 岁",
+      "title_zh": "颇具影响力的计算机科学家和多产作家 Dimitri Bertsekas 名誉教授去世，享年 83 岁",
       "summary_zh": "贝尔塞卡斯以其清晰优雅的写作风格而闻名，他塑造了从控制和优化到大规模计算和人工智能的领域。"
     },
     {
