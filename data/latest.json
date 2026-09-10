@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T06:08:34.419Z",
+  "generated_at": "2026-09-10T06:48:21.410Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【WORLD】Spanish intelligence warned of Ceuta mass crossing plans before surge；【CRYPTO】Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push；【CRYPTO】Consensys to split MetaMask into its own firm while staying silent on IPO。",
   "meta": {
     "sources_count": 11,
@@ -337,14 +337,14 @@
       "summary_zh": "SkyAI’s proposed equity plan would authorize 5.145 million shares for stock-based compensation, representing roughly 7.2% additional dilution."
     },
     {
-      "id": "4e9a4ebb3a42352b",
+      "id": "4377fb890607957d",
       "title": "Trending Crypto: Hunter Biden's Laptop (LAPTOP)",
       "summary": "CoinGecko trending rank #147.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hunter-biden-s-laptop-3",
       "image_url": "https://coin-images.coingecko.com/coins/images/102176837/large/Laptop_Logo.png?1788875459",
-      "published_at": "2026-09-10T06:07:23.894Z",
+      "published_at": "2026-09-10T06:47:10.747Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -357,34 +357,14 @@
       "summary_zh": "CoinGecko trending rank #147."
     },
     {
-      "id": "33dd1116aadb4319",
-      "title": "Trending Crypto: Bifrost (BFC)",
-      "summary": "CoinGecko trending rank #415.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bifrost",
-      "image_url": "https://coin-images.coingecko.com/coins/images/4639/large/BFC_Symbol.png?1696505208",
-      "published_at": "2026-09-10T06:07:23.894Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "bfc"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Bifrost (BFC)",
-      "summary_zh": "CoinGecko trending rank #415."
-    },
-    {
-      "id": "1a23d01ff23490b2",
+      "id": "0f2485be5d5f1b2d",
       "title": "Trending Crypto: Zcash (ZEC)",
       "summary": "CoinGecko trending rank #10.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/zcash",
       "image_url": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558",
-      "published_at": "2026-09-10T06:07:23.894Z",
+      "published_at": "2026-09-10T06:47:10.747Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -397,14 +377,14 @@
       "summary_zh": "CoinGecko trending rank #10."
     },
     {
-      "id": "45c55bc7eba23133",
+      "id": "d1df48214faeefe5",
       "title": "Trending Crypto: STONK (STONK)",
-      "summary": "CoinGecko trending rank #186.",
+      "summary": "CoinGecko trending rank #178.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/stonk-3",
       "image_url": "https://coin-images.coingecko.com/coins/images/102175239/large/tscmgapqpfx5j4hu8gbs3aj85s7a.?1785895603",
-      "published_at": "2026-09-10T06:07:23.894Z",
+      "published_at": "2026-09-10T06:47:10.747Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -414,17 +394,17 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: STONK (STONK)",
-      "summary_zh": "CoinGecko trending rank #186."
+      "summary_zh": "CoinGecko trending rank #178."
     },
     {
-      "id": "20cc41e56ee3ac69",
+      "id": "99a673f1c90c5994",
       "title": "Trending Crypto: Pons (PONS)",
-      "summary": "CoinGecko trending rank #113.",
+      "summary": "CoinGecko trending rank #112.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pons",
       "image_url": "https://coin-images.coingecko.com/coins/images/102174571/large/jhitvkisdq8fhxvimdkpcw7y3dx5.?1784093932",
-      "published_at": "2026-09-10T06:07:23.894Z",
+      "published_at": "2026-09-10T06:47:10.747Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -434,7 +414,27 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Pons (PONS)",
-      "summary_zh": "CoinGecko trending rank #113."
+      "summary_zh": "CoinGecko trending rank #112."
+    },
+    {
+      "id": "7a732792ef80d930",
+      "title": "Trending Crypto: Bifrost (BFC)",
+      "summary": "CoinGecko trending rank #420.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/bifrost",
+      "image_url": "https://coin-images.coingecko.com/coins/images/4639/large/BFC_Symbol.png?1696505208",
+      "published_at": "2026-09-10T06:47:10.747Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "bfc"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Bifrost (BFC)",
+      "summary_zh": "CoinGecko trending rank #420."
     },
     {
       "id": "107a5ee8cc904ded",
@@ -579,6 +579,24 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 08/31/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 08/31/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Does Trading TAA Strategies More Often Improve Performance? [Allocate Smartly] Most Tactical Asset Allocation (TAA) strateg"
+    },
+    {
+      "id": "8583e61c17681edd",
+      "title": "Hunter Biden’s LAPTOP blames bots after 98% crash as traders rack up six-figure losses",
+      "summary": "The team said thin liquidity and automated traders distorted the launch, while Nansen data showed some early buyers sitting on six-figure losses after the memecoin’s debut.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/09/10/hunter-biden-s-laptop-blames-bots-after-98-crash-as-traders-rack-up-six-figure-losses",
+      "image_url": null,
+      "published_at": "2026-09-10T06:13:45.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Hunter Biden’s LAPTOP blames bots after 98% crash as traders rack up six-figure losses",
+      "summary_zh": "The team said thin liquidity and automated traders distorted the launch, while Nansen data showed some early buyers sitting on six-figure losses after the memecoin’s debut."
     },
     {
       "id": "3fa602a1c1292610",
@@ -979,7 +997,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-09-10T04:08:07.000Z",
+      "published_at": "2026-09-10T06:30:19.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1296,24 +1314,6 @@
       "region": "global",
       "title_zh": "Kalshi election data goes live on DoubleZero ahead of U.S. midterms",
       "summary_zh": "The expansion gives institutional and automated traders access to full-depth political prediction-market order books ahead of the U.S. midterms."
-    },
-    {
-      "id": "4a41aa74517649fc",
-      "title": "PayPal expands stablecoin rails with custom token issuance platform",
-      "summary": "The PYUSDx stablecoin developer platform, backed by PayPal USD (PYUSD), is built with the help of M0 and MoonPay.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
-      "image_url": null,
-      "published_at": "2026-09-09T14:00:00.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "PayPal expands stablecoin rails with custom token issuance platform",
-      "summary_zh": "The PYUSDx stablecoin developer platform, backed by PayPal USD (PYUSD), is built with the help of M0 and MoonPay."
     },
     {
       "id": "c93ee72ff304e7ab",
