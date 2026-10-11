@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-11T02:42:10.366Z",
+  "generated_at": "2026-10-11T09:26:52.907Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing；【FINANCE】Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva；【WORLD】Young men live in fear of being snatched off the streets and sold to Myanmar's army。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
     "feed_failed": 0,
     "failed_sources": [],
-    "translated_items": 2,
+    "translated_items": 1,
     "translation_target": "zh-CN",
     "version": "1.3.0"
   },
@@ -211,25 +211,6 @@
       "summary_zh": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
     },
     {
-      "id": "23b08f84cde69bc6",
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-      "summary": "Another 309 people are injured, with a Saudi-led military coalition saying the attack by Yemen's Houthis is a \"war crime\".",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-11T00:21:52.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Twelve killed in attack on airport in Saudi capital Riyadh",
-      "summary_zh": "Another 309 people are injured, with a Saudi-led military coalition saying the attack by Yemen's Houthis is a \"war crime\"."
-    },
-    {
       "id": "6b63811f919a7a53",
       "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
       "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
@@ -248,41 +229,22 @@
       "summary_zh": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month."
     },
     {
-      "id": "0cbdbbd72c393565",
-      "title": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
-      "summary": "Moscow has used tactics of fear and ambiguity to try to divide NATO and limit support for Ukraine. But how should Europe retaliate? And how hard?",
+      "id": "552b06cc6af4fcec",
+      "title": "Wringing Hope From the Rubble of Gaza",
+      "summary": "The cease-fire last October ostensibly brought an end to Israel’s war in Gaza after the Hamas-led attacks on Oct. 7, 2023. A year later, however, Israeli strikes, though less frequent, haven’t stopped.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html",
+      "source_url": "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html",
       "image_url": null,
-      "published_at": "2026-10-09T22:07:24.000Z",
+      "published_at": "2026-10-11T09:01:25.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
-        "ai",
         "war"
       ],
       "region": "global",
-      "title_zh": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
-      "summary_zh": "Moscow has used tactics of fear and ambiguity to try to divide NATO and limit support for Ukraine. But how should Europe retaliate? And how hard?"
-    },
-    {
-      "id": "00e7e67a5a744b3a",
-      "title": "Attacker in FlyDubai Flight Meant to Crash Into Israeli Airport, Emiratis Say",
-      "summary": "The attorney general of the United Arab Emirates said that the co-pilot had been inspired by the Sept. 11 attacks after years of developing extreme Islamist views.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html",
-      "image_url": null,
-      "published_at": "2026-10-10T00:10:22.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Attacker in FlyDubai Flight Meant to Crash Into Israeli Airport, Emiratis Say",
-      "summary_zh": "The attorney general of the United Arab Emirates said that the co-pilot had been inspired by the Sept. 11 attacks after years of developing extreme Islamist views."
+      "title_zh": "Wringing Hope From the Rubble of Gaza",
+      "summary_zh": "The cease-fire last October ostensibly brought an end to Israel’s war in Gaza after the Hamas-led attacks on Oct. 7, 2023. A year later, however, Israeli strikes, though less frequent, haven’t stopped."
     },
     {
       "id": "49c3cd78c3833149",
@@ -341,14 +303,14 @@
       "summary_zh": "NY AG Letitia James secured up to $35M from ex-Celsius CEO Alex Mashinsky and a permanent ban from the securities and crypto industries."
     },
     {
-      "id": "3f09f7e681226e29",
+      "id": "302a436a8df8a9d1",
       "title": "Trending Crypto: SWARM ENGINE (SWARM)",
-      "summary": "CoinGecko trending rank #755.",
+      "summary": "CoinGecko trending rank #791.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/swarm-engine",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179329/large/logo_SWARM.jpg?1791469499",
-      "published_at": "2026-10-11T02:40:56.765Z",
+      "published_at": "2026-10-11T09:25:41.280Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -358,17 +320,17 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: SWARM ENGINE (SWARM)",
-      "summary_zh": "CoinGecko trending rank #755."
+      "summary_zh": "CoinGecko trending rank #791."
     },
     {
-      "id": "7d311c097abeac56",
+      "id": "2befe08f0a4b8a07",
       "title": "Trending Crypto: Starknet (STRK)",
-      "summary": "CoinGecko trending rank #86.",
+      "summary": "CoinGecko trending rank #90.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/starknet",
       "image_url": "https://coin-images.coingecko.com/coins/images/26433/large/starknet.png?1696525507",
-      "published_at": "2026-10-11T02:40:56.765Z",
+      "published_at": "2026-10-11T09:25:41.280Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -378,37 +340,17 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Starknet (STRK)",
-      "summary_zh": "CoinGecko trending rank #86."
+      "summary_zh": "CoinGecko trending rank #90."
     },
     {
-      "id": "d6d5728d6e445bac",
-      "title": "Trending Crypto: Quantus (QTC)",
-      "summary": "CoinGecko trending rank #620.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/quantus",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102171910/large/Token_Icon.png?1791345433",
-      "published_at": "2026-10-11T02:40:56.765Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "qtc"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Quantus (QTC)",
-      "summary_zh": "CoinGecko trending rank #620."
-    },
-    {
-      "id": "710041c05cb7a380",
+      "id": "62d10e9605c3e80c",
       "title": "Trending Crypto: Celestia (TIA)",
-      "summary": "CoinGecko trending rank #108.",
+      "summary": "CoinGecko trending rank #109.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/celestia",
       "image_url": "https://coin-images.coingecko.com/coins/images/31967/large/tia.jpg?1696530772",
-      "published_at": "2026-10-11T02:40:56.765Z",
+      "published_at": "2026-10-11T09:25:41.280Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -418,27 +360,47 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Celestia (TIA)",
-      "summary_zh": "CoinGecko trending rank #108."
+      "summary_zh": "CoinGecko trending rank #109."
     },
     {
-      "id": "2ae2db51517e526e",
-      "title": "Trending Crypto: Aerodrome Finance (AERO)",
-      "summary": "CoinGecko trending rank #82.",
+      "id": "76f87b91716bb219",
+      "title": "Trending Crypto: Zcash (ZEC)",
+      "summary": "CoinGecko trending rank #10.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/aerodrome-finance",
-      "image_url": "https://coin-images.coingecko.com/coins/images/31745/large/token.png?1696530564",
-      "published_at": "2026-10-11T02:40:56.765Z",
+      "source_url": "https://www.coingecko.com/en/coins/zcash",
+      "image_url": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558",
+      "published_at": "2026-10-11T09:25:41.280Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "aero"
+        "zec"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Aerodrome Finance (AERO)",
-      "summary_zh": "CoinGecko trending rank #82."
+      "title_zh": "Trending Crypto: Zcash (ZEC)",
+      "summary_zh": "CoinGecko trending rank #10."
+    },
+    {
+      "id": "236889fec23c8722",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #115.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-10-11T09:25:41.280Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pengu"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary_zh": "CoinGecko trending rank #115."
     },
     {
       "id": "14ad99b93979f31c",
@@ -575,7 +537,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html",
       "image_url": null,
-      "published_at": "2026-10-10T17:09:16.000Z",
+      "published_at": "2026-10-10T17:09:17.000Z",
       "importance_score": 52,
       "sentiment": 0,
       "tags": [
@@ -1067,20 +1029,38 @@
       "summary_zh": "Combo contracts are driving volume growth even as they make up a small, albeit consistent, share of transactions."
     },
     {
-      "id": "2e342b6d08d90cec",
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "id": "009ef80116a8e801",
+      "title": "Delhi sees more protests as 'cockroach' group's leaders released",
+      "summary": "Police say they will keep restricting access to the city centre after thousands of people were detained and released on Saturday.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-10T20:51:12.000Z",
+      "published_at": "2026-10-11T08:50:21.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Delhi sees more protests as 'cockroach' group's leaders released",
+      "summary_zh": "Police say they will keep restricting access to the city centre after thousands of people were detained and released on Saturday."
+    },
+    {
+      "id": "72bc6d00e74104d6",
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "summary": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-11T05:05:43.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-      "summary_zh": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
+      "title_zh": "US justice department investigates TV networks over Trump pool coverage",
+      "summary_zh": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage."
     },
     {
       "id": "264b438999409356",
@@ -1119,6 +1099,22 @@
       "summary_zh": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance."
     },
     {
+      "id": "2e342b6d08d90cec",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-10T20:51:12.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "summary_zh": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
+    },
+    {
       "id": "06ee61a81be44b46",
       "title": "Woman injures three people in third Poland school knife attack in a week",
       "summary": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
@@ -1135,36 +1131,92 @@
       "summary_zh": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days."
     },
     {
-      "id": "efd3ecb64f2b3ebb",
-      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-      "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
+      "id": "118fa82011bbcf78",
+      "title": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
+      "summary": "Though born in Ukraine, Alexsander supports the Russian cause. He wishes he had deleted one photo from his phone.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html",
       "image_url": null,
-      "published_at": "2026-10-10T15:23:47.000Z",
+      "published_at": "2026-10-11T09:00:28.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
+      "summary_zh": "Though born in Ukraine, Alexsander supports the Russian cause. He wishes he had deleted one photo from his phone."
+    },
+    {
+      "id": "4c464d8c9c1a9ed5",
+      "title": "India’s ‘Cockroach’ Leaders Released as New Delhi Braces for More Protests",
+      "summary": "The leaders of the Cockroach Janta Party, an Indian youth movement, were detained by the police on Saturday before they could lead protests over voting rights.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
+      "image_url": null,
+      "published_at": "2026-10-11T08:24:11.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "India’s ‘Cockroach’ Leaders Released as New Delhi Braces for More Protests",
+      "summary_zh": "The leaders of the Cockroach Janta Party, an Indian youth movement, were detained by the police on Saturday before they could lead protests over voting rights."
+    },
+    {
+      "id": "e4aa9212758bae78",
+      "title": "A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.",
+      "summary": "Returning to China after decades away, a correspondent finds bullet trains, dazzling skylines — and a surveillance state more paranoid and pervasive than ever.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html",
+      "image_url": null,
+      "published_at": "2026-10-11T09:00:12.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.",
+      "summary_zh": "Returning to China after decades away, a correspondent finds bullet trains, dazzling skylines — and a surveillance state more paranoid and pervasive than ever."
+    },
+    {
+      "id": "52d00e4f887c30a7",
+      "title": "In Canada’s Arctic, a New Generation of Inuit Creatives Are Using Identity to Fuel Their Art",
+      "summary": "In Iqaluit, the only city in Canada’s Arctic, a new generation of Inuit writers and artists is turning questions of language, land and identity into books, films and even tattoos.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/11/world/canada/inuit-inuk-indigenous-people-identity-iqaluit.html",
+      "image_url": null,
+      "published_at": "2026-10-11T09:00:31.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-      "summary_zh": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\"."
+      "title_zh": "In Canada’s Arctic, a New Generation of Inuit Creatives Are Using Identity to Fuel Their Art",
+      "summary_zh": "In Iqaluit, the only city in Canada’s Arctic, a new generation of Inuit writers and artists is turning questions of language, land and identity into books, films and even tattoos."
     },
     {
-      "id": "97dd8b35f0f02ab1",
-      "title": "What to Know About the Delhi Protests",
-      "summary": "Protesters opposed to sweeping revisions to India’s voter rolls are trying to rally in New Delhi. The police have come out in force.",
+      "id": "0d59ceeecda8b297",
+      "title": "What to Know About the Protests in India",
+      "summary": "More demonstrations against sweeping revisions to India’s voter rolls are expected on Sunday in New Delhi. The police met earlier protests with an extraordinary show of force.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
       "image_url": null,
-      "published_at": "2026-10-10T11:07:00.000Z",
+      "published_at": "2026-10-11T06:02:15.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai"
+      ],
       "region": "global",
-      "title_zh": "What to Know About the Delhi Protests",
-      "summary_zh": "Protesters opposed to sweeping revisions to India’s voter rolls are trying to rally in New Delhi. The police have come out in force."
+      "title_zh": "What to Know About the Protests in India",
+      "summary_zh": "More demonstrations against sweeping revisions to India’s voter rolls are expected on Sunday in New Delhi. The police met earlier protests with an extraordinary show of force."
     },
     {
       "id": "0bfd3af0f38d6e0b",
@@ -1199,24 +1251,6 @@
       "summary_zh": "The injury of a former Green Beret and death of an elite soldier from New Zealand have highlighted the Blackwater founder’s growing role in one of Africa’s most intractable conflicts."
     },
     {
-      "id": "d507dd8990355deb",
-      "title": "Days of Deadly Houthi Attacks Show Saudi Arabia’s Vulnerabilities",
-      "summary": "The escalating violence has brought the conflict in Yemen to the doorstep of the Saudi capital, and the kingdom has no easy options to curtail the increasingly sophisticated and targeted strikes.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/09/world/middleeast/yemen-houthi-attack-saudi-arabia-airport-riyadh.html",
-      "image_url": null,
-      "published_at": "2026-10-09T15:17:55.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Days of Deadly Houthi Attacks Show Saudi Arabia’s Vulnerabilities",
-      "summary_zh": "The escalating violence has brought the conflict in Yemen to the doorstep of the Saudi capital, and the kingdom has no easy options to curtail the increasingly sophisticated and targeted strikes."
-    },
-    {
       "id": "0f0f2c27398a6a7d",
       "title": "Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia",
       "summary": "Government planes reported to be carrying the Russian president and his aides home from Turkmenistan were forced to circle or divert to another city.",
@@ -1233,38 +1267,6 @@
       "region": "global",
       "title_zh": "Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia",
       "summary_zh": "Government planes reported to be carrying the Russian president and his aides home from Turkmenistan were forced to circle or divert to another city."
-    },
-    {
-      "id": "53595167449fc893",
-      "title": "Palestinian Authority Says Elections Are to Be Postponed",
-      "summary": "The delay, outlined in a letter to France, comes as Fatah, the governing party, is suffering from deep internal rifts.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/09/world/middleeast/palestinian-authority-elections-west-bank-postponed.html",
-      "image_url": null,
-      "published_at": "2026-10-09T14:58:45.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Palestinian Authority Says Elections Are to Be Postponed",
-      "summary_zh": "The delay, outlined in a letter to France, comes as Fatah, the governing party, is suffering from deep internal rifts."
-    },
-    {
-      "id": "a6127890b87d39d8",
-      "title": "In a Dead Hero’s Ashes, El Salvador’s Ruler Finds a New Spark",
-      "summary": "Sword in hand, Nayib Bukele is revamping Latin America’s rich tradition of political exhumations. A new crypt projects his power across Central America.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/09/world/americas/nayib-bukele-francisco-morazan-el-salvador.html",
-      "image_url": null,
-      "published_at": "2026-10-09T09:02:38.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "In a Dead Hero’s Ashes, El Salvador’s Ruler Finds a New Spark",
-      "summary_zh": "Sword in hand, Nayib Bukele is revamping Latin America’s rich tradition of political exhumations. A new crypt projects his power across Central America."
     },
     {
       "id": "666a4e403c8a874b",
@@ -1770,6 +1772,22 @@
       "summary_zh": "Martin Trust Center Managing Director Bill Aulet introduces Dear Dreamer, a free platform for middle and high school students who want to learn about entrepreneurship."
     },
     {
+      "id": "86c639fc8375d5b4",
+      "title": "Recent Quant Links from Quantocracy as of 10/10/2026",
+      "summary": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/10/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Why Long Bonds Still Belong in the Portfolio [Beyond Passive] In the first week of October the thirty-year Treasury yield",
+      "category": "STRATEGY",
+      "source_name": "Quantocracy",
+      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-10102026/",
+      "image_url": null,
+      "published_at": "2026-10-11T05:15:06.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Recent Quant Links from Quantocracy as of 10/10/2026",
+      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/10/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Why Long Bonds Still Belong in the Portfolio [Beyond Passive] In the first week of October the thirty-year Treasury yield"
+    },
+    {
       "id": "72e6af20fbdef690",
       "title": "Recent Quant Links from Quantocracy as of 10/07/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Wednesday, 10/07/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Podcast with Kris Longmore of Robot Wealth [Algorithmic Advantage] Ex-prop trader on why solo trading is a different gam",
@@ -1868,22 +1886,6 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 09/24/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Thursday, 09/24/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Tech companies that spend more on capex than their operating cash flow [Quanter Lab] Before the dot-com crash, the teleco"
-    },
-    {
-      "id": "764f9d25b188429d",
-      "title": "Recent Quant Links from Quantocracy as of 09/20/2026",
-      "summary": "This is a summary of links recently featured on Quantocracy as of Sunday, 09/20/2026. To see our most recent links, visit the Quant Mashup. Read on readers! A sad day for the quant vol trading community, Vance is gone [Six Figure Investing] Vance Harwood passed away in September ",
-      "category": "STRATEGY",
-      "source_name": "Quantocracy",
-      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-09202026/",
-      "image_url": null,
-      "published_at": "2026-09-21T05:15:04.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Recent Quant Links from Quantocracy as of 09/20/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 09/20/2026. To see our most recent links, visit the Quant Mashup. Read on readers! A sad day for the quant vol trading community, Vance is gone [Six Figure Investing] Vance Harwood passed away in September"
     }
   ]
 }
