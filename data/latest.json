@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T23:03:46.722Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing；【FINANCE】Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva；【CRYPTO】Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run。",
+  "generated_at": "2026-10-11T02:42:10.366Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing；【FINANCE】Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva；【WORLD】Young men live in fear of being snatched off the streets and sold to Myanmar's army。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -56,6 +56,25 @@
       "region": "global",
       "title_zh": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
       "summary_zh": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose."
+    },
+    {
+      "id": "7621b78b564914b5",
+      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-10T22:13:08.000Z",
+      "importance_score": 70,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "summary_zh": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance."
     },
     {
       "id": "f9b29c31528a846a",
@@ -180,7 +199,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-10T19:28:28.000Z",
+      "published_at": "2026-10-11T01:41:29.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -190,6 +209,25 @@
       "region": "global",
       "title_zh": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
       "summary_zh": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
+    },
+    {
+      "id": "23b08f84cde69bc6",
+      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "summary": "Another 309 people are injured, with a Saudi-led military coalition saying the attack by Yemen's Houthis is a \"war crime\".",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-11T00:21:52.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "summary_zh": "Another 309 people are injured, with a Saudi-led military coalition saying the attack by Yemen's Houthis is a \"war crime\"."
     },
     {
       "id": "6b63811f919a7a53",
@@ -303,14 +341,14 @@
       "summary_zh": "NY AG Letitia James secured up to $35M from ex-Celsius CEO Alex Mashinsky and a permanent ban from the securities and crypto industries."
     },
     {
-      "id": "b60b37d49c2cfc5d",
+      "id": "3f09f7e681226e29",
       "title": "Trending Crypto: SWARM ENGINE (SWARM)",
-      "summary": "CoinGecko trending rank #763.",
+      "summary": "CoinGecko trending rank #755.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/swarm-engine",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179329/large/logo_SWARM.jpg?1791469499",
-      "published_at": "2026-10-10T23:02:35.248Z",
+      "published_at": "2026-10-11T02:40:56.765Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -320,37 +358,17 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: SWARM ENGINE (SWARM)",
-      "summary_zh": "CoinGecko trending rank #763."
+      "summary_zh": "CoinGecko trending rank #755."
     },
     {
-      "id": "e674d89881ca83e4",
-      "title": "Trending Crypto: Official Trump (TRUMP)",
-      "summary": "CoinGecko trending rank #114.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/official-trump",
-      "image_url": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561",
-      "published_at": "2026-10-10T23:02:35.248Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "trump"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Official Trump (TRUMP)",
-      "summary_zh": "CoinGecko trending rank #114."
-    },
-    {
-      "id": "2042d27e91e43d00",
+      "id": "7d311c097abeac56",
       "title": "Trending Crypto: Starknet (STRK)",
-      "summary": "CoinGecko trending rank #92.",
+      "summary": "CoinGecko trending rank #86.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/starknet",
       "image_url": "https://coin-images.coingecko.com/coins/images/26433/large/starknet.png?1696525507",
-      "published_at": "2026-10-10T23:02:35.248Z",
+      "published_at": "2026-10-11T02:40:56.765Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -360,37 +378,37 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Starknet (STRK)",
-      "summary_zh": "CoinGecko trending rank #92."
+      "summary_zh": "CoinGecko trending rank #86."
     },
     {
-      "id": "99c8d8a416dd6b32",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #116.",
+      "id": "d6d5728d6e445bac",
+      "title": "Trending Crypto: Quantus (QTC)",
+      "summary": "CoinGecko trending rank #620.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-10-10T23:02:35.248Z",
+      "source_url": "https://www.coingecko.com/en/coins/quantus",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102171910/large/Token_Icon.png?1791345433",
+      "published_at": "2026-10-11T02:40:56.765Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pengu"
+        "qtc"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #116."
+      "title_zh": "Trending Crypto: Quantus (QTC)",
+      "summary_zh": "CoinGecko trending rank #620."
     },
     {
-      "id": "fef375d9de68ebf7",
+      "id": "710041c05cb7a380",
       "title": "Trending Crypto: Celestia (TIA)",
-      "summary": "CoinGecko trending rank #109.",
+      "summary": "CoinGecko trending rank #108.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/celestia",
       "image_url": "https://coin-images.coingecko.com/coins/images/31967/large/tia.jpg?1696530772",
-      "published_at": "2026-10-10T23:02:35.248Z",
+      "published_at": "2026-10-11T02:40:56.765Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -400,7 +418,27 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Celestia (TIA)",
-      "summary_zh": "CoinGecko trending rank #109."
+      "summary_zh": "CoinGecko trending rank #108."
+    },
+    {
+      "id": "2ae2db51517e526e",
+      "title": "Trending Crypto: Aerodrome Finance (AERO)",
+      "summary": "CoinGecko trending rank #82.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/aerodrome-finance",
+      "image_url": "https://coin-images.coingecko.com/coins/images/31745/large/token.png?1696530564",
+      "published_at": "2026-10-11T02:40:56.765Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "aero"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Aerodrome Finance (AERO)",
+      "summary_zh": "CoinGecko trending rank #82."
     },
     {
       "id": "14ad99b93979f31c",
@@ -510,6 +548,24 @@
       "region": "global",
       "title_zh": "Using AI to mitigate the growing environmental threat of data centers",
       "summary_zh": "By rethinking how large cloud computing systems operate, Associate Professor Christina Delimitrou seeks to make data centers more energy efficient."
+    },
+    {
+      "id": "73c1eea69ce6a703",
+      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "summary": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-10T12:28:51.000Z",
+      "importance_score": 52,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "summary_zh": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher."
     },
     {
       "id": "1031475b6ef7f4d7",
@@ -1027,24 +1083,6 @@
       "summary_zh": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
     },
     {
-      "id": "23b08f84cde69bc6",
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-      "summary": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-10T22:40:56.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Twelve killed in attack on airport in Saudi capital Riyadh",
-      "summary_zh": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it."
-    },
-    {
       "id": "264b438999409356",
       "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
       "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
@@ -1052,7 +1090,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-10T22:02:07.000Z",
+      "published_at": "2026-10-10T23:19:55.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1111,43 +1149,6 @@
       "region": "global",
       "title_zh": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
       "summary_zh": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\"."
-    },
-    {
-      "id": "749999bf9027050d",
-      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "summary": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-10T12:29:31.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "summary_zh": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections."
-    },
-    {
-      "id": "402f4b67807d4ae7",
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-10T10:06:23.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "anthropic"
-      ],
-      "region": "global",
-      "title_zh": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "summary_zh": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach."
     },
     {
       "id": "97dd8b35f0f02ab1",
