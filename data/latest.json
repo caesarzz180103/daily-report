@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T02:41:04.301Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】XRP Ledger 修复了十年之久的错误，该错误可能会从无到有创造数十亿美元的 XRP；【FINANCE】国际货币基金组织总裁格奥尔基耶娃表示，为什么人工智能对世界领导人来说既是希望也是危险；【CRYPTO】Sui基金会向DATA Network投资3000万美元，人工智能数据协议迁移至Sui。",
+  "generated_at": "2026-10-12T06:42:40.453Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】国际货币基金组织总裁格奥尔基耶娃表示，为什么人工智能对世界领导人来说既是希望也是危险；【CRYPTO】随着油价下跌，比特币摆脱 ETF 流出的影响，交易价格突破 84,000 美元；【CRYPTO】Sui基金会向DATA Network投资3000万美元，人工智能数据协议迁移至Sui。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -20,24 +20,6 @@
   },
   "items": [
     {
-      "id": "37ab5d04bf2eb734",
-      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
-      "summary": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
-      "image_url": null,
-      "published_at": "2026-10-10T04:20:07.000Z",
-      "importance_score": 74,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "XRP Ledger 修复了十年之久的错误，该错误可能会从无到有创造数十亿美元的 XRP",
-      "summary_zh": "研究人员演示了如何在没有发送者资助的情况下，支付可以创建可使用的 XRP，从而促使紧急软件发布。"
-    },
-    {
       "id": "65f78c281318c409",
       "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
       "summary": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.",
@@ -56,6 +38,26 @@
       "region": "global",
       "title_zh": "国际货币基金组织总裁格奥尔基耶娃表示，为什么人工智能对世界领导人来说既是希望也是危险",
       "summary_zh": "克里斯塔利娜·格奥尔基耶娃（Kristalina Georgieva）警告说，随着公共债务水平上升，技术提升增长希望也推高了通胀和收益率。"
+    },
+    {
+      "id": "e4a19786dc1f92c2",
+      "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+      "summary": "Bitcoin is holding on to its weekend gains as oil trades lower. ETFs lost over $600 million in outflows last week.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+      "image_url": null,
+      "published_at": "2026-10-12T04:49:30.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin",
+        "etf"
+      ],
+      "region": "global",
+      "title_zh": "随着油价下跌，比特币摆脱 ETF 流出的影响，交易价格突破 84,000 美元",
+      "summary_zh": "随着石油交易走低，比特币保持了周末的涨幅。 ETF 上周的资金流出损失超过 6 亿美元。"
     },
     {
       "id": "cc3cc410fea9d5b6",
@@ -170,8 +172,8 @@
       "summary_zh": "美联储周三发布了 9 月 15 日至 16 日政策会议纪要。"
     },
     {
-      "id": "583079a570e66850",
-      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "id": "7f4c33786e5eb109",
+      "title": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
       "summary": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
       "category": "WORLD",
       "source_name": "BBC World",
@@ -184,26 +186,26 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "特朗普的“能源停火”主张受到泽连斯基的欢迎，但俄罗斯保持沉默",
+      "title_zh": "泽伦斯基支持特朗普的“能源停火”，但表示俄罗斯继续袭击发电厂",
       "summary_zh": "乌克兰领导人最初对唐纳德·特朗普的声明表示惊讶，但表示如果莫斯科愿意，他将支持停战。"
     },
     {
-      "id": "b8e451a7c82f935e",
-      "title": "Pope Leo to have surgery after lump found on lung",
-      "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+      "id": "b2c4d1581df60040",
+      "title": "Iconic Australian band Powderfinger announce first tour in 17 years",
+      "summary": "The band, who announced their reunion last week, say they are \"absolutely ecstatic\" to be playing together again.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c680zyx8gkkjo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-11T13:38:55.000Z",
+      "published_at": "2026-10-11T23:33:24.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "教皇利奥在肺部发现肿块后接受手术",
-      "summary_zh": "这位71岁的教皇表示，这个结节是在“非常早期的阶段”就被发现的。"
+      "title_zh": "澳大利亚标志性乐队 Powderfinger 宣布 17 年来首次巡演",
+      "summary_zh": "该乐队上周宣布重聚，表示他们对再次合作感到“非常高兴”。"
     },
     {
       "id": "552b06cc6af4fcec",
@@ -297,32 +299,14 @@
       "summary_zh": "FTX 前首席运营官康斯坦斯·王 (Constance Wang) 表示，Netflix 的《利他主义者》歪曲了 FTX 的崩溃，并将其变成了一个爱情故事。"
     },
     {
-      "id": "cf76cbe7d1100e51",
-      "title": "New York AG secures up to $35 million from former Celsius CEO Alex Mashinsky",
-      "summary": "NY AG Letitia James secured up to $35M from ex-Celsius CEO Alex Mashinsky and a permanent ban from the securities and crypto industries.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-10-09-ny-attorney-general-alex-mashinsky-celsius-35-million-ban-418154",
-      "image_url": null,
-      "published_at": "2026-10-09T14:16:15.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "New York AG 从摄氏度前首席执行官亚历克斯·马辛斯基 (Alex Mashinsky) 处获得高达 3500 万美元的投资",
-      "summary_zh": "NY AG Letitia James 从前 Celsius 首席执行官 Alex Mashinsky 那里获得了高达 3500 万美元的资金，并被永久禁止进入证券和加密行业。"
-    },
-    {
-      "id": "a91c8b35db2f78ee",
+      "id": "64514adf3f3fc8b8",
       "title": "Trending Crypto: Bunker Mode (BUNKER)",
-      "summary": "CoinGecko trending rank #753.",
+      "summary": "CoinGecko trending rank #751.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bunker-mode",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179363/large/logo.png?1791546623",
-      "published_at": "2026-10-12T02:40:41.701Z",
+      "published_at": "2026-10-12T06:42:23.623Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -332,17 +316,17 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：地堡模式（BUNKER）",
-      "summary_zh": "CoinGecko 趋势排名#753。"
+      "summary_zh": "CoinGecko 趋势排名#751。"
     },
     {
-      "id": "605cc95d045db761",
+      "id": "4eb2894ac719dfdc",
       "title": "Trending Crypto: Grass (GRASS)",
-      "summary": "CoinGecko trending rank #109.",
+      "summary": "CoinGecko trending rank #111.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/grass",
       "image_url": "https://coin-images.coingecko.com/coins/images/40094/large/Grass.jpg?1725697048",
-      "published_at": "2026-10-12T02:40:41.701Z",
+      "published_at": "2026-10-12T06:42:23.623Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -352,37 +336,37 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：草（GRASS）",
-      "summary_zh": "CoinGecko 趋势排名第 109 位。"
+      "summary_zh": "CoinGecko 趋势排名第 111。"
     },
     {
-      "id": "f3f2fb8e348c79be",
-      "title": "Trending Crypto: NEAR Protocol (NEAR)",
-      "summary": "CoinGecko trending rank #19.",
+      "id": "61b28a0b045a575a",
+      "title": "Trending Crypto: Wormhole (W)",
+      "summary": "CoinGecko trending rank #196.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/near",
-      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
-      "published_at": "2026-10-12T02:40:41.701Z",
+      "source_url": "https://www.coingecko.com/en/coins/wormhole",
+      "image_url": "https://coin-images.coingecko.com/coins/images/35087/large/W_Token_%283%29.png?1758122686",
+      "published_at": "2026-10-12T06:42:23.623Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "near"
+        "w"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：NEAR 协议 (NEAR)",
-      "summary_zh": "CoinGecko 趋势排名第 19。"
+      "title_zh": "加密货币趋势：虫洞 (W)",
+      "summary_zh": "CoinGecko 趋势排名第 196 位。"
     },
     {
-      "id": "2295cf4b5a7b5e0f",
+      "id": "d88bb7b9f421897f",
       "title": "Trending Crypto: Starknet (STRK)",
-      "summary": "CoinGecko trending rank #86.",
+      "summary": "CoinGecko trending rank #93.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/starknet",
       "image_url": "https://coin-images.coingecko.com/coins/images/26433/large/starknet.png?1696525507",
-      "published_at": "2026-10-12T02:40:41.701Z",
+      "published_at": "2026-10-12T06:42:23.623Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -392,27 +376,27 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：Starknet (STRK)",
-      "summary_zh": "CoinGecko 趋势排名第 86。"
+      "summary_zh": "CoinGecko 趋势排名第 93。"
     },
     {
-      "id": "b0d41c2fdae25b2e",
-      "title": "Trending Crypto: Quantus (QTC)",
-      "summary": "CoinGecko trending rank #585.",
+      "id": "c784c972a6ea4ea1",
+      "title": "Trending Crypto: Reserve Rights (RSR)",
+      "summary": "CoinGecko trending rank #224.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/quantus",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102171910/large/Token_Icon.png?1791345433",
-      "published_at": "2026-10-12T02:40:41.701Z",
+      "source_url": "https://www.coingecko.com/en/coins/reserve-rights-token",
+      "image_url": "https://coin-images.coingecko.com/coins/images/8365/large/RSR_Blue_Circle_1000.png?1721777856",
+      "published_at": "2026-10-12T06:42:23.623Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "qtc"
+        "rsr"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：Quantus (QTC)",
-      "summary_zh": "CoinGecko 趋势排名#585。"
+      "title_zh": "加密货币趋势：储备权 (RSR)",
+      "summary_zh": "CoinGecko 趋势排名第 224 位。"
     },
     {
       "id": "14ad99b93979f31c",
@@ -966,6 +950,22 @@
       "summary_zh": "组合合约正在推动交易量增长，尽管它们在交易中所占份额虽小但始终如一。"
     },
     {
+      "id": "afa9ebcb9774e52d",
+      "title": "Trump faces growing backlash over plans to import diesel from Russia",
+      "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-11T23:18:45.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "特朗普因从俄罗斯进口柴油的计划而面临越来越多的反对",
+      "summary_zh": "共和党和民主党议员都批评了这项在美国中期选举前几周宣布的协议。"
+    },
+    {
       "id": "05411aa865fd65b0",
       "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
       "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
@@ -982,6 +982,22 @@
       "region": "global",
       "title_zh": "胡塞武装两天内第二次袭击利雅得机场，造成1人死亡、11人受伤",
       "summary_zh": "周末，沙特首都遭到伊朗支持的也门组织的多次袭击。"
+    },
+    {
+      "id": "0fb91a0833b30608",
+      "title": "Documents falsified to evade tax on Abramovich's wealth",
+      "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, BBC finds.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-12T05:00:52.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "伪造文件以逃税阿布拉莫维奇的财富",
+      "summary_zh": "英国广播公司 (BBC) 发现，回溯的文件还导致这位俄罗斯寡头的游艇和豪宅从账户中消失。"
     },
     {
       "id": "7aaaf81c02fc9508",
@@ -1018,54 +1034,20 @@
       "summary_zh": "埃及和苏丹都没有对周六据称袭击手工采矿营地的事件发表评论。"
     },
     {
-      "id": "fbc64ade785b21f1",
-      "title": "Homes and bridges swept away as fresh floods hit Nepal",
-      "summary": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
+      "id": "8f0f8803ea74e78f",
+      "title": "Watch: Endangered orangutans released back into the wild after Borneo fires",
+      "summary": "The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-11T12:03:52.000Z",
+      "published_at": "2026-10-11T23:48:25.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "新一轮洪水袭击尼泊尔，房屋和桥梁被冲走",
-      "summary_zh": "尼泊尔仍在努力从不到两个月前发生的灾难性洪水中恢复过来，这场洪水造成数千人死亡和失踪。"
-    },
-    {
-      "id": "3f012feb8ee63ba6",
-      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-11T14:38:10.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "乌克兰袭击了 Yandex 数据中心，这是对俄罗斯科技巨头的第三次攻击",
-      "summary_zh": "这是乌克兰本周第三次针对俄罗斯科技巨头 Yandex，迫使该公司暂停运营。"
-    },
-    {
-      "id": "09d8803ccb212ce5",
-      "title": "Orangutans released back into Borneo forest after devastating fires",
-      "summary": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-11T19:08:04.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "毁灭性火灾后红毛猩猩被放回婆罗洲森林",
-      "summary_zh": "夏季，猿类的栖息地受到强烈野火的威胁，救援人员将其转移。"
+      "title_zh": "观看：婆罗洲大火后濒临灭绝的猩猩被放回野外",
+      "summary_zh": "这些极度濒临灭绝的猿类在八月和九月的严重野火中被救出，野火摧毁了它们的栖息地。"
     },
     {
       "id": "1d3b26b55f8bebe8",
@@ -1293,6 +1275,25 @@
       "region": "global",
       "title_zh": "Robinhood Chain 放缓从费用蔓延到交易，交易量下降超过 40%",
       "summary_zh": "自 9 月中旬以来，每日交易量已从 1080 万笔下降至 620 万笔，尽管 Robinhood 仍在为客户互换支付网络费用。"
+    },
+    {
+      "id": "8d9f4a432b4e91dc",
+      "title": "Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’",
+      "summary": "Pham said the CFTC's recent proposals are 'absolutely the kind of protection' needed for crypto retail traders in the United States.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246",
+      "image_url": null,
+      "published_at": "2026-10-12T04:33:57.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "前代理主席卡罗琳·范 (Caroline Pham) 表示，CFTC 几乎可以监管除“洋葱和票房收入”之外的所有事物",
+      "summary_zh": "Pham 表示，CFTC 最近的提议“绝对是美国加密货币零售交易商所需的保护”。"
     },
     {
       "id": "bd4e39e9dd9c2e6c",
