@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T16:02:02.309Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】XRP Ledger 修复了十年之久的错误，该错误可能会从无到有创造数十亿美元的 XRP；【FINANCE】国际货币基金组织总裁格奥尔基耶娃表示，为什么人工智能对世界领导人来说既是希望也是危险；【CRYPTO】随着 Solana 基金创下 14 周流入记录，以太坊 ETF 将连续流出至 9 天。",
+  "generated_at": "2026-10-12T02:41:04.301Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】XRP Ledger 修复了十年之久的错误，该错误可能会从无到有创造数十亿美元的 XRP；【FINANCE】国际货币基金组织总裁格奥尔基耶娃表示，为什么人工智能对世界领导人来说既是希望也是危险；【CRYPTO】Sui基金会向DATA Network投资3000万美元，人工智能数据协议迁移至Sui。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -58,6 +58,24 @@
       "summary_zh": "克里斯塔利娜·格奥尔基耶娃（Kristalina Georgieva）警告说，随着公共债务水平上升，技术提升增长希望也推高了通胀和收益率。"
     },
     {
+      "id": "cc3cc410fea9d5b6",
+      "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
+      "summary": "DATA Network is set to be upgraded to run as a protocol natively on Sui, and its independent chain will be retired.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
+      "image_url": null,
+      "published_at": "2026-10-12T02:00:00.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Sui基金会向DATA Network投资3000万美元，人工智能数据协议迁移至Sui",
+      "summary_zh": "DATA Network 将升级为在 Sui 上作为原生协议运行，其独立链将退役。"
+    },
+    {
       "id": "f9b29c31528a846a",
       "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
       "summary": "Spot bitcoin, solana, and ether ETFs all logged weekly outflows following last week's trading, a notable shift for some of the funds.",
@@ -74,28 +92,7 @@
       ],
       "region": "global",
       "title_zh": "随着 Solana 基金创下 14 周流入记录，以太坊 ETF 将连续流出至 9 天",
-      "summary_zh": "继上周交易后，现货比特币、solana 和以太坊 ETF 均录得每周资金流出，这对一些基金来说是一个显着的变化。"
-    },
-    {
-      "id": "b9dfb9564b844f0e",
-      "title": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
-      "summary": "Thailand's SEC has limited initial crypto ETFs to bitcoin and ether, with new custody, exposure, and trading rules taking effect Oct. 16.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
-      "image_url": null,
-      "published_at": "2026-10-09T10:40:59.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto",
-        "bitcoin",
-        "etf"
-      ],
-      "region": "global",
-      "title_zh": "泰国 SEC 发布比特币和以太币 ETF 规则，将于 10 月 16 日生效",
-      "summary_zh": "泰国 SEC 将初始加密 ETF 限制为比特币和以太币，新的托管、风险敞口和交易规则将于 10 月 16 日生效。"
+      "summary_zh": "继上周交易之后，现货比特币、solana 和以太坊 ETF 均录得每周资金流出，这对一些基金来说是一个显着的变化。"
     },
     {
       "id": "6de16213bff88b8a",
@@ -173,6 +170,24 @@
       "summary_zh": "美联储周三发布了 9 月 15 日至 16 日政策会议纪要。"
     },
     {
+      "id": "583079a570e66850",
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "summary": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-11T21:36:40.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "特朗普的“能源停火”主张受到泽连斯基的欢迎，但俄罗斯保持沉默",
+      "summary_zh": "乌克兰领导人最初对唐纳德·特朗普的声明表示惊讶，但表示如果莫斯科愿意，他将支持停战。"
+    },
+    {
       "id": "b8e451a7c82f935e",
       "title": "Pope Leo to have surgery after lump found on lung",
       "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
@@ -189,24 +204,6 @@
       "region": "global",
       "title_zh": "教皇利奥在肺部发现肿块后接受手术",
       "summary_zh": "这位71岁的教皇表示，这个结节是在“非常早期的阶段”就被发现的。"
-    },
-    {
-      "id": "6b63811f919a7a53",
-      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-10T17:44:26.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "美国杀人凶手克里斯塔·派克在处决失败10天后出院",
-      "summary_zh": "派克的律师表示，她“感谢”上个月在两次注射死刑后照顾她的医疗团队。"
     },
     {
       "id": "552b06cc6af4fcec",
@@ -234,7 +231,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html",
       "image_url": null,
-      "published_at": "2026-10-11T12:55:53.000Z",
+      "published_at": "2026-10-11T20:15:09.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
@@ -265,7 +262,7 @@
     {
       "id": "a8565cb17e9d2021",
       "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
-      "summary": "\"[It's] news for me,\" said Ukrainian President Zelensky, \"but if Russians agree to an energy ceasefire, Ukraine will agree.\"",
+      "summary": "\"Ukraine supports the ceasefire, and it is important that Russia support it as well,\" said Ukrainian President Zelensky.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
       "source_url": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
@@ -278,7 +275,7 @@
       ],
       "region": "global",
       "title_zh": "特朗普总统宣布俄罗斯和乌克兰之间“能源停火”",
-      "summary_zh": "乌克兰总统泽连斯基表示：“这对我来说是新闻，但如果俄罗斯同意能源停火，乌克兰也会同意。”"
+      "summary_zh": "乌克兰总统泽连斯基表示：“乌克兰支持停火，俄罗斯也支持停火也很重要。”"
     },
     {
       "id": "7e77636acd446586",
@@ -318,14 +315,74 @@
       "summary_zh": "NY AG Letitia James 从前 Celsius 首席执行官 Alex Mashinsky 那里获得了高达 3500 万美元的资金，并被永久禁止进入证券和加密行业。"
     },
     {
-      "id": "b5396e97f6b0aae0",
+      "id": "a91c8b35db2f78ee",
+      "title": "Trending Crypto: Bunker Mode (BUNKER)",
+      "summary": "CoinGecko trending rank #753.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/bunker-mode",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102179363/large/logo.png?1791546623",
+      "published_at": "2026-10-12T02:40:41.701Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "bunker"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：地堡模式（BUNKER）",
+      "summary_zh": "CoinGecko 趋势排名#753。"
+    },
+    {
+      "id": "605cc95d045db761",
+      "title": "Trending Crypto: Grass (GRASS)",
+      "summary": "CoinGecko trending rank #109.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/grass",
+      "image_url": "https://coin-images.coingecko.com/coins/images/40094/large/Grass.jpg?1725697048",
+      "published_at": "2026-10-12T02:40:41.701Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "grass"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：草（GRASS）",
+      "summary_zh": "CoinGecko 趋势排名第 109 位。"
+    },
+    {
+      "id": "f3f2fb8e348c79be",
+      "title": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary": "CoinGecko trending rank #19.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/near",
+      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
+      "published_at": "2026-10-12T02:40:41.701Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "near"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：NEAR 协议 (NEAR)",
+      "summary_zh": "CoinGecko 趋势排名第 19。"
+    },
+    {
+      "id": "2295cf4b5a7b5e0f",
       "title": "Trending Crypto: Starknet (STRK)",
       "summary": "CoinGecko trending rank #86.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/starknet",
       "image_url": "https://coin-images.coingecko.com/coins/images/26433/large/starknet.png?1696525507",
-      "published_at": "2026-10-11T16:01:06.794Z",
+      "published_at": "2026-10-12T02:40:41.701Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -338,34 +395,14 @@
       "summary_zh": "CoinGecko 趋势排名第 86。"
     },
     {
-      "id": "7cea797c228fe7c4",
-      "title": "Trending Crypto: Aptos (APT)",
-      "summary": "CoinGecko trending rank #89.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/aptos",
-      "image_url": "https://coin-images.coingecko.com/coins/images/26455/large/Aptos-Network-Profile-Picture_%281%29.png?1788259511",
-      "published_at": "2026-10-11T16:01:06.794Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "apt"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：Aptos (APT)",
-      "summary_zh": "CoinGecko 趋势排名第 89。"
-    },
-    {
-      "id": "6d9e58f3b4cac416",
+      "id": "b0d41c2fdae25b2e",
       "title": "Trending Crypto: Quantus (QTC)",
-      "summary": "CoinGecko trending rank #604.",
+      "summary": "CoinGecko trending rank #585.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/quantus",
       "image_url": "https://coin-images.coingecko.com/coins/images/102171910/large/Token_Icon.png?1791345433",
-      "published_at": "2026-10-11T16:01:06.794Z",
+      "published_at": "2026-10-12T02:40:41.701Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -375,47 +412,7 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：Quantus (QTC)",
-      "summary_zh": "CoinGecko 趋势排名#604。"
-    },
-    {
-      "id": "92e75f841e458642",
-      "title": "Trending Crypto: Aerodrome Finance (AERO)",
-      "summary": "CoinGecko trending rank #81.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/aerodrome-finance",
-      "image_url": "https://coin-images.coingecko.com/coins/images/31745/large/token.png?1696530564",
-      "published_at": "2026-10-11T16:01:06.794Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "aero"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：机场金融 (AERO)",
-      "summary_zh": "CoinGecko 趋势排名第 81。"
-    },
-    {
-      "id": "af309f02f406401e",
-      "title": "Trending Crypto: Pearl (PRL)",
-      "summary": "CoinGecko trending rank #126.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-10-11T16:01:06.794Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "prl"
-      ],
-      "region": "global",
-      "title_zh": "热门加密货币：Pearl (PRL)",
-      "summary_zh": "CoinGecko 趋势排名第 126。"
+      "summary_zh": "CoinGecko 趋势排名#585。"
     },
     {
       "id": "14ad99b93979f31c",
@@ -469,7 +466,7 @@
       ],
       "region": "global",
       "title_zh": "人工智能的社会影响",
-      "summary_zh": "探索此系列，了解专家和当地领导者如何利用人工智能突破来确保每个人都能分享人工智能的机会。"
+      "summary_zh": "探索此集合，了解专家和当地领导者如何利用人工智能突破来确保每个人都能分享人工智能的机会。"
     },
     {
       "id": "eb6c8ed9e036974f",
@@ -505,7 +502,7 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "3 个问题：人工智能在学术界的最佳前进道路是什么？",
+      "title_zh": "3 个问题：人工智能在学术界的最佳发展道路是什么？",
       "summary_zh": "麻省理工学院统计和数据科学中心主任 Alexander (Sasha) Rakhlin 分享了各部门和机构的重要考虑因素。"
     },
     {
@@ -525,24 +522,6 @@
       "region": "global",
       "title_zh": "使用人工智能减轻数据中心日益严重的环境威胁",
       "summary_zh": "通过重新思考大型云计算系统的运行方式，克里斯蒂娜·德利米特鲁 (Christina Delimitrou) 副教授致力于提高数据中心的能源效率。"
-    },
-    {
-      "id": "73c1eea69ce6a703",
-      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
-      "summary": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-10T12:28:51.000Z",
-      "importance_score": 52,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "BBC调查涉嫌性虐待学生后校长被​​拘留",
-      "summary_zh": "以前的学生发起了自己的调查，花了数年时间从其他声称自己受到校长虐待的人那里收集证据和证词。"
     },
     {
       "id": "1031475b6ef7f4d7",
@@ -578,7 +557,7 @@
       ],
       "region": "global",
       "title_zh": "截至 2026 年 10 月 3 日，Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 10 月 3 日星期六 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！巴菲特在别人恐惧时贪婪，经过测试 [Quanter Lab] “在别人恐惧时贪婪”是沃伦·巴菲特的名言"
+      "summary_zh": "这是截至 2026 年 10 月 3 日星期六 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！巴菲特在别人恐惧的时候贪婪，经过测试 [Quanter Lab] “在别人恐惧的时候贪婪”是沃伦·巴菲特的名言"
     },
     {
       "id": "7894b0400f5ac39c",
@@ -597,7 +576,7 @@
       ],
       "region": "global",
       "title_zh": "截至 2026 年 9 月 30 日，来自 Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 9 月 30 日星期三 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！新阶段，新截止日期：2027 年 Quantpedia 大奖再次来临！ [Quantpedia] 大家好，Quantpedia 奖项"
+      "summary_zh": "这是截至 2026 年 9 月 30 日星期三 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！新阶段，新截止日期：2027 年 Quantpedia 大奖再次来临！ [Quantpedia] 大家好，Quantpedia 奖项"
     },
     {
       "id": "6e282a0816c54d0e",
@@ -675,45 +654,6 @@
       "region": "global",
       "title_zh": "比特币波动性大幅下降，但价格极端波动比 2018 年更加频繁",
       "summary_zh": "CoinDesk 分析发现 2026 年将有 10 个异常大的交易日，这引发了投资者如何在日益制度化的加密市场中衡量风险的问题。"
-    },
-    {
-      "id": "1aba0214f903f724",
-      "title": "Base creator Jesse Pollak says equities and non-dollar stablecoins will lead upcoming ‘tokenization supercycle’",
-      "summary": "Coinbase launched tokenized stocks on Base six weeks ago, with about $70 million to $100 million in daily volume, according to Pollak.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
-      "image_url": null,
-      "published_at": "2026-10-09T13:12:57.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "stocks"
-      ],
-      "region": "global",
-      "title_zh": "Base 创建者 Jesse Pollak 表示，股票和非美元稳定币将引领即将到来的“代币化超级周期”",
-      "summary_zh": "Pollak 表示，六周前，Coinbase 在 Base 上推出了代币化股票，日交易量约为 7000 万至 1 亿美元。"
-    },
-    {
-      "id": "a69acf771d51bf18",
-      "title": "Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto",
-      "summary": "Meanwhile raised $37.5M from existing investors, bringing the Sam Altman-backed bitcoin life insurer's total funding above $180 million.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131",
-      "image_url": null,
-      "published_at": "2026-10-09T10:33:46.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Sam Altman 支持的比特币人寿保险公司同时筹集了由 Bain Capital Crypto 领投的 3750 万美元资金",
-      "summary_zh": "与此同时，这家由 Sam Altman 支持的比特币人寿保险公司从现有投资者那里筹集了 3750 万美元，使总资金超过 1.8 亿美元。"
     },
     {
       "id": "5c3774713167e9ea",
@@ -953,7 +893,7 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "市场预测称，选举日之前天然气价格预计不会有任何缓解",
+      "title_zh": "市场预测显示，选举日之前天然气价格预计不会有任何缓解",
       "summary_zh": "据预测市场平台 Kalshi 的交易员称，预计 11 月 3 日天然气价格将保持在每加仑 4 美元以上。"
     },
     {
@@ -1026,22 +966,56 @@
       "summary_zh": "组合合约正在推动交易量增长，尽管它们在交易中所占份额虽小但始终如一。"
     },
     {
-      "id": "3f012feb8ee63ba6",
-      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "id": "05411aa865fd65b0",
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-11T14:38:10.000Z",
+      "published_at": "2026-10-11T22:45:58.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "乌克兰袭击了 Yandex 数据中心，这是对俄罗斯科技巨头的第三次攻击",
-      "summary_zh": "这是乌克兰本周第三次针对俄罗斯科技巨头 Yandex，迫使该公司暂停运营。"
+      "title_zh": "胡塞武装两天内第二次袭击利雅得机场，造成1人死亡、11人受伤",
+      "summary_zh": "周末，沙特首都遭到伊朗支持的也门组织的多次袭击。"
+    },
+    {
+      "id": "7aaaf81c02fc9508",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-11T17:27:24.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "波兰拘留涉嫌策划暗杀图斯克总理的男子",
+      "summary_zh": "警方收到了有关唐纳德·图斯克及其国防部长可能遭受袭击的可靠信息。"
+    },
+    {
+      "id": "924cde78e831218a",
+      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "summary": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-11T21:12:44.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "人权组织称，数十名淘金者在埃及与苏丹边境的袭击中丧生",
+      "summary_zh": "埃及和苏丹都没有对周六据称袭击手工采矿营地的事件发表评论。"
     },
     {
       "id": "fbc64ade785b21f1",
@@ -1060,20 +1034,38 @@
       "summary_zh": "尼泊尔仍在努力从不到两个月前发生的灾难性洪水中恢复过来，这场洪水造成数千人死亡和失踪。"
     },
     {
-      "id": "87f963b1bb78a0f9",
-      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-      "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
+      "id": "3f012feb8ee63ba6",
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-11T15:32:23.000Z",
+      "published_at": "2026-10-11T14:38:10.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "乌克兰袭击了 Yandex 数据中心，这是对俄罗斯科技巨头的第三次攻击",
+      "summary_zh": "这是乌克兰本周第三次针对俄罗斯科技巨头 Yandex，迫使该公司暂停运营。"
+    },
+    {
+      "id": "09d8803ccb212ce5",
+      "title": "Orangutans released back into Borneo forest after devastating fires",
+      "summary": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-11T19:08:04.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "联合国称吉布提船倾覆造成139人死亡",
-      "summary_zh": "这艘船当时正从吉布提开往也门，船上载有 305 人，周四晚上在港口城镇奥博克附近倾覆。"
+      "title_zh": "毁灭性火灾后红毛猩猩被放回婆罗洲森林",
+      "summary_zh": "夏季，猿类的栖息地受到强烈野火的威胁，救援人员将其转移。"
     },
     {
       "id": "1d3b26b55f8bebe8",
@@ -1092,56 +1084,20 @@
       "summary_zh": "总理是在本周波兰学校发生暴力袭击事件、造成一人死亡、多人受伤后发表上述言论的。"
     },
     {
-      "id": "72bc6d00e74104d6",
-      "title": "US justice department investigates TV networks over Trump pool coverage",
-      "summary": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "id": "87f963b1bb78a0f9",
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-11T05:05:43.000Z",
+      "published_at": "2026-10-11T15:32:23.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "美国司法部调查电视网络对特朗普泳池的报道",
-      "summary_zh": "白宫封锁了 CNN、MS Now 和 Politico 的访问，导致他们限制了联合报道。"
-    },
-    {
-      "id": "07f047de0eab7dac",
-      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-      "summary": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-10T18:22:29.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "探险队希望在偏远岛屿上找到飞行员阿米莉亚·埃尔哈特的飞机",
-      "summary_zh": "团队前往疑似坠机地点的途中，最终目的是解开她 1937 年失踪的谜团。"
-    },
-    {
-      "id": "0957acdaef0be1c9",
-      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-      "summary": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-11T11:11:42.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "德里看到更多抗议活动，获释的“蟑螂”组织领导人发誓要继续战斗",
-      "summary_zh": "周日，数百名不顾警方限制走上街头的人被拘留。"
+      "title_zh": "联合国称吉布提船倾覆造成139人死亡",
+      "summary_zh": "这艘船当时正从吉布提前往也门，船上载有 305 人，周四晚上在港口城镇奥博克附近倾覆。"
     },
     {
       "id": "e1c54c41bb47998d",
@@ -1151,7 +1107,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
       "image_url": null,
-      "published_at": "2026-10-11T13:23:37.000Z",
+      "published_at": "2026-10-11T19:57:48.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1169,7 +1125,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
       "image_url": null,
-      "published_at": "2026-10-11T13:03:01.000Z",
+      "published_at": "2026-10-11T16:16:44.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1195,7 +1151,7 @@
       ],
       "region": "global",
       "title_zh": "俄罗斯间谍唯一的遗憾：“我被抓住了”",
-      "summary_zh": "尽管出生于乌克兰，亚历山大支持俄罗斯事业。他希望自己从手机上删除了一张照片。"
+      "summary_zh": "尽管出生在乌克兰，亚历山大支持俄罗斯事业。他希望自己从手机中删除了一张照片。"
     },
     {
       "id": "f5e30f0eb748afbb",
@@ -1205,14 +1161,14 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
       "image_url": null,
-      "published_at": "2026-10-11T15:23:49.000Z",
+      "published_at": "2026-10-11T17:59:30.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "乌克兰对特朗普抛弃泽伦斯基进行能源打击的呼吁不屑一顾",
+      "title_zh": "乌克兰对特朗普抛弃泽连斯基进行能源打击的呼吁不屑一顾",
       "summary_zh": "特朗普总统猛烈抨击总统弗拉基米尔·泽连斯基袭击俄罗斯炼油厂。泽伦斯基表示，如果俄罗斯也这样做的话，他就会停止。"
     },
     {
@@ -1268,6 +1224,24 @@
       "summary_zh": "周日，新德里爆发了针对印度选民名册全面修改的零星抗议活动。警方以非同寻常的武力应对早些时候的抗议活动。"
     },
     {
+      "id": "4d249ad4132b2b79",
+      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+      "summary": "The U.S. Supreme Court hasn't yet indicated whether it will take up cases surrounding prediction markets, but there are now several amicus briefs, an interim final rule and a rule proposal.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+      "image_url": null,
+      "published_at": "2026-10-11T18:30:00.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "每个人都希望 SCOTUS 占领预测市场：加密货币现状",
+      "summary_zh": "美国最高法院尚未表示是否会受理有关预测市场的案件，但目前已经有几份法庭之友陈述、一项临时最终规则和一项规则提案。"
+    },
+    {
       "id": "09de5134a3c9b8bf",
       "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
       "summary": "Investors are using blockchain-based shares for smaller and after-hours trades. The IMF says liquidity, legal rules and settlement systems have not caught up.",
@@ -1321,20 +1295,36 @@
       "summary_zh": "自 9 月中旬以来，每日交易量已从 1080 万笔下降至 620 万笔，尽管 Robinhood 仍在为客户互换支付网络费用。"
     },
     {
-      "id": "0d92cb2e0015079d",
-      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-      "summary": "Visa’s survey of 14,250 people found interest in stablecoin payments is growing, though only 6% of respondents correctly understood how they work.",
+      "id": "bd4e39e9dd9c2e6c",
+      "title": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices",
+      "summary": "The same wallet later lost $450,000 when 30 short positions were liquidated on Saturday night after staying open for more than three hours.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239",
       "image_url": null,
-      "published_at": "2026-10-10T03:00:00.000Z",
+      "published_at": "2026-10-11T22:26:02.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Visa 调查显示，到 2031 年，近一半亚太地区消费者愿意使用稳定币",
-      "summary_zh": "Visa 对 14,250 人进行的调查发现，人们对稳定币支付的兴趣正在增长，尽管只有 6% 的受访者正确理解了稳定币的工作原理。"
+      "title_zh": "通过调整 Hyperliquid 的 ETH 价格，交易者在新的 1,000 倍交易 Papertrade 上净赚 128 万美元",
+      "summary_zh": "周六晚上，该钱包的 30 个空头头寸在保持开放三个多小时后被清算，损失了 45 万美元。"
+    },
+    {
+      "id": "0240403819d87d68",
+      "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
+      "summary": "An overflow bug in the XRP Ledger's payment engine could have let an attacker mint about 18 trillion spendable XRP in one transaction.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
+      "image_url": null,
+      "published_at": "2026-10-11T18:07:41.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "XRP Ledger 修复了十年前的错误，该错误可能已经铸造了数万亿 XRP",
+      "summary_zh": "XRP Ledger 支付引擎中的溢出错误可能会让攻击者在一笔交易中铸造约 18 万亿个可消费的 XRP。"
     },
     {
       "id": "296fe3326b474de2",
@@ -1388,7 +1378,7 @@
       ],
       "region": "global",
       "title_zh": "Ledger 调查涉及 CryptoBilis 买家的钱包流失；估计损失超过 8600 万美元",
-      "summary_zh": "Ledger 表示，正在调查东南亚用户从经销商 CryptoBilis 购买其产品的资金损失报告。"
+      "summary_zh": "Ledger 表示正在调查东南亚用户从经销商 CryptoBilis 购买其产品的资金损失报告。"
     },
     {
       "id": "755b4ea300442893",
@@ -1833,8 +1823,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "截至 2026 年 10 月 2 日，Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 10 月 2 日星期五 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ 897,000 次测试，大约 150 个模式族，一项已确认的发现 [克鲁格算法] 问题很简单：你会做什么"
+      "title_zh": "截至 2026 年 2 月 10 日，Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 10 月 2 日星期五 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ 897,000 次测试，约 150 个模式族，一项已确认的发现 [克鲁格算法] 问题很简单：你会做什么"
     },
     {
       "id": "e8bde2f1fbc51bfd",
@@ -1852,7 +1842,7 @@
       ],
       "region": "global",
       "title_zh": "截至 2026 年 9 月 28 日，来自 Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 9 月 28 日星期一 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！当债券收益率上升时，股票会下跌吗？ 63年数据【投资组合终端】从1963年1月到2026年8月，10年T"
+      "summary_zh": "这是截至 2026 年 9 月 28 日星期一 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！当债券收益率上升时，股票会下跌吗？ 63年数据【投资组合终端】从1963年1月到2026年8月，10年T"
     },
     {
       "id": "8234c25a8a532636",
