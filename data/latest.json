@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T16:16:17.716Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva；【CRYPTO】U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead；【CRYPTO】Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger。",
+  "generated_at": "2026-10-12T23:20:27.847Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack；【CRYPTO】Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger；【CRYPTO】South Korea just got its first traditional bank loans backed by bitcoin。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -20,44 +20,25 @@
   },
   "items": [
     {
-      "id": "65f78c281318c409",
-      "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
-      "summary": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.",
+      "id": "34af6c5e5f099376",
+      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+      "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
       "category": "FINANCE",
       "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+      "source_url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
       "image_url": null,
-      "published_at": "2026-10-07T06:16:39.000Z",
-      "importance_score": 70,
+      "published_at": "2026-10-12T17:15:21.000Z",
+      "importance_score": 82,
       "sentiment": 0,
       "tags": [
         "ai",
+        "fed",
         "inflation",
-        "war"
+        "policy"
       ],
       "region": "global",
-      "title_zh": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
-      "summary_zh": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose."
-    },
-    {
-      "id": "2de3592d3ed40bd0",
-      "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
-      "summary": "Your look at what's coming in the week starting Oct. 12.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
-      "image_url": null,
-      "published_at": "2026-10-12T08:58:24.000Z",
-      "importance_score": 68,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "ethereum",
-        "inflation"
-      ],
-      "region": "global",
-      "title_zh": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
-      "summary_zh": "Your look at what's coming in the week starting Oct. 12."
+      "title_zh": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+      "summary_zh": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation."
     },
     {
       "id": "b8cdb960ecf5d254",
@@ -150,24 +131,6 @@
       "region": "global",
       "title_zh": "‘There’s always room for more orange’: Michael Saylor’s Strategy scoops up another 250 bitcoin for $21.5 million as holdings reach 848,250 BTC",
       "summary_zh": "Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $71 billion."
-    },
-    {
-      "id": "cc3cc410fea9d5b6",
-      "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
-      "summary": "DATA Network is set to be upgraded to run as a protocol natively on Sui, and its independent chain will be retired.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
-      "image_url": null,
-      "published_at": "2026-10-12T02:00:00.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
-      "summary_zh": "DATA Network is set to be upgraded to run as a protocol natively on Sui, and its independent chain will be retired."
     },
     {
       "id": "6de16213bff88b8a",
@@ -264,6 +227,42 @@
       "summary_zh": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting."
     },
     {
+      "id": "383c082f0a01cfc8",
+      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-12T21:20:51.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "summary_zh": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says."
+    },
+    {
+      "id": "6696b688951e6f7a",
+      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+      "summary": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-12T20:17:37.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+      "summary_zh": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little."
+    },
+    {
       "id": "d53caa8c0f8b8d00",
       "title": "Fridges in French supermarkets hit by cyber attack",
       "summary": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
@@ -271,32 +270,13 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-12T14:30:09.000Z",
+      "published_at": "2026-10-12T18:31:32.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
       "region": "global",
       "title_zh": "Fridges in French supermarkets hit by cyber attack",
       "summary_zh": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros."
-    },
-    {
-      "id": "727357a3c14a1abc",
-      "title": "US detains man accused in multi-billion Venezuelan money laundering scheme",
-      "summary": "US officials had been offering a reward of $10m (£7.5m) for information leading to Álvaro Pulido's arrest.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-12T13:49:05.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "US detains man accused in multi-billion Venezuelan money laundering scheme",
-      "summary_zh": "US officials had been offering a reward of $10m (£7.5m) for information leading to Álvaro Pulido's arrest."
     },
     {
       "id": "5bb17f4d47c9762e",
@@ -313,6 +293,63 @@
       "region": "global",
       "title_zh": "The Taliban Are Using Europe’s Fear of Migrants to Their Advantage",
       "summary_zh": "European nations that condemn the Taliban government for its human rights record are seeking its help to deport refugees back to Afghanistan."
+    },
+    {
+      "id": "27047dcc9705d7ae",
+      "title": "Dozens Killed in Airstrikes Near Sudan-Egypt Border",
+      "summary": "The attacks occurred at a remote gold mine hundreds of miles from the front lines of Sudan’s devastating civil war. Videos showed what appeared to be Egyptian munitions.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/12/world/africa/egypt-sudan-goldmine-strike.html",
+      "image_url": null,
+      "published_at": "2026-10-12T21:49:58.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Dozens Killed in Airstrikes Near Sudan-Egypt Border",
+      "summary_zh": "The attacks occurred at a remote gold mine hundreds of miles from the front lines of Sudan’s devastating civil war. Videos showed what appeared to be Egyptian munitions."
+    },
+    {
+      "id": "fd1dccbec00a3ce1",
+      "title": "NATO Details Plan to Shield Ukraine’s European Allies From Russia",
+      "summary": "With the Russians intensifying sabotage, arson and cyberattacks against European nations supporting Ukraine, NATO divulged a blueprint, in case of war, to deter the Kremlin.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html",
+      "image_url": null,
+      "published_at": "2026-10-12T20:55:31.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "NATO Details Plan to Shield Ukraine’s European Allies From Russia",
+      "summary_zh": "With the Russians intensifying sabotage, arson and cyberattacks against European nations supporting Ukraine, NATO divulged a blueprint, in case of war, to deter the Kremlin."
+    },
+    {
+      "id": "fbe16e6f13d54608",
+      "title": "Trump Gives Putin a Hand in Russia’s Economic War With Ukraine",
+      "summary": "President Trump is moving to buy Russian diesel while also pressuring Ukraine to halt attacks on refineries, a lifeblood of Moscow’s war machine.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html",
+      "image_url": null,
+      "published_at": "2026-10-12T17:20:14.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Trump Gives Putin a Hand in Russia’s Economic War With Ukraine",
+      "summary_zh": "President Trump is moving to buy Russian diesel while also pressuring Ukraine to halt attacks on refineries, a lifeblood of Moscow’s war machine."
     },
     {
       "id": "44afe4caf6faf6b3",
@@ -334,22 +371,23 @@
       "summary_zh": "Emirati investigators said the co-pilot accused of attacking a captain on a flight to Israel drifted toward extremism during his time as a student in Australia."
     },
     {
-      "id": "552b06cc6af4fcec",
-      "title": "Wringing Hope From the Rubble of Gaza",
-      "summary": "The cease-fire last October ostensibly brought an end to Israel’s war in Gaza after the Hamas-led attacks on Oct. 7, 2023. A year later, however, Israeli strikes, though less frequent, haven’t stopped.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html",
+      "id": "46518e38bfb87a30",
+      "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
+      "summary": "The Palantir UK chief said the U.S. is racing ahead on enterprise AI while Europe hesitates, and explained why he thinks the company faces intense political attacks.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet",
       "image_url": null,
-      "published_at": "2026-10-11T11:25:54.000Z",
-      "importance_score": 58,
+      "published_at": "2026-10-12T16:18:03.000Z",
+      "importance_score": 56,
       "sentiment": 0,
       "tags": [
+        "ai",
         "war"
       ],
       "region": "global",
-      "title_zh": "Wringing Hope From the Rubble of Gaza",
-      "summary_zh": "The cease-fire last October ostensibly brought an end to Israel’s war in Gaza after the Hamas-led attacks on Oct. 7, 2023. A year later, however, Israeli strikes, though less frequent, haven’t stopped."
+      "title_zh": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
+      "summary_zh": "The Palantir UK chief said the U.S. is racing ahead on enterprise AI while Europe hesitates, and explained why he thinks the company faces intense political attacks."
     },
     {
       "id": "9de04d9b171f3de5",
@@ -422,74 +460,34 @@
       "summary_zh": "Morgan Stanley is actively building the necessary infrastructure for tokenized equities while monitoring industry developments."
     },
     {
-      "id": "da7772b1d06d48b0",
-      "title": "Trending Crypto: Bunker Mode (BUNKER)",
-      "summary": "CoinGecko trending rank #751.",
+      "id": "c32f5b679e06417c",
+      "title": "Trending Crypto: Starknet (STRK)",
+      "summary": "CoinGecko trending rank #104.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bunker-mode",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102179363/large/logo.png?1791546623",
-      "published_at": "2026-10-12T16:15:06.837Z",
+      "source_url": "https://www.coingecko.com/en/coins/starknet",
+      "image_url": "https://coin-images.coingecko.com/coins/images/26433/large/starknet.png?1696525507",
+      "published_at": "2026-10-12T23:19:15.789Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "bunker"
+        "strk"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Bunker Mode (BUNKER)",
-      "summary_zh": "CoinGecko trending rank #751."
+      "title_zh": "Trending Crypto: Starknet (STRK)",
+      "summary_zh": "CoinGecko trending rank #104."
     },
     {
-      "id": "4256dcfada1d79d1",
-      "title": "Trending Crypto: Wormhole (W)",
-      "summary": "CoinGecko trending rank #219.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/wormhole",
-      "image_url": "https://coin-images.coingecko.com/coins/images/35087/large/W_Token_%283%29.png?1758122686",
-      "published_at": "2026-10-12T16:15:06.837Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "w"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Wormhole (W)",
-      "summary_zh": "CoinGecko trending rank #219."
-    },
-    {
-      "id": "61ae703e664922a7",
-      "title": "Trending Crypto: Pearl (PRL)",
-      "summary": "CoinGecko trending rank #117.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-10-12T16:15:06.837Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "prl"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Pearl (PRL)",
-      "summary_zh": "CoinGecko trending rank #117."
-    },
-    {
-      "id": "7a0b089f524df20e",
+      "id": "d48cbdc8c1087d86",
       "title": "Trending Crypto: Quantus (QTC)",
-      "summary": "CoinGecko trending rank #579.",
+      "summary": "CoinGecko trending rank #587.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/quantus",
       "image_url": "https://coin-images.coingecko.com/coins/images/102171910/large/Token_Icon.png?1791345433",
-      "published_at": "2026-10-12T16:15:06.837Z",
+      "published_at": "2026-10-12T23:19:15.789Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -499,17 +497,17 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Quantus (QTC)",
-      "summary_zh": "CoinGecko trending rank #579."
+      "summary_zh": "CoinGecko trending rank #587."
     },
     {
-      "id": "88bac65037d018ad",
+      "id": "78b866981573bae7",
       "title": "Trending Crypto: NEAR Protocol (NEAR)",
-      "summary": "CoinGecko trending rank #20.",
+      "summary": "CoinGecko trending rank #21.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/near",
       "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
-      "published_at": "2026-10-12T16:15:06.837Z",
+      "published_at": "2026-10-12T23:19:15.789Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -519,7 +517,47 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
-      "summary_zh": "CoinGecko trending rank #20."
+      "summary_zh": "CoinGecko trending rank #21."
+    },
+    {
+      "id": "6bef85cc9164bdd8",
+      "title": "Trending Crypto: Pearl (PRL)",
+      "summary": "CoinGecko trending rank #110.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
+      "published_at": "2026-10-12T23:19:15.789Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "prl"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Pearl (PRL)",
+      "summary_zh": "CoinGecko trending rank #110."
+    },
+    {
+      "id": "a665494a71dc59ee",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-10-12T23:19:15.789Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "btc"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Bitcoin (BTC)",
+      "summary_zh": "CoinGecko trending rank #1."
     },
     {
       "id": "14ad99b93979f31c",
@@ -703,6 +741,24 @@
       "region": "global",
       "title_zh": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
       "summary_zh": "Bitcoin and gold hold steady as a firm dollar and rising bond yields weigh on sentiment, while IREN secures a multiyear cloud services deal with Anthropic."
+    },
+    {
+      "id": "5e17fa619f695f4e",
+      "title": "Binance launches AI trading tool after 150,000-user beta",
+      "summary": "Binance rolled out Binance AI, a free generative-UI trading interface, to all English-language users after a beta with about 150,000 testers.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349",
+      "image_url": null,
+      "published_at": "2026-10-12T18:44:10.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Binance launches AI trading tool after 150,000-user beta",
+      "summary_zh": "Binance rolled out Binance AI, a free generative-UI trading interface, to all English-language users after a beta with about 150,000 testers."
     },
     {
       "id": "5b2ce39e8540049c",
@@ -913,6 +969,22 @@
       "summary_zh": "Writing as a participant and researcher, PhD student JS Tan SM ’22 has co-authored a new book about the rise of tech worker protests and the employer backlash that followed."
     },
     {
+      "id": "8704d7dd2c677cac",
+      "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
+      "summary": "The S&P 500 has climbed almost 120% since its closing low on Oct. 12, 2022.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
+      "image_url": null,
+      "published_at": "2026-10-12T18:18:39.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
+      "summary_zh": "The S&P 500 has climbed almost 120% since its closing low on Oct. 12, 2022."
+    },
+    {
       "id": "5f35d6fbb7efa29f",
       "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
       "summary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
@@ -999,25 +1071,6 @@
       "summary_zh": "Chinese tech company Huawei wants to rebuild its consumer business after U.S. sanctions halved segment revenue."
     },
     {
-      "id": "9345158dfb522672",
-      "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-      "summary": "The S&P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
-      "image_url": null,
-      "published_at": "2026-10-06T22:23:01.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "stocks"
-      ],
-      "region": "global",
-      "title_zh": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-      "summary_zh": "The S&P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks."
-    },
-    {
       "id": "a1bca82cc9a735d9",
       "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
       "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
@@ -1041,7 +1094,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-12T14:00:03.000Z",
+      "published_at": "2026-10-12T20:54:09.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1052,6 +1105,22 @@
       "summary_zh": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation."
     },
     {
+      "id": "ed2d8b257592b188",
+      "title": "Breaking Bad actor RJ Mitte dies aged 34",
+      "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-12T22:24:11.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Breaking Bad actor RJ Mitte dies aged 34",
+      "summary_zh": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series."
+    },
+    {
       "id": "ae2cff3ab4fe5744",
       "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
       "summary": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.",
@@ -1059,7 +1128,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-12T14:40:15.000Z",
+      "published_at": "2026-10-12T16:46:49.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1068,20 +1137,40 @@
       "summary_zh": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old."
     },
     {
-      "id": "c82c76999ef89608",
-      "title": "Immigration agents search Congresswoman Ilhan Omar's home",
-      "summary": "Omar was first elected to Congress in 2018, and is an outspoken critic of President Donald Trump.",
+      "id": "9cb64433d46e7a03",
+      "title": "Immigration agents search congresswoman Ilhan Omar's home",
+      "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-12T16:04:13.000Z",
+      "published_at": "2026-10-12T22:05:31.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai"
+      ],
       "region": "global",
-      "title_zh": "Immigration agents search Congresswoman Ilhan Omar's home",
-      "summary_zh": "Omar was first elected to Congress in 2018, and is an outspoken critic of President Donald Trump."
+      "title_zh": "Immigration agents search congresswoman Ilhan Omar's home",
+      "summary_zh": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\"."
+    },
+    {
+      "id": "92899bbcfb825068",
+      "title": "Qantas flight grounded after bedbug outbreak",
+      "summary": "The flight from Italy to Australia was cancelled after passengers on the plane's previous journey complained of bug bites.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-12T21:01:45.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Qantas flight grounded after bedbug outbreak",
+      "summary_zh": "The flight from Italy to Australia was cancelled after passengers on the plane's previous journey complained of bug bites."
     },
     {
       "id": "826156970ea1fb0a",
@@ -1100,74 +1189,20 @@
       "summary_zh": "The film dropped by around 60% in its second weekend, and could become one of Hollywood's biggest flops."
     },
     {
-      "id": "afa9ebcb9774e52d",
-      "title": "Trump faces growing backlash over plans to import diesel from Russia",
-      "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+      "id": "06fcabfd01f8d6d3",
+      "title": "After Lockdown, Sea of Protesters Flows Through India’s Capital",
+      "summary": "The raucous demonstrations by opposition groups on Monday followed days of an effective lockdown and mass detentions of young protesters by security forces.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/12/world/asia/india-protests-congress-rahul-gandhi.html",
       "image_url": null,
-      "published_at": "2026-10-11T23:18:45.000Z",
+      "published_at": "2026-10-12T18:24:31.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Trump faces growing backlash over plans to import diesel from Russia",
-      "summary_zh": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections."
-    },
-    {
-      "id": "5cfa37efb461baa1",
-      "title": "Thousands march to Indian Supreme Court to demand election chief resign",
-      "summary": "The march follows a chaotic weekend in Delhi which saw thousands of protesters detained by police.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-12T15:19:17.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Thousands march to Indian Supreme Court to demand election chief resign",
-      "summary_zh": "The march follows a chaotic weekend in Delhi which saw thousands of protesters detained by police."
-    },
-    {
-      "id": "4cfd3aa4bbf3c291",
-      "title": "Pupil arrested after two teachers shot at French school",
-      "summary": "A 14-year-old was detained after the middle-school principal and teacher were injured.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-12T14:13:16.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Pupil arrested after two teachers shot at French school",
-      "summary_zh": "A 14-year-old was detained after the middle-school principal and teacher were injured."
-    },
-    {
-      "id": "5b68bb15b9bdfc6b",
-      "title": "Russian Film Aims to Rewrite History of Deadly Theater Bombing in Ukraine",
-      "summary": "A documentary claims that Ukraine, not Russia, attacked the drama theater in Mariupol, where hundreds of civilians died.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/12/world/europe/mariupol-theater-russian-documentary-witnesses.html",
-      "image_url": null,
-      "published_at": "2026-10-12T09:00:56.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Russian Film Aims to Rewrite History of Deadly Theater Bombing in Ukraine",
-      "summary_zh": "A documentary claims that Ukraine, not Russia, attacked the drama theater in Mariupol, where hundreds of civilians died."
+      "title_zh": "After Lockdown, Sea of Protesters Flows Through India’s Capital",
+      "summary_zh": "The raucous demonstrations by opposition groups on Monday followed days of an effective lockdown and mass detentions of young protesters by security forces."
     },
     {
       "id": "06b4df8cc6e43747",
@@ -1204,6 +1239,24 @@
       "summary_zh": "Le Marché des Enfants Rouges, which opened in 1615 as a vibrant food hall, was a fixture for chefs, cooks and tourists."
     },
     {
+      "id": "5b68bb15b9bdfc6b",
+      "title": "Russian Film Aims to Rewrite History of Deadly Theater Bombing in Ukraine",
+      "summary": "A documentary claims that Ukraine, not Russia, attacked the drama theater in Mariupol, where hundreds of civilians died.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/12/world/europe/mariupol-theater-russian-documentary-witnesses.html",
+      "image_url": null,
+      "published_at": "2026-10-12T09:00:56.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Russian Film Aims to Rewrite History of Deadly Theater Bombing in Ukraine",
+      "summary_zh": "A documentary claims that Ukraine, not Russia, attacked the drama theater in Mariupol, where hundreds of civilians died."
+    },
+    {
       "id": "e1c54c41bb47998d",
       "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
       "summary": "Three deadly attacks by the Iran-backed Houthis in Yemen on an airport in the Saudi capital underscored the asymmetrical nature of their conflict with the kingdom.",
@@ -1220,60 +1273,6 @@
       "region": "global",
       "title_zh": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
       "summary_zh": "Three deadly attacks by the Iran-backed Houthis in Yemen on an airport in the Saudi capital underscored the asymmetrical nature of their conflict with the kingdom."
-    },
-    {
-      "id": "bc9349358b4b7085",
-      "title": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi",
-      "summary": "The leaders of the Cockroach Janta Party, an Indian youth movement, had been detained by the police on Saturday before they could lead protests over voting rights.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
-      "image_url": null,
-      "published_at": "2026-10-11T16:16:44.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi",
-      "summary_zh": "The leaders of the Cockroach Janta Party, an Indian youth movement, had been detained by the police on Saturday before they could lead protests over voting rights."
-    },
-    {
-      "id": "118fa82011bbcf78",
-      "title": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
-      "summary": "Though born in Ukraine, Alexsander supports the Russian cause. He wishes he had deleted one photo from his phone.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html",
-      "image_url": null,
-      "published_at": "2026-10-11T09:00:28.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
-      "summary_zh": "Though born in Ukraine, Alexsander supports the Russian cause. He wishes he had deleted one photo from his phone."
-    },
-    {
-      "id": "f5e30f0eb748afbb",
-      "title": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
-      "summary": "President Trump lashed out at President Volodymyr Zelensky for striking Russian oil refineries. Mr. Zelensky said he’ll stop — if Russia does too.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
-      "image_url": null,
-      "published_at": "2026-10-11T17:59:30.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
-      "summary_zh": "President Trump lashed out at President Volodymyr Zelensky for striking Russian oil refineries. Mr. Zelensky said he’ll stop — if Russia does too."
     },
     {
       "id": "9891b8afa654163e",
@@ -1329,6 +1328,61 @@
       "summary_zh": "Coins jointly issued by multiple companies can trap reserves in one jurisdiction while redemption demands hit another, complicating cross-border crisis response."
     },
     {
+      "id": "bff927d849fe8179",
+      "title": "Blur to shut down frontend next month as NFT trading volume dwindles",
+      "summary": "The NFT marketplace's frontend next month while the protocol stays onchain. The BLUR token fell more than 20%.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363",
+      "image_url": null,
+      "published_at": "2026-10-12T21:49:02.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Blur to shut down frontend next month as NFT trading volume dwindles",
+      "summary_zh": "The NFT marketplace's frontend next month while the protocol stays onchain. The BLUR token fell more than 20%."
+    },
+    {
+      "id": "59010f399248c109",
+      "title": "CFTC’s new crypto framework could face 2028 election deadline, says TD Cowen",
+      "summary": "Newly proposed rules for leveraged and margined crypto trading may be too late as the 2028 election cycle looms, according to TD Cowen.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-10-12-cftcs-new-crypto-framework-could-face-2028-election-deadline-td-cowen-418358",
+      "image_url": null,
+      "published_at": "2026-10-12T20:53:54.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "CFTC’s new crypto framework could face 2028 election deadline, says TD Cowen",
+      "summary_zh": "Newly proposed rules for leveraged and margined crypto trading may be too late as the 2028 election cycle looms, according to TD Cowen."
+    },
+    {
+      "id": "7a4945e5d016bd6a",
+      "title": "StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream",
+      "summary": "StoneX lifts SECZ price target to $18 from $12, citing new revenue from the Securitize Stocks tokenized trading platform on Solana.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313",
+      "image_url": null,
+      "published_at": "2026-10-12T17:06:25.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "stocks"
+      ],
+      "region": "global",
+      "title_zh": "StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream",
+      "summary_zh": "StoneX lifts SECZ price target to $18 from $12, citing new revenue from the Securitize Stocks tokenized trading platform on Solana."
+    },
+    {
       "id": "c192154577ec49af",
       "title": "DeFi Development grows SOL holdings 12% as CHAD hits record highs",
       "summary": "DFDV added 22,070 SOL last week, lifting holdings to 2.59 million SOL, as its CHAD preferred stock hit record highs despite a selloff.",
@@ -1343,57 +1397,6 @@
       "region": "global",
       "title_zh": "DeFi Development grows SOL holdings 12% as CHAD hits record highs",
       "summary_zh": "DFDV added 22,070 SOL last week, lifting holdings to 2.59 million SOL, as its CHAD preferred stock hit record highs despite a selloff."
-    },
-    {
-      "id": "8d9f4a432b4e91dc",
-      "title": "Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’",
-      "summary": "Pham said the CFTC's recent proposals are 'absolutely the kind of protection' needed for crypto retail traders in the United States.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246",
-      "image_url": null,
-      "published_at": "2026-10-12T04:33:57.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’",
-      "summary_zh": "Pham said the CFTC's recent proposals are 'absolutely the kind of protection' needed for crypto retail traders in the United States."
-    },
-    {
-      "id": "bd4e39e9dd9c2e6c",
-      "title": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices",
-      "summary": "The same wallet later lost $450,000 when 30 short positions were liquidated on Saturday night after staying open for more than three hours.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239",
-      "image_url": null,
-      "published_at": "2026-10-11T22:26:02.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices",
-      "summary_zh": "The same wallet later lost $450,000 when 30 short positions were liquidated on Saturday night after staying open for more than three hours."
-    },
-    {
-      "id": "0240403819d87d68",
-      "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
-      "summary": "An overflow bug in the XRP Ledger's payment engine could have let an attacker mint about 18 trillion spendable XRP in one transaction.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
-      "image_url": null,
-      "published_at": "2026-10-11T18:07:41.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
-      "summary_zh": "An overflow bug in the XRP Ledger's payment engine could have let an attacker mint about 18 trillion spendable XRP in one transaction."
     },
     {
       "id": "1b08c886f3a314ce",
