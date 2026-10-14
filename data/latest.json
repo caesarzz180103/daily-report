@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T05:31:06.115Z",
+  "generated_at": "2026-10-14T08:08:39.623Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027；【FINANCE】Williams says Fed may not have to hike rates in 2027, at odds with traders；【FINANCE】Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack。",
   "meta": {
     "sources_count": 11,
@@ -116,23 +116,22 @@
       "summary_zh": "The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month."
     },
     {
-      "id": "28ba850673c08bce",
-      "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
-      "summary": "The $911 billion Pittsburgh-based asset manager is teaming up with Prometheum to bring blockchain-based share classes of its funds to traditional brokerage accounts.",
+      "id": "09c9fac3fa689068",
+      "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+      "summary": "Coinbase says bitcoin should start preparing for quantum computers now, with flexible addresses, a backup quantum-proof key and a separate debate over lost coins.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+      "source_url": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
       "image_url": null,
-      "published_at": "2026-10-13T11:56:04.000Z",
-      "importance_score": 68,
+      "published_at": "2026-10-14T05:44:51.000Z",
+      "importance_score": 62,
       "sentiment": 0,
       "tags": [
-        "ai",
-        "fed"
+        "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
-      "summary_zh": "The $911 billion Pittsburgh-based asset manager is teaming up with Prometheum to bring blockchain-based share classes of its funds to traditional brokerage accounts."
+      "title_zh": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+      "summary_zh": "Coinbase says bitcoin should start preparing for quantum computers now, with flexible addresses, a backup quantum-proof key and a separate debate over lost coins."
     },
     {
       "id": "3daa904fac1ef5ec",
@@ -242,57 +241,18 @@
     {
       "id": "82d864561136778b",
       "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+      "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-14T00:17:00.000Z",
+      "published_at": "2026-10-14T07:23:46.000Z",
       "importance_score": 58,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
       "title_zh": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "summary_zh": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said."
-    },
-    {
-      "id": "5cc7b53a26118653",
-      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-      "summary": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-13T15:52:15.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-      "summary_zh": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\"."
-    },
-    {
-      "id": "98437a6195676b1c",
-      "title": "Bank of America hit with $1.2bn fine for money laundering failings",
-      "summary": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-14T02:05:32.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Bank of America hit with $1.2bn fine for money laundering failings",
-      "summary_zh": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said."
+      "summary_zh": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says."
     },
     {
       "id": "53a1634c14863e1c",
@@ -312,6 +272,25 @@
       "region": "global",
       "title_zh": "Russian strikes hit key power plant in Kyiv, Zelensky says",
       "summary_zh": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\"."
+    },
+    {
+      "id": "5cc7b53a26118653",
+      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "summary": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-13T15:52:15.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "summary_zh": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\"."
     },
     {
       "id": "46f8474b75d4a5fc",
@@ -519,14 +498,14 @@
       "summary_zh": "Ledger confirmed a hardware implant in CryptoBilis-sold devices steals recovery phrases, as MediaMarkt suspends sales."
     },
     {
-      "id": "c1f837522fafdb34",
+      "id": "1c4e2518d253ccbc",
       "title": "Trending Crypto: Pearl (PRL)",
-      "summary": "CoinGecko trending rank #100.",
+      "summary": "CoinGecko trending rank #99.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pearl-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-10-14T05:29:51.856Z",
+      "published_at": "2026-10-14T08:07:26.187Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -536,17 +515,17 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Pearl (PRL)",
-      "summary_zh": "CoinGecko trending rank #100."
+      "summary_zh": "CoinGecko trending rank #99."
     },
     {
-      "id": "e018c8d1efae3e0b",
+      "id": "9f951a5b1df86daf",
       "title": "Trending Crypto: Bitway (BTW)",
-      "summary": "CoinGecko trending rank #19.",
+      "summary": "CoinGecko trending rank #31.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitway",
       "image_url": "https://coin-images.coingecko.com/coins/images/71205/large/BTW_Token_200x200.png?1786291907",
-      "published_at": "2026-10-14T05:29:51.856Z",
+      "published_at": "2026-10-14T08:07:26.187Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -556,37 +535,37 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Bitway (BTW)",
-      "summary_zh": "CoinGecko trending rank #19."
+      "summary_zh": "CoinGecko trending rank #31."
     },
     {
-      "id": "f63c453b19a32ef3",
-      "title": "Trending Crypto: Pons (PONS)",
-      "summary": "CoinGecko trending rank #173.",
+      "id": "21860ded32a1c127",
+      "title": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary": "CoinGecko trending rank #21.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pons",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102174571/large/jhitvkisdq8fhxvimdkpcw7y3dx5.?1784093932",
-      "published_at": "2026-10-14T05:29:51.856Z",
+      "source_url": "https://www.coingecko.com/en/coins/near",
+      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
+      "published_at": "2026-10-14T08:07:26.187Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pons"
+        "near"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pons (PONS)",
-      "summary_zh": "CoinGecko trending rank #173."
+      "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary_zh": "CoinGecko trending rank #21."
     },
     {
-      "id": "1ba13e4e221374a8",
+      "id": "33d9b0daa884505d",
       "title": "Trending Crypto: Sui (SUI)",
-      "summary": "CoinGecko trending rank #30.",
+      "summary": "CoinGecko trending rank #29.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/sui",
       "image_url": "https://coin-images.coingecko.com/coins/images/26375/large/sui-ocean-square.png?1727791290",
-      "published_at": "2026-10-14T05:29:51.856Z",
+      "published_at": "2026-10-14T08:07:26.187Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -596,27 +575,27 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Sui (SUI)",
-      "summary_zh": "CoinGecko trending rank #30."
+      "summary_zh": "CoinGecko trending rank #29."
     },
     {
-      "id": "965337ceae381880",
-      "title": "Trending Crypto: Quantus (QTC)",
-      "summary": "CoinGecko trending rank #608.",
+      "id": "7d9f39ecbc201e9c",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #121.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/quantus",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102171910/large/Token_Icon.png?1791345433",
-      "published_at": "2026-10-14T05:29:51.856Z",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-10-14T08:07:26.187Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "qtc"
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Quantus (QTC)",
-      "summary_zh": "CoinGecko trending rank #608."
+      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary_zh": "CoinGecko trending rank #121."
     },
     {
       "id": "14ad99b93979f31c",
@@ -1022,6 +1001,24 @@
       "region": "global",
       "title_zh": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
       "summary_zh": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies."
+    },
+    {
+      "id": "ac7364e1a75afe5c",
+      "title": "Turkey police raid opposition TV station, halting live broadcasts",
+      "summary": "Halk TV says its staff are unable to enter the building in Istanbul and a new manager has been appointed.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-14T06:32:02.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Turkey police raid opposition TV station, halting live broadcasts",
+      "summary_zh": "Halk TV says its staff are unable to enter the building in Istanbul and a new manager has been appointed."
     },
     {
       "id": "7e9f1fe798225787",
