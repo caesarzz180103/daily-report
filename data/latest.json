@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T08:08:39.623Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027；【FINANCE】Williams says Fed may not have to hike rates in 2027, at odds with traders；【FINANCE】Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack。",
+  "generated_at": "2026-10-14T14:09:10.296Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Live updates: Bitcoin tumbles more than 1% after disappointing inflation report；【FINANCE】Williams says Fed may not have to hike rates in 2027, at odds with traders；【FINANCE】Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -20,25 +20,24 @@
   },
   "items": [
     {
-      "id": "dc60d0c35585c5d3",
-      "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
-      "summary": "ZEC led a broad bounce among major tokens, and Korean chipmakers snapped a five-day losing streak ahead of Thursday’s U.S. inflation data.",
+      "id": "213b1ecc03345da9",
+      "title": "Live updates: Bitcoin tumbles more than 1% after disappointing inflation report",
+      "summary": "Bond yields and Fed rate hike expectations are jumping higher after the September CPI report was hotter than expected at both the headline and core levels.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+      "source_url": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
       "image_url": null,
-      "published_at": "2026-10-14T03:50:54.000Z",
-      "importance_score": 98,
+      "published_at": "2026-10-14T09:45:53.000Z",
+      "importance_score": 92,
       "sentiment": 0,
       "tags": [
         "bitcoin",
         "fed",
-        "inflation",
-        "war"
+        "inflation"
       ],
       "region": "global",
-      "title_zh": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
-      "summary_zh": "ZEC led a broad bounce among major tokens, and Korean chipmakers snapped a five-day losing streak ahead of Thursday’s U.S. inflation data."
+      "title_zh": "Live updates: Bitcoin tumbles more than 1% after disappointing inflation report",
+      "summary_zh": "Bond yields and Fed rate hike expectations are jumping higher after the September CPI report was hotter than expected at both the headline and core levels."
     },
     {
       "id": "37c3aecdf8a79a2b",
@@ -81,6 +80,44 @@
       "summary_zh": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation."
     },
     {
+      "id": "59d20033ff8d700b",
+      "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
+      "summary": "The bank manages custody and settlement in-house via a closed-loop model, removing the need for separate crypto wallets.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
+      "image_url": null,
+      "published_at": "2026-10-14T08:10:07.000Z",
+      "importance_score": 80,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
+      "summary_zh": "The bank manages custody and settlement in-house via a closed-loop model, removing the need for separate crypto wallets."
+    },
+    {
+      "id": "661de2c41175363c",
+      "title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
+      "summary": "The news could put multiple rate hikes by the Federal Reserve back into play.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
+      "image_url": null,
+      "published_at": "2026-10-14T12:33:56.000Z",
+      "importance_score": 74,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin",
+        "fed"
+      ],
+      "region": "global",
+      "title_zh": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
+      "summary_zh": "The news could put multiple rate hikes by the Federal Reserve back into play."
+    },
+    {
       "id": "e7f3af8d3bcfec9b",
       "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
       "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
@@ -116,41 +153,80 @@
       "summary_zh": "The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month."
     },
     {
-      "id": "09c9fac3fa689068",
-      "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
-      "summary": "Coinbase says bitcoin should start preparing for quantum computers now, with flexible addresses, a backup quantum-proof key and a separate debate over lost coins.",
+      "id": "83256aec2b01c0df",
+      "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+      "summary": "Payward agreed to buy Lithuania’s Saldo Bank, which holds $190 million in total assets, securing an EU license for deposits and lending.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+      "source_url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
       "image_url": null,
-      "published_at": "2026-10-14T05:44:51.000Z",
+      "published_at": "2026-10-14T13:07:45.000Z",
+      "importance_score": 68,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+      "summary_zh": "Payward agreed to buy Lithuania’s Saldo Bank, which holds $190 million in total assets, securing an EU license for deposits and lending."
+    },
+    {
+      "id": "9b8a8b2fb0ed7d4a",
+      "title": "Here's how analysts see U.S. inflation influencing bitcoin",
+      "summary": "Your day-ahead look for Oct. 14, 2026",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin",
+      "image_url": null,
+      "published_at": "2026-10-14T11:15:00.000Z",
       "importance_score": 62,
       "sentiment": 0,
       "tags": [
-        "bitcoin"
+        "bitcoin",
+        "inflation"
       ],
       "region": "global",
-      "title_zh": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
-      "summary_zh": "Coinbase says bitcoin should start preparing for quantum computers now, with flexible addresses, a backup quantum-proof key and a separate debate over lost coins."
+      "title_zh": "Here's how analysts see U.S. inflation influencing bitcoin",
+      "summary_zh": "Your day-ahead look for Oct. 14, 2026"
     },
     {
-      "id": "3daa904fac1ef5ec",
-      "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
-      "summary": "SATS will offer a fixed 15% dividend yield at par and be junior to the company's existing SATA, which pays a variable rate (currently 13%).",
+      "id": "8bf7d15e6ae8f1ec",
+      "title": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
+      "summary": "Bitcoin briefly reached $84,000 before easing back, while the CoinDesk 80 fell 0.6% since midnight as traders waited for U.S. inflation data.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+      "source_url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag",
       "image_url": null,
-      "published_at": "2026-10-13T23:23:05.000Z",
+      "published_at": "2026-10-14T10:51:39.000Z",
       "importance_score": 62,
       "sentiment": 0,
       "tags": [
         "ai",
+        "bitcoin",
+        "inflation"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
+      "summary_zh": "Bitcoin briefly reached $84,000 before easing back, while the CoinDesk 80 fell 0.6% since midnight as traders waited for U.S. inflation data."
+    },
+    {
+      "id": "d657268c36ec4905",
+      "title": "Strategy’s preferred stock financing may cost it bitcoin, K33 argues",
+      "summary": "K33 argues Strategy could accumulate more bitcoin over time by relying on common stock issuance rather than preferred shares.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-10-14-strategys-preferred-stock-financing-may-cost-it-bitcoin-k33-argues-418543",
+      "image_url": null,
+      "published_at": "2026-10-14T13:20:46.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
         "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
-      "summary_zh": "SATS will offer a fixed 15% dividend yield at par and be junior to the company's existing SATA, which pays a variable rate (currently 13%)."
+      "title_zh": "Strategy’s preferred stock financing may cost it bitcoin, K33 argues",
+      "summary_zh": "K33 argues Strategy could accumulate more bitcoin over time by relying on common stock issuance rather than preferred shares."
     },
     {
       "id": "6de16213bff88b8a",
@@ -170,6 +246,22 @@
       "region": "global",
       "title_zh": "Supercomputing researchers document evolution of AI hardware",
       "summary_zh": "An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors."
+    },
+    {
+      "id": "2e38463ec15306f4",
+      "title": "Bank of America shares drop 7% after third-quarter revenue miss and regulatory penalty",
+      "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "image_url": null,
+      "published_at": "2026-10-14T13:33:39.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Bank of America shares drop 7% after third-quarter revenue miss and regulatory penalty",
+      "summary_zh": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine."
     },
     {
       "id": "cb963b723cb7f78d",
@@ -220,23 +312,41 @@
       "summary_zh": "Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS."
     },
     {
-      "id": "a30b2b610da4a99f",
-      "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
-      "summary": "Traders think there's little chance core inflation, which excludes food and energy prices, will fall to 2.2% this year.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
+      "id": "2dd552d4f59aede3",
+      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+      "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-12T15:37:26.000Z",
+      "published_at": "2026-10-14T13:11:17.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
         "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+      "summary_zh": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets."
+    },
+    {
+      "id": "e87e74848562764a",
+      "title": "US inflation rises more than expected ahead of midterm elections",
+      "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-14T13:40:36.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
         "inflation"
       ],
       "region": "global",
-      "title_zh": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
-      "summary_zh": "Traders think there's little chance core inflation, which excludes food and energy prices, will fall to 2.2% this year."
+      "title_zh": "US inflation rises more than expected ahead of midterm elections",
+      "summary_zh": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs."
     },
     {
       "id": "82d864561136778b",
@@ -246,7 +356,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-14T07:23:46.000Z",
+      "published_at": "2026-10-14T11:17:51.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
@@ -255,71 +365,14 @@
       "summary_zh": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says."
     },
     {
-      "id": "53a1634c14863e1c",
-      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-14T04:36:06.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "summary_zh": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\"."
-    },
-    {
-      "id": "5cc7b53a26118653",
-      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-      "summary": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-13T15:52:15.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-      "summary_zh": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\"."
-    },
-    {
-      "id": "46f8474b75d4a5fc",
-      "title": "Zimbabwean author denies using AI to write award-winning story",
-      "summary": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-13T23:31:10.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Zimbabwean author denies using AI to write award-winning story",
-      "summary_zh": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media."
-    },
-    {
-      "id": "9f9bf6fac87e4038",
-      "title": "Trump Hands Victories to Putin, Who Offers More War in Return",
-      "summary": "Russia has reaped a diesel deal and an increase in U.S. pressure on Ukraine as President Trump’s political needs align with his longstanding inclinations toward Russia.",
+      "id": "4bb2c8af16d458a0",
+      "title": "Ukraine’s Vulnerability Grows as Starlink Is Restricted and Russia Escalates",
+      "summary": "A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html",
+      "source_url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
       "image_url": null,
-      "published_at": "2026-10-14T05:03:25.000Z",
+      "published_at": "2026-10-14T14:02:45.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -327,37 +380,34 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Trump Hands Victories to Putin, Who Offers More War in Return",
-      "summary_zh": "Russia has reaped a diesel deal and an increase in U.S. pressure on Ukraine as President Trump’s political needs align with his longstanding inclinations toward Russia."
+      "title_zh": "Ukraine’s Vulnerability Grows as Starlink Is Restricted and Russia Escalates",
+      "summary_zh": "A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning."
     },
     {
-      "id": "aa6d1946bffa2879",
-      "title": "Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia",
-      "summary": "The attack came after the Yemeni militia warned it would attack the headquarters of Aramco. The Saudi-led coalition said it was targeting Houthi capabilities.",
+      "id": "4dbcdd0510c41ba3",
+      "title": "The Taliban Suspend BBC Broadcasts Across Afghanistan",
+      "summary": "The Taliban government has intensified its crackdown on the press in recent months but had so far targeted Afghan news outlets.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
+      "source_url": "https://www.nytimes.com/2026/10/14/world/asia/afghanistan-taliban-suspends-bbc.html",
       "image_url": null,
-      "published_at": "2026-10-14T00:56:54.000Z",
+      "published_at": "2026-10-14T09:28:59.000Z",
       "importance_score": 58,
       "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia",
-      "summary_zh": "The attack came after the Yemeni militia warned it would attack the headquarters of Aramco. The Saudi-led coalition said it was targeting Houthi capabilities."
+      "title_zh": "The Taliban Suspend BBC Broadcasts Across Afghanistan",
+      "summary_zh": "The Taliban government has intensified its crackdown on the press in recent months but had so far targeted Afghan news outlets."
     },
     {
-      "id": "f3ebe6829334b1e1",
-      "title": "Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row",
-      "summary": "Asked about apparent U.S. threats to cut off intelligence sharing with Kyiv, which can warn of Russian aerial attacks, President Trump said information continued to flow.",
+      "id": "807105c0152d0f33",
+      "title": "Zelensky to Visit U.K. as Ukraine Presses Allies on Intelligence Sharing",
+      "summary": "President Volodymyr Zelensky said Ukraine received “no early warning from our partners” about a Russian attack. President Trump has said Washington is still “sharing intel.”",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html",
+      "source_url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html",
       "image_url": null,
-      "published_at": "2026-10-13T21:17:35.000Z",
+      "published_at": "2026-10-14T12:15:28.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -365,27 +415,24 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row",
-      "summary_zh": "Asked about apparent U.S. threats to cut off intelligence sharing with Kyiv, which can warn of Russian aerial attacks, President Trump said information continued to flow."
+      "title_zh": "Zelensky to Visit U.K. as Ukraine Presses Allies on Intelligence Sharing",
+      "summary_zh": "President Volodymyr Zelensky said Ukraine received “no early warning from our partners” about a Russian attack. President Trump has said Washington is still “sharing intel.”"
     },
     {
-      "id": "044c5334d8c99271",
-      "title": "MI5 Chief Warns of Escalating Hybrid Threats From Iran and Russia on British Soil",
-      "summary": "The head of Britain’s domestic security agency accused Tehran and Moscow of escalating their hybrid campaigns in the U.K., and called Iran-led attacks on Jewish communities “sickening.”",
+      "id": "693c2bf3ebec1f8e",
+      "title": "As Pope Leo Recovers From Surgery, Messages of Support Abound at Rome Hospital",
+      "summary": "Pope Leo, 71, is expected to spend about a week in the hospital recovering from surgery that found lung cancer.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/13/world/europe/mi5-uk-threat-iran-russia.html",
+      "source_url": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html",
       "image_url": null,
-      "published_at": "2026-10-13T16:04:04.000Z",
+      "published_at": "2026-10-14T13:38:18.000Z",
       "importance_score": 58,
       "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "MI5 Chief Warns of Escalating Hybrid Threats From Iran and Russia on British Soil",
-      "summary_zh": "The head of Britain’s domestic security agency accused Tehran and Moscow of escalating their hybrid campaigns in the U.K., and called Iran-led attacks on Jewish communities “sickening.”"
+      "title_zh": "As Pope Leo Recovers From Surgery, Messages of Support Abound at Rome Hospital",
+      "summary_zh": "Pope Leo, 71, is expected to spend about a week in the hospital recovering from surgery that found lung cancer."
     },
     {
       "id": "62407d99b47ae5d1",
@@ -404,61 +451,60 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools"
     },
     {
-      "id": "f85c53f80e241c70",
-      "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
-      "summary": "The integration will let software pay for online services using XRP and RLUSD, while questions remain about how much real economic activity the transactions represent.",
+      "id": "b09b729d5cd7938c",
+      "title": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
+      "summary": "Backed by BBVA, BNP Paribas, and ING, Qivalis secured Dutch regulatory authorization to offer onchain euro settlement infrastructure.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
+      "source_url": "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules",
       "image_url": null,
-      "published_at": "2026-10-14T05:24:12.000Z",
+      "published_at": "2026-10-14T11:12:36.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
+      "summary_zh": "Backed by BBVA, BNP Paribas, and ING, Qivalis secured Dutch regulatory authorization to offer onchain euro settlement infrastructure."
+    },
+    {
+      "id": "80853168a2a73725",
+      "title": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
+      "summary": "Chainalysis CEO in France Francois Volpoet warned the proposed 31.4% tax on regulated stablecoins could push traders toward unmonitored offshore channels.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
+      "image_url": null,
+      "published_at": "2026-10-14T08:48:11.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
         "ai",
+        "crypto",
         "war"
       ],
       "region": "global",
-      "title_zh": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
-      "summary_zh": "The integration will let software pay for online services using XRP and RLUSD, while questions remain about how much real economic activity the transactions represent."
+      "title_zh": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
+      "summary_zh": "Chainalysis CEO in France Francois Volpoet warned the proposed 31.4% tax on regulated stablecoins could push traders toward unmonitored offshore channels."
     },
     {
-      "id": "ae751aa34f41b18a",
-      "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
-      "summary": "The exchange, which has over 18 million customers, is said to have handled business transactions involving restricted offshore gaming and gambling companies.",
+      "id": "113e2361893defba",
+      "title": "Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work",
+      "summary": "Evernorth said it is planning a phased move into XRP lending and yield strategies following its Nasdaq debut.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503",
       "image_url": null,
-      "published_at": "2026-10-14T01:00:00.000Z",
+      "published_at": "2026-10-14T12:00:00.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
-        "ai",
-        "crypto"
+        "ai"
       ],
       "region": "global",
-      "title_zh": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
-      "summary_zh": "The exchange, which has over 18 million customers, is said to have handled business transactions involving restricted offshore gaming and gambling companies."
-    },
-    {
-      "id": "ee711363769c41ad",
-      "title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
-      "summary": "A crypto trader in the U.K. claimed masked intruders stole nearly $800,000 in cryptocurrency at knifepoint, furthering concerns of \"wrench attacks\" spreading in the country.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
-      "image_url": null,
-      "published_at": "2026-10-13T15:24:52.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
-      "summary_zh": "A crypto trader in the U.K. claimed masked intruders stole nearly $800,000 in cryptocurrency at knifepoint, furthering concerns of \"wrench attacks\" spreading in the country."
+      "title_zh": "Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work",
+      "summary_zh": "Evernorth said it is planning a phased move into XRP lending and yield strategies following its Nasdaq debut."
     },
     {
       "id": "23d96cee5f649a76",
@@ -479,33 +525,14 @@
       "summary_zh": "Coinbase published priorities for Bitcoin's post-quantum transition, urging early preparation for signature upgrades and fund migration."
     },
     {
-      "id": "fb21489ed5ddfeac",
-      "title": "Ledger confirms hardware implant in CryptoBilis reseller units as MediaMarkt suspends sales in Europe",
-      "summary": "Ledger confirmed a hardware implant in CryptoBilis-sold devices steals recovery phrases, as MediaMarkt suspends sales.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-13-ledger-confirms-hardware-implant-cryptobilis-reseller-units-mediamarkt-suspends-sales-europe-418442",
-      "image_url": null,
-      "published_at": "2026-10-13T14:45:08.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Ledger confirms hardware implant in CryptoBilis reseller units as MediaMarkt suspends sales in Europe",
-      "summary_zh": "Ledger confirmed a hardware implant in CryptoBilis-sold devices steals recovery phrases, as MediaMarkt suspends sales."
-    },
-    {
-      "id": "1c4e2518d253ccbc",
+      "id": "e9b03a65c5fc6053",
       "title": "Trending Crypto: Pearl (PRL)",
-      "summary": "CoinGecko trending rank #99.",
+      "summary": "CoinGecko trending rank #100.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pearl-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-10-14T08:07:26.187Z",
+      "published_at": "2026-10-14T14:07:57.448Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -515,87 +542,87 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Pearl (PRL)",
-      "summary_zh": "CoinGecko trending rank #99."
+      "summary_zh": "CoinGecko trending rank #100."
     },
     {
-      "id": "9f951a5b1df86daf",
-      "title": "Trending Crypto: Bitway (BTW)",
-      "summary": "CoinGecko trending rank #31.",
+      "id": "c5598b6734a1ab76",
+      "title": "Trending Crypto: astronaut (ASTRO)",
+      "summary": "CoinGecko trending rank #844.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitway",
-      "image_url": "https://coin-images.coingecko.com/coins/images/71205/large/BTW_Token_200x200.png?1786291907",
-      "published_at": "2026-10-14T08:07:26.187Z",
+      "source_url": "https://www.coingecko.com/en/coins/astronaut-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102176942/large/astro-logo.png?1789066915",
+      "published_at": "2026-10-14T14:07:57.448Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "btw"
+        "astro"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Bitway (BTW)",
-      "summary_zh": "CoinGecko trending rank #31."
+      "title_zh": "Trending Crypto: astronaut (ASTRO)",
+      "summary_zh": "CoinGecko trending rank #844."
     },
     {
-      "id": "21860ded32a1c127",
-      "title": "Trending Crypto: NEAR Protocol (NEAR)",
-      "summary": "CoinGecko trending rank #21.",
+      "id": "81a5059406626d4f",
+      "title": "Trending Crypto: Zylo Ecosystem (ZYLO)",
+      "summary": "CoinGecko trending rank #833.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/near",
-      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
-      "published_at": "2026-10-14T08:07:26.187Z",
+      "source_url": "https://www.coingecko.com/en/coins/zylo-ecosystem",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102174226/large/1000489906.png?1782576108",
+      "published_at": "2026-10-14T14:07:57.448Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "near"
+        "zylo"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
-      "summary_zh": "CoinGecko trending rank #21."
+      "title_zh": "Trending Crypto: Zylo Ecosystem (ZYLO)",
+      "summary_zh": "CoinGecko trending rank #833."
     },
     {
-      "id": "33d9b0daa884505d",
-      "title": "Trending Crypto: Sui (SUI)",
-      "summary": "CoinGecko trending rank #29.",
+      "id": "8fb46620fff869a6",
+      "title": "Trending Crypto: Walrus (WAL)",
+      "summary": "CoinGecko trending rank #230.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/sui",
-      "image_url": "https://coin-images.coingecko.com/coins/images/26375/large/sui-ocean-square.png?1727791290",
-      "published_at": "2026-10-14T08:07:26.187Z",
+      "source_url": "https://www.coingecko.com/en/coins/walrus-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/54914/large/Walrus_Token_Full_Color_200x200.png?1772722407",
+      "published_at": "2026-10-14T14:07:57.448Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "sui"
+        "wal"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Sui (SUI)",
-      "summary_zh": "CoinGecko trending rank #29."
+      "title_zh": "Trending Crypto: Walrus (WAL)",
+      "summary_zh": "CoinGecko trending rank #230."
     },
     {
-      "id": "7d9f39ecbc201e9c",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #121.",
+      "id": "ef007acc5d6ea6fb",
+      "title": "Trending Crypto: Starknet (STRK)",
+      "summary": "CoinGecko trending rank #105.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-10-14T08:07:26.187Z",
+      "source_url": "https://www.coingecko.com/en/coins/starknet",
+      "image_url": "https://coin-images.coingecko.com/coins/images/26433/large/starknet.png?1696525507",
+      "published_at": "2026-10-14T14:07:57.448Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pengu"
+        "strk"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #121."
+      "title_zh": "Trending Crypto: Starknet (STRK)",
+      "summary_zh": "CoinGecko trending rank #105."
     },
     {
       "id": "14ad99b93979f31c",
@@ -744,20 +771,38 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Wednesday, 09/30/2026. To see our most recent links, visit the Quant Mashup. Read on readers! A New Stage, a New Deadline: Quantpedia Awards 2027 Are Here Again! [Quantpedia] Hello everyone, The Quantpedia Awards a"
     },
     {
-      "id": "e7f6ee9f67ece2c2",
-      "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
-      "summary": "The switch will replace Solana’s existing validator voting system, remove vote transactions from blocks and could sharply change headline transaction counts even if user activity stays flat.",
+      "id": "55d19c38b985de91",
+      "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",
+      "summary": "Congress must decide how the U.S. can build the infrastructure its booming digital economy requires while protecting the communities that host it.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+      "source_url": "https://www.coindesk.com/opinion/2026/10/14/the-battle-over-the-ratepayer-protection-act-is-just-getting-started",
       "image_url": null,
-      "published_at": "2026-10-14T04:11:16.000Z",
+      "published_at": "2026-10-14T13:51:12.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
-      "summary_zh": "The switch will replace Solana’s existing validator voting system, remove vote transactions from blocks and could sharply change headline transaction counts even if user activity stays flat."
+      "title_zh": "America's growing digital economy requires power grid updates. Who will foot the bill?",
+      "summary_zh": "Congress must decide how the U.S. can build the infrastructure its booming digital economy requires while protecting the communities that host it."
+    },
+    {
+      "id": "f772557ca129b7f8",
+      "title": "How Bitcoin Works",
+      "summary": "Bitcoin 201 examines Bitcoin as a secure monetary network. It follows the system from rule enforcement and monetary design through fees, privacy, scaling, security, governance, mining economics, energy use, Lightning, and long-term adoption.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/learn/campus/how-bitcoin-works-417659",
+      "image_url": null,
+      "published_at": "2026-10-14T11:52:16.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "How Bitcoin Works",
+      "summary_zh": "Bitcoin 201 examines Bitcoin as a secure monetary network. It follows the system from rule enforcement and monetary design through fees, privacy, scaling, security, governance, mining economics, energy use, Lightning, and long-term adoption."
     },
     {
       "id": "7a5eccb347697248",
@@ -777,62 +822,6 @@
       "region": "global",
       "title_zh": "Interactive Brokers expands crypto services with Ethereum staking via Zerohash",
       "summary_zh": "Interactive Brokers now lets eligible clients stake ETH through its Client Portal, with zerohash providing the service."
-    },
-    {
-      "id": "edf64f86c2cf79e8",
-      "title": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
-      "summary": "Strive added 3,311 BTC between Oct. 5 and Oct. 9, bringing holdings to 32,773 BTC and narrowing the gap with MARA.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430",
-      "image_url": null,
-      "published_at": "2026-10-13T13:42:25.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
-      "summary_zh": "Strive added 3,311 BTC between Oct. 5 and Oct. 9, bringing holdings to 32,773 BTC and narrowing the gap with MARA."
-    },
-    {
-      "id": "c481fdc2a906a380",
-      "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
-      "summary": "A UK judge ruled Chinese law applies to victims' claims over 61,000 seized bitcoin, leaving ownership undecided.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409",
-      "image_url": null,
-      "published_at": "2026-10-13T11:38:19.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
-      "summary_zh": "A UK judge ruled Chinese law applies to victims' claims over 61,000 seized bitcoin, leaving ownership undecided."
-    },
-    {
-      "id": "b386dfc36d64e33e",
-      "title": "Bitcoin whale moves $378 million in BTC after six years of dormancy: onchain data",
-      "summary": "The wallet originally received 4,582 BTC in March 2020, when the holdings were worth roughly $40.8 million.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383",
-      "image_url": null,
-      "published_at": "2026-10-13T04:18:30.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin whale moves $378 million in BTC after six years of dormancy: onchain data",
-      "summary_zh": "The wallet originally received 4,582 BTC in March 2020, when the holdings were worth roughly $40.8 million."
     },
     {
       "id": "5c3774713167e9ea",
@@ -971,6 +960,22 @@
       "summary_zh": "As director, Bourg has focused on digital access, open and equitable scholarly publishing, and expanded support for data-intensive research."
     },
     {
+      "id": "d52aa7d7924de64e",
+      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+      "summary": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+      "image_url": null,
+      "published_at": "2026-10-14T13:11:07.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+      "summary_zh": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter."
+    },
+    {
       "id": "8704d7dd2c677cac",
       "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
       "summary": "The S&P 500 has climbed almost 120% since its closing low on Oct. 12, 2022.",
@@ -987,42 +992,26 @@
       "summary_zh": "The S&P 500 has climbed almost 120% since its closing low on Oct. 12, 2022."
     },
     {
-      "id": "5f35d6fbb7efa29f",
-      "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
-      "summary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
-      "image_url": null,
-      "published_at": "2026-10-10T15:00:01.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
-      "summary_zh": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies."
-    },
-    {
-      "id": "ac7364e1a75afe5c",
-      "title": "Turkey police raid opposition TV station, halting live broadcasts",
-      "summary": "Halk TV says its staff are unable to enter the building in Istanbul and a new manager has been appointed.",
+      "id": "cf5c50b351e15563",
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-14T06:32:02.000Z",
+      "published_at": "2026-10-14T13:41:51.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Turkey police raid opposition TV station, halting live broadcasts",
-      "summary_zh": "Halk TV says its staff are unable to enter the building in Istanbul and a new manager has been appointed."
+      "title_zh": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "summary_zh": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany."
     },
     {
-      "id": "7e9f1fe798225787",
-      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "id": "a26e7cfe3b99aecb",
+      "title": "Saudi employee charged with planting recording device in OpenAI office",
       "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
       "category": "WORLD",
       "source_name": "BBC World",
@@ -1036,42 +1025,76 @@
         "openai"
       ],
       "region": "global",
-      "title_zh": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "title_zh": "Saudi employee charged with planting recording device in OpenAI office",
       "summary_zh": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room."
     },
     {
-      "id": "cf5c50b351e15563",
-      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "summary": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "id": "287f9adefe7a05c0",
+      "title": "Turkish police raid opposition TV station, halting live broadcasts",
+      "summary": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-13T23:42:22.000Z",
+      "published_at": "2026-10-14T10:50:11.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "summary_zh": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany."
+      "title_zh": "Turkish police raid opposition TV station, halting live broadcasts",
+      "summary_zh": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government."
     },
     {
-      "id": "77941d76021853d3",
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+      "id": "a0467f7983657df3",
+      "title": "World's oldest shipwreck found off coast of Turkey",
+      "summary": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-14T04:20:17.000Z",
+      "published_at": "2026-10-14T05:00:35.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "summary_zh": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa."
+      "title_zh": "World's oldest shipwreck found off coast of Turkey",
+      "summary_zh": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age."
+    },
+    {
+      "id": "91bc1b030bb8f430",
+      "title": "Mauritius reels from worst riots in decades after woman shot by police",
+      "summary": "Prime Minister Navin Ramgoolam imposed a curfew after days of unrest that first began over water shortages.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-14T11:24:25.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Mauritius reels from worst riots in decades after woman shot by police",
+      "summary_zh": "Prime Minister Navin Ramgoolam imposed a curfew after days of unrest that first began over water shortages."
+    },
+    {
+      "id": "98defafc250408da",
+      "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "summary": "It comes ahead of a meeting between the prime minister and President Zelensky at Downing Street.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-14T13:09:51.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "summary_zh": "It comes ahead of a meeting between the prime minister and President Zelensky at Downing Street."
     },
     {
       "id": "94f2c5375168d715",
@@ -1092,185 +1115,170 @@
       "summary_zh": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\"."
     },
     {
-      "id": "9dcf8cd8a945644e",
-      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "summary": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
+      "id": "1f564cd7d45c00be",
+      "title": "Japan Protests Russia’s Detention of Journalist Accused of Spying",
+      "summary": "Tokyo summoned Russia’s ambassador after a Japanese reporter was arrested in Russia’s far east and accused of collecting military intelligence.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html",
       "image_url": null,
-      "published_at": "2026-10-13T19:51:14.000Z",
+      "published_at": "2026-10-14T11:30:00.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "summary_zh": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996."
+      "title_zh": "Japan Protests Russia’s Detention of Journalist Accused of Spying",
+      "summary_zh": "Tokyo summoned Russia’s ambassador after a Japanese reporter was arrested in Russia’s far east and accused of collecting military intelligence."
     },
     {
-      "id": "36479bb11f5d437c",
-      "title": "A Father’s Mission Is to Show the World ‘What Russia Did to My Family’",
-      "summary": "After a glide bomb killed his wife and younger daughter, Yevhen Ovcharov was determined to prevent other Ukrainians from dying the same way.",
+      "id": "50d2cfeaa92d7a75",
+      "title": "Turkey Raids Pro-Opposition TV Station",
+      "summary": "The government appointed its own manager of the last big news channel to be critical of President Recep Tayyip Erdogan. The authorities have now replaced leadership at five major news outlets.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-war-soldier-sumy-family.html",
+      "source_url": "https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html",
       "image_url": null,
-      "published_at": "2026-10-13T20:31:14.000Z",
+      "published_at": "2026-10-14T13:18:06.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "A Father’s Mission Is to Show the World ‘What Russia Did to My Family’",
-      "summary_zh": "After a glide bomb killed his wife and younger daughter, Yevhen Ovcharov was determined to prevent other Ukrainians from dying the same way."
+      "title_zh": "Turkey Raids Pro-Opposition TV Station",
+      "summary_zh": "The government appointed its own manager of the last big news channel to be critical of President Recep Tayyip Erdogan. The authorities have now replaced leadership at five major news outlets."
     },
     {
-      "id": "45b7246e5e5d30f9",
-      "title": "The Oct. 7 Attack Changed Israel, but Not Its Politics",
-      "summary": "As Israelis prepare to vote for the first time since the Hamas-led assault, they remain divided over whether to hold Prime Minister Benjamin Netanyahu responsible for negligence or fault the “treason” of his generals.",
+      "id": "aae3d330e636875e",
+      "title": "‘Why Did They Kill Him?’ Mourning Victims of Houthi Attack on a Saudi Airport.",
+      "summary": "The strike was the Iran-backed militia’s most lethal against Saudi Arabia, by far, during their long conflict.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/13/world/middleeast/israel-october-7-attacks-elections.html",
+      "source_url": "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html",
       "image_url": null,
-      "published_at": "2026-10-13T18:58:38.000Z",
+      "published_at": "2026-10-14T13:20:57.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "The Oct. 7 Attack Changed Israel, but Not Its Politics",
-      "summary_zh": "As Israelis prepare to vote for the first time since the Hamas-led assault, they remain divided over whether to hold Prime Minister Benjamin Netanyahu responsible for negligence or fault the “treason” of his generals."
+      "title_zh": "‘Why Did They Kill Him?’ Mourning Victims of Houthi Attack on a Saudi Airport.",
+      "summary_zh": "The strike was the Iran-backed militia’s most lethal against Saudi Arabia, by far, during their long conflict."
     },
     {
-      "id": "8b6cd738f61493a5",
-      "title": "Russia Detains Japanese Journalist for Alleged Espionage",
-      "summary": "The main security service said it had detained a reporter for the Hokkaido Shimbun newspaper in Russia’s far east, where he had been reporting on military recruitment.",
+      "id": "d65db0c9141d376a",
+      "title": "Argentina’s President Has a Dog Psychic. Meet Celia Melamed.",
+      "summary": "In Argentina, many people try to read the mind of the president. Celia Melamed read the mind of his dogs.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/13/world/europe/russia-detains-japanese-journalist.html",
+      "source_url": "https://www.nytimes.com/2026/10/14/world/americas/argentina-president-milei-dog-pet-psychic.html",
       "image_url": null,
-      "published_at": "2026-10-13T19:55:42.000Z",
+      "published_at": "2026-10-14T09:00:10.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Argentina’s President Has a Dog Psychic. Meet Celia Melamed.",
+      "summary_zh": "In Argentina, many people try to read the mind of the president. Celia Melamed read the mind of his dogs."
+    },
+    {
+      "id": "cafae1307f78e530",
+      "title": "Indian Protesters Describe Rough Treatment by the Police",
+      "summary": "Some of those detained accused security forces of beating them during an intense crackdown on demonstrations in India’s capital over the weekend. Police have said they followed the law.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/14/world/asia/india-protests-police-brutality.html",
+      "image_url": null,
+      "published_at": "2026-10-14T09:52:43.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Russia Detains Japanese Journalist for Alleged Espionage",
-      "summary_zh": "The main security service said it had detained a reporter for the Hokkaido Shimbun newspaper in Russia’s far east, where he had been reporting on military recruitment."
+      "title_zh": "Indian Protesters Describe Rough Treatment by the Police",
+      "summary_zh": "Some of those detained accused security forces of beating them during an intense crackdown on demonstrations in India’s capital over the weekend. Police have said they followed the law."
     },
     {
-      "id": "b23d89cd39ec78e8",
-      "title": "Acclaimed Author Denies Using A.I. but Admits Plagiarism",
-      "summary": "Breaking a weekslong silence, Thélyson Orélien, a Haitian-Canadian writer, still rejected accusations about his new novel, ‘It Was Either That or Die.’",
+      "id": "9296dd5e6e2358bd",
+      "title": "Dalí Book Cover Stolen in France",
+      "summary": "Three thieves broke into a private museum in central France and took off with a 330-pound book cover created by the surrealist master Salvador Dalí.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/13/world/europe/author-ai-plagiarism-france-haiti.html",
+      "source_url": "https://www.nytimes.com/2026/10/14/world/europe/france-dali-theft.html",
       "image_url": null,
-      "published_at": "2026-10-13T17:26:05.000Z",
+      "published_at": "2026-10-14T09:02:26.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Acclaimed Author Denies Using A.I. but Admits Plagiarism",
-      "summary_zh": "Breaking a weekslong silence, Thélyson Orélien, a Haitian-Canadian writer, still rejected accusations about his new novel, ‘It Was Either That or Die.’"
+      "title_zh": "Dalí Book Cover Stolen in France",
+      "summary_zh": "Three thieves broke into a private museum in central France and took off with a 330-pound book cover created by the surrealist master Salvador Dalí."
     },
     {
-      "id": "3672d7375c189dae",
-      "title": "U.K. and Europe Recoil From Trump’s Diesel Deal With Putin",
-      "summary": "Shocked by the U.S. agreement with Russia, which Ukraine has called “a gift” to President Putin, officials in Europe have coalesced around a cautious diplomatic message.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/13/world/europe/trump-putin-diesel-uk-europe-gift.html",
-      "image_url": null,
-      "published_at": "2026-10-13T14:35:45.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "U.K. and Europe Recoil From Trump’s Diesel Deal With Putin",
-      "summary_zh": "Shocked by the U.S. agreement with Russia, which Ukraine has called “a gift” to President Putin, officials in Europe have coalesced around a cautious diplomatic message."
-    },
-    {
-      "id": "8175844e70f032be",
-      "title": "FIFA Pays Millions for Trump Tower Office Said to Be Rarely Used",
-      "summary": "The deal is another sign of how Gianni Infantino, the leader of soccer’s global governing body, has sought closer ties to President Trump.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/13/world/europe/fifa-trump-tower-infantino.html",
-      "image_url": null,
-      "published_at": "2026-10-14T00:24:48.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "FIFA Pays Millions for Trump Tower Office Said to Be Rarely Used",
-      "summary_zh": "The deal is another sign of how Gianni Infantino, the leader of soccer’s global governing body, has sought closer ties to President Trump."
-    },
-    {
-      "id": "60eb24c9aed9d2b5",
-      "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
-      "summary": "The transaction shows how blockchain-based government bonds could help trading firms move collateral faster between settlement and financing.",
+      "id": "a13d6ecfd036e85d",
+      "title": "S&P 500 options are the hottest bet on this Hyperliquid exchange",
+      "summary": "Hypercall, an exchange built on Hyperliquid, says most of its $640 million in volume since June has come from the index.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+      "source_url": "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange",
       "image_url": null,
-      "published_at": "2026-10-13T21:52:00.000Z",
+      "published_at": "2026-10-14T10:38:47.000Z",
       "importance_score": 44,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
-      "summary_zh": "The transaction shows how blockchain-based government bonds could help trading firms move collateral faster between settlement and financing."
+      "title_zh": "S&P 500 options are the hottest bet on this Hyperliquid exchange",
+      "summary_zh": "Hypercall, an exchange built on Hyperliquid, says most of its $640 million in volume since June has come from the index."
     },
     {
-      "id": "905e95c977bfdd82",
-      "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
-      "summary": "MNX is offering a different way to trade the future valuations of private AI companies, including OpenAI, Anthropic and DeepSeek.",
+      "id": "1ae7123a6ed54354",
+      "title": "BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform",
+      "summary": "BNY and Citadel Securities completed the first tokenized U.S. Treasury repo workflow on a major triparty platform.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-10-14-bny-citadel-securities-complete-treasury-repo-in-first-use-of-tokenized-assets-on-major-triparty-platform-418534",
       "image_url": null,
-      "published_at": "2026-10-13T15:52:09.000Z",
+      "published_at": "2026-10-14T13:21:37.000Z",
       "importance_score": 44,
       "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai",
-        "anthropic",
-        "crypto"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
-      "summary_zh": "MNX is offering a different way to trade the future valuations of private AI companies, including OpenAI, Anthropic and DeepSeek."
+      "title_zh": "BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform",
+      "summary_zh": "BNY and Citadel Securities completed the first tokenized U.S. Treasury repo workflow on a major triparty platform."
     },
     {
-      "id": "d8a2da898daf3357",
-      "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
-      "summary": "The country’s regulators are stepping up their earlier restrictions on mobile apps to websites, targeting unregistered exchanges before investors report losses.",
+      "id": "c70a805d1253daba",
+      "title": "DriveWealth to use Ripple’s RLUSD for stablecoin settlement, cross-border payments",
+      "summary": "DriveWealth will use Ripple's RLUSD on the XRP Ledger for stablecoin settlement, collateral funding and custody, starting in Europe.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
       "image_url": null,
-      "published_at": "2026-10-13T11:58:04.000Z",
+      "published_at": "2026-10-14T13:00:00.000Z",
       "importance_score": 44,
       "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
-      "summary_zh": "The country’s regulators are stepping up their earlier restrictions on mobile apps to websites, targeting unregistered exchanges before investors report losses."
+      "title_zh": "DriveWealth to use Ripple’s RLUSD for stablecoin settlement, cross-border payments",
+      "summary_zh": "DriveWealth will use Ripple's RLUSD on the XRP Ledger for stablecoin settlement, collateral funding and custody, starting in Europe."
+    },
+    {
+      "id": "1e5131635a90de4c",
+      "title": "Polygon Labs completes Coinme acquisition, bringing regulated payments coverage across 48 US states",
+      "summary": "Polygon Labs completed its Coinme acquisition, bringing 37 state money transmitter licenses into its stablecoin payments infrastructure.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-10-14-polygon-labs-completes-coinme-acquisition-bringing-regulated-payments-coverage-across-48-us-states-418518",
+      "image_url": null,
+      "published_at": "2026-10-14T13:00:00.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Polygon Labs completes Coinme acquisition, bringing regulated payments coverage across 48 US states",
+      "summary_zh": "Polygon Labs completed its Coinme acquisition, bringing 37 state money transmitter licenses into its stablecoin payments infrastructure."
     },
     {
       "id": "7c6aadc2ea102996",
@@ -1309,40 +1317,22 @@
       "summary_zh": "DRW and Marex completed the first OTC swap referencing a fully tokenized index on Derivnex via the Canton Network, with Kaiko data."
     },
     {
-      "id": "015aaceb8f91b256",
-      "title": "Binance to shut down mining pool, cloud mining and related services",
-      "summary": "Binance said it will shut down its mining pool, cloud mining, and Pool Savings services on Nov. 10.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-13-binance-to-shut-down-mining-pool-cloud-mining-and-related-services-418410",
+      "id": "9c5dbf2698740504",
+      "title": "The EU’s next chapter in AI is agentic",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
       "image_url": null,
-      "published_at": "2026-10-13T11:40:56.000Z",
-      "importance_score": 44,
+      "published_at": "2026-10-14T00:00:00.000Z",
+      "importance_score": 40,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Binance to shut down mining pool, cloud mining and related services",
-      "summary_zh": "Binance said it will shut down its mining pool, cloud mining, and Pool Savings services on Nov. 10."
-    },
-    {
-      "id": "3e476ae80ee77faf",
-      "title": "Binance VIP head says hedge funds are actively exploring arbitrage opportunities on crypto venues",
-      "summary": "The executive cited improved depth, 24/7 trading and weekend price discovery as reasons why the opportunities have become more relevant.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-13-binance-vip-head-hedge-funds-exploring-arbitrage-418389",
-      "image_url": null,
-      "published_at": "2026-10-13T05:44:14.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Binance VIP head says hedge funds are actively exploring arbitrage opportunities on crypto venues",
-      "summary_zh": "The executive cited improved depth, 24/7 trading and weekend price discovery as reasons why the opportunities have become more relevant."
+      "title_zh": "The EU’s next chapter in AI is agentic",
+      "summary_zh": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
     },
     {
       "id": "f78d8c0c04c4109e",
@@ -1471,22 +1461,6 @@
       "region": "global",
       "title_zh": "Radisson Hotel Group brings hotel discovery into ChatGPT",
       "summary_zh": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
-    },
-    {
-      "id": "0acc79f20bcae92c",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/gpt-6-for-everyone",
-      "image_url": null,
-      "published_at": "2026-10-07T00:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "GPT-6 and Intelligent UI for everyone",
-      "summary_zh": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
     },
     {
       "id": "286eea64f08d72b9",
