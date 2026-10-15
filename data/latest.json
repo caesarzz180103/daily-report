@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T06:39:40.090Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】随着美联储利率不确定性的影响，比特币萎靡不振。综合股价下跌 8%；【FINANCE】威廉姆斯称美联储可能不必在 2027 年加息，但与交易员意见不一致；【FINANCE】美国银行雇佣了 1,000 名承包商来修补 Anthropic 神话暴露的软件缺陷。",
+  "generated_at": "2026-10-15T12:14:40.858Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】威廉姆斯称美联储可能不必在 2027 年加息，但与交易员意见不一致；【FINANCE】美国银行雇佣了 1,000 名承包商来修补 Anthropic 神话暴露的软件缺陷；【FINANCE】摩根大通阻止 Muse、Instinct 等外部人工智能代理直接访问账户。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -19,27 +19,6 @@
     "FINANCE": 10
   },
   "items": [
-    {
-      "id": "5eee310279b2320b",
-      "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
-      "summary": "Bets on an October Fed rate hike briefly spiked to nearly 50% after Wednesday’s inflation report, but have since cooled.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
-      "image_url": null,
-      "published_at": "2026-10-15T03:57:45.000Z",
-      "importance_score": 86,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin",
-        "fed",
-        "inflation"
-      ],
-      "region": "global",
-      "title_zh": "随着美联储利率不确定性的影响，比特币萎靡不振。综合股价下跌 8%",
-      "summary_zh": "在周三通胀报告发布后，对美联储 10 月加息的押注一度飙升至近 50%，但此后有所降温。"
-    },
     {
       "id": "37c3aecdf8a79a2b",
       "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
@@ -115,46 +94,6 @@
       "summary_zh": "此次批准的增加正值中美两国元首将于下个月举行今年第三次会晤之际。"
     },
     {
-      "id": "d1938c40733f36dc",
-      "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
-      "summary": "U.S.-linked wallets account for just over 88% of tracked AI model payments, dwarfing China’s 0.1% share, according to new Chainalysis research.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
-      "image_url": null,
-      "published_at": "2026-10-14T15:35:36.000Z",
-      "importance_score": 68,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "美国主导人工智能模型支出，人工智能代理支付 1.38 亿笔加密货币",
-      "summary_zh": "根据 Chainaanalysis 的最新研究，与美国相关的钱包占追踪的人工智能模型支付的 88% 以上，使中国的 0.1% 份额相形见绌。"
-    },
-    {
-      "id": "27b20d3b878e3564",
-      "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
-      "summary": "The asset manager's crypto assets surged 63% to $79.6 billion as investors returned, but holdings remain 23% below year-ago levels.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
-      "image_url": null,
-      "published_at": "2026-10-14T14:31:14.000Z",
-      "importance_score": 68,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto",
-        "etf"
-      ],
-      "region": "global",
-      "title_zh": "贝莱德的加密 ETF 资产飙升 63%，但仍远低于 2025 年峰值",
-      "summary_zh": "随着投资者回归，该资产管理公司的加密资产飙升 63% 至 796 亿美元，但持有量仍比去年同期水平低 23%。"
-    },
-    {
       "id": "ae6e2cd4bfb4e3fb",
       "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
       "summary": "Computing power directed at Binance Pool has fallen from 26 EH/s in December to about 9 EH/s. Its remaining miners must choose another provider before a Nov. 10 cutoff.",
@@ -209,25 +148,6 @@
       "region": "global",
       "title_zh": "StarkWare 推出 OffMarket 让 Polymarket 用户更私密地进行交易",
       "summary_zh": "StarkWare 已向公众开放 OffMarket，允许 Polymarket 用户无需公开将头寸与其账户关联即可进行交易。"
-    },
-    {
-      "id": "89c8b3b44430499a",
-      "title": "Strive buys $235 million in bitcoin as warrant exercises yield $369 million",
-      "summary": "Strive acquired 2,822 bitcoin for $235 million following $369.2 million in gross proceeds from traditional warrant exercises.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556",
-      "image_url": null,
-      "published_at": "2026-10-14T14:32:39.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Strive 购买了 2.35 亿美元的比特币，认股权证行使产生了 3.69 亿美元的收益",
-      "summary_zh": "Strive 在传统认股权证行使中获得 3.692 亿美元的总收益后，以 2.35 亿美元的价格收购了 2,822 个比特币。"
     },
     {
       "id": "6de16213bff88b8a",
@@ -313,57 +233,57 @@
       "summary_zh": "星展银行首席执行官表示，新加坡是全球动荡中的安全堡垒。"
     },
     {
-      "id": "8487f213cdf859d2",
-      "title": "Student protesters attack government buildings in Albania",
-      "summary": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
+      "id": "f89dcada02196f14",
+      "title": "Obama says drift towards extremism 'not inevitable'",
+      "summary": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. .",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-14T20:29:05.000Z",
+      "published_at": "2026-10-15T10:51:53.000Z",
       "importance_score": 58,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "war"
+      ],
       "region": "global",
-      "title_zh": "学生抗议者袭击阿尔巴尼亚政府大楼",
-      "summary_zh": "数千名希望获得更好的大学条件和就业前景的学生举行示威活动第二天，建筑物被点燃。"
+      "title_zh": "奥巴马称走向极端主义“并非不可避免”",
+      "summary_zh": "超过 12,000 人聚集在该市的一个主要场地，聆听这位美国前总统对世界面临的挑战的看法。 。"
     },
     {
-      "id": "607b582ca37cab87",
-      "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
-      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+      "id": "294a1c3aff1b1658",
+      "title": "32 Children Killed After School Roof Collapses in Pakistan",
+      "summary": "The collapse, in Peshawar, also killed a teacher and injured dozens of people. A local official said the building appeared to be dilapidated.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html",
       "image_url": null,
-      "published_at": "2026-10-15T04:19:17.000Z",
+      "published_at": "2026-10-15T12:06:44.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
         "ai",
-        "anthropic"
+        "war"
       ],
       "region": "global",
-      "title_zh": "Anthropic 在股市首次亮相前向投资者宣布收入激增",
-      "summary_zh": "与此同时，一些投资者开始担心人工智能基础设施的投资金额。"
+      "title_zh": "巴基斯坦学校屋顶倒塌 32 名儿童死亡",
+      "summary_zh": "白沙瓦的倒塌事故还导致一名教师死亡，数十人受伤。当地官员表示，这座建筑似乎已经破旧不堪。"
     },
     {
-      "id": "87b3ef58ef491fa8",
-      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-      "summary": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
+      "id": "e5d25f4f516842cb",
+      "title": "While Pope Leo Recovers From Lung Surgery, the Vatican Runs on Autopilot",
+      "summary": "The Vatican bureaucracy has been fine-tuned over hundreds of years to function smoothly even when the pope cannot.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/15/world/europe/pope-leo-cancer-surgery-vatican.html",
       "image_url": null,
-      "published_at": "2026-10-14T16:47:32.000Z",
+      "published_at": "2026-10-15T09:42:19.000Z",
       "importance_score": 58,
       "sentiment": 0,
-      "tags": [
-        "etf"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Netflix 将裁员 1000 人，创 2022 年以来最大幅度裁员",
-      "summary_zh": "此次裁员相当于这家流媒体巨头全球员工总数的 6% 左右。"
+      "title_zh": "当利奥教皇从肺部手术中康复时，梵蒂冈却处于自动驾驶状态",
+      "summary_zh": "梵蒂冈的官僚机构经过数百年的调整，即使在教皇无法运作的情况下也能顺利运作。"
     },
     {
       "id": "851b31e8d23d8015",
@@ -373,7 +293,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
       "image_url": null,
-      "published_at": "2026-10-14T23:30:02.000Z",
+      "published_at": "2026-10-15T09:06:47.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -383,54 +303,6 @@
       "region": "global",
       "title_zh": "随着卫星使用受到限制和俄罗斯升级，乌克兰的风险增加",
       "summary_zh": "一次大规模攻击导致基辅 60 万人断电，五角大楼资助的卫星互联网项目似乎在没有任何警告的情况下受到限制。"
-    },
-    {
-      "id": "4dbcdd0510c41ba3",
-      "title": "The Taliban Suspend BBC Broadcasts Across Afghanistan",
-      "summary": "The Taliban government has intensified its crackdown on the press in recent months but had so far targeted Afghan news outlets.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/14/world/asia/afghanistan-taliban-suspends-bbc.html",
-      "image_url": null,
-      "published_at": "2026-10-14T09:28:59.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "塔利班暂停 BBC 在阿富汗的广播",
-      "summary_zh": "塔利班政府近几个月加强了对媒体的镇压，但迄今为止主要针对的是阿富汗新闻媒体。"
-    },
-    {
-      "id": "e0b7b00714233a66",
-      "title": "Mexico Bans Violent Content on Social Media for Children",
-      "summary": "Joining a global movement, President Claudia Sheinbaum signed a decree requiring the removal of a range of material for people under 18 and held out the prospect of tougher measures.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/14/world/americas/mexico-media-bans-children.html",
-      "image_url": null,
-      "published_at": "2026-10-15T02:03:03.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "墨西哥禁止儿童社交媒体上的暴力内容",
-      "summary_zh": "总统克劳迪娅·辛鲍姆 (Claudia Sheinbaum) 加入了一项全球运动，签署了一项法令，要求清除 18 岁以下人群的一系列材料，并提出采取更严厉措施的前景。"
-    },
-    {
-      "id": "693c2bf3ebec1f8e",
-      "title": "As Pope Leo Recovers From Surgery, Messages of Support Abound at Rome Hospital",
-      "summary": "The pontiff, 71, is expected to spend about a week in the hospital recovering from surgery that found lung cancer. Messages of support have flooded in from far and wide.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html",
-      "image_url": null,
-      "published_at": "2026-10-14T15:42:26.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "随着教皇利奥从手术中康复，罗马医院充满了支持的信息",
-      "summary_zh": "71岁的教皇预计将在医院度过大约一周的时间，从发现肺癌的手术中恢复过来。支持的信息从四面八方涌来。"
     },
     {
       "id": "62407d99b47ae5d1",
@@ -445,8 +317,64 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "截至 2026 年 10 月 12 日，Quantocracy 的最新量化链接",
+      "title_zh": "截至 2026 年 10 月 12 日，来自 Quantocracy 的最新量化链接",
       "summary_zh": "这是截至 2026 年 10 月 12 日星期一 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ Quant Observer：量化工具、数据、研究等的精选目录。quant.observer 收集有用的量化交易工具"
+    },
+    {
+      "id": "73c83863f561e828",
+      "title": "Under pressure Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
+      "summary": "Ledger’s Atom will run apps like WhatsApp and Instragram and let users switch between smartphone functions and a protected mode for managing digital assets.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
+      "image_url": null,
+      "published_at": "2026-10-15T12:00:00.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "迫于压力，Ledger 公布了将其加密硬件钱包转变为智能手机的计划",
+      "summary_zh": "Ledger 的 Atom 将运行 WhatsApp 和 Instragram 等应用程序，并让用户在智能手机功能和管理数字资产的保护模式之间切换。"
+    },
+    {
+      "id": "b0a8859c1e01ae95",
+      "title": "Live updates: Bitcoin trades near $81,000 as South Korea's chip-heavy Kospi continues to plunge",
+      "summary": "Jitters across equity markets are sending money into fixed income, with Western bond markets rallying strongly on Thursday.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
+      "image_url": null,
+      "published_at": "2026-10-15T10:16:15.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "实时更新：随着韩国芯片股 Kospi 继续暴跌，比特币交易价格接近 81,000 美元",
+      "summary_zh": "整个股市的紧张情绪正在将资金输送到固定收益领域，西方债券市场周四强劲反弹。"
+    },
+    {
+      "id": "6804c112b9541644",
+      "title": "Ledger unveils Atom Android device with Solana Mobile integration and new tamper protections amid investigation into modified wallets",
+      "summary": "Ledger unveiled Atom, an Android-based security device with Solana Mobile integration, AI-agent controls, and hardware-tampering protections.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644",
+      "image_url": null,
+      "published_at": "2026-10-15T12:00:00.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Ledger 在对修改钱包的调查中推出了 Atom Android 设备，该设备集成了 Solana Mobile 和新的篡改保护功能",
+      "summary_zh": "Ledger 推出了 Atom，这是一款基于 Android 的安全设备，具有 Solana Mobile 集成、人工智能代理控制和硬件篡改保护功能。"
     },
     {
       "id": "c4a96b0bd0a2a32d",
@@ -465,94 +393,54 @@
       "summary_zh": "由于今年供应增长停滞，渣打银行将其 2 万亿美元的稳定币市场预测从 2028 年推迟到 2030 年。"
     },
     {
-      "id": "b2cb67d86b5a7577",
-      "title": "Trending Crypto: Puffer (PUFFER)",
-      "summary": "CoinGecko trending rank #616.",
+      "id": "db2ce9de01b67071",
+      "title": "Trending Crypto: Zerebro (ZEREBRO)",
+      "summary": "CoinGecko trending rank #463.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/puffer-finance",
-      "image_url": "https://coin-images.coingecko.com/coins/images/50630/large/PUFFER_token_Logo.png?1729574024",
-      "published_at": "2026-10-15T06:39:24.275Z",
+      "source_url": "https://www.coingecko.com/en/coins/zerebro",
+      "image_url": "https://coin-images.coingecko.com/coins/images/51289/large/zerebro_2.png?1730588883",
+      "published_at": "2026-10-15T12:14:22.315Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "puffer"
+        "zerebro"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：Puffer (PUFFER)",
-      "summary_zh": "CoinGecko 趋势排名#616。"
+      "title_zh": "加密货币趋势：Zerebro (ZEREBRO)",
+      "summary_zh": "CoinGecko 趋势排名#463。"
     },
     {
-      "id": "e3f5d39d573941ba",
-      "title": "Trending Crypto: NEAR Protocol (NEAR)",
-      "summary": "CoinGecko trending rank #21.",
+      "id": "45dbbf563c984301",
+      "title": "Trending Crypto: Pearl (PRL)",
+      "summary": "CoinGecko trending rank #103.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/near",
-      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
-      "published_at": "2026-10-15T06:39:24.275Z",
+      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
+      "published_at": "2026-10-15T12:14:22.315Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "near"
+        "prl"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：NEAR 协议 (NEAR)",
-      "summary_zh": "CoinGecko 趋势排名第 21。"
+      "title_zh": "热门加密货币：Pearl (PRL)",
+      "summary_zh": "CoinGecko 趋势排名第 103。"
     },
     {
-      "id": "a07dc775495569fd",
-      "title": "Trending Crypto: ZKsync (ZK)",
-      "summary": "CoinGecko trending rank #190.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/zksync",
-      "image_url": "https://coin-images.coingecko.com/coins/images/38043/large/ZKTokenBlack.png?1718614502",
-      "published_at": "2026-10-15T06:39:24.275Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "zk"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：ZKsync (ZK)",
-      "summary_zh": "CoinGecko 趋势排名第 190 位。"
-    },
-    {
-      "id": "d9674c52f4b60d94",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #119.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-10-15T06:39:24.275Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pengu"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：矮胖企鹅 (PENGU)",
-      "summary_zh": "CoinGecko 趋势排名第 119 位。"
-    },
-    {
-      "id": "fa357fd976475241",
+      "id": "60b5af88c2c27430",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-10-15T06:39:24.275Z",
+      "published_at": "2026-10-15T12:14:22.315Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -563,6 +451,46 @@
       "region": "global",
       "title_zh": "流行加密货币：比特币 (BTC)",
       "summary_zh": "CoinGecko 趋势排名第一。"
+    },
+    {
+      "id": "ec25d7e64fc7caec",
+      "title": "Trending Crypto: Starknet (STRK)",
+      "summary": "CoinGecko trending rank #106.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/starknet",
+      "image_url": "https://coin-images.coingecko.com/coins/images/26433/large/starknet.png?1696525507",
+      "published_at": "2026-10-15T12:14:22.315Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "strk"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：Starknet (STRK)",
+      "summary_zh": "CoinGecko 趋势排名第 106。"
+    },
+    {
+      "id": "006c3e90a7d91921",
+      "title": "Trending Crypto: ZKsync (ZK)",
+      "summary": "CoinGecko trending rank #195.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/zksync",
+      "image_url": "https://coin-images.coingecko.com/coins/images/38043/large/ZKTokenBlack.png?1718614502",
+      "published_at": "2026-10-15T12:14:22.315Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "zk"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：ZKsync (ZK)",
+      "summary_zh": "CoinGecko 趋势排名第 195 位。"
     },
     {
       "id": "f3089815f0c5a8aa",
@@ -654,7 +582,7 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "3 个问题：人工智能在学术界的最佳发展道路是什么？",
+      "title_zh": "3 个问题：人工智能在学术界的最佳前进道路是什么？",
       "summary_zh": "麻省理工学院统计和数据科学中心主任 Alexander (Sasha) Rakhlin 分享了各部门和机构的重要考虑因素。"
     },
     {
@@ -691,7 +619,7 @@
       ],
       "region": "global",
       "title_zh": "截至 2026 年 10 月 3 日，Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 10 月 3 日星期六 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！巴菲特在别人恐惧时贪婪，经过测试 [Quanter Lab] “在别人恐惧时贪婪”是沃伦·巴菲特的名言"
+      "summary_zh": "这是截至 2026 年 10 月 3 日星期六 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！巴菲特在别人恐惧的时候贪婪，经过测试 [Quanter Lab] “在别人恐惧的时候贪婪”是沃伦·巴菲特的名言"
     },
     {
       "id": "7894b0400f5ac39c",
@@ -713,6 +641,43 @@
       "summary_zh": "这是截至 2026 年 9 月 30 日星期三 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！新阶段，新截止日期：2027 年 Quantpedia 大奖再次来临！ [Quantpedia] 大家好，Quantpedia 奖项"
     },
     {
+      "id": "f9fa86fd8c9a8bd2",
+      "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
+      "summary": "Your day-ahead look for Oct. 15, 2026",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
+      "image_url": null,
+      "published_at": "2026-10-15T11:15:00.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin",
+        "stocks"
+      ],
+      "region": "global",
+      "title_zh": "比特币、铜、股票、收益率均下跌；黄金上涨",
+      "summary_zh": "2026 年 10 月 15 日天气预报"
+    },
+    {
+      "id": "51d1edcca13a21f4",
+      "title": "Bitcoin holds above $80,000 as Asian stock rout drags altcoins lower",
+      "summary": "Bitcoin fell to just above $80,000 as South Korea’s Kospi plunged 8%, while the CoinDesk 80 fell 2.2% and all but six CoinDesk 100 members declined.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
+      "image_url": null,
+      "published_at": "2026-10-15T10:52:11.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "亚洲股市暴跌拖累山寨币走低，比特币维持在 80,000 美元以上",
+      "summary_zh": "韩国 Kospi 指数暴跌 8%，比特币跌至略高于 80,000 美元，CoinDesk 80 指数下跌 2.2%，除 6 家 CoinDesk 100 指数成员外，其他指数均下跌。"
+    },
+    {
       "id": "bdb1f2cdd2a367a8",
       "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
       "summary": "Ether accounted for nearly 60% of the forced closures across the two largest cryptocurrencies, falling roughly twice as much as bitcoin.",
@@ -730,25 +695,6 @@
       "region": "global",
       "title_zh": "随着比特币、以太币和 XRP 下滑，近 10 亿美元的加密货币押注被清算",
       "summary_zh": "以太币占这两种最大加密货币被迫关闭的近 60%，跌幅大约是比特币的两倍。"
-    },
-    {
-      "id": "b3eaadaed404a270",
-      "title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
-      "summary": "",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio",
-      "image_url": null,
-      "published_at": "2026-10-14T15:05:15.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "加密多头和空头：为什么黄金和比特币属于同一投资组合",
-      "summary_zh": ""
     },
     {
       "id": "e78ead079b6dbb8b",
@@ -802,7 +748,7 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Third Moment Research 如何运行 10,000 个代理长达 36 个小时以上",
+      "title_zh": "Third Moment Research 如何让 10,000 个代理运行 36 个小时以上",
       "summary_zh": "借助用于网络安全的 GPT-6 Astra 和 GPT-6.1 Sol、Codex 和 Daybreak，该 AI 实验室构建了能够持续关注并随着使用不断改进的代理。"
     },
     {
@@ -867,7 +813,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Gemini 4 Argon：专为解决您最棘手的问题而打造",
-      "summary_zh": "我们为开发者、企业、科学家和消费者提供了使用我们最新前沿模型 Gemini 4 Argon 的机会。"
+      "summary_zh": "我们为开发人员、企业、科学家和消费者提供了使用我们最新前沿模型 Gemini 4 Argon 的机会。"
     },
     {
       "id": "1166871997db867b",
@@ -958,6 +904,22 @@
       "summary_zh": "作为主任，布尔格专注于数字访问、开放和公平的学术出版，以及扩大对数据密集型研究的支持。"
     },
     {
+      "id": "ae4688be9675587e",
+      "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
+      "summary": "European trade commissioner Maroš Sefčovič met with Chinese Commerce Minister Wang Wentao in Beijing last week.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
+      "image_url": null,
+      "published_at": "2026-10-15T09:02:31.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "中国表示，无论美国贸易协议是否到期，稀土将继续流向欧盟",
+      "summary_zh": "欧盟贸易委员马罗什·塞夫科维奇上周在北京会见了中国商务部部长王文涛。"
+    },
+    {
       "id": "d52aa7d7924de64e",
       "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
       "summary": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
@@ -974,56 +936,56 @@
       "summary_zh": "摩根士丹利第三季度的营收和利润均超出预期。"
     },
     {
-      "id": "8704d7dd2c677cac",
-      "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
-      "summary": "The S&P 500 has climbed almost 120% since its closing low on Oct. 12, 2022.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
+      "id": "6ec38c9b6f616a1a",
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-12T18:18:39.000Z",
+      "published_at": "2026-10-15T12:03:51.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "泽连斯基表示恢复罢工后，俄罗斯指责乌克兰袭击炼油厂",
+      "summary_zh": "乌克兰总统表示，在俄罗斯发动新一轮袭击后，对能源站点的打击暂停已经结束。"
+    },
+    {
+      "id": "d1c7b117480625a3",
+      "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+      "summary": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-15T10:05:29.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "伊斯坦布尔州长称，遭遇84年来最大降雨，造成两人死亡",
+      "summary_zh": "居民被告知除非绝对必要，否则不要离开家。"
+    },
+    {
+      "id": "cb7e0bd48626da67",
+      "title": "Eight crew missing after drone attack leaves tanker ablaze off Romania's coast",
+      "summary": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-15T11:12:54.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "周一牛市已满四周年。投资者称迎来五岁生日可能具有挑战性",
-      "summary_zh": "自 2022 年 10 月 12 日收盘低点以来，标准普尔 500 指数已上涨近 120%。"
-    },
-    {
-      "id": "30deb962cf5bb27b",
-      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-      "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-15T04:30:08.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "马斯克称美国政府可能是乌克兰无人机速度放缓的幕后黑手",
-      "summary_zh": "乌克兰表示，星链接入已经有所改善，但仍面临速度限制，这扰乱了其战场“任务”。"
-    },
-    {
-      "id": "e6040996f393a221",
-      "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
-      "summary": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers said in a letter.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-15T02:26:07.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "美国退役将军呼吁五角大楼取消“野蛮”处决直播",
-      "summary_zh": "72 名前军官在一封信中表示，直播尼达尔·哈桑的处决“将玷污使用它的军队以及允许这样做的国家的荣誉”。"
+      "title_zh": "无人机袭击导致罗马尼亚海岸油轮起火，八名船员失踪",
+      "summary_zh": "黑海地区最近发生袭击事件后，搜救行动正在进行中。"
     },
     {
       "id": "b05ef15cd6ae195a",
@@ -1033,7 +995,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-15T03:03:16.000Z",
+      "published_at": "2026-10-15T08:41:04.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1042,24 +1004,24 @@
       "summary_zh": "凯蒂·扎卡里亚 (Katie Zacharia) 似乎没有在她居住过的任何州的律师协会注册。"
     },
     {
-      "id": "6c8a27ad7016a68f",
-      "title": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
-      "summary": "Thick orange smog descended on the Indonesian city of Palangka Raya as wildfires continue raging nearby.",
+      "id": "620adad9d6486bcf",
+      "title": "Brazil's Congress approves shorter working week in win for Lula",
+      "summary": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-15T03:26:36.000Z",
+      "published_at": "2026-10-15T10:05:17.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "“无处可逃”——印度尼西亚人分享橙色雾霾笼罩城镇的镜头",
-      "summary_zh": "浓浓的橙色烟雾降临在印度尼西亚城市帕朗卡拉亚，附近野火仍在肆虐。"
+      "title_zh": "巴西国会批准缩短工作周以赢得卢拉",
+      "summary_zh": "卢拉的支持者希望这项措施能够在 10 天后的总统决选之前提高他的支持率。"
     },
     {
-      "id": "a5311cde9d736845",
-      "title": "Inside Brooklyn novelty shop at centre of 'surreal' row with Kelly Clarkson over mechanical bird",
+      "id": "65179c5c0f62188d",
+      "title": "At the Brooklyn novelty shop in 'surreal' row with Kelly Clarkson over mechanical bird",
       "summary": "Art of Play says its staff have been threatened after the singer complained online about how she was treated.",
       "category": "WORLD",
       "source_name": "BBC World",
@@ -1072,42 +1034,164 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "布鲁克林新奇店内与凯莉·克拉克森因机械鸟发生“超现实”争吵",
+      "title_zh": "在布鲁克林的新奇商店，与凯莉·克拉克森因机械鸟发生“超现实”争吵",
       "summary_zh": "Art of Play 表示，在这位歌手在网上抱怨自己受到的待遇后，其工作人员受到了威胁。"
     },
     {
-      "id": "8f0b52e913df2927",
-      "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
-      "summary": "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends.",
+      "id": "2adaceca4d039065",
+      "title": "Actor Imran Khan ordered to leave India after participating in protest",
+      "summary": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-14T16:56:21.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "莎莉·鲁尼因支持巴勒斯坦行动而在英国撤回书籍",
-      "summary_zh": "这位爱尔兰作家以《普通人》、《间奏曲》和《与朋友对话》等小说而闻名。"
-    },
-    {
-      "id": "8d5942a3b410e8d4",
-      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-      "summary": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-14T22:31:10.000Z",
+      "published_at": "2026-10-15T08:17:07.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "澳大利亚首颗米其林星级餐厅入驻一个州的 11 家餐厅",
-      "summary_zh": "据报道，所有这些地点都在南澳大利亚，因为州政府支付了隐姓埋名的检查人员的费用。"
+      "title_zh": "演员伊姆兰·汗在参加抗议后被勒令离开印度",
+      "summary_zh": "10 月 10 日，这位宝莱坞演员在参加孟买的抗议活动时被拘留并被释放。"
+    },
+    {
+      "id": "f1e7fe984ac91a4e",
+      "title": "Australian woman charged with lacing colleague's curry with snail poison",
+      "summary": "The alleged victim, who was in a relationship with the woman, had spotted bright green pellets in the meal.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmp3gnep35gko?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-15T04:17:45.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "澳大利亚女子因在同事的咖喱中掺入蜗牛毒而被指控",
+      "summary_zh": "据称受害人与该女子有关系，她在饭菜中发现了亮绿色的颗粒。"
+    },
+    {
+      "id": "6fb76465ead58e43",
+      "title": "North Korea and China open new bridge after 12-year delay",
+      "summary": "China is the North's largest trading partner and a lifeline against the sanctions Pyongyang faces.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-15T06:24:45.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "朝鲜和中国延迟12年后开通新桥",
+      "summary_zh": "中国是朝鲜最大的贸易伙伴，也是平壤应对制裁的生命线。"
+    },
+    {
+      "id": "e61a888da8f67b6a",
+      "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+      "summary": "President Volodymyr Zelensky made the announcement in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
+      "image_url": null,
+      "published_at": "2026-10-15T11:54:08.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "泽伦斯基称乌克兰将恢复俄罗斯炼油厂罢工，无视特朗普",
+      "summary_zh": "总统弗拉基米尔·泽伦斯基在接受英国《金融时报》采访时宣布了这一消息。他已暂停罢工以遵守美国的要求。"
+    },
+    {
+      "id": "1f06a708a988521e",
+      "title": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
+      "summary": "Ukrainian engineers are rushing to perfect A.I.-guided, jet-driven interceptors. Their goal: to stop a fast Russian threat in the latest round of a deadly tech duel.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
+      "image_url": null,
+      "published_at": "2026-10-15T09:03:54.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "保卫基辅免受可怕的新型喷气动力无人机的竞赛",
+      "summary_zh": "乌克兰工程师正在加紧完善人工智能制导、喷气驱动的拦截弹。他们的目标：在最新一轮致命的科技决斗中阻止俄罗斯的快速威胁。"
+    },
+    {
+      "id": "1ff0cb25e5fe53b1",
+      "title": "Meet Neha Bora, Activist and Face of India’s Young Protesters",
+      "summary": "When police cracked down, Neha Bora helped rally Gen Z protesters with a mix of boundless energy, street theatrics and satirical humor.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html",
+      "image_url": null,
+      "published_at": "2026-10-15T11:54:35.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "来认识一下尼哈·博拉 (Neha Bora)，她是印度年轻抗议者的活动家和代言人",
+      "summary_zh": "当警方镇压时，尼哈·博拉 (Neha Bora) 凭借无穷的活力、街头表演和讽刺幽默，帮助团结 Z 世代抗议者。"
+    },
+    {
+      "id": "ee2d67845f67ed78",
+      "title": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
+      "summary": "The Saudi military has expensive equipment, but the missiles and drones used by the Yemeni militia are difficult to detect and stop.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html",
+      "image_url": null,
+      "published_at": "2026-10-15T11:53:53.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "沙特阿拉伯为何努力阻止胡塞武装袭击？",
+      "summary_zh": "沙特军方拥有昂贵的装备，但也门民兵使用的导弹和无人机却很难被发现和阻止。"
+    },
+    {
+      "id": "ce97cdbd52d5e51e",
+      "title": "North Korea and China Open Their Biggest Border Bridge",
+      "summary": "The long-delayed opening of the New Yalu River Bridge comes as the two countries expand trade despite international sanctions imposed on North Korea.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html",
+      "image_url": null,
+      "published_at": "2026-10-15T08:49:12.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "朝鲜和中国开放最大的边境大桥",
+      "summary_zh": "新鸭绿江大桥的开通之际，两国尽管国际社会对朝鲜实施了制裁，但仍在扩大贸易。"
+    },
+    {
+      "id": "25a58f04b8823d2b",
+      "title": "Home of London’s Oldest Restaurant, Rules, Is Given to National Trust",
+      "summary": "The restaurant Rules is an institution. Now the National Trust, which preserves Britain’s heritage, plans to safeguard the landmark.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html",
+      "image_url": null,
+      "published_at": "2026-10-15T11:55:16.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "伦敦最古老的餐厅“Rules”的所在地被授予国家信托基金",
+      "summary_zh": "餐厅规则是一种制度。现在，保护英国遗产的国民信托基金会计划保护这一地标。"
     },
     {
       "id": "1f564cd7d45c00be",
@@ -1126,90 +1210,59 @@
       "summary_zh": "一名日本记者在俄罗斯远东地区被捕并被指控收集军事情报后，东京召见了俄罗斯大使。"
     },
     {
-      "id": "50d2cfeaa92d7a75",
-      "title": "Turkey Raids Pro-Opposition TV Station",
-      "summary": "The government appointed an overseer to the last big news channel critical of President Recep Tayyip Erdogan. The authorities have now replaced the leadership at five major news outlets.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html",
+      "id": "0d748e5b59d3f840",
+      "title": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
+      "summary": "Jeff Yan told Bloomberg that U.S. regulatory oversight should apply to the firms using the blockchain, not to the underlying network itself.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
       "image_url": null,
-      "published_at": "2026-10-14T17:00:41.000Z",
-      "importance_score": 46,
+      "published_at": "2026-10-15T10:00:56.000Z",
+      "importance_score": 44,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "土耳其袭击亲反对派电视台",
-      "summary_zh": "政府任命了最后一个批评总统雷杰普·塔伊普·埃尔多安的大型新闻频道的监督员。当局现已更换了五家主要新闻媒体的领导层。"
+      "title_zh": "Hyperliquid创始人希望美国监管交易平台，而不是他的区块链",
+      "summary_zh": "Jeff Yan 告诉彭博社，美国的监管监督应该适用于使用区块链的公司，而不是底层网络本身。"
     },
     {
-      "id": "c7a55aa9d074fabb",
-      "title": "‘Why Did They Kill Him?’ Mourning Victims of Houthi Attack on a Saudi Airport",
-      "summary": "The strike was the Iran-backed militia’s most lethal against Saudi Arabia, by far, during their long conflict.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html",
+      "id": "484db62e929b879c",
+      "title": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
+      "summary": "The country’s regulator, ASIC, has proposed tougher rules to protect users’ digital assets, crypto trading and to safeguard the country’s financial stability.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
       "image_url": null,
-      "published_at": "2026-10-14T14:15:31.000Z",
-      "importance_score": 46,
+      "published_at": "2026-10-15T09:53:37.000Z",
+      "importance_score": 44,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "crypto"
       ],
       "region": "global",
-      "title_zh": "“他们为什么要杀他？”胡塞武装袭击沙特机场的受害者哀悼",
-      "summary_zh": "这是伊朗支持的民兵在长期冲突中迄今为止对沙特阿拉伯最致命的一次袭击。"
+      "title_zh": "澳大利亚金融监管机构寻求在许可截止日期之前对加密货币交易所制定更严格的规则",
+      "summary_zh": "该国监管机构 ASIC 提出了更严格的规则，以保护用户的数字资产、加密货币交易并维护该国的金融稳定。"
     },
     {
-      "id": "d65db0c9141d376a",
-      "title": "Argentina’s President Has a Dog Psychic. Meet Celia Melamed.",
-      "summary": "In Argentina, many people try to read the mind of the president. Celia Melamed read the mind of his dogs.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/14/world/americas/argentina-president-milei-dog-pet-psychic.html",
+      "id": "21b0ec37b5fc2adb",
+      "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
+      "summary": "Police reportedly seized $4 million in cash and 64 luxury watches during a raid on the crypto founder's Istanbul residence.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
       "image_url": null,
-      "published_at": "2026-10-14T09:00:10.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "阿根廷总统有一只通灵狗。认识西莉亚·梅拉梅德。",
-      "summary_zh": "在阿根廷，许多人试图读懂总统的想法。西莉亚·梅拉梅德能读懂他的狗的心思。"
-    },
-    {
-      "id": "cafae1307f78e530",
-      "title": "Indian Protesters Describe Rough Treatment by the Police",
-      "summary": "Some of those detained accused security forces of beating them during an intense crackdown on demonstrations in India’s capital over the weekend. Police have said they followed the law.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/14/world/asia/india-protests-police-brutality.html",
-      "image_url": null,
-      "published_at": "2026-10-14T09:52:43.000Z",
-      "importance_score": 46,
+      "published_at": "2026-10-15T09:20:57.000Z",
+      "importance_score": 44,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "ai",
+        "crypto"
       ],
       "region": "global",
-      "title_zh": "印度抗议者描述警察的粗暴对待",
-      "summary_zh": "其中一些被拘留者指责安全部队在周末对印度首都示威活动的严厉镇压中殴打他们。警方表示他们遵守法律。"
-    },
-    {
-      "id": "9296dd5e6e2358bd",
-      "title": "Dalí Book Cover Stolen in France",
-      "summary": "Three thieves broke into a private museum in central France and took off with a 330-pound book cover created by the surrealist master Salvador Dalí.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/14/world/europe/france-dali-theft.html",
-      "image_url": null,
-      "published_at": "2026-10-14T14:15:56.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "达利书籍封面在法国被盗",
-      "summary_zh": "三名窃贼闯入法国中部的一家私人博物馆，偷走了超现实主义大师萨尔瓦多·达利创作的 330 磅重的书籍封面。"
+      "title_zh": "土耳其媒体报道，Hex 创始人理查德·哈特 (Richard Heart) 在伊斯坦布尔被捕",
+      "summary_zh": "据报道，警方在突袭加密货币创始人伊斯坦布尔的住所时查获了 400 万美元现金和 64 块豪华手表。"
     },
     {
       "id": "ac34b7dba186e3e3",
@@ -1225,59 +1278,23 @@
       "tags": [],
       "region": "global",
       "title_zh": "贝莱德芬克指出美国经济衰退的触发因素，对 40 万亿美元的国家债务敲响警钟",
-      "summary_zh": "贝莱德首席执行官表示，“某种形式的暂停”数据中心建设将使美国陷入衰退。"
+      "summary_zh": "贝莱德首席执行官表示，数据中心建设的“某种暂停”将使美国陷入衰退。"
     },
     {
-      "id": "cf3a9b4740e66f7e",
-      "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
-      "summary": "CEO Tarek Mansour said he feels \"pretty good\" about the pending outcome of the current legal fight over who has the right to regulate prediction markets.",
+      "id": "39c71770cd34d8a8",
+      "title": "EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token",
+      "summary": "The EBA classified Circle’s USDC as the EU’s first \"significant\" e-money token, with new supervisory responsibilities beginning Nov. 12.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637",
       "image_url": null,
-      "published_at": "2026-10-14T16:34:53.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Kalshi首席执行官表示，国家主导的对美国预测市场的监管将把它们赶出市场",
-      "summary_zh": "首席执行官塔里克·曼苏尔 (Tarek Mansour) 表示，他对当前关于谁有权监管预测市场的法律斗争的悬而未决的结果感到“相当满意”。"
-    },
-    {
-      "id": "342139e08919f655",
-      "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
-      "summary": "The blockchain and AI developer platform has completed two years of audits and wants its shares available onchain from the first day of trading.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
-      "image_url": null,
-      "published_at": "2026-10-14T14:49:32.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "EasyA 估值达到 11 亿美元，目标是 2027 年公开上市和代币化股票",
-      "summary_zh": "区块链和人工智能开发者平台已经完成了两年的审计，并希望其股票从交易第一天起就可以在链上使用。"
-    },
-    {
-      "id": "758b7de358fb14aa",
-      "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
-      "summary": "Nasdaq-listed Perpetuals.com is the second company to pursue a U.S. tokenized stock marketplace under the SEC's new framework, following a joint venture between OKX and NYSE parent ICE.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
-      "image_url": null,
-      "published_at": "2026-10-14T14:08:43.000Z",
+      "published_at": "2026-10-15T11:10:07.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "前 FTX Europe 首席执行官瞄准美国代币化股票交易，获得 SEC 新豁免",
-      "summary_zh": "在纳斯达克上市的 Perpetuals.com 是继 OKX 和纽约证券交易所母公司 ICE 成立合资企业之后，第二家在 SEC 新框架下寻求美国代币化股票市场的公司。"
+      "title_zh": "EBA 指定 Circle 的 USDC 为欧盟第一个“重要”电子货币代币",
+      "summary_zh": "EBA 将 Circle 的 USDC 归类为欧盟第一个“重要”电子货币代币，并从 11 月 12 日开始承担新的监管职责。"
     },
     {
       "id": "f86c4ead032281ce",
@@ -1351,22 +1368,6 @@
       "region": "global",
       "title_zh": "Hex 和 PulseChain 创始人 Richard Heart 在伊斯坦布尔被拘留：报道",
       "summary_zh": "土耳其报道称，查获了 400 万美元和 64 块手表。警方尚未证实哈特被拘留。"
-    },
-    {
-      "id": "1ae7123a6ed54354",
-      "title": "BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform",
-      "summary": "BNY and Citadel Securities completed the first tokenized U.S. Treasury repo workflow on a major triparty platform.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-14-bny-citadel-securities-complete-treasury-repo-in-first-use-of-tokenized-assets-on-major-triparty-platform-418534",
-      "image_url": null,
-      "published_at": "2026-10-14T13:21:37.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "纽约银行和 Citadel 证券完成国债回购，首次在主要三方平台上使用代币化资产",
-      "summary_zh": "纽约银行和 Citadel 证券在主要三方平台上完成了第一个代币化的美国国债回购工作流程。"
     },
     {
       "id": "11646da979480682",
@@ -1828,7 +1829,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "截至 2026 年 10 月 2 日，Quantocracy 的最新量化链接",
+      "title_zh": "截至 2026 年 2 月 10 日，Quantocracy 的最新量化链接",
       "summary_zh": "这是截至 2026 年 10 月 2 日星期五 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ 897,000 次测试，约 150 个模式族，一项已确认的发现 [克鲁格算法] 问题很简单：你会做什么"
     },
     {
