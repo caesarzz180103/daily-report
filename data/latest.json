@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T01:03:37.833Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】威廉姆斯称美联储可能不必在 2027 年加息，但与交易员意见不一致；【CRYPTO】美国9月CPI火爆，比特币大幅走低；【FINANCE】美国银行雇佣了 1,000 名承包商来修补 Anthropic 神话暴露的软件缺陷。",
+  "generated_at": "2026-10-15T06:39:40.090Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】随着美联储利率不确定性的影响，比特币萎靡不振。综合股价下跌 8%；【FINANCE】威廉姆斯称美联储可能不必在 2027 年加息，但与交易员意见不一致；【FINANCE】美国银行雇佣了 1,000 名承包商来修补 Anthropic 神话暴露的软件缺陷。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -20,6 +20,27 @@
   },
   "items": [
     {
+      "id": "5eee310279b2320b",
+      "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+      "summary": "Bets on an October Fed rate hike briefly spiked to nearly 50% after Wednesday’s inflation report, but have since cooled.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
+      "image_url": null,
+      "published_at": "2026-10-15T03:57:45.000Z",
+      "importance_score": 86,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin",
+        "fed",
+        "inflation"
+      ],
+      "region": "global",
+      "title_zh": "随着美联储利率不确定性的影响，比特币萎靡不振。综合股价下跌 8%",
+      "summary_zh": "在周三通胀报告发布后，对美联储 10 月加息的押注一度飙升至近 50%，但此后有所降温。"
+    },
+    {
       "id": "37c3aecdf8a79a2b",
       "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
       "summary": "New York Fed President John Williams sees one more rate hike in 2026 but no additional increase in 2027 as inflation pressures ease.",
@@ -37,25 +58,6 @@
       "region": "global",
       "title_zh": "威廉姆斯称美联储可能不必在 2027 年加息，但与交易员意见不一致",
       "summary_zh": "纽约联储行长约翰·威廉姆斯预计，随着通胀压力缓解，2026 年将再次加息，但 2027 年不会再加息。"
-    },
-    {
-      "id": "661de2c41175363c",
-      "title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
-      "summary": "The news could put multiple rate hikes by the Federal Reserve back into play.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
-      "image_url": null,
-      "published_at": "2026-10-14T12:33:56.000Z",
-      "importance_score": 74,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin",
-        "fed"
-      ],
-      "region": "global",
-      "title_zh": "美国9月CPI火爆，比特币大幅走低",
-      "summary_zh": "这一消息可能会让美联储多次加息重新发挥作用。"
     },
     {
       "id": "ebc68017b910301b",
@@ -153,42 +155,23 @@
       "summary_zh": "随着投资者回归，该资产管理公司的加密资产飙升 63% 至 796 亿美元，但持有量仍比去年同期水平低 23%。"
     },
     {
-      "id": "83256aec2b01c0df",
-      "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
-      "summary": "Payward agreed to buy Lithuania’s Saldo Bank, which holds $190 million in total assets, securing an EU license for deposits and lending.",
+      "id": "ae6e2cd4bfb4e3fb",
+      "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+      "summary": "Computing power directed at Binance Pool has fallen from 26 EH/s in December to about 9 EH/s. Its remaining miners must choose another provider before a Nov. 10 cutoff.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
+      "source_url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
       "image_url": null,
-      "published_at": "2026-10-14T13:07:45.000Z",
-      "importance_score": 68,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Kraken 母公司 Payward 将成为第一家收购欧盟银行的加密货币公司，该银行向存款和贷款领域扩张",
-      "summary_zh": "Payward同意收购立陶宛萨尔多银行，该银行拥有总资产1.9亿美元，从而获得欧盟存款和贷款牌照。"
-    },
-    {
-      "id": "9b8a8b2fb0ed7d4a",
-      "title": "Here's how analysts see U.S. inflation influencing bitcoin",
-      "summary": "Your day-ahead look for Oct. 14, 2026",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin",
-      "image_url": null,
-      "published_at": "2026-10-14T11:15:00.000Z",
+      "published_at": "2026-10-15T04:13:56.000Z",
       "importance_score": 62,
       "sentiment": 0,
       "tags": [
-        "bitcoin",
-        "inflation"
+        "ai",
+        "bitcoin"
       ],
       "region": "global",
-      "title_zh": "以下是分析师如何看待美国通胀对比特币的影响",
-      "summary_zh": "2026 年 10 月 14 日天气预报"
+      "title_zh": "比特币矿池曾处理 2.3% 的网络，在算力下降 65% 后关闭",
+      "summary_zh": "币安矿池的算力已从 12 月的 26 EH/s 下降至约 9 EH/s。剩下的矿工必须在 11 月 10 日截止之前选择另一家提供商。"
     },
     {
       "id": "b02b2592be5f349c",
@@ -245,24 +228,6 @@
       "region": "global",
       "title_zh": "Strive 购买了 2.35 亿美元的比特币，认股权证行使产生了 3.69 亿美元的收益",
       "summary_zh": "Strive 在传统认股权证行使中获得 3.692 亿美元的总收益后，以 2.35 亿美元的价格收购了 2,822 个比特币。"
-    },
-    {
-      "id": "d657268c36ec4905",
-      "title": "Strategy’s preferred stock financing may cost it bitcoin, K33 argues",
-      "summary": "K33 argues Strategy could accumulate more bitcoin over time by relying on common stock issuance rather than preferred shares.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-10-14-strategys-preferred-stock-financing-may-cost-it-bitcoin-k33-argues-418543",
-      "image_url": null,
-      "published_at": "2026-10-14T13:20:46.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "K33 认为 Strategy 的优先股融资可能会损失比特币",
-      "summary_zh": "K33 认为随着时间的推移，Strategy 可以通过普通股发行而不是优先股积累更多的比特币。"
     },
     {
       "id": "6de16213bff88b8a",
@@ -364,38 +329,23 @@
       "summary_zh": "数千名希望获得更好的大学条件和就业前景的学生举行示威活动第二天，建筑物被点燃。"
     },
     {
-      "id": "bd144bd3871277f8",
-      "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
-      "summary": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
+      "id": "607b582ca37cab87",
+      "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-14T15:12:46.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "医生称教皇手术后行走和康复“符合预期”",
-      "summary_zh": "周二，经过 90 分钟的手术后，71 岁的教皇被诊断出患有肺癌。"
-    },
-    {
-      "id": "302ec1caa3f71e87",
-      "title": "US inflation rises more than expected - here's what is happening with prices",
-      "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-14T15:26:14.000Z",
+      "published_at": "2026-10-15T04:19:17.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
-        "inflation"
+        "ai",
+        "anthropic"
       ],
       "region": "global",
-      "title_zh": "美国通胀上升幅度超出预期 - 这就是价格的变化",
-      "summary_zh": "截至 9 月份的一年中，由于汽车燃油成本上涨，价格上涨幅度增至 3.7%。"
+      "title_zh": "Anthropic 在股市首次亮相前向投资者宣布收入激增",
+      "summary_zh": "与此同时，一些投资者开始担心人工智能基础设施的投资金额。"
     },
     {
       "id": "87b3ef58ef491fa8",
@@ -458,7 +408,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/14/world/americas/mexico-media-bans-children.html",
       "image_url": null,
-      "published_at": "2026-10-14T23:11:42.000Z",
+      "published_at": "2026-10-15T02:03:03.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
@@ -515,54 +465,74 @@
       "summary_zh": "由于今年供应增长停滞，渣打银行将其 2 万亿美元的稳定币市场预测从 2028 年推迟到 2030 年。"
     },
     {
-      "id": "fda64dc47fe0e98a",
-      "title": "Trending Crypto: Pearl (PRL)",
-      "summary": "CoinGecko trending rank #100.",
+      "id": "b2cb67d86b5a7577",
+      "title": "Trending Crypto: Puffer (PUFFER)",
+      "summary": "CoinGecko trending rank #616.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-10-15T01:03:04.381Z",
+      "source_url": "https://www.coingecko.com/en/coins/puffer-finance",
+      "image_url": "https://coin-images.coingecko.com/coins/images/50630/large/PUFFER_token_Logo.png?1729574024",
+      "published_at": "2026-10-15T06:39:24.275Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "prl"
+        "puffer"
       ],
       "region": "global",
-      "title_zh": "热门加密货币：Pearl (PRL)",
-      "summary_zh": "CoinGecko 趋势排名第 100。"
+      "title_zh": "加密货币趋势：Puffer (PUFFER)",
+      "summary_zh": "CoinGecko 趋势排名#616。"
     },
     {
-      "id": "268f0c683d9297c3",
-      "title": "Trending Crypto: Bitway (BTW)",
-      "summary": "CoinGecko trending rank #33.",
+      "id": "e3f5d39d573941ba",
+      "title": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary": "CoinGecko trending rank #21.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitway",
-      "image_url": "https://coin-images.coingecko.com/coins/images/71205/large/BTW_Token_200x200.png?1786291907",
-      "published_at": "2026-10-15T01:03:04.381Z",
+      "source_url": "https://www.coingecko.com/en/coins/near",
+      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
+      "published_at": "2026-10-15T06:39:24.275Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "btw"
+        "near"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：Bitway（顺便说一句）",
-      "summary_zh": "CoinGecko 趋势排名第 33 位。"
+      "title_zh": "加密货币趋势：NEAR 协议 (NEAR)",
+      "summary_zh": "CoinGecko 趋势排名第 21。"
     },
     {
-      "id": "2d52a45556a20279",
+      "id": "a07dc775495569fd",
+      "title": "Trending Crypto: ZKsync (ZK)",
+      "summary": "CoinGecko trending rank #190.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/zksync",
+      "image_url": "https://coin-images.coingecko.com/coins/images/38043/large/ZKTokenBlack.png?1718614502",
+      "published_at": "2026-10-15T06:39:24.275Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "zk"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：ZKsync (ZK)",
+      "summary_zh": "CoinGecko 趋势排名第 190 位。"
+    },
+    {
+      "id": "d9674c52f4b60d94",
       "title": "Trending Crypto: Pudgy Penguins (PENGU)",
       "summary": "CoinGecko trending rank #119.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
       "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-10-15T01:03:04.381Z",
+      "published_at": "2026-10-15T06:39:24.275Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -575,44 +545,24 @@
       "summary_zh": "CoinGecko 趋势排名第 119 位。"
     },
     {
-      "id": "3d6605a1bd65e1c9",
-      "title": "Trending Crypto: Walrus (WAL)",
-      "summary": "CoinGecko trending rank #222.",
+      "id": "fa357fd976475241",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/walrus-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/54914/large/Walrus_Token_Full_Color_200x200.png?1772722407",
-      "published_at": "2026-10-15T01:03:04.381Z",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-10-15T06:39:24.275Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "wal"
+        "btc"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：海象 (WAL)",
-      "summary_zh": "CoinGecko 趋势排名第 222 位。"
-    },
-    {
-      "id": "bc4441811b967418",
-      "title": "Trending Crypto: Quantus (QTC)",
-      "summary": "CoinGecko trending rank #628.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/quantus",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102171910/large/Token_Icon.png?1791345433",
-      "published_at": "2026-10-15T01:03:04.381Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "qtc"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：Quantus (QTC)",
-      "summary_zh": "CoinGecko 趋势排名#628。"
+      "title_zh": "流行加密货币：比特币 (BTC)",
+      "summary_zh": "CoinGecko 趋势排名第一。"
     },
     {
       "id": "f3089815f0c5a8aa",
@@ -763,6 +713,25 @@
       "summary_zh": "这是截至 2026 年 9 月 30 日星期三 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！新阶段，新截止日期：2027 年 Quantpedia 大奖再次来临！ [Quantpedia] 大家好，Quantpedia 奖项"
     },
     {
+      "id": "bdb1f2cdd2a367a8",
+      "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+      "summary": "Ether accounted for nearly 60% of the forced closures across the two largest cryptocurrencies, falling roughly twice as much as bitcoin.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+      "image_url": null,
+      "published_at": "2026-10-15T04:25:15.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "随着比特币、以太币和 XRP 下滑，近 10 亿美元的加密货币押注被清算",
+      "summary_zh": "以太币占这两种最大加密货币被迫关闭的近 60%，跌幅大约是比特币的两倍。"
+    },
+    {
       "id": "b3eaadaed404a270",
       "title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
       "summary": "",
@@ -782,20 +751,22 @@
       "summary_zh": ""
     },
     {
-      "id": "55d19c38b985de91",
-      "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",
-      "summary": "Congress must decide how the U.S. can build the infrastructure its booming digital economy requires while protecting the communities that host it.",
+      "id": "e78ead079b6dbb8b",
+      "title": "Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities",
+      "summary": "Asian equities tumbled on Thursday, with South Korea's Kospi losing 8% and Japan's Nikkei 225 declining 5% during morning trading.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/opinion/2026/10/14/the-battle-over-the-ratepayer-protection-act-is-just-getting-started",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623",
       "image_url": null,
-      "published_at": "2026-10-14T13:51:12.000Z",
+      "published_at": "2026-10-15T04:38:48.000Z",
       "importance_score": 50,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "bitcoin"
+      ],
       "region": "global",
-      "title_zh": "美国不断增长的数字经济需要电网更新。谁来买单？",
-      "summary_zh": "国会必须决定美国如何建设其蓬勃发展的数字经济所需的基础设施，同时保护其所在的社区。"
+      "title_zh": "避险情绪打压亚洲股市，比特币跌破 81,000 美元",
+      "summary_zh": "周四亚洲股市暴跌，早盘交易中韩国综合股价指数下跌 8%，日本日经 225 指数下跌 5%。"
     },
     {
       "id": "6eaa29ad3f5b1d03",
@@ -1026,7 +997,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-14T20:55:24.000Z",
+      "published_at": "2026-10-15T04:30:08.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1037,22 +1008,88 @@
       "summary_zh": "乌克兰表示，星链接入已经有所改善，但仍面临速度限制，这扰乱了其战场“任务”。"
     },
     {
-      "id": "cf5c50b351e15563",
-      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "id": "e6040996f393a221",
+      "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+      "summary": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers said in a letter.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-14T13:41:51.000Z",
+      "published_at": "2026-10-15T02:26:07.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "德国对被控炸毁北溪管道的乌克兰人进行审判",
-      "summary_zh": "袭击发生四年后，谢尔盖·库兹涅佐夫出庭，被指控密谋摧毁俄罗斯通往德国的天然气管道。"
+      "title_zh": "美国退役将军呼吁五角大楼取消“野蛮”处决直播",
+      "summary_zh": "72 名前军官在一封信中表示，直播尼达尔·哈桑的处决“将玷污使用它的军队以及允许这样做的国家的荣誉”。"
+    },
+    {
+      "id": "b05ef15cd6ae195a",
+      "title": "White House defends new press secretary amid questions about her legal credentials",
+      "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-15T03:03:16.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "白宫在新任新闻秘书的法律资格受到质疑时为她辩护",
+      "summary_zh": "凯蒂·扎卡里亚 (Katie Zacharia) 似乎没有在她居住过的任何州的律师协会注册。"
+    },
+    {
+      "id": "6c8a27ad7016a68f",
+      "title": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
+      "summary": "Thick orange smog descended on the Indonesian city of Palangka Raya as wildfires continue raging nearby.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-15T03:26:36.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "“无处可逃”——印度尼西亚人分享橙色雾霾笼罩城镇的镜头",
+      "summary_zh": "浓浓的橙色烟雾降临在印度尼西亚城市帕朗卡拉亚，附近野火仍在肆虐。"
+    },
+    {
+      "id": "a5311cde9d736845",
+      "title": "Inside Brooklyn novelty shop at centre of 'surreal' row with Kelly Clarkson over mechanical bird",
+      "summary": "Art of Play says its staff have been threatened after the singer complained online about how she was treated.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-14T22:19:13.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "布鲁克林新奇店内与凯莉·克拉克森因机械鸟发生“超现实”争吵",
+      "summary_zh": "Art of Play 表示，在这位歌手在网上抱怨自己受到的待遇后，其工作人员受到了威胁。"
+    },
+    {
+      "id": "8f0b52e913df2927",
+      "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
+      "summary": "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-14T16:56:21.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "莎莉·鲁尼因支持巴勒斯坦行动而在英国撤回书籍",
+      "summary_zh": "这位爱尔兰作家以《普通人》、《间奏曲》和《与朋友对话》等小说而闻名。"
     },
     {
       "id": "8d5942a3b410e8d4",
@@ -1073,56 +1110,6 @@
       "summary_zh": "据报道，所有这些地点都在南澳大利亚，因为州政府支付了隐姓埋名的检查人员的费用。"
     },
     {
-      "id": "2a5a5ffa90cd8960",
-      "title": "Kenya confirms second Ebola case - a relative of the first victim",
-      "summary": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-14T17:23:01.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "肯尼亚确认第二例埃博拉病例——第一例受害者的亲属",
-      "summary_zh": "上周，一名从刚果民主共和国抵达肯尼亚的男子死亡。"
-    },
-    {
-      "id": "f2bc18286fcd1dcc",
-      "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
-      "summary": "It comes amidst an an ongoing pay dispute between public sector workers and the Irish government.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-14T14:18:18.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "爱尔兰共和国数十万工人举行罢工",
-      "summary_zh": "此举正值公共部门工作人员与爱尔兰政府之间持续存在薪资纠纷之际。"
-    },
-    {
-      "id": "22ebdb728d68c7f7",
-      "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
-      "summary": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-14T15:34:19.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "新加坡称一艘集装箱船在霍尔木兹海峡被炮弹击中沉没",
-      "summary_zh": "海事当局表示，悬挂新加坡国旗的“GFS Pride”号周二被炮弹击中后，船上所有 21 名水手均已安全撤离。"
-    },
-    {
       "id": "1f564cd7d45c00be",
       "title": "Japan Protests Russia’s Detention of Journalist Accused of Spying",
       "summary": "Tokyo summoned Russia’s ambassador after a Japanese reporter was arrested in Russia’s far east and accused of collecting military intelligence.",
@@ -1130,7 +1117,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html",
       "image_url": null,
-      "published_at": "2026-10-14T11:30:00.000Z",
+      "published_at": "2026-10-15T05:04:38.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1223,6 +1210,22 @@
       "region": "global",
       "title_zh": "达利书籍封面在法国被盗",
       "summary_zh": "三名窃贼闯入法国中部的一家私人博物馆，偷走了超现实主义大师萨尔瓦多·达利创作的 330 磅重的书籍封面。"
+    },
+    {
+      "id": "ac34b7dba186e3e3",
+      "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
+      "summary": "BlackRock's CEO says \"a moratorium of some sort\" on data center buildouts would put the U.S. in a recession.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai",
+      "image_url": null,
+      "published_at": "2026-10-15T06:17:58.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "贝莱德芬克指出美国经济衰退的触发因素，对 40 万亿美元的国家债务敲响警钟",
+      "summary_zh": "贝莱德首席执行官表示，“某种形式的暂停”数据中心建设将使美国陷入衰退。"
     },
     {
       "id": "cf3a9b4740e66f7e",
@@ -1661,6 +1664,24 @@
       "summary_zh": "Google 与设计师 Jane Wade 和 Sergio Hudson 并肩合作，定制设计 Google Flow 工具，为纽约时装周做准备。"
     },
     {
+      "id": "26b7fc2bf09e69b0",
+      "title": "Q&A: The “collision” between AI, your brain, and society",
+      "summary": "In a new book, Professor Eric So explores how the technology affects our thinking skills.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015",
+      "image_url": null,
+      "published_at": "2026-10-15T04:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Q&A：AI、你的大脑、社会的“碰撞”",
+      "summary_zh": "苏教授在一本新书中探讨了科技如何影响我们的思维能力。"
+    },
+    {
       "id": "77fa4a8a20c8fe08",
       "title": "How artificial neural networks build their own learning machinery",
       "summary": "Machine-learning networks can learn without detailed instructions from a designer. Those that do may offer insight into how the brain reorganizes itself during learning.",
@@ -1729,22 +1750,20 @@
       "summary_zh": "麻省理工学院大厅项目的学生深入研究人类状况，辩论具有挑战性的问题，并学习对无法量化的问题做出判断。"
     },
     {
-      "id": "214ebe048bf17e3a",
-      "title": "MIT announces the MIT for America initiative, to strengthen STEM education across the country",
-      "summary": "The effort aims to help U.S. learners from kindergarten to community college, with an emphasis on math, making, and the constructive use of AI.",
-      "category": "AI",
-      "source_name": "MIT News AI",
-      "source_url": "https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-across-country-1006",
+      "id": "5f00c410ee01b8a5",
+      "title": "Recent Quant Links from Quantocracy as of 10/14/2026",
+      "summary": "This is a summary of links recently featured on Quantocracy as of Wednesday, 10/14/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Does More History Help? A Market-Regime HMM and the Trouble with Out-of-Sample Evaluation [Quantpedia] This paper invest",
+      "category": "STRATEGY",
+      "source_name": "Quantocracy",
+      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-10142026/",
       "image_url": null,
-      "published_at": "2026-10-06T15:00:00.000Z",
+      "published_at": "2026-10-15T05:15:04.000Z",
       "importance_score": 40,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "麻省理工学院宣布“麻省理工学院美国计划”，以加强全国范围内的 STEM 教育",
-      "summary_zh": "这项工作旨在帮助美国从幼儿园到社区大学的学习者，重点是数学、创造和人工智能的建设性使用。"
+      "title_zh": "截至 2026 年 10 月 14 日，Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 10 月 14 日星期三 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！更多历史有帮助吗？市场制度 HMM 和样本外评估的麻烦 [Quantpedia] 本文投资"
     },
     {
       "id": "86c639fc8375d5b4",
@@ -1845,22 +1864,6 @@
       "region": "global",
       "title_zh": "截至 2026 年 9 月 26 日，来自 Quantocracy 的最新量化链接",
       "summary_zh": "这是截至 2026 年 9 月 26 日星期六 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！早间订单流减弱能否预测 SPY 逆转？ [Quantpedia] 在上一篇文章中构建和测试 Trend-Fol"
-    },
-    {
-      "id": "d5d7375875c62a22",
-      "title": "Recent Quant Links from Quantocracy as of 09/24/2026",
-      "summary": "This is a summary of links recently featured on Quantocracy as of Thursday, 09/24/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Tech companies that spend more on capex than their operating cash flow [Quanter Lab] Before the dot-com crash, the teleco",
-      "category": "STRATEGY",
-      "source_name": "Quantocracy",
-      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-09242026/",
-      "image_url": null,
-      "published_at": "2026-09-25T05:15:04.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "截至 2026 年 9 月 24 日，来自 Quantocracy 的最新量化链接",
-      "summary_zh": "这是截至 2026 年 9 月 24 日星期四 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！资本支出高于运营现金流的科技公司 [Quanter Lab] 在互联网泡沫破裂之前，电信公司"
     }
   ]
 }
