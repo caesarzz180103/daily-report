@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-18T11:52:28.116Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough；【FINANCE】Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos；【WORLD】Israeli Settlers Attack Palestinians and European Officials in West Bank。",
+  "generated_at": "2026-10-18T15:02:37.588Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook；【FINANCE】Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos；【WORLD】Israeli Settlers Attack Palestinians and European Officials in West Bank。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
     "feed_failed": 0,
     "failed_sources": [],
-    "translated_items": 1,
+    "translated_items": 99,
     "translation_target": "zh-CN",
     "version": "1.3.0"
   },
@@ -20,24 +20,24 @@
   },
   "items": [
     {
-      "id": "72b8d4d46c28cd54",
-      "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-      "summary": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.",
+      "id": "65b4ec7512fa7e60",
+      "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+      "summary": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+      "source_url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
       "image_url": null,
-      "published_at": "2026-10-17T02:30:00.000Z",
+      "published_at": "2026-10-18T13:00:00.000Z",
       "importance_score": 74,
       "sentiment": 0,
       "tags": [
-        "google",
+        "ai",
         "bitcoin",
-        "war"
+        "inflation"
       ],
       "region": "global",
-      "title_zh": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-      "summary_zh": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets."
+      "title_zh": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+      "summary_zh": "Bitwise 预计潜在回报将超过 100,000 美元，而 LO:TECH 预计，由于利率不确定性给市场带来压力，交易区间将收窄。"
     },
     {
       "id": "ebc68017b910301b",
@@ -57,7 +57,7 @@
       ],
       "region": "global",
       "title_zh": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-      "summary_zh": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI."
+      "summary_zh": "美国银行聘请了 1,000 名承包商来修补 Anthropic 的 Mythos 暴露的软件缺陷，罕见地审视了防御人工智能所需的成本。"
     },
     {
       "id": "c88f6a0c3cb459de",
@@ -75,7 +75,7 @@
       ],
       "region": "global",
       "title_zh": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
-      "summary_zh": "Extremists assaulted residents and broke a European diplomatic vehicle’s window, witnesses said, as settler violence surges in the territory during the olive harvest."
+      "summary_zh": "目击者称，在橄榄收获期间，该地区定居者的暴力事件激增，极端分子袭击了居民，并打破了一辆欧洲外交车辆的窗户。"
     },
     {
       "id": "9633f97963999344",
@@ -91,7 +91,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
-      "summary_zh": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%."
+      "summary_zh": "国际清算银行的一份工作文件发现，美国银行存款利率上升 1 个基点预示着稳定币增长放缓，将十周增长率从 15% 削减至 12%。"
     },
     {
       "id": "5ff26649f667609e",
@@ -109,7 +109,7 @@
       ],
       "region": "global",
       "title_zh": "Google demonstrates quantum computing breakthrough as observers weigh Q-day implications",
-      "summary_zh": "Google demonstrated \"magic state cultivation,\" potentially helping address one of quantum computing's most significant bottlenecks."
+      "summary_zh": "谷歌展示了“神奇的状态培养”，可能有助于解决量子计算最重要的瓶颈之一。"
     },
     {
       "id": "e125e8f04f74b68c",
@@ -128,7 +128,7 @@
       ],
       "region": "global",
       "title_zh": "Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen",
-      "summary_zh": "Strive plans fresh funding for bitcoin purchases as TD Cowen sees warrant-related stock pressure easing."
+      "summary_zh": "由于 TD Cowen 认为与认股权证相关的股票压力有所缓解，Strive 计划为比特币购买提供新的资金。"
     },
     {
       "id": "7572bbcd2fc3627f",
@@ -146,7 +146,7 @@
       ],
       "region": "global",
       "title_zh": "AI model decodes the language cells use to communicate",
-      "summary_zh": "A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies."
+      "summary_zh": "一种新的计算方法揭示了细胞如何通信以组装成组织。这可以加速干细胞工程、改善疾病模型并为治疗提供信息。"
     },
     {
       "id": "72ef94c76dc7a887",
@@ -164,7 +164,7 @@
       ],
       "region": "global",
       "title_zh": "Software’s new consolidator gets big vote of confidence from Berkshire",
-      "summary_zh": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway."
+      "summary_zh": "上市公司成立还不到四个月，Bending Spoons 本周获得了伯克希尔哈撒韦公司的大力信任票。"
     },
     {
       "id": "418c493b90bc3d9b",
@@ -182,7 +182,7 @@
       ],
       "region": "global",
       "title_zh": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-      "summary_zh": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
+      "summary_zh": "美国财政部官员表示，美国本周在曼谷举行的双边会议上提出了万事达卡和花旗集团在中国的市场准入问题。"
     },
     {
       "id": "00a92fc34ac4dc88",
@@ -198,7 +198,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-      "summary_zh": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine."
+      "summary_zh": "美国银行 (Bank of America) 公布的交易收入低于预期，且受到财政部 12 亿美元罚款的影响，该公司股价周三下跌。"
     },
     {
       "id": "cb963b723cb7f78d",
@@ -224,7 +224,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-17T23:52:38.000Z",
+      "published_at": "2026-10-18T12:16:14.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -232,7 +232,7 @@
       ],
       "region": "global",
       "title_zh": "European diplomats attacked by Israeli settlers in West Bank",
-      "summary_zh": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
+      "summary_zh": "以色列军方谴责暴力行为，但总理办公室表示这是“抹黑”活动的一部分。"
     },
     {
       "id": "db9ba3e1b9ea8eb0",
@@ -248,25 +248,25 @@
       "tags": [],
       "region": "global",
       "title_zh": "Anti-government protesters battle with police in Albania",
-      "summary_zh": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana."
+      "summary_zh": "周六，首都地拉那示威者与防暴警察之间发生暴力冲突。"
     },
     {
-      "id": "45886f8ac47fba6f",
-      "title": "Pope Leo Thanks the Faithful in Weekly Address a Day After Leaving Hospital",
+      "id": "378135798275f03f",
+      "title": "Pope Leo Addresses the Faithful a Day After Leaving the Hospital",
       "summary": "“This experience has made me feel a special closeness to all those who are battling illness and infirmity,” he said, in his first public appearance since his lung surgery.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html",
       "image_url": null,
-      "published_at": "2026-10-18T10:54:22.000Z",
+      "published_at": "2026-10-18T11:58:06.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Pope Leo Thanks the Faithful in Weekly Address a Day After Leaving Hospital",
-      "summary_zh": "“This experience has made me feel a special closeness to all those who are battling illness and infirmity,” he said, in his first public appearance since his lung surgery."
+      "title_zh": "Pope Leo Addresses the Faithful a Day After Leaving the Hospital",
+      "summary_zh": "“这段经历让我对所有与疾病和虚弱作斗争的人感到特别亲近，”他在肺部手术后首次公开露面时说道。"
     },
     {
       "id": "fef8320907001038",
@@ -276,13 +276,13 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html",
       "image_url": null,
-      "published_at": "2026-10-18T08:04:51.000Z",
+      "published_at": "2026-10-18T13:10:19.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
       "region": "global",
       "title_zh": "In India, the Scion of a Political Dynasty Tries to Seize His Moment",
-      "summary_zh": "Rahul Gandhi is the descendant of three prime ministers. A surge of protests could give him a springboard to take on the nation’s current leader."
+      "summary_zh": "拉胡尔·甘地是三位总理的后裔。抗议活动的激增可能会给他提供一个与国家现任领导人较量的跳板。"
     },
     {
       "id": "62407d99b47ae5d1",
@@ -298,7 +298,44 @@
       "tags": [],
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/12/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools"
+      "summary_zh": "这是截至 2026 年 10 月 12 日星期一 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ Quant Observer：量化工具、数据、研究等的精选目录。quant.observer 收集有用的量化交易工具"
+    },
+    {
+      "id": "c80b4b7ad3c7fb55",
+      "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+      "summary": "Analytics firm Allium said stablecoin payments hit $482 billion this year so far, up 45%, as card spending surges and global payment firms add crypto rails.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+      "image_url": null,
+      "published_at": "2026-10-18T14:00:00.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+      "summary_zh": "分析公司 Allium 表示，随着卡支出激增和全球支付公司增加加密货币轨道，今年迄今为止稳定币支付额已达到 4820 亿美元，增长了 45%。"
+    },
+    {
+      "id": "5c8c8d68612acf78",
+      "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+      "summary": "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+      "image_url": null,
+      "published_at": "2026-10-18T13:00:00.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+      "summary_zh": "该安全公司发现，第三季度 77% 的损失涉及供应商受损、修复延迟或系统未经过最新安全审查。"
     },
     {
       "id": "1e155ee152b90763",
@@ -314,7 +351,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
-      "summary_zh": "The largest banks in the world are eyeing new trading opportunities, speeding up payments and a role for advisers as tokenization takes root in Wall Street."
+      "summary_zh": "随着代币化在华尔街扎根，世界上最大的银行正在寻找新的交易机会、加快支付速度以及顾问的角色。"
     },
     {
       "id": "60013766fe235e53",
@@ -333,7 +370,7 @@
       ],
       "region": "global",
       "title_zh": "How Ethereum Works",
-      "summary_zh": "The focus is how Ethereum works under the hood: how it tracks and updates state, how transactions flow through the network, how computation is priced through gas, how smart contracts and token standards make Ethereum programmable, and how other Layer 1 blockchains approach the sa"
+      "summary_zh": "重点是以太坊的底层工作原理：它如何跟踪和更新状态、交易如何在网络中流动、计算如何通过 Gas 定价、智能合约和代币标准如何使以太坊可编程，以及其他第 1 层区块链如何接近 SA"
     },
     {
       "id": "7a3b1155b4402a5d",
@@ -352,107 +389,107 @@
       ],
       "region": "global",
       "title_zh": "OpenAI says research model spent another wallet’s testnet ETH without authorization on coding task",
-      "summary_zh": "OpenAI's research model used another wallet's testnet ETH without permission to complete a coding task in June."
+      "summary_zh": "OpenAI的研究模型未经许可使用另一个钱包的测试网ETH来完成6月份的编码任务。"
     },
     {
-      "id": "b25153b47ae88ee7",
-      "title": "Trending Crypto: Quack AI (Q)",
-      "summary": "CoinGecko trending rank #110.",
+      "id": "58289fb83201ec48",
+      "title": "Trending Crypto: Boomer (BOOMER)",
+      "summary": "CoinGecko trending rank #847.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/quack-ai",
-      "image_url": "https://coin-images.coingecko.com/coins/images/68793/large/quack_ai.png?1756615808",
-      "published_at": "2026-10-18T11:51:16.775Z",
+      "source_url": "https://www.coingecko.com/en/coins/boomer-4",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102179587/large/grok-image-9fc664f3-df3d-4815-8ea2-46e6a65319bd.jpg?1792287393",
+      "published_at": "2026-10-18T15:01:30.351Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "q"
+        "boomer"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Quack AI (Q)",
-      "summary_zh": "CoinGecko trending rank #110."
+      "title_zh": "Trending Crypto: Boomer (BOOMER)",
+      "summary_zh": "CoinGecko 趋势排名#847。"
     },
     {
-      "id": "391e09491d5e09a1",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #119.",
+      "id": "520f6ecae23f6964",
+      "title": "Trending Crypto: Claudia (CLAUDIA)",
+      "summary": "CoinGecko trending rank #814.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-10-18T11:51:16.775Z",
+      "source_url": "https://www.coingecko.com/en/coins/claudia-5",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102179592/large/6fceee375c29c74313f2919656bf2b29_v2l.png?1792291278",
+      "published_at": "2026-10-18T15:01:30.351Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pengu"
+        "claudia"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #119."
+      "title_zh": "Trending Crypto: Claudia (CLAUDIA)",
+      "summary_zh": "CoinGecko 趋势排名#814。"
     },
     {
-      "id": "cc16d74e3946ad64",
-      "title": "Trending Crypto: Quantus (QTC)",
-      "summary": "CoinGecko trending rank #634.",
+      "id": "00152a3340db3214",
+      "title": "Trending Crypto: Covenant x402 (COVENANT)",
+      "summary": "CoinGecko trending rank #752.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/quantus",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102171910/large/Token_Icon.png?1791345433",
-      "published_at": "2026-10-18T11:51:16.775Z",
+      "source_url": "https://www.coingecko.com/en/coins/covenant-x402",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102179576/large/logo.jpg?1792278908",
+      "published_at": "2026-10-18T15:01:30.351Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "qtc"
+        "covenant"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Quantus (QTC)",
-      "summary_zh": "CoinGecko trending rank #634."
+      "title_zh": "Trending Crypto: Covenant x402 (COVENANT)",
+      "summary_zh": "CoinGecko 趋势排名#752。"
     },
     {
-      "id": "06f9ca14cfd2c83f",
-      "title": "Trending Crypto: Aptos (APT)",
-      "summary": "CoinGecko trending rank #90.",
+      "id": "d6da0a6b69290140",
+      "title": "Trending Crypto: Pearl (PRL)",
+      "summary": "CoinGecko trending rank #92.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/aptos",
-      "image_url": "https://coin-images.coingecko.com/coins/images/26455/large/Aptos-Network-Profile-Picture_%281%29.png?1788259511",
-      "published_at": "2026-10-18T11:51:16.775Z",
+      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
+      "published_at": "2026-10-18T15:01:30.351Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "apt"
+        "prl"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Aptos (APT)",
-      "summary_zh": "CoinGecko trending rank #90."
+      "title_zh": "Trending Crypto: Pearl (PRL)",
+      "summary_zh": "CoinGecko 趋势排名第 92。"
     },
     {
-      "id": "28fa6e6b08cb88ab",
-      "title": "Trending Crypto: Bitway (BTW)",
-      "summary": "CoinGecko trending rank #33.",
+      "id": "816e72dceab30461",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitway",
-      "image_url": "https://coin-images.coingecko.com/coins/images/71205/large/BTW_Token_200x200.png?1786291907",
-      "published_at": "2026-10-18T11:51:16.775Z",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-10-18T15:01:30.351Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "btw"
+        "btc"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Bitway (BTW)",
-      "summary_zh": "CoinGecko trending rank #33."
+      "title_zh": "Trending Crypto: Bitcoin (BTC)",
+      "summary_zh": "CoinGecko 趋势排名第一。"
     },
     {
       "id": "470d5601c2f40e60",
@@ -470,7 +507,7 @@
       ],
       "region": "global",
       "title_zh": "How Itaú is building generative AI for its entire customer base",
-      "summary_zh": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
+      "summary_zh": "借助对话界面 ia.i 和 IARA 治理平台，Itaú 正在将其人工智能优先战略应用于巴西监管最严格的行业之一的客户和员工。"
     },
     {
       "id": "a956f388ad8b2412",
@@ -488,7 +525,7 @@
       ],
       "region": "global",
       "title_zh": "Teaching students to think and learn through questions",
-      "summary_zh": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
+      "summary_zh": "通过 AI 为教育工作者提供巴西葡萄牙语庆祝教师节，了解学习模式如何帮助教师支持主动、循序渐进的学习。"
     },
     {
       "id": "f3089815f0c5a8aa",
@@ -508,7 +545,7 @@
       ],
       "region": "global",
       "title_zh": "SentinelOne cuts malware analysis from weeks to hours",
-      "summary_zh": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
+      "summary_zh": "借助 OpenAI Daybreak，SentinelOne 将数周的恶意软件分析时间缩短为数小时，从而创造了调查更多威胁的能力。"
     },
     {
       "id": "3f7bb263e1577691",
@@ -526,7 +563,7 @@
       ],
       "region": "global",
       "title_zh": "AI for Societal Impact",
-      "summary_zh": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI."
+      "summary_zh": "探索此系列，了解专家和当地领导者如何利用人工智能突破来确保每个人都能分享人工智能的机会。"
     },
     {
       "id": "eb6c8ed9e036974f",
@@ -544,7 +581,7 @@
       ],
       "region": "global",
       "title_zh": "Building AI to accelerate science and improve lives",
-      "summary_zh": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …"
+      "summary_zh": "人工智能的真正衡量标准是它帮助了谁。以下是它如何影响当今的生活。我们专注于先进技术可以帮助取得非凡进步的关键领域……"
     },
     {
       "id": "d8ec26be4b89b2d4",
@@ -562,7 +599,7 @@
       ],
       "region": "global",
       "title_zh": "Giving AI a “crystal clear” view of the materials world",
-      "summary_zh": "New research can help AI models understand crystalline materials in 3D and reason about their properties."
+      "summary_zh": "新研究可以帮助人工智能模型理解 3D 晶体材料并推理其特性。"
     },
     {
       "id": "1ebd24f688a16dd9",
@@ -580,7 +617,7 @@
       ],
       "region": "global",
       "title_zh": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
-      "summary_zh": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution."
+      "summary_zh": "麻省理工学院的运输和物流中心发现，可持续发展承诺是强有力的，但治理差距和外部干扰阻碍了执行。"
     },
     {
       "id": "85e691c3ee1c8054",
@@ -599,7 +636,7 @@
       ],
       "region": "global",
       "title_zh": "3 Questions: What is the best path forward for AI in academia?",
-      "summary_zh": "MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin shares important considerations for departments and institutions."
+      "summary_zh": "麻省理工学院统计和数据科学中心主任 Alexander (Sasha) Rakhlin 分享了各部门和机构的重要考虑因素。"
     },
     {
       "id": "4c00231168740568",
@@ -617,7 +654,7 @@
       ],
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/03/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/03/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Buffett’s be greedy when others are fearful, tested [Quanter Lab] \"Be greedy when others are fearful\" is Warren Buffett's"
+      "summary_zh": "这是截至 2026 年 10 月 3 日星期六 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！巴菲特在别人恐惧的时候贪婪，经过测试 [Quanter Lab] “在别人恐惧的时候贪婪”是沃伦·巴菲特的名言"
     },
     {
       "id": "7894b0400f5ac39c",
@@ -636,7 +673,7 @@
       ],
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 09/30/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Wednesday, 09/30/2026. To see our most recent links, visit the Quant Mashup. Read on readers! A New Stage, a New Deadline: Quantpedia Awards 2027 Are Here Again! [Quantpedia] Hello everyone, The Quantpedia Awards a"
+      "summary_zh": "这是截至 2026 年 9 月 30 日星期三 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！新阶段，新截止日期：2027 年 Quantpedia 大奖再次来临！ [Quantpedia] 大家好，Quantpedia 奖项"
     },
     {
       "id": "6f25f6c9f1637d73",
@@ -654,43 +691,7 @@
       ],
       "region": "global",
       "title_zh": "Citrini sees a tokenization boom. The harder question is who profits",
-      "summary_zh": "The influential research firm says real-world assets could finally give blockchains a clear role in finance. For investors, the next challenge is figuring out which companies, networks and protocols capture the revenue."
-    },
-    {
-      "id": "cbcc0fb943be9dde",
-      "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
-      "summary": "Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its quantum problem hasn’t gone anywhere.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
-      "image_url": null,
-      "published_at": "2026-10-17T06:39:48.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
-      "summary_zh": "Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its quantum problem hasn’t gone anywhere."
-    },
-    {
-      "id": "54d269130ef89430",
-      "title": "Big Tech's AI auditors will only see what they're shown",
-      "summary": "If the White House accord's audits are going to be worth anything, auditors should be able to choose what they test, writes Samuel Vance-Law, head of research at the Decentralization Research Center.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
-      "image_url": null,
-      "published_at": "2026-10-16T14:58:22.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Big Tech's AI auditors will only see what they're shown",
-      "summary_zh": "If the White House accord's audits are going to be worth anything, auditors should be able to choose what they test, writes Samuel Vance-Law, head of research at the Decentralization Research Center."
+      "summary_zh": "这家颇具影响力的研究公司表示，现实世界的资产最终可能会让区块链在金融领域发挥明确的作用。对于投资者来说，下一个挑战是弄清楚哪些公司、网络和协议获得了收入。"
     },
     {
       "id": "116169e519804eec",
@@ -706,7 +707,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Coinbase to power stablecoin-backed cards for Marqeta customers",
-      "summary_zh": "The expanded partnership builds on Marqeta’s work powering Coinbase’s U.S. debit card offering in 2020."
+      "summary_zh": "此次扩大的合作伙伴关系建立在 Marqeta 为 Coinbase 2020 年美国借记卡业务提供支持的工作基础上。"
     },
     {
       "id": "a89c033a1bad2dfe",
@@ -725,7 +726,7 @@
       ],
       "region": "global",
       "title_zh": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
-      "summary_zh": "The company attributed roughly €67.5 million ($75.9 million) of the loss to an additional bitcoin impairment charge."
+      "summary_zh": "该公司将大约 6750 万欧元（7590 万美元）的损失归因于额外的比特币减值费用。"
     },
     {
       "id": "300921cf9c7fdca8",
@@ -741,7 +742,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Bringing GPT-Rosalind to academic research labs",
-      "summary_zh": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
+      "summary_zh": "推出 Rosalind 学术计划，为符合条件的学术实验室提供 GPT-Rosalind 资助的访问权限和推进生命科学研究的工具。"
     },
     {
       "id": "6eaa29ad3f5b1d03",
@@ -760,7 +761,7 @@
       ],
       "region": "global",
       "title_zh": "Amp puts AI agents to work beyond code with OpenAI models",
-      "summary_zh": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
+      "summary_zh": "了解 Amp 如何利用 GPT-6 Astra、Ultrafast、GPT-Live-1 和 ChatGPT 登录来拓展代理功能的前沿。"
     },
     {
       "id": "7798e25089fc00ec",
@@ -778,7 +779,7 @@
       ],
       "region": "global",
       "title_zh": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "summary_zh": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
+      "summary_zh": "借助用于网络安全的 GPT-6 Astra 和 GPT-6.1 Sol、Codex 和 Daybreak，该 AI 实验室构建了能够持续关注并随着使用不断改进的代理。"
     },
     {
       "id": "9d21bee6083c7f8f",
@@ -809,7 +810,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "title_zh": "欢迎 Muse Spark Open：来自 Meta 的开放权重前沿多模式混合专家模型",
       "summary_zh": ""
     },
     {
@@ -841,7 +842,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Gemini 4 Argon: Built to solve your hardest problems",
+      "title_zh": "Gemini 4 Argon：专为解决您最棘手的问题而打造",
       "summary_zh": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
     },
     {
@@ -860,7 +861,7 @@
         "google"
       ],
       "region": "global",
-      "title_zh": "The latest AI news we announced in September 2026",
+      "title_zh": "我们于 2026 年 9 月公布的最新 AI 新闻",
       "summary_zh": "Here are Google’s latest AI updates from September 2026"
     },
     {
@@ -879,7 +880,7 @@
         "google"
       ],
       "region": "global",
-      "title_zh": "New experts join Google’s AI & Economy team",
+      "title_zh": "新专家加入 Google 人工智能与经济团队",
       "summary_zh": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers."
     },
     {
@@ -897,7 +898,7 @@
         "google"
       ],
       "region": "global",
-      "title_zh": "Making global data easier to explore",
+      "title_zh": "让全球数据更容易探索",
       "summary_zh": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search."
     },
     {
@@ -913,7 +914,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Researchers improve weather forecasts looking two to six weeks out",
+      "title_zh": "研究人员预计两到六周后会改进天气预报",
       "summary_zh": "A new machine-learning approach broke records for weather forecasting for an important time frame in emergency planning."
     },
     {
@@ -929,7 +930,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
+      "title_zh": "十年“死钱”：为什么这种对冲基金方法可能比债券更具优势",
       "summary_zh": "Investors may want to rethink their bond allocation and opt for managed futures exposure."
     },
     {
@@ -947,7 +948,7 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "People in China are spending nearly as much of their income as Americans on healthcare",
+      "title_zh": "中国人在医疗保健上的支出几乎与美国人一样多",
       "summary_zh": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said."
     },
     {
@@ -963,7 +964,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
+      "title_zh": "哈佛大学的捐赠基金在 2026 财年增长了 27%，SpaceX 成为最大持股者",
       "summary_zh": "The latest 12-month period marked the strongest return for the university's fund since 2021."
     },
     {
@@ -979,7 +980,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
+      "title_zh": "中国表示，无论美国贸易协议是否到期，稀土将继续流向欧盟",
       "summary_zh": "European trade commissioner Maroš Sefčovič met with Chinese Commerce Minister Wang Wentao in Beijing last week."
     },
     {
@@ -995,7 +996,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+      "title_zh": "摩根士丹利股票交易收入超预期 9.09 亿美元，超出预期",
       "summary_zh": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter."
     },
     {
@@ -1006,29 +1007,29 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-18T10:53:54.000Z",
+      "published_at": "2026-10-18T12:07:31.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "title_zh": "抗议活动演变成骚乱和抢劫后，巴黎街道上的汽车被烧毁，玻璃被打碎",
       "summary_zh": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism."
     },
     {
-      "id": "1f585f8d15063f0f",
-      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-      "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+      "id": "72a5d86374999ceb",
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-17T22:09:50.000Z",
+      "published_at": "2026-10-18T11:57:49.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-      "summary_zh": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans."
+      "title_zh": "圣彼得堡石油设施在夜间遭遇致命袭击",
+      "summary_zh": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook."
     },
     {
       "id": "a2f897607f0c8192",
@@ -1043,26 +1044,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "title_zh": "自制合成毒品浪潮席卷美国并加深危机",
       "summary_zh": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic."
-    },
-    {
-      "id": "b99ca5ccb1b7bb3b",
-      "title": "Several dead or injured in major fire at Canada military base",
-      "summary": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-18T08:52:41.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Several dead or injured in major fire at Canada military base",
-      "summary_zh": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright."
     },
     {
       "id": "7c3dd5aad1f0ddba",
@@ -1079,7 +1062,7 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "title_zh": "随着与泽连斯基的争执加剧，特朗普放弃了多项俄罗斯制裁",
       "summary_zh": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
     },
     {
@@ -1095,7 +1078,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "At least 17 dead in crush at Hindu festival event in India",
+      "title_zh": "印度印度教节日活动被碾压 至少17人死亡",
       "summary_zh": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival."
     },
     {
@@ -1111,7 +1094,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
+      "title_zh": "老师与美国学校袭击者战斗，武装父亲“多次”射杀嫌疑人",
       "summary_zh": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
     },
     {
@@ -1129,24 +1112,56 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Nursery owner in China jailed for life after hundreds of children poisoned",
+      "title_zh": "数百名儿童中毒，中国托儿所老板被判终身监禁",
       "summary_zh": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing."
     },
     {
-      "id": "1ff6962b894a7b87",
-      "title": "France in Shock After Protests Devolve Into Riots",
-      "summary": "Centrist and leftist leaders blamed each other after anti-government protests devolved into chaos.",
+      "id": "e833a1791be65d91",
+      "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
+      "summary": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
       "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-18T08:44:26.000Z",
+      "published_at": "2026-10-17T10:46:41.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "France in Shock After Protests Devolve Into Riots",
-      "summary_zh": "Centrist and leftist leaders blamed each other after anti-government protests devolved into chaos."
+      "title_zh": "业余抢劫 100 年后，稀有粉红钻石在法国展出",
+      "summary_zh": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft."
+    },
+    {
+      "id": "27692e2f73133015",
+      "title": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
+      "summary": "After anti-government protests devolved into chaos, leaders from across the political spectrum blamed one another for the unrest, even as it subsided on Sunday.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
+      "image_url": null,
+      "published_at": "2026-10-18T14:57:23.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "抗议演变成骚乱，建筑物和商店遭到破坏，法国感到震惊",
+      "summary_zh": "After anti-government protests devolved into chaos, leaders from across the political spectrum blamed one another for the unrest, even as it subsided on Sunday."
+    },
+    {
+      "id": "0042a86e7a07b729",
+      "title": "Egypt’s Defense Chiefs Pledge to Support Saudi Arabia After Houthi Attacks",
+      "summary": "President Abdel Fattah el-Sisi had called on Egyptian lawmakers to authorize military assistance to the kingdom, saying any support would be defensive.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html",
+      "image_url": null,
+      "published_at": "2026-10-18T11:49:38.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "埃及国防部长承诺在胡塞武装袭击后支持沙特阿拉伯",
+      "summary_zh": "President Abdel Fattah el-Sisi had called on Egyptian lawmakers to authorize military assistance to the kingdom, saying any support would be defensive."
     },
     {
       "id": "95f6fa3f5fd5be3f",
@@ -1156,33 +1171,33 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html",
       "image_url": null,
-      "published_at": "2026-10-18T10:56:27.000Z",
+      "published_at": "2026-10-18T14:05:04.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire",
+      "title_zh": "加拿大温赖特军事基地发生致命“事件”引发火灾",
       "summary_zh": "The defense minister said people were killed and injured at a base in Alberta, but officials did not offer details on the cause."
     },
     {
-      "id": "e4f681f47bd766c9",
-      "title": "Ukraine Strikes Russian Oil Terminal, as Starshield Disruptions Persist",
-      "summary": "Ukrainian officials said the Pentagon and SpaceX have not yet responded to inquiries about disruptions to the U.S.-provided satellite internet service used by Ukrainian forces.",
+      "id": "871488443524bfb6",
+      "title": "Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia",
+      "summary": "President Volodymyr Zelensky of Ukraine pressed Sunday for more information on possible restrictions to Starshield, a U.S.-provided satellite internet service used by the Ukrainian military.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html",
       "image_url": null,
-      "published_at": "2026-10-18T11:01:55.000Z",
+      "published_at": "2026-10-18T14:30:49.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Ukraine Strikes Russian Oil Terminal, as Starshield Disruptions Persist",
-      "summary_zh": "Ukrainian officials said the Pentagon and SpaceX have not yet responded to inquiries about disruptions to the U.S.-provided satellite internet service used by Ukrainian forces."
+      "title_zh": "泽伦斯基表示，如果特朗普支持俄罗斯，他将面临“历史性错误”的风险",
+      "summary_zh": "President Volodymyr Zelensky of Ukraine pressed Sunday for more information on possible restrictions to Starshield, a U.S.-provided satellite internet service used by the Ukrainian military."
     },
     {
       "id": "ee43f4a912c191d7",
@@ -1197,7 +1212,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
+      "title_zh": "唱歌、跳舞、被人工智能甩了在韩国电视上",
       "summary_zh": "Three celebrities date artificial intelligence avatars on a reality show made in South Korea, where A.I. is hugely popular."
     },
     {
@@ -1215,7 +1230,7 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "At Least 19 Dead After Stampede at Indian Religious Event",
+      "title_zh": "印度宗教活动发生踩踏事件 至少19人死亡",
       "summary_zh": "Such deadly crowd events are relatively common in India, and it was unclear what caused this one. The authorities detained the event’s organizer and others involved."
     },
     {
@@ -1231,24 +1246,26 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings",
+      "title_zh": "墨西哥法官以​​杀害冲浪者罪判处 3 名男子每人 159 年徒刑",
       "summary_zh": "The men were charged in the murders of two Australians and an American who were on a camping and surf vacation in Mexico."
     },
     {
-      "id": "98e2acf077487045",
-      "title": "Kenya Confirms Four New Ebola Cases",
-      "summary": "Seven Ebola infections have now been confirmed in Kenya, which before this month had never recorded cases of the deadly virus.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html",
+      "id": "d5fb332f08710a54",
+      "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+      "summary": "Private-sector partners flagged $11 million in funds that could be frozen, while officials reported cryptocurrency seizures without disclosing their value.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
       "image_url": null,
-      "published_at": "2026-10-17T19:41:02.000Z",
-      "importance_score": 46,
+      "published_at": "2026-10-18T12:00:00.000Z",
+      "importance_score": 44,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "crypto"
+      ],
       "region": "global",
-      "title_zh": "Kenya Confirms Four New Ebola Cases",
-      "summary_zh": "Seven Ebola infections have now been confirmed in Kenya, which before this month had never recorded cases of the deadly virus."
+      "title_zh": "加密货币交易所 Binance、Coinbase 加入西非诈骗团伙，损失 1100 万美元",
+      "summary_zh": "Private-sector partners flagged $11 million in funds that could be frozen, while officials reported cryptocurrency seizures without disclosing their value."
     },
     {
       "id": "862fdd646bc03c31",
@@ -1263,7 +1280,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+      "title_zh": "华尔街关门，芯片股押注 10 分钟内损失 5200 万美元",
       "summary_zh": "A 10-minute flush hit round-the-clock chip-stock contracts while U.S. markets were shut, leaving traders with no real share price to lean on."
     },
     {
@@ -1279,7 +1296,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "title_zh": "Circle 捍卫 USDC 经济，因为稳定币竞争对手以更大的分成来吸引其合作伙伴",
       "summary_zh": "Coinbase, Circle’s largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee."
     },
     {
@@ -1297,24 +1314,8 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+      "title_zh": "Polygon 将收购 Coinme 视为进入由 Visa、Stripe 主导的支付领域",
       "summary_zh": "CEO Marc Boiron said the Coinme acquisition will help Polygon control customer relationships and capture revenue that previously went to payment intermediaries."
-    },
-    {
-      "id": "ae588f6d62676030",
-      "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
-      "summary": "Your day-ahead look for Oct. 16, 2026",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
-      "image_url": null,
-      "published_at": "2026-10-16T11:15:00.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
-      "summary_zh": "Your day-ahead look for Oct. 16, 2026"
     },
     {
       "id": "d72ac17d7a835f16",
@@ -1329,7 +1330,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE",
+      "title_zh": "CoreWeave、Broadcom、Verizon 等九家公司反对在 OKXICE 上对其股票进行代币化交易",
       "summary_zh": "Applied Optoelectronics told the WSJ it objected because it was unsure how tokenization would affect its stock price, liquidity and volatility."
     },
     {
@@ -1345,7 +1346,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Turkey confirms Hex founder Richard Heart’s arrest, says police seized $7.15 million and six cold wallets",
+      "title_zh": "土耳其证实 Hex 创始人 Richard Heart 被捕，称警方查获 715 万美元和 6 个冷钱包",
       "summary_zh": "Police reportedly seized $7.15 million in cash, six cold wallets, seven firearms and 1,400 rounds of ammunition in searches of 15 addresses."
     },
     {
@@ -1363,7 +1364,7 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026",
+      "title_zh": "Circle 详细介绍了 USDC 的收入分配，称 2026 年上半年 8.19 亿美元流向合作伙伴和成本",
       "summary_zh": "Circle breaks down its USDC revenue: about $1.4 billion in H1 2026, $819 million to partners and transaction costs, $473 million reinvested."
     },
     {
@@ -1379,7 +1380,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Visa Direct moves USDC prefunding into commercial production with Inyo Global",
+      "title_zh": "Visa Direct 将 USDC 预资助与 Inyo Global 一起投入商业生产",
       "summary_zh": "Visa Direct has brought USDC prefunding into commercial production with Inyo Global as its first commercial enabler."
     },
     {
@@ -1395,7 +1396,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Benefit Street Partners answers questions faster with Codex",
+      "title_zh": "Benefit Street Partners 通过 Codex 更快地回答问题",
       "summary_zh": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
     },
     {
@@ -1411,7 +1412,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "title_zh": "Stack Overflow for Agents 使用 ChatGPT 插件使注册人数增加了三倍",
       "summary_zh": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
     },
     {
@@ -1430,7 +1431,7 @@
         "openai"
       ],
       "region": "global",
-      "title_zh": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "title_zh": "沙利文克伦威尔将法律专业知识纳入协议审查",
       "summary_zh": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
     },
     {
@@ -1449,7 +1450,7 @@
         "openai"
       ],
       "region": "global",
-      "title_zh": "How Block is building AI-powered security with OpenAI technology",
+      "title_zh": "Block 如何利用 OpenAI 技术构建人工智能驱动的安全",
       "summary_zh": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
     },
     {
@@ -1467,7 +1468,7 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "title_zh": "扩展 Indic 预训练：2.8 万亿代币和开放数据生成管道",
       "summary_zh": ""
     },
     {
@@ -1499,7 +1500,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Welcome FLUX.3 Image Klein in Diffusers",
+      "title_zh": "欢迎 FLUX.3 扩散器中的 Klein 图像",
       "summary_zh": ""
     },
     {
@@ -1531,7 +1532,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "title_zh": "使用 LFM2.5-24B-A2B 在设备上快速运行专用代理",
       "summary_zh": ""
     },
     {
@@ -1565,7 +1566,7 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "The Agent Said It Was Done. The Database Disagreed.",
+      "title_zh": "代理说已经完成了。数据库不同意。",
       "summary_zh": ""
     },
     {
@@ -1582,7 +1583,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Introducing Playground: Create and play custom games",
-      "summary_zh": "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
+      "summary_zh": "Playground 是一个新的实验性游戏平台，可让您创建、玩和共享自定义游戏。"
     },
     {
       "id": "67521a1c829f3743",
@@ -1600,7 +1601,7 @@
       ],
       "region": "global",
       "title_zh": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "summary_zh": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
+      "summary_zh": "观看 Future Vision XPRIZE 的获奖预告片《天才》。"
     },
     {
       "id": "e0f567fea9ac235b",
@@ -1618,7 +1619,7 @@
       ],
       "region": "global",
       "title_zh": "Google Beam expands with new regions, partners, and customers",
-      "summary_zh": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network."
+      "summary_zh": "我们正在将 Google Beam 扩展到五个新国家，并与 Industrious 合作扩展网络。"
     },
     {
       "id": "d43c7e0697177b20",
@@ -1636,7 +1637,7 @@
       ],
       "region": "global",
       "title_zh": "Co-creating the future of fashion with Google",
-      "summary_zh": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW."
+      "summary_zh": "Google 与设计师 Jane Wade 和 Sergio Hudson 并肩合作，定制设计 Google Flow 工具，为纽约时装周做准备。"
     },
     {
       "id": "ae8a6060e604ebc1",
@@ -1652,7 +1653,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Fostering community amid Kendall Square’s innovation",
-      "summary_zh": "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society."
+      "summary_zh": "第 18 届肯德尔广场协会年会探讨了新技术如何成为社会共同繁荣的力量。"
     },
     {
       "id": "26b7fc2bf09e69b0",
@@ -1670,7 +1671,7 @@
       ],
       "region": "global",
       "title_zh": "Q&A: The “collision” between AI, your brain, and society",
-      "summary_zh": "In a new book, Professor Eric So explores how the technology affects our thinking skills."
+      "summary_zh": "苏教授在一本新书中探讨了科技如何影响我们的思维能力。"
     },
     {
       "id": "77fa4a8a20c8fe08",
@@ -1688,7 +1689,7 @@
       ],
       "region": "global",
       "title_zh": "How artificial neural networks build their own learning machinery",
-      "summary_zh": "Machine-learning networks can learn without detailed instructions from a designer. Those that do may offer insight into how the brain reorganizes itself during learning."
+      "summary_zh": "机器学习网络无需设计者的详细说明即可学习。那些这样做的人可能会深入了解大脑在学习过程中如何自我重组。"
     },
     {
       "id": "d679b8d3fe971a81",
@@ -1704,7 +1705,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "MIT Lincoln Laboratory hosts National Security Commission on Emerging Biotechnology",
-      "summary_zh": "Roadshow event highlights Massachusetts' defense-biotechnology ecosystem."
+      "summary_zh": "路演活动重点介绍了马萨诸塞州的国防生物技术生态系统。"
     },
     {
       "id": "04fe76610c0a89db",
@@ -1722,7 +1723,7 @@
       ],
       "region": "global",
       "title_zh": "Q&A: Building accountability behind our words — and AI’s — in civic conversations",
-      "summary_zh": "Professor Deb Roy contends there should be someone who is “answerable” for every piece of text in public life, no matter its origins."
+      "summary_zh": "德布·罗伊教授认为，应该有一个人对公共生活中的每一篇文章“负责”，无论其来源如何。"
     },
     {
       "id": "8679bab18a79a2b9",
@@ -1738,7 +1739,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/15/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Thursday, 10/15/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Financial Mentor’s OptimumV [Allocate Smartly] This is a test of OptimumV from Todd Tresidder of Financial Mentor. Backte"
+      "summary_zh": "这是截至 2026 年 10 月 15 日星期四 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ Financial Mentor 的 OptimumV [智能分配] 这是 Financial Mentor 的 Todd Tresidder 对 OptimumV 的测试。巴克特"
     },
     {
       "id": "5f00c410ee01b8a5",
@@ -1754,7 +1755,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/14/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Wednesday, 10/14/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Does More History Help? A Market-Regime HMM and the Trouble with Out-of-Sample Evaluation [Quantpedia] This paper invest"
+      "summary_zh": "这是截至 2026 年 10 月 14 日星期三 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！更多历史有帮助吗？市场制度 HMM 和样本外评估的麻烦 [Quantpedia] 本文投资"
     },
     {
       "id": "86c639fc8375d5b4",
@@ -1770,7 +1771,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/10/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/10/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Why Long Bonds Still Belong in the Portfolio [Beyond Passive] In the first week of October the thirty-year Treasury yield"
+      "summary_zh": "这是截至 2026 年 10 月 10 日星期六 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！为什么长期债券仍属于投资组合 [超越被动] 10 月第一周三十年期国债收益率"
     },
     {
       "id": "72e6af20fbdef690",
@@ -1786,7 +1787,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/07/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Wednesday, 10/07/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Podcast with Kris Longmore of Robot Wealth [Algorithmic Advantage] Ex-prop trader on why solo trading is a different gam"
+      "summary_zh": "这是截至 2026 年 10 月 7 日星期三 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ Robot Wealth 的 Kris Longmore 播客 [算法优势] 前自营交易员讲述为什么单独交易是一种不同的游戏"
     },
     {
       "id": "7dcadc45a79d871b",
@@ -1804,7 +1805,7 @@
       ],
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/05/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 10/05/2026. To see our most recent links, visit the Quant Mashup. Read on readers! A Century of Meme Stocks and the Price of Coordination [Quantpedia] Meme stocks are commonly studied through social-media a"
+      "summary_zh": "这是截至 2026 年 10 月 5 日星期一 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ Meme 股票的一个世纪和协调价格 [Quantpedia] Meme 股票通常通过社交媒体进行研究"
     },
     {
       "id": "25b4f1d80e63fa4e",
@@ -1820,7 +1821,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/02/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Friday, 10/02/2026. To see our most recent links, visit the Quant Mashup. Read on readers! 897,000 Tests, About 150 Pattern Families, One Confirmed Finding [Krueger Algorithms] The question was simple: what do you"
+      "summary_zh": "这是截至 2026 年 10 月 2 日星期五 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ 897,000 次测试，约 150 个模式族，一项已确认的发现 [克鲁格算法] 问题很简单：你会做什么"
     },
     {
       "id": "e8bde2f1fbc51bfd",
@@ -1838,7 +1839,7 @@
       ],
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 09/28/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 09/28/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Do Stocks Fall When Bond Yields Rise? 63 Years of Data [Portfolio Terminal] From January 1963 to August 2026, the 10-year T"
+      "summary_zh": "这是截至 2026 年 9 月 28 日星期一 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！债券收益率上升时股票会下跌吗？ 63年数据【投资组合终端】从1963年1月到2026年8月，10年T"
     }
   ]
 }
