@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T03:10:35.552Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook；【FINANCE】Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos；【CRYPTO】Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears。",
+  "generated_at": "2026-10-19T08:14:05.745Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos；【CRYPTO】Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears；【CRYPTO】World launches World ID suite for banks, makes Zoom deepfake check generally available。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -19,26 +19,6 @@
     "FINANCE": 10
   },
   "items": [
-    {
-      "id": "65b4ec7512fa7e60",
-      "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
-      "summary": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
-      "image_url": null,
-      "published_at": "2026-10-18T13:00:00.000Z",
-      "importance_score": 74,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin",
-        "inflation"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
-      "summary_zh": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market."
-    },
     {
       "id": "ebc68017b910301b",
       "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
@@ -221,25 +201,6 @@
       "summary_zh": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war."
     },
     {
-      "id": "e8adb2725759a975",
-      "title": "Australian Greens senator denies claims of misconduct towards women",
-      "summary": "Jordon Steele-John says the timing of the claims is motivated by \"nasty political games\" within the Greens.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-19T01:32:40.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Australian Greens senator denies claims of misconduct towards women",
-      "summary_zh": "Jordon Steele-John says the timing of the claims is motivated by \"nasty political games\" within the Greens."
-    },
-    {
       "id": "42f346143e37fd50",
       "title": "The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.",
       "summary": "As unrest surged across France this weekend, the most surprising attack came in the quiet city of Limoges, where rioters set fire to the city hall.",
@@ -322,6 +283,24 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools"
     },
     {
+      "id": "01af8ccd077bf9dd",
+      "title": "XRP Ledger is set to fix its lending code before anyone can use it",
+      "summary": "Validators have a bug-fix patch on course to go live Friday. The lending system it partly repairs is still 10 votes short of approval.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
+      "image_url": null,
+      "published_at": "2026-10-19T04:54:31.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "XRP Ledger is set to fix its lending code before anyone can use it",
+      "summary_zh": "Validators have a bug-fix patch on course to go live Friday. The lending system it partly repairs is still 10 votes short of approval."
+    },
+    {
       "id": "ff9f2a21dd920d02",
       "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
       "summary": "Eight more companies objected to trading on the planned OKX-ICE venue, while Nasdaq has separately said it would opt out under the SEC’s framework.",
@@ -357,24 +336,6 @@
       "region": "global",
       "title_zh": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
       "summary_zh": "Analytics firm Allium said stablecoin payments hit $482 billion this year so far, up 45%, as card spending surges and global payment firms add crypto rails."
-    },
-    {
-      "id": "5c8c8d68612acf78",
-      "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
-      "summary": "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
-      "image_url": null,
-      "published_at": "2026-10-18T13:00:00.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
-      "summary_zh": "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews."
     },
     {
       "id": "60013766fe235e53",
@@ -415,94 +376,54 @@
       "summary_zh": "OpenAI's research model used another wallet's testnet ETH without permission to complete a coding task in June."
     },
     {
-      "id": "8fa9e8a99949e75d",
-      "title": "Trending Crypto: Covenant x402 (COVENANT)",
-      "summary": "CoinGecko trending rank #696.",
+      "id": "1482af5e4d446c43",
+      "title": "Trending Crypto: Quack AI (Q)",
+      "summary": "CoinGecko trending rank #104.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/covenant-x402",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102179576/large/logo.jpg?1792278908",
-      "published_at": "2026-10-19T03:09:24.278Z",
+      "source_url": "https://www.coingecko.com/en/coins/quack-ai",
+      "image_url": "https://coin-images.coingecko.com/coins/images/68793/large/quack_ai.png?1756615808",
+      "published_at": "2026-10-19T08:12:56.732Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "covenant"
+        "q"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Covenant x402 (COVENANT)",
-      "summary_zh": "CoinGecko trending rank #696."
+      "title_zh": "Trending Crypto: Quack AI (Q)",
+      "summary_zh": "CoinGecko trending rank #104."
     },
     {
-      "id": "386ab153db1608ee",
-      "title": "Trending Crypto: Doge Pepe (DOPE)",
-      "summary": "CoinGecko trending rank #729.",
+      "id": "3cbcafcf03123af6",
+      "title": "Trending Crypto: Injective (INJ)",
+      "summary": "CoinGecko trending rank #84.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/doge-pepe-3",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102179565/large/logo.png?1792138050",
-      "published_at": "2026-10-19T03:09:24.278Z",
+      "source_url": "https://www.coingecko.com/en/coins/injective-protocol",
+      "image_url": "https://coin-images.coingecko.com/coins/images/12882/large/Other_200x200.png?1738782212",
+      "published_at": "2026-10-19T08:12:56.732Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "dope"
+        "inj"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Doge Pepe (DOPE)",
-      "summary_zh": "CoinGecko trending rank #729."
+      "title_zh": "Trending Crypto: Injective (INJ)",
+      "summary_zh": "CoinGecko trending rank #84."
     },
     {
-      "id": "1a6f647536d23944",
-      "title": "Trending Crypto: Tetsuo Super Intelligence (TSI)",
-      "summary": "CoinGecko trending rank #911.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/tetsuo-super-intelligence",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102179593/large/logo.png?1792302830",
-      "published_at": "2026-10-19T03:09:24.278Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "tsi"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Tetsuo Super Intelligence (TSI)",
-      "summary_zh": "CoinGecko trending rank #911."
-    },
-    {
-      "id": "33fa5aa737a96f0a",
-      "title": "Trending Crypto: hi (HI)",
-      "summary": "CoinGecko trending rank #849.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/hi",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102179588/large/logo.jpg?1792287539",
-      "published_at": "2026-10-19T03:09:24.278Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "hi"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: hi (HI)",
-      "summary_zh": "CoinGecko trending rank #849."
-    },
-    {
-      "id": "0b19acf871a8e6bc",
+      "id": "90042137a7a961bd",
       "title": "Trending Crypto: Pudgy Penguins (PENGU)",
       "summary": "CoinGecko trending rank #119.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
       "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-10-19T03:09:24.278Z",
+      "published_at": "2026-10-19T08:12:56.732Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -513,6 +434,46 @@
       "region": "global",
       "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
       "summary_zh": "CoinGecko trending rank #119."
+    },
+    {
+      "id": "5d168a3a896c5d82",
+      "title": "Trending Crypto: Starknet (STRK)",
+      "summary": "CoinGecko trending rank #121.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/starknet",
+      "image_url": "https://coin-images.coingecko.com/coins/images/26433/large/starknet.png?1696525507",
+      "published_at": "2026-10-19T08:12:56.732Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "strk"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Starknet (STRK)",
+      "summary_zh": "CoinGecko trending rank #121."
+    },
+    {
+      "id": "1656de9a18736343",
+      "title": "Trending Crypto: Pearl (PRL)",
+      "summary": "CoinGecko trending rank #99.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
+      "published_at": "2026-10-19T08:12:56.732Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "prl"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Pearl (PRL)",
+      "summary_zh": "CoinGecko trending rank #99."
     },
     {
       "id": "470d5601c2f40e60",
@@ -662,6 +623,22 @@
       "summary_zh": "MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin shares important considerations for departments and institutions."
     },
     {
+      "id": "4cab9231c24f395b",
+      "title": "Recent Quant Links from Quantocracy as of 10/18/2026",
+      "summary": "This is a summary of links recently featured on Quantocracy as of Sunday, 10/18/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Less Wrong [Quantitativo] The biggest risk is that you have a losing strategy when you think you have a winning one. Jeff Y",
+      "category": "STRATEGY",
+      "source_name": "Quantocracy",
+      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-10182026/",
+      "image_url": null,
+      "published_at": "2026-10-19T05:15:04.000Z",
+      "importance_score": 52,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Recent Quant Links from Quantocracy as of 10/18/2026",
+      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 10/18/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Less Wrong [Quantitativo] The biggest risk is that you have a losing strategy when you think you have a winning one. Jeff Y"
+    },
+    {
       "id": "4c00231168740568",
       "title": "Recent Quant Links from Quantocracy as of 10/03/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/03/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Buffett’s be greedy when others are fearful, tested [Quanter Lab] \"Be greedy when others are fearful\" is Warren Buffett's",
@@ -697,6 +674,43 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 09/30/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Wednesday, 09/30/2026. To see our most recent links, visit the Quant Mashup. Read on readers! A New Stage, a New Deadline: Quantpedia Awards 2027 Are Here Again! [Quantpedia] Hello everyone, The Quantpedia Awards a"
+    },
+    {
+      "id": "74aaf7ac8a675b9d",
+      "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+      "summary": "A bitcoin wallet dormant since 2013 moved 411 BTC, now worth about $34 million. It is one of several long-dormant wallets to wake up recently.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
+      "image_url": null,
+      "published_at": "2026-10-19T06:23:16.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+      "summary_zh": "A bitcoin wallet dormant since 2013 moved 411 BTC, now worth about $34 million. It is one of several long-dormant wallets to wake up recently."
+    },
+    {
+      "id": "2a46b33124e59434",
+      "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+      "summary": "Bitcoin, Nasdaq futures and Asian stocks rally as stronger-than-expected China GDP and falling oil prices lift risk appetite.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
+      "image_url": null,
+      "published_at": "2026-10-19T03:36:58.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin",
+        "stocks"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+      "summary_zh": "Bitcoin, Nasdaq futures and Asian stocks rally as stronger-than-expected China GDP and falling oil prices lift risk appetite."
     },
     {
       "id": "9564d007ddc70745",
@@ -1023,36 +1037,38 @@
       "summary_zh": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter."
     },
     {
-      "id": "0c23f927f11f045a",
-      "title": "Macron calls for 'calm and order' after riots across France",
-      "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+      "id": "b0cfbb685cb3324b",
+      "title": "France's government under pressure after weekend of widespread violence",
+      "summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-18T20:33:21.000Z",
+      "published_at": "2026-10-19T07:46:54.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Macron calls for 'calm and order' after riots across France",
-      "summary_zh": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris."
+      "title_zh": "France's government under pressure after weekend of widespread violence",
+      "summary_zh": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes."
     },
     {
-      "id": "57a0a77dfc55426b",
-      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
-      "summary": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
+      "id": "2df6c7978fba4a3c",
+      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+      "summary": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-18T22:22:51.000Z",
+      "published_at": "2026-10-19T06:00:18.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai"
+      ],
       "region": "global",
-      "title_zh": "'Very upsetting': Residents in shock after historic French town hall set alight",
-      "summary_zh": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests"
+      "title_zh": "Funding shortages force World Food Programme to cut aid to Gaza",
+      "summary_zh": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million."
     },
     {
       "id": "775952fcfd1fc54b",
@@ -1089,72 +1105,90 @@
       "summary_zh": "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
     },
     {
-      "id": "86c8a0f69ec7cabe",
-      "title": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
-      "summary": "Video published by several news outlets shows gunmen firing multiple shots at a car while it is moving past a crowd.",
+      "id": "6d3716fbc54a3ae3",
+      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+      "summary": "Prosecutors say Paul Mackenzie lured the latest victims to their deaths by writing notes from his prison cell.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-19T03:44:02.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+      "summary_zh": "Prosecutors say Paul Mackenzie lured the latest victims to their deaths by writing notes from his prison cell."
+    },
+    {
+      "id": "ac71cfe7a5ab8a30",
+      "title": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
+      "summary": "Videos showed gunmen firing shots at Shroff's car while it was moving slowly past a crowd.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-19T01:50:48.000Z",
+      "published_at": "2026-10-19T07:35:06.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
-      "summary_zh": "Video published by several news outlets shows gunmen firing multiple shots at a car while it is moving past a crowd."
+      "title_zh": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
+      "summary_zh": "Videos showed gunmen firing shots at Shroff's car while it was moving slowly past a crowd."
     },
     {
-      "id": "ac0a2ccd4d4f7892",
-      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-      "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+      "id": "9964de32a4ffeda1",
+      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
+      "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-18T23:28:45.000Z",
+      "published_at": "2026-10-19T06:29:55.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-      "summary_zh": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports."
+      "title_zh": "Bomb threat forces Israel to Austria flight into emergency landing",
+      "summary_zh": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said."
     },
     {
-      "id": "72a5d86374999ceb",
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "id": "8ec1bbc17653710a",
+      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+      "summary": "Presley Gerber's death in September is being investigated as a suspected overdose.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-18T15:46:10.000Z",
+      "published_at": "2026-10-18T19:53:27.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "summary_zh": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook."
+      "title_zh": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+      "summary_zh": "Presley Gerber's death in September is being investigated as a suspected overdose."
     },
     {
-      "id": "f077cfa1a05f5afa",
-      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
-      "summary": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
+      "id": "159f2a65660ac59e",
+      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+      "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-18T13:47:07.000Z",
+      "published_at": "2026-10-19T04:30:59.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "anthropic"
+      ],
       "region": "global",
-      "title_zh": "Search for Amelia Earhart's plane resumes after stormy weather",
-      "summary_zh": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days."
+      "title_zh": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+      "summary_zh": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing."
     },
     {
       "id": "7258f937f421b138",
@@ -1259,6 +1293,24 @@
       "summary_zh": "Such deadly crowd events are relatively common in India, and it was unclear what caused this one. The authorities detained the event’s organizer and others involved."
     },
     {
+      "id": "f69a41e6dc38891a",
+      "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
+      "summary": "The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR’s public chain can’t expose a user’s wider payment history.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
+      "image_url": null,
+      "published_at": "2026-10-19T05:23:02.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
+      "summary_zh": "The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR’s public chain can’t expose a user’s wider payment history."
+    },
+    {
       "id": "da2250ddfa61c48e",
       "title": "The White House's crypto chief departs: State of Crypto",
       "summary": "Patrick Witt announced his departure from the White House last week.",
@@ -1293,40 +1345,6 @@
       "region": "global",
       "title_zh": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
       "summary_zh": "Parliament passed a law taxing crypto withdrawals above deposits rather than individual trades, featuring a one-time declaration mechanism."
-    },
-    {
-      "id": "d5fb332f08710a54",
-      "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
-      "summary": "Private-sector partners flagged $11 million in funds that could be frozen, while officials reported cryptocurrency seizures without disclosing their value.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
-      "image_url": null,
-      "published_at": "2026-10-18T12:00:00.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
-      "summary_zh": "Private-sector partners flagged $11 million in funds that could be frozen, while officials reported cryptocurrency seizures without disclosing their value."
-    },
-    {
-      "id": "862fdd646bc03c31",
-      "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
-      "summary": "A 10-minute flush hit round-the-clock chip-stock contracts while U.S. markets were shut, leaving traders with no real share price to lean on.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
-      "image_url": null,
-      "published_at": "2026-10-18T07:13:32.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
-      "summary_zh": "A 10-minute flush hit round-the-clock chip-stock contracts while U.S. markets were shut, leaving traders with no real share price to lean on."
     },
     {
       "id": "333ab72548022c69",
@@ -1835,24 +1853,6 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/02/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Friday, 10/02/2026. To see our most recent links, visit the Quant Mashup. Read on readers! 897,000 Tests, About 150 Pattern Families, One Confirmed Finding [Krueger Algorithms] The question was simple: what do you"
-    },
-    {
-      "id": "e8bde2f1fbc51bfd",
-      "title": "Recent Quant Links from Quantocracy as of 09/28/2026",
-      "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 09/28/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Do Stocks Fall When Bond Yields Rise? 63 Years of Data [Portfolio Terminal] From January 1963 to August 2026, the 10-year T",
-      "category": "STRATEGY",
-      "source_name": "Quantocracy",
-      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-09282026/",
-      "image_url": null,
-      "published_at": "2026-09-29T05:15:05.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "stocks"
-      ],
-      "region": "global",
-      "title_zh": "Recent Quant Links from Quantocracy as of 09/28/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 09/28/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Do Stocks Fall When Bond Yields Rise? 63 Years of Data [Portfolio Terminal] From January 1963 to August 2026, the 10-year T"
     }
   ]
 }
