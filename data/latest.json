@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T10:34:53.658Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos；【CRYPTO】Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%；【CRYPTO】BlackRock’s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025。",
+  "generated_at": "2026-10-20T15:26:46.686Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade；【CRYPTO】Live updates: Bitcoin reclaims $83,000 as stocks turn higher；【CRYPTO】BlackRock’s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -20,42 +20,45 @@
   },
   "items": [
     {
-      "id": "ebc68017b910301b",
-      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-      "summary": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-      "image_url": null,
-      "published_at": "2026-10-14T20:06:28.000Z",
-      "importance_score": 70,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "anthropic",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-      "summary_zh": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI."
-    },
-    {
-      "id": "8f90a216828c9361",
-      "title": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%",
-      "summary": "Bitcoin treasury company Strive continued to add large numbers of BTC to its balance sheet, while far larger peer Strategy acquired only a small amount.",
+      "id": "c2957f5b76705614",
+      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+      "summary": "The report marks the first time JPMorgan has put a range on bitcoin returns in its research, though the bank remains cautious about BTC's role in portfolios.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
+      "source_url": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
       "image_url": null,
-      "published_at": "2026-10-19T11:05:54.000Z",
+      "published_at": "2026-10-20T11:10:40.000Z",
       "importance_score": 68,
       "sentiment": 0,
       "tags": [
-        "bitcoin"
+        "ai",
+        "bitcoin",
+        "stocks"
       ],
       "region": "global",
-      "title_zh": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%",
-      "summary_zh": "Bitcoin treasury company Strive continued to add large numbers of BTC to its balance sheet, while far larger peer Strategy acquired only a small amount."
+      "title_zh": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+      "summary_zh": "The report marks the first time JPMorgan has put a range on bitcoin returns in its research, though the bank remains cautious about BTC's role in portfolios."
+    },
+    {
+      "id": "39129c51effb2f82",
+      "title": "Live updates: Bitcoin reclaims $83,000 as stocks turn higher",
+      "summary": "After continued overnight shakiness, U.S. stocks quickly rose as oil tumbled on a report of progress toward ending the war in Iran.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
+      "image_url": null,
+      "published_at": "2026-10-20T10:14:19.000Z",
+      "importance_score": 68,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin",
+        "stocks",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Live updates: Bitcoin reclaims $83,000 as stocks turn higher",
+      "summary_zh": "After continued overnight shakiness, U.S. stocks quickly rose as oil tumbled on a report of progress toward ending the war in Iran."
     },
     {
       "id": "6be71b8c4915c2c2",
@@ -76,6 +79,25 @@
       "region": "global",
       "title_zh": "BlackRock’s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",
       "summary_zh": "Min Jung, associate researcher at Presto Research, said investors could be positioning for a potential 'catch-up trade' in bitcoin."
+    },
+    {
+      "id": "c7cef8ecef69d40f",
+      "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
+      "summary": "Your day-ahead look for Oct. 20, 2026",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month",
+      "image_url": null,
+      "published_at": "2026-10-20T11:14:21.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin",
+        "etf"
+      ],
+      "region": "global",
+      "title_zh": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
+      "summary_zh": "Your day-ahead look for Oct. 20, 2026"
     },
     {
       "id": "4c65fd1268ce49e4",
@@ -118,41 +140,25 @@
       "summary_zh": "Fidelity's FBTC and Grayscale's GBTC saw outflows of $83.6 million and $54.9 million, respectively."
     },
     {
-      "id": "d2e24c9b37f28ab3",
-      "title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
-      "summary": "The launch comes as Zerohash bids for a federal trust charter.",
+      "id": "32daa8d6aaf3b278",
+      "title": "Swiss regulator FINMA approves country’s first spot bitcoin ETF for retail investors",
+      "summary": "FINMA approved Switzerland's first retail bitcoin ETF, following earlier crypto ETP listings and a fund restricted to qualified investors.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127",
       "image_url": null,
-      "published_at": "2026-10-19T14:58:40.000Z",
+      "published_at": "2026-10-20T12:15:05.000Z",
       "importance_score": 62,
       "sentiment": 0,
       "tags": [
+        "ai",
         "crypto",
-        "fed"
+        "bitcoin",
+        "etf"
       ],
       "region": "global",
-      "title_zh": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
-      "summary_zh": "The launch comes as Zerohash bids for a federal trust charter."
-    },
-    {
-      "id": "3377b96d1fac4a41",
-      "title": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
-      "summary": "Your day-ahead look for Oct. 19, 2026",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
-      "image_url": null,
-      "published_at": "2026-10-19T11:15:00.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
-      "summary_zh": "Your day-ahead look for Oct. 19, 2026"
+      "title_zh": "Swiss regulator FINMA approves country’s first spot bitcoin ETF for retail investors",
+      "summary_zh": "FINMA approved Switzerland's first retail bitcoin ETF, following earlier crypto ETP listings and a fund restricted to qualified investors."
     },
     {
       "id": "a494fd79c65ec1c6",
@@ -190,6 +196,25 @@
       "region": "global",
       "title_zh": "AI model decodes the language cells use to communicate",
       "summary_zh": "A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies."
+    },
+    {
+      "id": "5c24f1ca668bf7ff",
+      "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
+      "summary": "Data center campuses house the servers that power AI and cloud computing.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
+      "image_url": null,
+      "published_at": "2026-10-20T10:39:17.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "HSBC CEO warns the AI boom won’t make every data center a good bet",
+      "summary_zh": "Data center campuses house the servers that power AI and cloud computing."
     },
     {
       "id": "9337e785e37e983c",
@@ -265,41 +290,22 @@
       "summary_zh": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
-      "id": "08cd5276aefb84fc",
-      "title": "Suspect arrested after historic town hall set alight during disorder - French media",
+      "id": "5a38dd4557ab33a4",
+      "title": "Suspect arrested after historic town hall set alight - French media",
       "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-20T08:58:26.000Z",
+      "published_at": "2026-10-20T12:45:43.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
         "fed"
       ],
       "region": "global",
-      "title_zh": "Suspect arrested after historic town hall set alight during disorder - French media",
+      "title_zh": "Suspect arrested after historic town hall set alight - French media",
       "summary_zh": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday."
-    },
-    {
-      "id": "cd8648e3a4719c7a",
-      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-19T20:49:00.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "summary_zh": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing."
     },
     {
       "id": "44b83fd042ecdc01",
@@ -318,14 +324,14 @@
       "summary_zh": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing."
     },
     {
-      "id": "619008c3b79df5b0",
-      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-      "summary": "The two top tennis pros married in 2021 and have one child together.",
+      "id": "826a5a36216b4d3f",
+      "title": "Yemeni City of Taiz Running Out of Essentials as Houthis Close in",
+      "summary": "The Iranian-backed Houthi militia has cut road access to Taiz, one of Yemen’s largest cities, besieging it. Officials there warn of an impending humanitarian disaster.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html",
       "image_url": null,
-      "published_at": "2026-10-19T21:02:33.000Z",
+      "published_at": "2026-10-20T14:28:28.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -333,8 +339,8 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-      "summary_zh": "The two top tennis pros married in 2021 and have one child together."
+      "title_zh": "Yemeni City of Taiz Running Out of Essentials as Houthis Close in",
+      "summary_zh": "The Iranian-backed Houthi militia has cut road access to Taiz, one of Yemen’s largest cities, besieging it. Officials there warn of an impending humanitarian disaster."
     },
     {
       "id": "31c1c7214356a0e8",
@@ -360,7 +366,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html",
       "image_url": null,
-      "published_at": "2026-10-20T09:01:35.000Z",
+      "published_at": "2026-10-20T12:30:00.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -370,24 +376,6 @@
       "region": "global",
       "title_zh": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
       "summary_zh": "The mayor of Kenscoff, a town near Haiti’s capital, wrote government officials hundreds of letters to warn of gang threats. Then dozens of people died, and he did, too."
-    },
-    {
-      "id": "d43d18c58b53a335",
-      "title": "For Israelis and Jews in the U.A.E., an Eroding Sense of Security",
-      "summary": "The Emirates’ reputation as a haven was shaken by what the authorities said was a plot last month aimed at crashing a flight from Dubai to Tel Aviv.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/19/world/middleeast/israel-uae-jews-dubai-fear.html",
-      "image_url": null,
-      "published_at": "2026-10-19T20:14:22.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "For Israelis and Jews in the U.A.E., an Eroding Sense of Security",
-      "summary_zh": "The Emirates’ reputation as a haven was shaken by what the authorities said was a plot last month aimed at crashing a flight from Dubai to Tel Aviv."
     },
     {
       "id": "62407d99b47ae5d1",
@@ -404,6 +392,22 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/12/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools"
+    },
+    {
+      "id": "c4ea0862545df930",
+      "title": "Stablecoins move over $400 million per hour on average as off-hours transfers dominate, Coinbase and The Block study finds",
+      "summary": "Stablecoins are on track to reach $1.5 trillion in quarterly adjusted transfer volume by the end of 2027 at current growth rates, according to the report.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/web3/2026-10-20-stablecoins-move-400-million-per-hour-421111",
+      "image_url": null,
+      "published_at": "2026-10-20T13:00:00.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Stablecoins move over $400 million per hour on average as off-hours transfers dominate, Coinbase and The Block study finds",
+      "summary_zh": "Stablecoins are on track to reach $1.5 trillion in quarterly adjusted transfer volume by the end of 2027 at current growth rates, according to the report."
     },
     {
       "id": "01d700421fa9273a",
@@ -442,32 +446,14 @@
       "summary_zh": "StoneX reiterates Buy and $57 target on GLXY, saying the market undervalues its Helios AI data center despite CoreWeave debt worries."
     },
     {
-      "id": "a82e06e44f7a3b1c",
-      "title": "AnchorWatch Trust Company launches bitcoin custody service with up to $370 million in insurance per client",
-      "summary": "AnchorWatch launched Nevada-chartered bitcoin custody with a $10,000 monthly fee cap and optional insurance of up to $370 million per client.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-19-anchorwatch-bitcoin-custody-insurance-421011",
-      "image_url": null,
-      "published_at": "2026-10-19T15:00:00.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "AnchorWatch Trust Company launches bitcoin custody service with up to $370 million in insurance per client",
-      "summary_zh": "AnchorWatch launched Nevada-chartered bitcoin custody with a $10,000 monthly fee cap and optional insurance of up to $370 million per client."
-    },
-    {
-      "id": "3ffcfb6d3eb08adc",
+      "id": "6746794c2d1ccda1",
       "title": "Trending Crypto: Pearl (PEARL)",
-      "summary": "CoinGecko trending rank #94.",
+      "summary": "CoinGecko trending rank #91.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pearl-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-10-20T10:33:43.358Z",
+      "published_at": "2026-10-20T15:25:33.219Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -477,17 +463,17 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Pearl (PEARL)",
-      "summary_zh": "CoinGecko trending rank #94."
+      "summary_zh": "CoinGecko trending rank #91."
     },
     {
-      "id": "212e2dc50f70756f",
+      "id": "c8cfc9d503681a59",
       "title": "Trending Crypto: Quantus (QTC)",
-      "summary": "CoinGecko trending rank #704.",
+      "summary": "CoinGecko trending rank #684.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/quantus",
       "image_url": "https://coin-images.coingecko.com/coins/images/102171910/large/Token_Icon.png?1791345433",
-      "published_at": "2026-10-20T10:33:43.358Z",
+      "published_at": "2026-10-20T15:25:33.219Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -497,17 +483,57 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Quantus (QTC)",
-      "summary_zh": "CoinGecko trending rank #704."
+      "summary_zh": "CoinGecko trending rank #684."
     },
     {
-      "id": "352ab2d1d0185d30",
+      "id": "e1585c7982d3b8cb",
+      "title": "Trending Crypto: Janction (JCT)",
+      "summary": "CoinGecko trending rank #439.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/janction",
+      "image_url": "https://coin-images.coingecko.com/coins/images/70608/large/janction.png?1762738430",
+      "published_at": "2026-10-20T15:25:33.219Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "jct"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Janction (JCT)",
+      "summary_zh": "CoinGecko trending rank #439."
+    },
+    {
+      "id": "6c2c633eb33f6f77",
+      "title": "Trending Crypto: Aerodrome Finance (AERO)",
+      "summary": "CoinGecko trending rank #85.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/aerodrome-finance",
+      "image_url": "https://coin-images.coingecko.com/coins/images/31745/large/token.png?1696530564",
+      "published_at": "2026-10-20T15:25:33.219Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "aero"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Aerodrome Finance (AERO)",
+      "summary_zh": "CoinGecko trending rank #85."
+    },
+    {
+      "id": "9624d24025b345da",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-10-20T10:33:43.358Z",
+      "published_at": "2026-10-20T15:25:33.219Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -518,46 +544,6 @@
       "region": "global",
       "title_zh": "Trending Crypto: Bitcoin (BTC)",
       "summary_zh": "CoinGecko trending rank #1."
-    },
-    {
-      "id": "4a4f4276a06ae9bc",
-      "title": "Trending Crypto: NEAR Protocol (NEAR)",
-      "summary": "CoinGecko trending rank #20.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/near",
-      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
-      "published_at": "2026-10-20T10:33:43.358Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "near"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
-      "summary_zh": "CoinGecko trending rank #20."
-    },
-    {
-      "id": "a2bfc2a03ae43390",
-      "title": "Trending Crypto: Collector Crypt (CARDS)",
-      "summary": "CoinGecko trending rank #147.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/collector-crypt",
-      "image_url": "https://coin-images.coingecko.com/coins/images/68728/large/cards-logo.jpeg?1756534539",
-      "published_at": "2026-10-20T10:33:43.358Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "cards"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Collector Crypt (CARDS)",
-      "summary_zh": "CoinGecko trending rank #147."
     },
     {
       "id": "3d69dc33bfa71be4",
@@ -726,22 +712,6 @@
       "summary_zh": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution."
     },
     {
-      "id": "23dccf2616c6a968",
-      "title": "Mission blasts off for Mars to grab a piece of its moon",
-      "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-19T19:45:46.000Z",
-      "importance_score": 52,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Mission blasts off for Mars to grab a piece of its moon",
-      "summary_zh": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth."
-    },
-    {
       "id": "4cab9231c24f395b",
       "title": "Recent Quant Links from Quantocracy as of 10/18/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Sunday, 10/18/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Less Wrong [Quantitativo] The biggest risk is that you have a losing strategy when you think you have a winning one. Jeff Y",
@@ -795,41 +765,22 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Wednesday, 09/30/2026. To see our most recent links, visit the Quant Mashup. Read on readers! A New Stage, a New Deadline: Quantpedia Awards 2027 Are Here Again! [Quantpedia] Hello everyone, The Quantpedia Awards a"
     },
     {
-      "id": "f84e7e47d1643b76",
-      "title": "Live updates: Market jitters persist as the AI selloff deepens",
-      "summary": "South Korea’s KOSPI fell almost 4%, accompanied by one of the weakest IPO debuts in the country’s history, with data centre company Elice tumbling around 30%.",
+      "id": "2cf6fd9a15c8f93f",
+      "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
+      "summary": "BlackRock's proposed fund follows similar products from Calamos that helped investors avoid steep losses during bitcoin's selloff.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
+      "source_url": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
       "image_url": null,
-      "published_at": "2026-10-20T10:14:19.000Z",
+      "published_at": "2026-10-20T14:28:39.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Live updates: Market jitters persist as the AI selloff deepens",
-      "summary_zh": "South Korea’s KOSPI fell almost 4%, accompanied by one of the weakest IPO debuts in the country’s history, with data centre company Elice tumbling around 30%."
-    },
-    {
-      "id": "a913dd2fa43971be",
-      "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
-      "summary": "The future of perps in the U.S. may be at stake as the CFTC argues that CME hasn't shown the new policy is hurting it after the agency OK'd its first bitcoin perp.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
-      "image_url": null,
-      "published_at": "2026-10-19T16:47:00.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin",
-        "policy"
-      ],
-      "region": "global",
-      "title_zh": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
-      "summary_zh": "The future of perps in the U.S. may be at stake as the CFTC argues that CME hasn't shown the new policy is hurting it after the agency OK'd its first bitcoin perp."
+      "title_zh": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
+      "summary_zh": "BlackRock's proposed fund follows similar products from Calamos that helped investors avoid steep losses during bitcoin's selloff."
     },
     {
       "id": "75a5fa36e8062c67",
@@ -848,43 +799,6 @@
       "region": "global",
       "title_zh": "Mastercard unveils Stablecoin Security tool to screen payments for fraud and sanctions risks",
       "summary_zh": "Mastercard unveiled Stablecoin Security, a risk screening service launching in North America before planned global availability in 2027."
-    },
-    {
-      "id": "5a69e9609a06365a",
-      "title": "SkyAI sells off entire Solana treasury as it launches $201 million buyback",
-      "summary": "SkyAI holds $223.8 million in cash after selling all its SOL, with its $3 buyback running through Oct. 29.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-19-skyai-sells-off-entire-solana-treasury-launches-201-million-buyback-421037",
-      "image_url": null,
-      "published_at": "2026-10-19T15:28:43.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "SkyAI sells off entire Solana treasury as it launches $201 million buyback",
-      "summary_zh": "SkyAI holds $223.8 million in cash after selling all its SOL, with its $3 buyback running through Oct. 29."
-    },
-    {
-      "id": "f55643fcbc530226",
-      "title": "Strive scoops up another 1,223 bitcoin for $100 million as total holdings reach 36,818 BTC",
-      "summary": "Strive paid approximately $81,734 on average per bitcoin, adding to the 2,822 BTC it had acquired earlier last week.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-19-strive-scoops-1223-bitcoin-100-million-total-holdings-reach-36818-btc-421020",
-      "image_url": null,
-      "published_at": "2026-10-19T13:45:41.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Strive scoops up another 1,223 bitcoin for $100 million as total holdings reach 36,818 BTC",
-      "summary_zh": "Strive paid approximately $81,734 on average per bitcoin, adding to the 2,822 BTC it had acquired earlier last week."
     },
     {
       "id": "300921cf9c7fdca8",
@@ -940,6 +854,38 @@
       "summary_zh": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
     },
     {
+      "id": "82a085dcd4930b93",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "image_url": null,
+      "published_at": "2026-10-20T15:19:48.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "summary_zh": ""
+    },
+    {
+      "id": "036a40ca008ab19d",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "image_url": null,
+      "published_at": "2026-10-20T00:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "summary_zh": ""
+    },
+    {
       "id": "f9e3d8dd36c449e0",
       "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
       "summary": "",
@@ -987,22 +933,6 @@
       "tags": [],
       "region": "global",
       "title_zh": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "summary_zh": ""
-    },
-    {
-      "id": "858274d569672d15",
-      "title": "The model that didn't exist, so you made it yourself",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/building-with-ml-intern",
-      "image_url": null,
-      "published_at": "2026-10-08T00:00:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "The model that didn't exist, so you made it yourself",
       "summary_zh": ""
     },
     {
@@ -1180,8 +1110,124 @@
       "summary_zh": "European trade commissioner Maroš Sefčovič met with Chinese Commerce Minister Wang Wentao in Beijing last week."
     },
     {
-      "id": "5a1c2ad7c6fb4a35",
-      "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+      "id": "ff1ebadf0014aaa3",
+      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+      "summary": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-20T13:51:40.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+      "summary_zh": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence."
+    },
+    {
+      "id": "2355ad42510ba7ce",
+      "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+      "summary": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-20T12:08:06.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+      "summary_zh": "France's second city saw some of the worst violence as chaos gripped the country on Saturday."
+    },
+    {
+      "id": "8c054a5a586a068d",
+      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "summary": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-20T11:25:35.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "summary_zh": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years."
+    },
+    {
+      "id": "7929cdcefba76ca6",
+      "title": "Sudan army drones hit mourners and fuel market killing more than 200 people, sources say",
+      "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-20T14:24:19.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Sudan army drones hit mourners and fuel market killing more than 200 people, sources say",
+      "summary_zh": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted."
+    },
+    {
+      "id": "6b3c8a2bd8b8e28f",
+      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+      "summary": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-20T11:45:49.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+      "summary_zh": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread."
+    },
+    {
+      "id": "847635b22dd6d074",
+      "title": "Why Israeli Gen Z voters are drawn to the far right",
+      "summary": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-20T08:53:06.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Why Israeli Gen Z voters are drawn to the far right",
+      "summary_zh": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference."
+    },
+    {
+      "id": "08e982dfdf6dcf05",
+      "title": "Kenya cult leader's children still being starved weeks before trial, son says",
+      "summary": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-20T13:23:32.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Kenya cult leader's children still being starved weeks before trial, son says",
+      "summary_zh": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother."
+    },
+    {
+      "id": "ff71ab1740340a2b",
+      "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
       "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
       "category": "WORLD",
       "source_name": "BBC World",
@@ -1192,79 +1238,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+      "title_zh": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
       "summary_zh": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm."
-    },
-    {
-      "id": "5cd835f88bbafd97",
-      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-      "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-19T17:18:04.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-      "summary_zh": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children."
-    },
-    {
-      "id": "5db8e660eaa04d08",
-      "title": "Vinted blocks French looters listing stolen goods for sale",
-      "summary": "The platform said since the weekend it had \"taken immediate action to identify and remove listings linked to looting\".",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-19T16:46:35.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Vinted blocks French looters listing stolen goods for sale",
-      "summary_zh": "The platform said since the weekend it had \"taken immediate action to identify and remove listings linked to looting\"."
-    },
-    {
-      "id": "4cf50fad5dc2a544",
-      "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
-      "summary": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-19T21:12:30.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
-      "summary_zh": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail."
-    },
-    {
-      "id": "0702345ca744b064",
-      "title": "Exiled critic of Rwandan president found beheaded",
-      "summary": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-19T13:42:41.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Exiled critic of Rwandan president found beheaded",
-      "summary_zh": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda."
     },
     {
       "id": "a7813de2047c7007",
@@ -1274,7 +1249,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html",
       "image_url": null,
-      "published_at": "2026-10-20T09:01:52.000Z",
+      "published_at": "2026-10-20T12:59:23.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1283,37 +1258,91 @@
       "summary_zh": "Europe’s centrist parties are losing ground among young people and workers, who are increasingly tempted by populist promises of radical change."
     },
     {
-      "id": "0b1de248a85174e4",
-      "title": "France to Extend Curfews After a Night of Calm, Prime Minister Says",
-      "summary": "The restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the unrest face expedited trials.",
+      "id": "2476c76f12b99288",
+      "title": "France to Extend Curfews After Calm Night Follows Days of Riots",
+      "summary": "The restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
       "image_url": null,
-      "published_at": "2026-10-20T09:52:56.000Z",
+      "published_at": "2026-10-20T14:24:18.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "France to Extend Curfews After a Night of Calm, Prime Minister Says",
-      "summary_zh": "The restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the unrest face expedited trials."
+      "title_zh": "France to Extend Curfews After Calm Night Follows Days of Riots",
+      "summary_zh": "The restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials."
     },
     {
-      "id": "b6d66108da1f3909",
-      "title": "Voters in Oil-Rich Alberta Reject Leaving Canada",
-      "summary": "Residents of the province were asked if they wish to remain in Canada or to hold another vote on breaking away, in a referendum that left both sides unhappy.",
+      "id": "a59f7230fe47f52f",
+      "title": "UK to Send Fighter Jets to Help Defend Saudi Arabia From Houthi Attacks",
+      "summary": "R.A.F. Typhoon fighter jets will be deployed to protect infrastructure in Saudi Arabia, Britain said, after a spike in attacks by the Iran-backed Houthi militia.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
+      "source_url": "https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html",
       "image_url": null,
-      "published_at": "2026-10-20T07:07:17.000Z",
+      "published_at": "2026-10-20T12:34:57.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Voters in Oil-Rich Alberta Reject Leaving Canada",
+      "title_zh": "UK to Send Fighter Jets to Help Defend Saudi Arabia From Houthi Attacks",
+      "summary_zh": "R.A.F. Typhoon fighter jets will be deployed to protect infrastructure in Saudi Arabia, Britain said, after a spike in attacks by the Iran-backed Houthi militia."
+    },
+    {
+      "id": "e419b73e00e105f5",
+      "title": "Rubio Travels to India to Strengthen Economic Ties Amid Strained U.S. Relations",
+      "summary": "The secretary of state will meet with Asia’s richest men in Mumbai as Washington continues negotiations over a trade deal with India.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html",
+      "image_url": null,
+      "published_at": "2026-10-20T14:14:55.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Rubio Travels to India to Strengthen Economic Ties Amid Strained U.S. Relations",
+      "summary_zh": "The secretary of state will meet with Asia’s richest men in Mumbai as Washington continues negotiations over a trade deal with India."
+    },
+    {
+      "id": "55366ca95f5c94ae",
+      "title": "Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu",
+      "summary": "Defense Secretary Pete Hegseth met with Prime Minister Benjamin Netanyahu and Israel’s defense minister, a week before a pivotal election.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html",
+      "image_url": null,
+      "published_at": "2026-10-20T15:21:16.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu",
+      "summary_zh": "Defense Secretary Pete Hegseth met with Prime Minister Benjamin Netanyahu and Israel’s defense minister, a week before a pivotal election."
+    },
+    {
+      "id": "5ee8805aefb86e23",
+      "title": "Alberta Voters Reject Leaving Canada in Referendum on Separatism",
+      "summary": "Residents of the province were asked if they wish to remain in Canada or to hold another vote on breaking away, in a referendum that left both sides unhappy.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
+      "image_url": null,
+      "published_at": "2026-10-20T14:27:01.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Alberta Voters Reject Leaving Canada in Referendum on Separatism",
       "summary_zh": "Residents of the province were asked if they wish to remain in Canada or to hold another vote on breaking away, in a referendum that left both sides unhappy."
     },
     {
@@ -1324,7 +1353,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/20/world/europe/ai-datacenter-devon-uk-backlash.html",
       "image_url": null,
-      "published_at": "2026-10-20T04:01:08.000Z",
+      "published_at": "2026-10-20T11:06:36.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1333,56 +1362,57 @@
       "summary_zh": "Plans to build one of Europe’s largest data centers in Devon have been met by strong opposition from residents, as environmental concerns grow."
     },
     {
-      "id": "07232d2d7bdb6bbd",
-      "title": "Attack on Australian Lawmaker Prompts Calls to Dial Down Political Tensions",
-      "summary": "Helen Haines, an independent, remained in critical condition after she was rammed by a vehicle. The country has reacted with shock and confusion.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/20/world/asia/helen-haines-mp-attacked-wangaratta-australia.html",
+      "id": "70b0f997b299b459",
+      "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
+      "summary": "The court injunctions apply strictly to users within the AIFC and do not extend across the rest of Kazakhstan.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
       "image_url": null,
-      "published_at": "2026-10-20T08:07:22.000Z",
-      "importance_score": 46,
+      "published_at": "2026-10-20T13:35:08.000Z",
+      "importance_score": 44,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "ai",
+        "crypto"
       ],
       "region": "global",
-      "title_zh": "Attack on Australian Lawmaker Prompts Calls to Dial Down Political Tensions",
-      "summary_zh": "Helen Haines, an independent, remained in critical condition after she was rammed by a vehicle. The country has reacted with shock and confusion."
+      "title_zh": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
+      "summary_zh": "The court injunctions apply strictly to users within the AIFC and do not extend across the rest of Kazakhstan."
     },
     {
-      "id": "c55d82cca6360788",
-      "title": "How a Trillion-Dollar Industry Launders Illegal Gold",
-      "summary": "The line between dirty and clean gold is an industry fiction. Wall Street and governments profit off gold from criminals, gangsters and those who exploit children.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/19/world/africa/dirty-gold-industry-coverup-launder-madagascar.html",
+      "id": "187362a37353bb2b",
+      "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
+      "summary": "Seven more issuers have opted out of being listed on the planned tokenized stock venue under the SEC's framework, bringing its disclosed objection count to 16.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
       "image_url": null,
-      "published_at": "2026-10-19T13:33:10.000Z",
-      "importance_score": 46,
+      "published_at": "2026-10-20T12:40:17.000Z",
+      "importance_score": 44,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "How a Trillion-Dollar Industry Launders Illegal Gold",
-      "summary_zh": "The line between dirty and clean gold is an industry fiction. Wall Street and governments profit off gold from criminals, gangsters and those who exploit children."
+      "title_zh": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
+      "summary_zh": "Seven more issuers have opted out of being listed on the planned tokenized stock venue under the SEC's framework, bringing its disclosed objection count to 16."
     },
     {
-      "id": "e073c91be4d90794",
-      "title": "The French Teen Maimed During School Unrest by Tear Gas Grenade",
-      "summary": "The police’s treatment of the student last month sheds light on how a wave of school unrest evolved into national protests that spilled into widespread riots on Saturday.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html",
+      "id": "b5989317433f72ff",
+      "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
+      "summary": "Amendment I-3898 removes tax deferral for MiCA-compliant stablecoins starting January 2027.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
       "image_url": null,
-      "published_at": "2026-10-19T22:20:21.000Z",
-      "importance_score": 46,
+      "published_at": "2026-10-20T11:25:00.000Z",
+      "importance_score": 44,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "The French Teen Maimed During School Unrest by Tear Gas Grenade",
-      "summary_zh": "The police’s treatment of the student last month sheds light on how a wave of school unrest evolved into national protests that spilled into widespread riots on Saturday."
+      "title_zh": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
+      "summary_zh": "Amendment I-3898 removes tax deferral for MiCA-compliant stablecoins starting January 2027."
     },
     {
       "id": "db2e17e5dbe051d9",
@@ -1403,32 +1433,14 @@
       "summary_zh": "Elice’s debut slump added to concerns over AI infrastructure valuations, while rising oil prices compounded market uncertainty."
     },
     {
-      "id": "3b36785671b3a277",
-      "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
-      "summary": "The stablecoin issuer's CEO, Paolo Ardoino, has been defending against accusations that the firm's stablecoins have fueled financial activity in Iran.",
+      "id": "a7ddb513023328eb",
+      "title": "Blockchain.com rolls out crypto options as it pursues US derivatives licenses",
+      "summary": "Blockchain.com now offers call and put options on BTC, ETH, SOL, HYPE, AVAX, XRP and TRX, with expiries up to one week.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326",
       "image_url": null,
-      "published_at": "2026-10-19T20:21:13.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
-      "summary_zh": "The stablecoin issuer's CEO, Paolo Ardoino, has been defending against accusations that the firm's stablecoins have fueled financial activity in Iran."
-    },
-    {
-      "id": "f423a9db79348b31",
-      "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
-      "summary": "Hoskinson said on X the language will bundle transaction requests with cryptographic proofs. He hasn’t shared a name, specs or a release date.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
-      "image_url": null,
-      "published_at": "2026-10-19T12:16:58.000Z",
+      "published_at": "2026-10-20T14:31:29.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
@@ -1436,8 +1448,24 @@
         "crypto"
       ],
       "region": "global",
-      "title_zh": "Cardano founder Charles Hoskinson is building a new programming language for the network",
-      "summary_zh": "Hoskinson said on X the language will bundle transaction requests with cryptographic proofs. He hasn’t shared a name, specs or a release date."
+      "title_zh": "Blockchain.com rolls out crypto options as it pursues US derivatives licenses",
+      "summary_zh": "Blockchain.com now offers call and put options on BTC, ETH, SOL, HYPE, AVAX, XRP and TRX, with expiries up to one week."
+    },
+    {
+      "id": "be44c8a7f4d5a424",
+      "title": "Injective partners with BDACS to bring Korean won stablecoin to RWA ecosystem",
+      "summary": "The move comes amid South Korea's regulatory developments to establish a framework for Korean won-denominated stablecoins.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-10-20-injective-partners-bdacs-418883",
+      "image_url": null,
+      "published_at": "2026-10-20T14:00:00.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Injective partners with BDACS to bring Korean won stablecoin to RWA ecosystem",
+      "summary_zh": "The move comes amid South Korea's regulatory developments to establish a framework for Korean won-denominated stablecoins."
     },
     {
       "id": "87f7ba8c861b4401",
@@ -1456,22 +1484,6 @@
       "region": "global",
       "title_zh": "Blockchain Association says Treasury’s GENIUS Act rollout needs clearer DeFi, foreign issuer rules",
       "summary_zh": "The group filed comments on Treasury's proposed rule implementing the GENIUS Act, which governs who can issue and sell payment stablecoins."
-    },
-    {
-      "id": "03aa1f292ec019b1",
-      "title": "Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens",
-      "summary": "Bitmine bought 12,535 ETH last week, lifting its treasury to 6.04 million tokens and total investment holdings to $15.1 billion.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-19-bitmine-adds-12535-eth-as-treasury-reaches-6-04-million-tokens-421018",
-      "image_url": null,
-      "published_at": "2026-10-19T13:36:46.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens",
-      "summary_zh": "Bitmine bought 12,535 ETH last week, lifting its treasury to 6.04 million tokens and total investment holdings to $15.1 billion."
     },
     {
       "id": "d2804d1b2a8fd9c4",
@@ -1523,6 +1535,22 @@
       "region": "global",
       "title_zh": "Sullivan & Cromwell brings legal expertise into agreement review",
       "summary_zh": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
+    },
+    {
+      "id": "4b3e989ca3c5ca91",
+      "title": "MPS in PyTorch 2.15",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "image_url": null,
+      "published_at": "2026-10-20T00:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "MPS in PyTorch 2.15",
+      "summary_zh": ""
     },
     {
       "id": "18e94f12361cf2ed",
@@ -1588,38 +1616,6 @@
       "tags": [],
       "region": "global",
       "title_zh": "Welcome FLUX.3 Image Klein in Diffusers",
-      "summary_zh": ""
-    },
-    {
-      "id": "668461c1cec63488",
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "image_url": null,
-      "published_at": "2026-10-14T16:12:42.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "summary_zh": ""
-    },
-    {
-      "id": "286eea64f08d72b9",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "image_url": null,
-      "published_at": "2026-10-13T17:05:48.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Run fast, private agents on-device with LFM2.5-24B-A2B",
       "summary_zh": ""
     },
     {
