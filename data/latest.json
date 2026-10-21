@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T15:26:46.686Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade；【CRYPTO】Live updates: Bitcoin reclaims $83,000 as stocks turn higher；【CRYPTO】BlackRock’s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025。",
+  "generated_at": "2026-10-21T01:44:01.748Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade；【CRYPTO】The Coinbase allegations expose Bitcoin's corporate governance gap；【CRYPTO】Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -40,45 +40,22 @@
       "summary_zh": "The report marks the first time JPMorgan has put a range on bitcoin returns in its research, though the bank remains cautious about BTC's role in portfolios."
     },
     {
-      "id": "39129c51effb2f82",
-      "title": "Live updates: Bitcoin reclaims $83,000 as stocks turn higher",
-      "summary": "After continued overnight shakiness, U.S. stocks quickly rose as oil tumbled on a report of progress toward ending the war in Iran.",
+      "id": "30763ce7a79c4811",
+      "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
+      "summary": "Corporate adoption of bitcoin will stall as long as companies can't show who controls the money, who approves its movement, or whether it's still there, argues Onramp CEO Michael Tanguma.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
+      "source_url": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
       "image_url": null,
-      "published_at": "2026-10-20T10:14:19.000Z",
-      "importance_score": 68,
+      "published_at": "2026-10-20T17:02:31.000Z",
+      "importance_score": 62,
       "sentiment": 0,
       "tags": [
-        "ai",
-        "bitcoin",
-        "stocks",
-        "war"
+        "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Live updates: Bitcoin reclaims $83,000 as stocks turn higher",
-      "summary_zh": "After continued overnight shakiness, U.S. stocks quickly rose as oil tumbled on a report of progress toward ending the war in Iran."
-    },
-    {
-      "id": "6be71b8c4915c2c2",
-      "title": "BlackRock’s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",
-      "summary": "Min Jung, associate researcher at Presto Research, said investors could be positioning for a potential 'catch-up trade' in bitcoin.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102",
-      "image_url": null,
-      "published_at": "2026-10-20T07:05:24.000Z",
-      "importance_score": 68,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin",
-        "etf"
-      ],
-      "region": "global",
-      "title_zh": "BlackRock’s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",
-      "summary_zh": "Min Jung, associate researcher at Presto Research, said investors could be positioning for a potential 'catch-up trade' in bitcoin."
+      "title_zh": "The Coinbase allegations expose Bitcoin's corporate governance gap",
+      "summary_zh": "Corporate adoption of bitcoin will stall as long as companies can't show who controls the money, who approves its movement, or whether it's still there, argues Onramp CEO Michael Tanguma."
     },
     {
       "id": "c7cef8ecef69d40f",
@@ -119,65 +96,6 @@
       "region": "global",
       "title_zh": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
       "summary_zh": "Bitcoin slipped 0.5% to around $81,400 even after the biggest daily spot ETF inflow in nearly a month as South Korea's Kospi index fell 3.7% on AI worries."
-    },
-    {
-      "id": "9d0216d3438ed1e4",
-      "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
-      "summary": "Fidelity's FBTC and Grayscale's GBTC saw outflows of $83.6 million and $54.9 million, respectively.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
-      "image_url": null,
-      "published_at": "2026-10-20T08:24:01.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin",
-        "etf"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
-      "summary_zh": "Fidelity's FBTC and Grayscale's GBTC saw outflows of $83.6 million and $54.9 million, respectively."
-    },
-    {
-      "id": "32daa8d6aaf3b278",
-      "title": "Swiss regulator FINMA approves country’s first spot bitcoin ETF for retail investors",
-      "summary": "FINMA approved Switzerland's first retail bitcoin ETF, following earlier crypto ETP listings and a fund restricted to qualified investors.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127",
-      "image_url": null,
-      "published_at": "2026-10-20T12:15:05.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto",
-        "bitcoin",
-        "etf"
-      ],
-      "region": "global",
-      "title_zh": "Swiss regulator FINMA approves country’s first spot bitcoin ETF for retail investors",
-      "summary_zh": "FINMA approved Switzerland's first retail bitcoin ETF, following earlier crypto ETP listings and a fund restricted to qualified investors."
-    },
-    {
-      "id": "a494fd79c65ec1c6",
-      "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
-      "summary": "One of the world's largest investment managers, BlackRock has filed for another bitcoin fund, marking its third tied to the asset.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087",
-      "image_url": null,
-      "published_at": "2026-10-19T22:00:53.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin",
-        "etf"
-      ],
-      "region": "global",
-      "title_zh": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
-      "summary_zh": "One of the world's largest investment managers, BlackRock has filed for another bitcoin fund, marking its third tied to the asset."
     },
     {
       "id": "7572bbcd2fc3627f",
@@ -290,38 +208,24 @@
       "summary_zh": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
-      "id": "5a38dd4557ab33a4",
-      "title": "Suspect arrested after historic town hall set alight - French media",
-      "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+      "id": "ada25604e49ee37f",
+      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+      "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-20T12:45:43.000Z",
+      "published_at": "2026-10-20T20:00:57.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
-        "fed"
+        "ai",
+        "war",
+        "policy"
       ],
       "region": "global",
-      "title_zh": "Suspect arrested after historic town hall set alight - French media",
-      "summary_zh": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday."
-    },
-    {
-      "id": "44b83fd042ecdc01",
-      "title": "Seventh day of violent clashes between Albanian protesters and police",
-      "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-20T02:45:05.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Seventh day of violent clashes between Albanian protesters and police",
-      "summary_zh": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing."
+      "title_zh": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+      "summary_zh": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams."
     },
     {
       "id": "826a5a36216b4d3f",
@@ -343,6 +247,25 @@
       "summary_zh": "The Iranian-backed Houthi militia has cut road access to Taiz, one of Yemen’s largest cities, besieging it. Officials there warn of an impending humanitarian disaster."
     },
     {
+      "id": "0096c6f0a9263b17",
+      "title": "178 Years After Banning Slavery, France Scraps ‘Code Noir’ Rules That Governed It",
+      "summary": "In a symbolic move, the French Senate approved the repeal of regulations that had remained on the books long after slavery’s abolition.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/20/france-senate-code-noir-slavery.html",
+      "image_url": null,
+      "published_at": "2026-10-20T19:33:59.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "regulation"
+      ],
+      "region": "global",
+      "title_zh": "178 Years After Banning Slavery, France Scraps ‘Code Noir’ Rules That Governed It",
+      "summary_zh": "In a symbolic move, the French Senate approved the repeal of regulations that had remained on the books long after slavery’s abolition."
+    },
+    {
       "id": "31c1c7214356a0e8",
       "title": "A Chef Celebrates Immigrant Flavors in Anti-Migrant South Africa",
       "summary": "A self-taught chef borrows ingredients and ideas from restaurants run by immigrants in South Africa, hoping to help counter rising xenophobia.",
@@ -357,25 +280,6 @@
       "region": "global",
       "title_zh": "A Chef Celebrates Immigrant Flavors in Anti-Migrant South Africa",
       "summary_zh": "A self-taught chef borrows ingredients and ideas from restaurants run by immigrants in South Africa, hoping to help counter rising xenophobia."
-    },
-    {
-      "id": "b8d57015bb57d9bb",
-      "title": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
-      "summary": "The mayor of Kenscoff, a town near Haiti’s capital, wrote government officials hundreds of letters to warn of gang threats. Then dozens of people died, and he did, too.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html",
-      "image_url": null,
-      "published_at": "2026-10-20T12:30:00.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
-      "summary_zh": "The mayor of Kenscoff, a town near Haiti’s capital, wrote government officials hundreds of letters to warn of gang threats. Then dozens of people died, and he did, too."
     },
     {
       "id": "62407d99b47ae5d1",
@@ -394,6 +298,25 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools"
     },
     {
+      "id": "a453ba51a4950b74",
+      "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
+      "summary": "The former NY governor, who co-chairs the joint venture between the crypto exchange and Intercontinental Exchange, said companies were expected to take a wait-and-see approach.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
+      "image_url": null,
+      "published_at": "2026-10-20T18:26:29.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
+      "summary_zh": "The former NY governor, who co-chairs the joint venture between the crypto exchange and Intercontinental Exchange, said companies were expected to take a wait-and-see approach."
+    },
+    {
       "id": "c4ea0862545df930",
       "title": "Stablecoins move over $400 million per hour on average as off-hours transfers dominate, Coinbase and The Block study finds",
       "summary": "Stablecoins are on track to reach $1.5 trillion in quarterly adjusted transfer volume by the end of 2027 at current growth rates, according to the report.",
@@ -410,50 +333,14 @@
       "summary_zh": "Stablecoins are on track to reach $1.5 trillion in quarterly adjusted transfer volume by the end of 2027 at current growth rates, according to the report."
     },
     {
-      "id": "01d700421fa9273a",
-      "title": "Mesh taps Visa to let users spend crypto without a separate card",
-      "summary": "Mesh and Visa will let users spend crypto and stablecoin balances from wallet apps, with no need to sell or transfer assets first.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-19-mesh-visa-partner-spend-crypto-stablecoins-421058",
-      "image_url": null,
-      "published_at": "2026-10-19T16:10:02.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Mesh taps Visa to let users spend crypto without a separate card",
-      "summary_zh": "Mesh and Visa will let users spend crypto and stablecoin balances from wallet apps, with no need to sell or transfer assets first."
-    },
-    {
-      "id": "e12f72d767e3d362",
-      "title": "Galaxy’s AI data center business is undervalued amid CoreWeave debt concerns, StoneX says",
-      "summary": "StoneX reiterates Buy and $57 target on GLXY, saying the market undervalues its Helios AI data center despite CoreWeave debt worries.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-10-19-galaxy-digital-glxy-stonex-buy-coreweave-helios-ai-data-center-421045",
-      "image_url": null,
-      "published_at": "2026-10-19T15:53:42.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Galaxy’s AI data center business is undervalued amid CoreWeave debt concerns, StoneX says",
-      "summary_zh": "StoneX reiterates Buy and $57 target on GLXY, saying the market undervalues its Helios AI data center despite CoreWeave debt worries."
-    },
-    {
-      "id": "6746794c2d1ccda1",
+      "id": "425e710f0517dc00",
       "title": "Trending Crypto: Pearl (PEARL)",
-      "summary": "CoinGecko trending rank #91.",
+      "summary": "CoinGecko trending rank #90.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pearl-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-10-20T15:25:33.219Z",
+      "published_at": "2026-10-21T01:42:50.812Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -463,17 +350,17 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Pearl (PEARL)",
-      "summary_zh": "CoinGecko trending rank #91."
+      "summary_zh": "CoinGecko trending rank #90."
     },
     {
-      "id": "c8cfc9d503681a59",
+      "id": "a938e6339fe63b4a",
       "title": "Trending Crypto: Quantus (QTC)",
-      "summary": "CoinGecko trending rank #684.",
+      "summary": "CoinGecko trending rank #718.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/quantus",
       "image_url": "https://coin-images.coingecko.com/coins/images/102171910/large/Token_Icon.png?1791345433",
-      "published_at": "2026-10-20T15:25:33.219Z",
+      "published_at": "2026-10-21T01:42:50.812Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -483,67 +370,86 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Quantus (QTC)",
-      "summary_zh": "CoinGecko trending rank #684."
+      "summary_zh": "CoinGecko trending rank #718."
     },
     {
-      "id": "e1585c7982d3b8cb",
-      "title": "Trending Crypto: Janction (JCT)",
-      "summary": "CoinGecko trending rank #439.",
+      "id": "aeeb4a070089b934",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #114.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/janction",
-      "image_url": "https://coin-images.coingecko.com/coins/images/70608/large/janction.png?1762738430",
-      "published_at": "2026-10-20T15:25:33.219Z",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-10-21T01:42:50.812Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "jct"
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Janction (JCT)",
-      "summary_zh": "CoinGecko trending rank #439."
+      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary_zh": "CoinGecko trending rank #114."
     },
     {
-      "id": "6c2c633eb33f6f77",
-      "title": "Trending Crypto: Aerodrome Finance (AERO)",
-      "summary": "CoinGecko trending rank #85.",
+      "id": "ce49cfad81f95a1f",
+      "title": "Trending Crypto: Sui (SUI)",
+      "summary": "CoinGecko trending rank #28.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/aerodrome-finance",
-      "image_url": "https://coin-images.coingecko.com/coins/images/31745/large/token.png?1696530564",
-      "published_at": "2026-10-20T15:25:33.219Z",
+      "source_url": "https://www.coingecko.com/en/coins/sui",
+      "image_url": "https://coin-images.coingecko.com/coins/images/26375/large/sui-ocean-square.png?1727791290",
+      "published_at": "2026-10-21T01:42:50.812Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "aero"
+        "sui"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Aerodrome Finance (AERO)",
-      "summary_zh": "CoinGecko trending rank #85."
+      "title_zh": "Trending Crypto: Sui (SUI)",
+      "summary_zh": "CoinGecko trending rank #28."
     },
     {
-      "id": "9624d24025b345da",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
+      "id": "e1a0e36ca31ec767",
+      "title": "Trending Crypto: Collector Crypt (CARDS)",
+      "summary": "CoinGecko trending rank #141.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-10-20T15:25:33.219Z",
+      "source_url": "https://www.coingecko.com/en/coins/collector-crypt",
+      "image_url": "https://coin-images.coingecko.com/coins/images/68728/large/cards-logo.jpeg?1756534539",
+      "published_at": "2026-10-21T01:42:50.812Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "btc"
+        "cards"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Bitcoin (BTC)",
-      "summary_zh": "CoinGecko trending rank #1."
+      "title_zh": "Trending Crypto: Collector Crypt (CARDS)",
+      "summary_zh": "CoinGecko trending rank #141."
+    },
+    {
+      "id": "8c66fcf26f1817d1",
+      "title": "OpenAI acquires Orchestra Bio",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "image_url": null,
+      "published_at": "2026-10-20T00:00:00.000Z",
+      "importance_score": 52,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global",
+      "title_zh": "OpenAI acquires Orchestra Bio",
+      "summary_zh": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments."
     },
     {
       "id": "3d69dc33bfa71be4",
@@ -602,24 +508,20 @@
       "summary_zh": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
     },
     {
-      "id": "f3089815f0c5a8aa",
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "id": "9bf0482f53e1de23",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "summary": "",
       "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/sentinelone",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
       "image_url": null,
-      "published_at": "2026-10-14T12:00:00.000Z",
+      "published_at": "2026-10-20T18:17:47.000Z",
       "importance_score": 52,
       "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai",
-        "war"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "SentinelOne cuts malware analysis from weeks to hours",
-      "summary_zh": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
+      "title_zh": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "summary_zh": ""
     },
     {
       "id": "3f7bb263e1577691",
@@ -783,22 +685,59 @@
       "summary_zh": "BlackRock's proposed fund follows similar products from Calamos that helped investors avoid steep losses during bitcoin's selloff."
     },
     {
-      "id": "75a5fa36e8062c67",
-      "title": "Mastercard unveils Stablecoin Security tool to screen payments for fraud and sanctions risks",
-      "summary": "Mastercard unveiled Stablecoin Security, a risk screening service launching in North America before planned global availability in 2027.",
+      "id": "02853f91cf48c00c",
+      "title": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
+      "summary": "J.P. Morgan Asset Management's first long-term bitcoin forecast projects a 10% annual return but flags 55% volatility as a barrier to portfolio adoption.",
       "category": "CRYPTO",
       "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658",
+      "source_url": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
       "image_url": null,
-      "published_at": "2026-10-19T16:00:00.000Z",
+      "published_at": "2026-10-20T18:14:28.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Mastercard unveils Stablecoin Security tool to screen payments for fraud and sanctions risks",
-      "summary_zh": "Mastercard unveiled Stablecoin Security, a risk screening service launching in North America before planned global availability in 2027."
+      "title_zh": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
+      "summary_zh": "J.P. Morgan Asset Management's first long-term bitcoin forecast projects a 10% annual return but flags 55% volatility as a barrier to portfolio adoption."
+    },
+    {
+      "id": "aa2326fda5620c92",
+      "title": "Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation",
+      "summary": "Nectar Group, the developer of bitcoin income platform HoneyB, has raised $5 million in a seed funding round.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430",
+      "image_url": null,
+      "published_at": "2026-10-20T17:11:47.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation",
+      "summary_zh": "Nectar Group, the developer of bitcoin income platform HoneyB, has raised $5 million in a seed funding round."
+    },
+    {
+      "id": "ef1abad606eb61ac",
+      "title": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
+      "summary": "A record 43.8 million ETH, nearly 36% of supply, was staked in Q3 as yields fell to 2.63%. Solana staking hit a record 440.5 million SOL.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
+      "image_url": null,
+      "published_at": "2026-10-20T16:31:24.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ethereum"
+      ],
+      "region": "global",
+      "title_zh": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
+      "summary_zh": "A record 43.8 million ETH, nearly 36% of supply, was staked in Q3 as yields fell to 2.63%. Solana staking hit a record 440.5 million SOL."
     },
     {
       "id": "300921cf9c7fdca8",
@@ -815,43 +754,6 @@
       "region": "global",
       "title_zh": "Bringing GPT-Rosalind to academic research labs",
       "summary_zh": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
-    },
-    {
-      "id": "6eaa29ad3f5b1d03",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/amp-beyond-coding",
-      "image_url": null,
-      "published_at": "2026-10-14T12:00:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "Amp puts AI agents to work beyond code with OpenAI models",
-      "summary_zh": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
-    },
-    {
-      "id": "7798e25089fc00ec",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/third-moment-research",
-      "image_url": null,
-      "published_at": "2026-10-14T07:00:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "summary_zh": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
     },
     {
       "id": "82a085dcd4930b93",
@@ -917,22 +819,6 @@
       "tags": [],
       "region": "global",
       "title_zh": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "summary_zh": ""
-    },
-    {
-      "id": "abd3348f5141597d",
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/meta-muse-spark-open",
-      "image_url": null,
-      "published_at": "2026-10-15T00:00:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
       "summary_zh": ""
     },
     {
@@ -1110,42 +996,58 @@
       "summary_zh": "European trade commissioner Maroš Sefčovič met with Chinese Commerce Minister Wang Wentao in Beijing last week."
     },
     {
-      "id": "ff1ebadf0014aaa3",
-      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-      "summary": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
+      "id": "df7532ebf79e0a5e",
+      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-20T13:51:40.000Z",
+      "published_at": "2026-10-20T21:27:39.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-      "summary_zh": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence."
+      "title_zh": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "summary_zh": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington."
     },
     {
-      "id": "2355ad42510ba7ce",
-      "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
-      "summary": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
+      "id": "586e3d6807e8a71d",
+      "title": "France is divided over who to blame for and what to learn from weekend riots",
+      "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-20T12:08:06.000Z",
+      "published_at": "2026-10-21T01:22:51.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
-      "summary_zh": "France's second city saw some of the worst violence as chaos gripped the country on Saturday."
+      "title_zh": "France is divided over who to blame for and what to learn from weekend riots",
+      "summary_zh": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history."
     },
     {
-      "id": "8c054a5a586a068d",
-      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "id": "7084d5319f896a18",
+      "title": "Elon Musk says Tesla-SpaceX merger being considered",
+      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-20T23:24:47.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Elon Musk says Tesla-SpaceX merger being considered",
+      "summary_zh": "Musk says special committees within both companies have been formed to look at a possible mega-merger."
+    },
+    {
+      "id": "4b8c44a03d18880b",
+      "title": "Man charged with attack on Australia MP to face court",
       "summary": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
       "category": "WORLD",
       "source_name": "BBC World",
@@ -1158,24 +1060,74 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "title_zh": "Man charged with attack on Australia MP to face court",
       "summary_zh": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years."
     },
     {
-      "id": "7929cdcefba76ca6",
-      "title": "Sudan army drones hit mourners and fuel market killing more than 200 people, sources say",
+      "id": "2d541a62446b70d3",
+      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+      "summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-20T22:22:17.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+      "summary_zh": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet."
+    },
+    {
+      "id": "a2d7ed0725754fde",
+      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
       "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-20T14:24:19.000Z",
+      "published_at": "2026-10-20T17:30:15.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Sudan army drones hit mourners and fuel market killing more than 200 people, sources say",
+      "title_zh": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
       "summary_zh": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted."
+    },
+    {
+      "id": "7a05162746affd2e",
+      "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+      "summary": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-20T15:58:57.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+      "summary_zh": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC."
+    },
+    {
+      "id": "bb28ca3fceb2f675",
+      "title": "Trump sued over Canadian tariffs in latest legal challenge",
+      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-20T19:30:05.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Trump sued over Canadian tariffs in latest legal challenge",
+      "summary_zh": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\"."
     },
     {
       "id": "6b3c8a2bd8b8e28f",
@@ -1194,54 +1146,6 @@
       "summary_zh": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread."
     },
     {
-      "id": "847635b22dd6d074",
-      "title": "Why Israeli Gen Z voters are drawn to the far right",
-      "summary": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-20T08:53:06.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Why Israeli Gen Z voters are drawn to the far right",
-      "summary_zh": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference."
-    },
-    {
-      "id": "08e982dfdf6dcf05",
-      "title": "Kenya cult leader's children still being starved weeks before trial, son says",
-      "summary": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-20T13:23:32.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Kenya cult leader's children still being starved weeks before trial, son says",
-      "summary_zh": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother."
-    },
-    {
-      "id": "ff71ab1740340a2b",
-      "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
-      "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-20T03:10:39.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
-      "summary_zh": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm."
-    },
-    {
       "id": "a7813de2047c7007",
       "title": "France Protests Show Europe’s Shift Away From Centrist Politics",
       "summary": "Europe’s centrist parties are losing ground among young people and workers, who are increasingly tempted by populist promises of radical change.",
@@ -1258,20 +1162,56 @@
       "summary_zh": "Europe’s centrist parties are losing ground among young people and workers, who are increasingly tempted by populist promises of radical change."
     },
     {
-      "id": "2476c76f12b99288",
-      "title": "France to Extend Curfews After Calm Night Follows Days of Riots",
-      "summary": "The restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials.",
+      "id": "dacbb148e5f6db1e",
+      "title": "Student Protesters in France Have a Strange New Slogan. What Does It Mean?",
+      "summary": "“Bismillah, c’est les ténèbres” has appeared on signs at recent demonstrations. It doesn’t make much sense (it means, “In the name of God, it’s the darkness”) but is seen as shorthand for a generational divide.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
+      "source_url": "https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html",
       "image_url": null,
-      "published_at": "2026-10-20T14:24:18.000Z",
+      "published_at": "2026-10-20T21:21:15.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "France to Extend Curfews After Calm Night Follows Days of Riots",
-      "summary_zh": "The restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials."
+      "title_zh": "Student Protesters in France Have a Strange New Slogan. What Does It Mean?",
+      "summary_zh": "“Bismillah, c’est les ténèbres” has appeared on signs at recent demonstrations. It doesn’t make much sense (it means, “In the name of God, it’s the darkness”) but is seen as shorthand for a generational divide."
+    },
+    {
+      "id": "97ba131288de824b",
+      "title": "Robert Kabera, Rwandan Government Critic, Beheaded in Uganda",
+      "summary": "The former soldier had been living in exile since 2020, and said in a video posted this month on TikTok that he feared for his life.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html",
+      "image_url": null,
+      "published_at": "2026-10-20T22:22:08.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Robert Kabera, Rwandan Government Critic, Beheaded in Uganda",
+      "summary_zh": "The former soldier had been living in exile since 2020, and said in a video posted this month on TikTok that he feared for his life."
+    },
+    {
+      "id": "4cabcf5310888e4a",
+      "title": "Why Zelensky Took the Gloves Off This Time With Trump",
+      "summary": "Staying quiet is riskier than speaking up, Ukrainian officials say, as President Trump goes further than ever in prioritizing Russia’s interests.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html",
+      "image_url": null,
+      "published_at": "2026-10-20T20:39:58.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Why Zelensky Took the Gloves Off This Time With Trump",
+      "summary_zh": "Staying quiet is riskier than speaking up, Ukrainian officials say, as President Trump goes further than ever in prioritizing Russia’s interests."
     },
     {
       "id": "a59f7230fe47f52f",
@@ -1292,6 +1232,22 @@
       "summary_zh": "R.A.F. Typhoon fighter jets will be deployed to protect infrastructure in Saudi Arabia, Britain said, after a spike in attacks by the Iran-backed Houthi militia."
     },
     {
+      "id": "2476c76f12b99288",
+      "title": "France to Extend Curfews After Calm Night Follows Days of Riots",
+      "summary": "The targeted restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
+      "image_url": null,
+      "published_at": "2026-10-20T16:06:13.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "France to Extend Curfews After Calm Night Follows Days of Riots",
+      "summary_zh": "The targeted restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials."
+    },
+    {
       "id": "e419b73e00e105f5",
       "title": "Rubio Travels to India to Strengthen Economic Ties Amid Strained U.S. Relations",
       "summary": "The secretary of state will meet with Asia’s richest men in Mumbai as Washington continues negotiations over a trade deal with India.",
@@ -1299,7 +1255,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html",
       "image_url": null,
-      "published_at": "2026-10-20T14:14:55.000Z",
+      "published_at": "2026-10-20T16:32:18.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1310,56 +1266,22 @@
       "summary_zh": "The secretary of state will meet with Asia’s richest men in Mumbai as Washington continues negotiations over a trade deal with India."
     },
     {
-      "id": "55366ca95f5c94ae",
-      "title": "Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu",
-      "summary": "Defense Secretary Pete Hegseth met with Prime Minister Benjamin Netanyahu and Israel’s defense minister, a week before a pivotal election.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html",
+      "id": "4c4f636fc810672d",
+      "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+      "summary": "A Commodity Futures Trading Commission task force is scheduled for October 28 to talk about how the latest \"super intelligence\" technology may impact markets.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
       "image_url": null,
-      "published_at": "2026-10-20T15:21:16.000Z",
-      "importance_score": 46,
+      "published_at": "2026-10-20T21:12:21.000Z",
+      "importance_score": 44,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu",
-      "summary_zh": "Defense Secretary Pete Hegseth met with Prime Minister Benjamin Netanyahu and Israel’s defense minister, a week before a pivotal election."
-    },
-    {
-      "id": "5ee8805aefb86e23",
-      "title": "Alberta Voters Reject Leaving Canada in Referendum on Separatism",
-      "summary": "Residents of the province were asked if they wish to remain in Canada or to hold another vote on breaking away, in a referendum that left both sides unhappy.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
-      "image_url": null,
-      "published_at": "2026-10-20T14:27:01.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Alberta Voters Reject Leaving Canada in Referendum on Separatism",
-      "summary_zh": "Residents of the province were asked if they wish to remain in Canada or to hold another vote on breaking away, in a referendum that left both sides unhappy."
-    },
-    {
-      "id": "54d9cdfebabbf7ab",
-      "title": "The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England",
-      "summary": "Plans to build one of Europe’s largest data centers in Devon have been met by strong opposition from residents, as environmental concerns grow.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/20/world/europe/ai-datacenter-devon-uk-backlash.html",
-      "image_url": null,
-      "published_at": "2026-10-20T11:06:36.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England",
-      "summary_zh": "Plans to build one of Europe’s largest data centers in Devon have been met by strong opposition from residents, as environmental concerns grow."
+      "title_zh": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+      "summary_zh": "A Commodity Futures Trading Commission task force is scheduled for October 28 to talk about how the latest \"super intelligence\" technology may impact markets."
     },
     {
       "id": "70b0f997b299b459",
@@ -1415,22 +1337,73 @@
       "summary_zh": "Amendment I-3898 removes tax deferral for MiCA-compliant stablecoins starting January 2027."
     },
     {
-      "id": "db2e17e5dbe051d9",
-      "title": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
-      "summary": "Elice’s debut slump added to concerns over AI infrastructure valuations, while rising oil prices compounded market uncertainty.",
+      "id": "a9261e5758cb2556",
+      "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
+      "summary": "As the SEC’s comment period on a cryptocurrency proposal draws to a close, digital asset firms and Wall Street institutions have thoughts.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
       "image_url": null,
-      "published_at": "2026-10-20T09:32:24.000Z",
+      "published_at": "2026-10-20T19:19:54.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "regulation"
+      ],
+      "region": "global",
+      "title_zh": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
+      "summary_zh": "As the SEC’s comment period on a cryptocurrency proposal draws to a close, digital asset firms and Wall Street institutions have thoughts."
+    },
+    {
+      "id": "d0e3ca15fa41c95a",
+      "title": "Utah likens Kalshi to a ‘back-alley gambling den’ in lawsuit naming Susquehanna firms",
+      "summary": "Utah seeks to recover alleged gambling profits and block Kalshi bets across sports, politics and culture.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442",
+      "image_url": null,
+      "published_at": "2026-10-20T19:12:38.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Utah likens Kalshi to a ‘back-alley gambling den’ in lawsuit naming Susquehanna firms",
+      "summary_zh": "Utah seeks to recover alleged gambling profits and block Kalshi bets across sports, politics and culture."
+    },
+    {
+      "id": "e02a705272336d10",
+      "title": "OKX is putting its money where its mouth is with new protection plan: Former NY Gov. Cuomo",
+      "summary": "OKX debuted OKX Shield in the U.S. on Tuesday, in what former New York Gov. Andrew Cuomo says is a sign of trust.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-10-20-okx-putting-money-where-mouth-is-new-protection-plan-former-ny-gov-cuomo-421421",
+      "image_url": null,
+      "published_at": "2026-10-20T16:20:40.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "OKX is putting its money where its mouth is with new protection plan: Former NY Gov. Cuomo",
+      "summary_zh": "OKX debuted OKX Shield in the U.S. on Tuesday, in what former New York Gov. Andrew Cuomo says is a sign of trust."
+    },
+    {
+      "id": "48ae9cf8e82d494f",
+      "title": "Mastercard opens early access to AI agent payments following pilots with Coinbase, Base and Cloudflare",
+      "summary": "Mastercard opened early access to Agent Pay for Machines after pilots with Coinbase, Base, Cloudflare, and other partners.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406",
+      "image_url": null,
+      "published_at": "2026-10-20T16:00:00.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
-      "summary_zh": "Elice’s debut slump added to concerns over AI infrastructure valuations, while rising oil prices compounded market uncertainty."
+      "title_zh": "Mastercard opens early access to AI agent payments following pilots with Coinbase, Base and Cloudflare",
+      "summary_zh": "Mastercard opened early access to Agent Pay for Machines after pilots with Coinbase, Base, Cloudflare, and other partners."
     },
     {
       "id": "a7ddb513023328eb",
@@ -1468,22 +1441,38 @@
       "summary_zh": "The move comes amid South Korea's regulatory developments to establish a framework for Korean won-denominated stablecoins."
     },
     {
-      "id": "87f7ba8c861b4401",
-      "title": "Blockchain Association says Treasury’s GENIUS Act rollout needs clearer DeFi, foreign issuer rules",
-      "summary": "The group filed comments on Treasury's proposed rule implementing the GENIUS Act, which governs who can issue and sell payment stablecoins.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092",
+      "id": "6caa655d0abceae2",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/ted-taylor-restaurant",
       "image_url": null,
-      "published_at": "2026-10-20T04:07:41.000Z",
-      "importance_score": 44,
+      "published_at": "2026-10-20T10:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "summary_zh": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
+    },
+    {
+      "id": "ac49808543adaa61",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/terminal-x",
+      "image_url": null,
+      "published_at": "2026-10-20T07:00:00.000Z",
+      "importance_score": 40,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Blockchain Association says Treasury’s GENIUS Act rollout needs clearer DeFi, foreign issuer rules",
-      "summary_zh": "The group filed comments on Treasury's proposed rule implementing the GENIUS Act, which governs who can issue and sell payment stablecoins."
+      "title_zh": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "summary_zh": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
     },
     {
       "id": "d2804d1b2a8fd9c4",
@@ -1537,6 +1526,41 @@
       "summary_zh": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
     },
     {
+      "id": "ee28241df98f54fb",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/allenai/fairstress",
+      "image_url": null,
+      "published_at": "2026-10-20T16:09:19.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "llm"
+      ],
+      "region": "global",
+      "title_zh": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "summary_zh": ""
+    },
+    {
+      "id": "96e89d581e5ed2c3",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/hf-torchtpu",
+      "image_url": null,
+      "published_at": "2026-10-20T00:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "summary_zh": ""
+    },
+    {
       "id": "4b3e989ca3c5ca91",
       "title": "MPS in PyTorch 2.15",
       "summary": "",
@@ -1550,24 +1574,6 @@
       "tags": [],
       "region": "global",
       "title_zh": "MPS in PyTorch 2.15",
-      "summary_zh": ""
-    },
-    {
-      "id": "18e94f12361cf2ed",
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "image_url": null,
-      "published_at": "2026-10-16T01:44:47.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
       "summary_zh": ""
     },
     {
@@ -1600,22 +1606,6 @@
       "tags": [],
       "region": "global",
       "title_zh": "Apertus 1.5 Release Notes",
-      "summary_zh": ""
-    },
-    {
-      "id": "21f2fe7c44f332e6",
-      "title": "Welcome FLUX.3 Image Klein in Diffusers",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/flux-3",
-      "image_url": null,
-      "published_at": "2026-10-15T00:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Welcome FLUX.3 Image Klein in Diffusers",
       "summary_zh": ""
     },
     {
