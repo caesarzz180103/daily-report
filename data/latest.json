@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T18:56:51.763Z",
+  "generated_at": "2026-10-22T22:00:08.073Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack；【WORLD】Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing；【CRYPTO】Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble。",
   "meta": {
     "sources_count": 11,
@@ -226,22 +226,20 @@
       "summary_zh": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
-      "id": "00ae2bf68738d29d",
-      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-      "summary": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
+      "id": "672cdbe04b8ab245",
+      "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+      "summary": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-22T16:40:07.000Z",
+      "published_at": "2026-10-22T19:25:26.000Z",
       "importance_score": 58,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-      "summary_zh": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood."
+      "title_zh": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+      "summary_zh": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday."
     },
     {
       "id": "788f7f075f9d3581",
@@ -251,7 +249,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html",
       "image_url": null,
-      "published_at": "2026-10-22T18:48:40.000Z",
+      "published_at": "2026-10-22T19:02:04.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -386,33 +384,14 @@
       "summary_zh": "Uniswap Labs has launched aggregator hooks, allowing Uniswap v4 to route trades through liquidity held on external platforms."
     },
     {
-      "id": "9687b047c94cd8ce",
-      "title": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
-      "summary": "Aerodrome and Velodrome have merged to launch Aero across Ethereum mainnet, Base, Robinhood Chain, Ink, OP Mainnet, Arc, and Arbitrum.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
-      "image_url": null,
-      "published_at": "2026-10-22T00:00:00.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "ethereum"
-      ],
-      "region": "global",
-      "title_zh": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
-      "summary_zh": "Aerodrome and Velodrome have merged to launch Aero across Ethereum mainnet, Base, Robinhood Chain, Ink, OP Mainnet, Arc, and Arbitrum."
-    },
-    {
-      "id": "4d91c989d51212b7",
+      "id": "5a8bbea91c253d59",
       "title": "Trending Crypto: Universal High Income (UHI)",
-      "summary": "CoinGecko trending rank #761.",
+      "summary": "CoinGecko trending rank #682.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/universal-high-income-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179637/large/logo.jpg?1792416691",
-      "published_at": "2026-10-22T18:55:39.825Z",
+      "published_at": "2026-10-22T21:58:56.284Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -422,17 +401,37 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Universal High Income (UHI)",
-      "summary_zh": "CoinGecko trending rank #761."
+      "summary_zh": "CoinGecko trending rank #682."
     },
     {
-      "id": "0df04ab1b23f316d",
+      "id": "2f4349097e9ef8c0",
+      "title": "Trending Crypto: Dacity Coin (DACITY)",
+      "summary": "CoinGecko trending rank #749.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/dacity-coin-3",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102179652/large/logo.webp?1792510837",
+      "published_at": "2026-10-22T21:58:56.284Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "dacity"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Dacity Coin (DACITY)",
+      "summary_zh": "CoinGecko trending rank #749."
+    },
+    {
+      "id": "91e8fc1e4efb8853",
       "title": "Trending Crypto: OnlyAgent (OA)",
-      "summary": "CoinGecko trending rank #870.",
+      "summary": "CoinGecko trending rank #904.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/onlyagent",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179691/large/logo.png?1792642934",
-      "published_at": "2026-10-22T18:55:39.825Z",
+      "published_at": "2026-10-22T21:58:56.284Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -442,67 +441,47 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: OnlyAgent (OA)",
-      "summary_zh": "CoinGecko trending rank #870."
+      "summary_zh": "CoinGecko trending rank #904."
     },
     {
-      "id": "5e46b2bd9d1dade8",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
+      "id": "a614f8535a8598d9",
+      "title": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary": "CoinGecko trending rank #19.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-10-22T18:55:39.825Z",
+      "source_url": "https://www.coingecko.com/en/coins/near",
+      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
+      "published_at": "2026-10-22T21:58:56.284Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "btc"
+        "near"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Bitcoin (BTC)",
-      "summary_zh": "CoinGecko trending rank #1."
+      "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary_zh": "CoinGecko trending rank #19."
     },
     {
-      "id": "123d870cbfe44bfd",
-      "title": "Trending Crypto: Aerodrome Finance (AERO)",
-      "summary": "CoinGecko trending rank #90.",
+      "id": "d459ab99de1cd896",
+      "title": "Trending Crypto: Pearl (PEARL)",
+      "summary": "CoinGecko trending rank #87.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/aerodrome-finance",
-      "image_url": "https://coin-images.coingecko.com/coins/images/31745/large/token.png?1696530564",
-      "published_at": "2026-10-22T18:55:39.825Z",
+      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
+      "published_at": "2026-10-22T21:58:56.284Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "aero"
+        "pearl"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Aerodrome Finance (AERO)",
-      "summary_zh": "CoinGecko trending rank #90."
-    },
-    {
-      "id": "4d77b005ac820bd3",
-      "title": "Trending Crypto: Monero (XMR)",
-      "summary": "CoinGecko trending rank #13.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/monero",
-      "image_url": "https://coin-images.coingecko.com/coins/images/69/large/monero_logo.png?1696501460",
-      "published_at": "2026-10-22T18:55:39.825Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "xmr"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Monero (XMR)",
-      "summary_zh": "CoinGecko trending rank #13."
+      "title_zh": "Trending Crypto: Pearl (PEARL)",
+      "summary_zh": "CoinGecko trending rank #87."
     },
     {
       "id": "f56091d6f87a6ba7",
@@ -523,26 +502,6 @@
       "region": "global",
       "title_zh": "What FDE means at OpenAI",
       "summary_zh": "What forward deployed engineering means at OpenAI"
-    },
-    {
-      "id": "7a9b18176c538e00",
-      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/building-chatgpt-ad-stack",
-      "image_url": null,
-      "published_at": "2026-10-21T07:00:00.000Z",
-      "importance_score": 52,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "llm",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "summary_zh": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
     },
     {
       "id": "07febbfaa92a2a0d",
@@ -577,6 +536,24 @@
       "region": "global",
       "title_zh": "AI for Societal Impact",
       "summary_zh": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI."
+    },
+    {
+      "id": "8cd22c9d34a13250",
+      "title": "This design software reimagines everyday objects as self-aware devices",
+      "summary": "“X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
+      "image_url": null,
+      "published_at": "2026-10-22T20:45:00.000Z",
+      "importance_score": 52,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "This design software reimagines everyday objects as self-aware devices",
+      "summary_zh": "“X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact."
     },
     {
       "id": "eb5d90d2c7c8cdb6",
@@ -1129,6 +1106,24 @@
       "summary_zh": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021."
     },
     {
+      "id": "1ff83e1968fd98f3",
+      "title": "Trump says Musk has restored Ukraine's internet access",
+      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-22T21:42:39.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Trump says Musk has restored Ukraine's internet access",
+      "summary_zh": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access."
+    },
+    {
       "id": "ebadd1dcf52e43fa",
       "title": "Crowd of 50 beats foreigner to death in South Africa",
       "summary": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
@@ -1211,24 +1206,6 @@
       "region": "global",
       "title_zh": "Teacher in Oregon shooting said she pretended to be dead to survive",
       "summary_zh": "The teacher said she could not help children because she was badly injured by the attacker."
-    },
-    {
-      "id": "c19a44d9eb72af40",
-      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-22T18:26:56.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "summary_zh": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force."
     },
     {
       "id": "b3b47ff2de1c664d",
@@ -1390,6 +1367,44 @@
       "summary_zh": "Boosters often say crypto voters can swing elections, but Democrats are seeking mileage out of tying crypto to Trump, corruption and attempts to buy seats in Congress."
     },
     {
+      "id": "5896dcbe2bedb8d7",
+      "title": "JPMorgan says crypto regulatory moves partly offset Clarity Act failure, but risks remain",
+      "summary": "JPMorgan said actions by U.S. regulators partly offset the Clarity Act setback, but longer-lasting rules are still needed.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-10-22-jpmorgan-crypto-regulatory-moves-clarity-act-failure-risks-423473",
+      "image_url": null,
+      "published_at": "2026-10-22T19:14:21.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "JPMorgan says crypto regulatory moves partly offset Clarity Act failure, but risks remain",
+      "summary_zh": "JPMorgan said actions by U.S. regulators partly offset the Clarity Act setback, but longer-lasting rules are still needed."
+    },
+    {
+      "id": "157ec32ee1e6e097",
+      "title": "Blockchain Association pushes for crypto tax clarity as broader bill stalls",
+      "summary": "As progress stalls on a crypto bill, the Blockchain Association is urging Congress to pass legislation to resolve uncertainty around taxes.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-10-22-blockchain-association-pushes-crypto-tax-clarity-broader-bill-stalls-423475",
+      "image_url": null,
+      "published_at": "2026-10-22T18:59:25.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Blockchain Association pushes for crypto tax clarity as broader bill stalls",
+      "summary_zh": "As progress stalls on a crypto bill, the Blockchain Association is urging Congress to pass legislation to resolve uncertainty around taxes."
+    },
+    {
       "id": "267992fe4d00f710",
       "title": "Coinbase Ireland fined $3.6 million over customer fund segregation, oversight failures",
       "summary": "Coinbase Ireland fined $3.6 million for safeguarding breaches that left customer funds underfunded and mixed with group accounts.",
@@ -1426,22 +1441,20 @@
       "summary_zh": "Fireblocks denied an Axios report that Visa is in talks to acquire the crypto custody firm for around $2.5 billion."
     },
     {
-      "id": "ea4a44f96d594a90",
-      "title": "South Korea’s crypto bill nears completion while tax debate intensifies: reports",
-      "summary": "The bill seeks to establish a framework for digital assets, including licensing regimes for exchanges and rules for stablecoin issuance.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880",
+      "id": "725a36b05920f60a",
+      "title": "Build more responsive apps with the Decisions API",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/decisions-api",
       "image_url": null,
-      "published_at": "2026-10-22T09:11:57.000Z",
-      "importance_score": 44,
+      "published_at": "2026-10-22T19:00:00.000Z",
+      "importance_score": 40,
       "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "South Korea’s crypto bill nears completion while tax debate intensifies: reports",
-      "summary_zh": "The bill seeks to establish a framework for digital assets, including licensing regimes for exchanges and rules for stablecoin issuance."
+      "title_zh": "Build more responsive apps with the Decisions API",
+      "summary_zh": "Fast, focused, low-cost decisions for any application."
     },
     {
       "id": "de1bcbc6da328aa8",
@@ -1771,24 +1784,6 @@
       "region": "global",
       "title_zh": "MIT Lincoln Laboratory hosts National Security Commission on Emerging Biotechnology",
       "summary_zh": "Roadshow event highlights Massachusetts' defense-biotechnology ecosystem."
-    },
-    {
-      "id": "04fe76610c0a89db",
-      "title": "Q&A: Building accountability behind our words — and AI’s — in civic conversations",
-      "summary": "Professor Deb Roy contends there should be someone who is “answerable” for every piece of text in public life, no matter its origins.",
-      "category": "AI",
-      "source_name": "MIT News AI",
-      "source_url": "https://news.mit.edu/2026/qa-building-accountability-behind-our-words-and-ai-civic-conversations-1013",
-      "image_url": null,
-      "published_at": "2026-10-13T04:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Q&A: Building accountability behind our words — and AI’s — in civic conversations",
-      "summary_zh": "Professor Deb Roy contends there should be someone who is “answerable” for every piece of text in public life, no matter its origins."
     },
     {
       "id": "8679bab18a79a2b9",
