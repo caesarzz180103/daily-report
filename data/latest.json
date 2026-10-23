@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T22:00:08.073Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack；【WORLD】Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing；【CRYPTO】Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble。",
+  "generated_at": "2026-10-23T00:24:52.814Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【WORLD】Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds；【WORLD】Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing；【CRYPTO】Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -20,24 +20,22 @@
   },
   "items": [
     {
-      "id": "824c3ecd0220bb29",
-      "title": "Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack",
-      "summary": "The Nasdaq is down more than 2% as the AI bull market trade continues to unwind. U.S. interest rates are plunging even as oil surges.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
+      "id": "68648d4611242fec",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-22T09:54:26.000Z",
-      "importance_score": 80,
+      "published_at": "2026-10-22T23:16:16.000Z",
+      "importance_score": 70,
       "sentiment": 0,
       "tags": [
-        "ai",
-        "bitcoin",
-        "stocks"
+        "war"
       ],
       "region": "global",
-      "title_zh": "Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack",
-      "summary_zh": "The Nasdaq is down more than 2% as the AI bull market trade continues to unwind. U.S. interest rates are plunging even as oil surges."
+      "title_zh": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "summary_zh": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes."
     },
     {
       "id": "c155d74276f8a415",
@@ -226,22 +224,6 @@
       "summary_zh": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
-      "id": "672cdbe04b8ab245",
-      "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
-      "summary": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-22T19:25:26.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Paris extends curfew as Marseille and Lyon ban protests after riots",
-      "summary_zh": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday."
-    },
-    {
       "id": "788f7f075f9d3581",
       "title": "In the Wake of Riots, the French Authorities Ban Some Protests",
       "summary": "President Emmanuel Macron said the move was necessary “so that calm prevails.”",
@@ -384,14 +366,14 @@
       "summary_zh": "Uniswap Labs has launched aggregator hooks, allowing Uniswap v4 to route trades through liquidity held on external platforms."
     },
     {
-      "id": "5a8bbea91c253d59",
+      "id": "2c726b0db3c485f5",
       "title": "Trending Crypto: Universal High Income (UHI)",
-      "summary": "CoinGecko trending rank #682.",
+      "summary": "CoinGecko trending rank #615.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/universal-high-income-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179637/large/logo.jpg?1792416691",
-      "published_at": "2026-10-22T21:58:56.284Z",
+      "published_at": "2026-10-23T00:23:42.548Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -401,17 +383,17 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Universal High Income (UHI)",
-      "summary_zh": "CoinGecko trending rank #682."
+      "summary_zh": "CoinGecko trending rank #615."
     },
     {
-      "id": "2f4349097e9ef8c0",
+      "id": "51bb114c9b444b0c",
       "title": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary": "CoinGecko trending rank #749.",
+      "summary": "CoinGecko trending rank #813.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/dacity-coin-3",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179652/large/logo.webp?1792510837",
-      "published_at": "2026-10-22T21:58:56.284Z",
+      "published_at": "2026-10-23T00:23:42.548Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -421,17 +403,17 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary_zh": "CoinGecko trending rank #749."
+      "summary_zh": "CoinGecko trending rank #813."
     },
     {
-      "id": "91e8fc1e4efb8853",
+      "id": "e74fed41a562436c",
       "title": "Trending Crypto: OnlyAgent (OA)",
-      "summary": "CoinGecko trending rank #904.",
+      "summary": "CoinGecko trending rank #919.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/onlyagent",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179691/large/logo.png?1792642934",
-      "published_at": "2026-10-22T21:58:56.284Z",
+      "published_at": "2026-10-23T00:23:42.548Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -441,47 +423,47 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: OnlyAgent (OA)",
-      "summary_zh": "CoinGecko trending rank #904."
+      "summary_zh": "CoinGecko trending rank #919."
     },
     {
-      "id": "a614f8535a8598d9",
-      "title": "Trending Crypto: NEAR Protocol (NEAR)",
-      "summary": "CoinGecko trending rank #19.",
+      "id": "a33df8edd46e175e",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/near",
-      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
-      "published_at": "2026-10-22T21:58:56.284Z",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-10-23T00:23:42.548Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "near"
+        "btc"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
-      "summary_zh": "CoinGecko trending rank #19."
+      "title_zh": "Trending Crypto: Bitcoin (BTC)",
+      "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "d459ab99de1cd896",
-      "title": "Trending Crypto: Pearl (PEARL)",
-      "summary": "CoinGecko trending rank #87.",
+      "id": "6a25b214d59f6f3a",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #114.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-10-22T21:58:56.284Z",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-10-23T00:23:42.548Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pearl"
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pearl (PEARL)",
-      "summary_zh": "CoinGecko trending rank #87."
+      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary_zh": "CoinGecko trending rank #114."
     },
     {
       "id": "f56091d6f87a6ba7",
@@ -502,6 +484,25 @@
       "region": "global",
       "title_zh": "What FDE means at OpenAI",
       "summary_zh": "What forward deployed engineering means at OpenAI"
+    },
+    {
+      "id": "ebfa95e3891a1bf1",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "image_url": null,
+      "published_at": "2026-10-22T22:24:34.000Z",
+      "importance_score": 52,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "summary_zh": ""
     },
     {
       "id": "07febbfaa92a2a0d",
@@ -898,24 +899,6 @@
       "summary_zh": ""
     },
     {
-      "id": "f9e3d8dd36c449e0",
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/hf-torchneuron",
-      "image_url": null,
-      "published_at": "2026-10-19T00:00:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "summary_zh": ""
-    },
-    {
       "id": "42695dcccd295c54",
       "title": "Gemini 4 Argon: Built to solve your hardest problems",
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
@@ -1074,6 +1057,24 @@
       "summary_zh": "The latest 12-month period marked the strongest return for the university's fund since 2021."
     },
     {
+      "id": "9ff9388e339c45b0",
+      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-22T21:42:39.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "summary_zh": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access."
+    },
+    {
       "id": "0d7e7917ccc33a86",
       "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
       "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
@@ -1090,6 +1091,40 @@
       "summary_zh": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis."
     },
     {
+      "id": "35e4386cd9d793c4",
+      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+      "summary": "The quake hit a mountainous, sparsely-populated region in north-eastern Tibet.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-23T00:00:38.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Powerful earthquake hits Tibet killing 16 people, reports say",
+      "summary_zh": "The quake hit a mountainous, sparsely-populated region in north-eastern Tibet."
+    },
+    {
+      "id": "74a5f7248259adfb",
+      "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+      "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-22T22:27:53.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+      "summary_zh": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\"."
+    },
+    {
       "id": "ca733111188487f5",
       "title": "Trump ordered to answer questions under oath in BBC lawsuit",
       "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
@@ -1097,31 +1132,13 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-22T17:14:04.000Z",
+      "published_at": "2026-10-23T00:10:46.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
       "title_zh": "Trump ordered to answer questions under oath in BBC lawsuit",
       "summary_zh": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021."
-    },
-    {
-      "id": "1ff83e1968fd98f3",
-      "title": "Trump says Musk has restored Ukraine's internet access",
-      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-22T21:42:39.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Trump says Musk has restored Ukraine's internet access",
-      "summary_zh": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access."
     },
     {
       "id": "ebadd1dcf52e43fa",
@@ -1174,40 +1191,6 @@
       "summary_zh": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region."
     },
     {
-      "id": "832293b0b2396ec5",
-      "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
-      "summary": "The Brazilian president accuses the tech firm of favouring Flávio Bolsonaro, which it denies.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-22T17:01:47.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
-      "summary_zh": "The Brazilian president accuses the tech firm of favouring Flávio Bolsonaro, which it denies."
-    },
-    {
-      "id": "2b5ac61466a5b3a1",
-      "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
-      "summary": "The teacher said she could not help children because she was badly injured by the attacker.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-22T14:09:54.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Teacher in Oregon shooting said she pretended to be dead to survive",
-      "summary_zh": "The teacher said she could not help children because she was badly injured by the attacker."
-    },
-    {
       "id": "b3b47ff2de1c664d",
       "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
       "summary": "The airport is in Dammam, which is near the headquarters of oil giant Saudi Aramco. For weeks, Yemen’s Iran-backed Houthi militia has been attacking the kingdom’s aviation and energy sectors.",
@@ -1233,7 +1216,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html",
       "image_url": null,
-      "published_at": "2026-10-22T17:03:13.000Z",
+      "published_at": "2026-10-22T22:44:35.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1292,6 +1275,24 @@
       "region": "global",
       "title_zh": "Protests in Indonesia Demand Action to Stop Rainforest Fires",
       "summary_zh": "Smoke from the blazes, blamed on destructive agricultural practices, has sickened hundreds of thousands and blanketed neighboring countries."
+    },
+    {
+      "id": "e25f999b9d0ec58c",
+      "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+      "summary": "Senator Richard Blumenthal, the ranking Democrat on the investigations subcommittee, added a probe of the ex-White House crypto adviser to his list of crypto interests.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+      "image_url": null,
+      "published_at": "2026-10-22T22:43:36.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+      "summary_zh": "Senator Richard Blumenthal, the ranking Democrat on the investigations subcommittee, added a probe of the ex-White House crypto adviser to his list of crypto interests."
     },
     {
       "id": "b218c503292e5eb7",
