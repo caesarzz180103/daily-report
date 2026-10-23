@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T05:33:16.575Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【WORLD】Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds；【WORLD】Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing；【CRYPTO】Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100。",
+  "generated_at": "2026-10-23T10:40:10.434Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【WORLD】Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds；【CRYPTO】Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100；【AI】Q&A: How AI came to model the “messy” human mind。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -20,41 +20,22 @@
   },
   "items": [
     {
-      "id": "68648d4611242fec",
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "id": "224097f4867493fb",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
       "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-22T23:16:16.000Z",
+      "published_at": "2026-10-23T10:23:07.000Z",
       "importance_score": 70,
       "sentiment": 0,
       "tags": [
         "war"
       ],
       "region": "global",
-      "title_zh": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "title_zh": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
       "summary_zh": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes."
-    },
-    {
-      "id": "c155d74276f8a415",
-      "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
-      "summary": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
-      "image_url": null,
-      "published_at": "2026-10-22T15:22:53.000Z",
-      "importance_score": 70,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
-      "summary_zh": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working."
     },
     {
       "id": "76dacc51f9926a3e",
@@ -224,74 +205,109 @@
       "summary_zh": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
-      "id": "788f7f075f9d3581",
-      "title": "In the Wake of Riots, the French Authorities Ban Some Protests",
-      "summary": "President Emmanuel Macron said the move was necessary “so that calm prevails.”",
+      "id": "c132bd1dc989aabf",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
       "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-22T19:02:05.000Z",
+      "published_at": "2026-10-23T09:36:43.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "In the Wake of Riots, the French Authorities Ban Some Protests",
-      "summary_zh": "President Emmanuel Macron said the move was necessary “so that calm prevails.”"
+      "title_zh": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "summary_zh": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown."
     },
     {
-      "id": "838062290c6c063d",
-      "title": "International Criminal Court Wins E.U.’s Top Human Rights Prize",
-      "summary": "The win is a show of support for the International Criminal Court as the Trump administration moves to thwart its work.",
+      "id": "12c1826bc893ecba",
+      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+      "summary": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election.",
       "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-22T15:44:46.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "International Criminal Court Wins E.U.’s Top Human Rights Prize",
-      "summary_zh": "The win is a show of support for the International Criminal Court as the Trump administration moves to thwart its work."
-    },
-    {
-      "id": "7fd4caa3a6921fa1",
-      "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
-      "summary": "Governments and businesses around the world scrambled to prevent hackers from exploiting a vulnerability in PHP, a popular programming language.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
-      "image_url": null,
-      "published_at": "2026-10-22T16:01:36.000Z",
+      "published_at": "2026-10-23T10:26:06.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
-      "summary_zh": "Governments and businesses around the world scrambled to prevent hackers from exploiting a vulnerability in PHP, a popular programming language."
+      "title_zh": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+      "summary_zh": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election."
     },
     {
-      "id": "d01cb082f412cd54",
-      "title": "‘Open War’ Between Afghanistan and Pakistan Adds a Volatile Element",
-      "summary": "The two sides turn to proxy groups after eight months of a conflict that has taken a heavy toll on civilians.",
+      "id": "35d231b4259fb64e",
+      "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
+      "summary": "Her husband is currently in isolation but has not developed any symptoms, Swiss officials say.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-23T10:14:33.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
+      "summary_zh": "Her husband is currently in isolation but has not developed any symptoms, Swiss officials say."
+    },
+    {
+      "id": "d47203f82349fed1",
+      "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
+      "summary": "Five people were wounded in the attack, days before national elections, health workers said. The Israeli military said its soldiers had killed two assailants.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/22/world/asia/afghanistan-pakistan-proxy-war.html",
+      "source_url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
       "image_url": null,
-      "published_at": "2026-10-22T04:10:29.000Z",
+      "published_at": "2026-10-23T10:28:15.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
+      "summary_zh": "Five people were wounded in the attack, days before national elections, health workers said. The Israeli military said its soldiers had killed two assailants."
+    },
+    {
+      "id": "56fa8c390d71cc03",
+      "title": "How Long Will Russians Put Up With War? Here’s What They Told Us.",
+      "summary": "“Everything is fine” is a common refrain in a country used to adapting to a new normal.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/23/world/europe/russia-ukraine-public-opinion.html",
+      "image_url": null,
+      "published_at": "2026-10-23T09:30:47.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "How Long Will Russians Put Up With War? Here’s What They Told Us.",
+      "summary_zh": "“Everything is fine” is a common refrain in a country used to adapting to a new normal."
+    },
+    {
+      "id": "266a77cb86b2f218",
+      "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
+      "summary": "The Yemeni militia is using the culture of its sworn enemies in the renewed fighting with Saudi Arabia.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
+      "image_url": null,
+      "published_at": "2026-10-23T09:30:45.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
         "war"
       ],
       "region": "global",
-      "title_zh": "‘Open War’ Between Afghanistan and Pakistan Adds a Volatile Element",
-      "summary_zh": "The two sides turn to proxy groups after eight months of a conflict that has taken a heavy toll on civilians."
+      "title_zh": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
+      "summary_zh": "The Yemeni militia is using the culture of its sworn enemies in the renewed fighting with Saudi Arabia."
     },
     {
       "id": "62407d99b47ae5d1",
@@ -308,6 +324,38 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/12/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools"
+    },
+    {
+      "id": "e9f193baef04439d",
+      "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
+      "summary": "The Riksbank sees an e-krona as critical to securing national payments and monetary control.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
+      "image_url": null,
+      "published_at": "2026-10-23T08:57:34.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
+      "summary_zh": "The Riksbank sees an e-krona as critical to securing national payments and monetary control."
+    },
+    {
+      "id": "c75b618107a67b83",
+      "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
+      "summary": "CoinDCX denies its active wallets were hacked after sleuths flagged $16 million in outflows from addresses linked to the India-based exchange.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
+      "image_url": null,
+      "published_at": "2026-10-23T08:02:35.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
+      "summary_zh": "CoinDCX denies its active wallets were hacked after sleuths flagged $16 million in outflows from addresses linked to the India-based exchange."
     },
     {
       "id": "7547c935b735cb07",
@@ -384,104 +432,104 @@
       "summary_zh": "Uniswap Labs has launched aggregator hooks, allowing Uniswap v4 to route trades through liquidity held on external platforms."
     },
     {
-      "id": "57322b2a2a1539fe",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
+      "id": "9c839e2ebf13181b",
+      "title": "Trending Crypto: Universal High Income (UHI)",
+      "summary": "CoinGecko trending rank #598.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-10-23T05:32:00.982Z",
+      "source_url": "https://www.coingecko.com/en/coins/universal-high-income-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102179637/large/logo.jpg?1792416691",
+      "published_at": "2026-10-23T10:38:56.085Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "btc"
+        "uhi"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Bitcoin (BTC)",
-      "summary_zh": "CoinGecko trending rank #1."
+      "title_zh": "Trending Crypto: Universal High Income (UHI)",
+      "summary_zh": "CoinGecko trending rank #598."
     },
     {
-      "id": "48fac2c0b3302f2e",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #113.",
+      "id": "23275ed145bdaa1a",
+      "title": "Trending Crypto: Dacity Coin (DACITY)",
+      "summary": "CoinGecko trending rank #959.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-10-23T05:32:00.982Z",
+      "source_url": "https://www.coingecko.com/en/coins/dacity-coin-3",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102179652/large/logo.webp?1792510837",
+      "published_at": "2026-10-23T10:38:56.085Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pengu"
+        "dacity"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #113."
+      "title_zh": "Trending Crypto: Dacity Coin (DACITY)",
+      "summary_zh": "CoinGecko trending rank #959."
     },
     {
-      "id": "bbc49e2bba1d3837",
-      "title": "Trending Crypto: Axis Robotics (AXIS)",
-      "summary": "CoinGecko trending rank #477.",
+      "id": "8b0ef297b244b538",
+      "title": "Trending Crypto: Pepe (PEPE)",
+      "summary": "CoinGecko trending rank #50.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/axis-robotics",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102178869/large/axisrobotics.png?1790578974",
-      "published_at": "2026-10-23T05:32:00.982Z",
+      "source_url": "https://www.coingecko.com/en/coins/pepe",
+      "image_url": "https://coin-images.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1696528776",
+      "published_at": "2026-10-23T10:38:56.085Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "axis"
+        "pepe"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Axis Robotics (AXIS)",
-      "summary_zh": "CoinGecko trending rank #477."
+      "title_zh": "Trending Crypto: Pepe (PEPE)",
+      "summary_zh": "CoinGecko trending rank #50."
     },
     {
-      "id": "949e316c644f1da6",
-      "title": "Trending Crypto: Zcash (ZEC)",
-      "summary": "CoinGecko trending rank #10.",
+      "id": "154024987cd3dc48",
+      "title": "Trending Crypto: Irys (IRYS)",
+      "summary": "CoinGecko trending rank #340.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/zcash",
-      "image_url": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558",
-      "published_at": "2026-10-23T05:32:00.982Z",
+      "source_url": "https://www.coingecko.com/en/coins/irys",
+      "image_url": "https://coin-images.coingecko.com/coins/images/70808/large/irys.png?1764757341",
+      "published_at": "2026-10-23T10:38:56.085Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "zec"
+        "irys"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Zcash (ZEC)",
-      "summary_zh": "CoinGecko trending rank #10."
+      "title_zh": "Trending Crypto: Irys (IRYS)",
+      "summary_zh": "CoinGecko trending rank #340."
     },
     {
-      "id": "f006ce462d5b4028",
-      "title": "Trending Crypto: Pearl (PEARL)",
-      "summary": "CoinGecko trending rank #89.",
+      "id": "9b4a5a7d9a00537e",
+      "title": "Trending Crypto: Sui (SUI)",
+      "summary": "CoinGecko trending rank #29.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-10-23T05:32:00.982Z",
+      "source_url": "https://www.coingecko.com/en/coins/sui",
+      "image_url": "https://coin-images.coingecko.com/coins/images/26375/large/sui-ocean-square.png?1727791290",
+      "published_at": "2026-10-23T10:38:56.085Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pearl"
+        "sui"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pearl (PEARL)",
-      "summary_zh": "CoinGecko trending rank #89."
+      "title_zh": "Trending Crypto: Sui (SUI)",
+      "summary_zh": "CoinGecko trending rank #29."
     },
     {
       "id": "f56091d6f87a6ba7",
@@ -629,22 +677,20 @@
       "summary_zh": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution."
     },
     {
-      "id": "274d8c3a57ca67f5",
-      "title": "Race to update services' computer systems after cyber-security flaw found",
-      "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+      "id": "71c5111662b1663f",
+      "title": "Recent Quant Links from Quantocracy as of 10/22/2026",
+      "summary": "This is a summary of links recently featured on Quantocracy as of Thursday, 10/22/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Momentum timed with the rate of change (ROC) on the S&P 500’s ten steepest trends [Quanter Lab] Momentum is one of the ol",
+      "category": "STRATEGY",
+      "source_name": "Quantocracy",
+      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-10222026/",
       "image_url": null,
-      "published_at": "2026-10-22T17:12:51.000Z",
+      "published_at": "2026-10-23T05:15:05.000Z",
       "importance_score": 52,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Race to update services' computer systems after cyber-security flaw found",
-      "summary_zh": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered."
+      "title_zh": "Recent Quant Links from Quantocracy as of 10/22/2026",
+      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Thursday, 10/22/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Momentum timed with the rate of change (ROC) on the S&P 500’s ten steepest trends [Quanter Lab] Momentum is one of the ol"
     },
     {
       "id": "4cab9231c24f395b",
@@ -681,25 +727,6 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/03/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Buffett’s be greedy when others are fearful, tested [Quanter Lab] \"Be greedy when others are fearful\" is Warren Buffett's"
     },
     {
-      "id": "7894b0400f5ac39c",
-      "title": "Recent Quant Links from Quantocracy as of 09/30/2026",
-      "summary": "This is a summary of links recently featured on Quantocracy as of Wednesday, 09/30/2026. To see our most recent links, visit the Quant Mashup. Read on readers! A New Stage, a New Deadline: Quantpedia Awards 2027 Are Here Again! [Quantpedia] Hello everyone, The Quantpedia Awards a",
-      "category": "STRATEGY",
-      "source_name": "Quantocracy",
-      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-09302026/",
-      "image_url": null,
-      "published_at": "2026-10-01T05:15:05.000Z",
-      "importance_score": 52,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Recent Quant Links from Quantocracy as of 09/30/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Wednesday, 09/30/2026. To see our most recent links, visit the Quant Mashup. Read on readers! A New Stage, a New Deadline: Quantpedia Awards 2027 Are Here Again! [Quantpedia] Hello everyone, The Quantpedia Awards a"
-    },
-    {
       "id": "e8dab4151960ee67",
       "title": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
       "summary": "The Wall Street sell-off extended to Asian equities on Friday morning, with South Korea's Kospi down 2.3% and Japan's Nikkei 225 down 1.6%.",
@@ -718,40 +745,23 @@
       "summary_zh": "The Wall Street sell-off extended to Asian equities on Friday morning, with South Korea's Kospi down 2.3% and Japan's Nikkei 225 down 1.6%."
     },
     {
-      "id": "054a7e96bdbfbe8c",
-      "title": "Dune launches onchain trading data feeds as tokenized markets expand",
-      "summary": "The new real-time market feeds will cover trade data from over 200 onchain venues across 12 blockchain networks.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889",
+      "id": "8049990d7e19a49b",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "image_url": null,
-      "published_at": "2026-10-22T12:00:00.000Z",
-      "importance_score": 50,
+      "published_at": "2026-10-23T00:00:00.000Z",
+      "importance_score": 46,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "ai",
+        "openai"
       ],
       "region": "global",
-      "title_zh": "Dune launches onchain trading data feeds as tokenized markets expand",
-      "summary_zh": "The new real-time market feeds will cover trade data from over 200 onchain venues across 12 blockchain networks."
-    },
-    {
-      "id": "85dfae8bb4ae502e",
-      "title": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
-      "summary": "SoFi has launched SOFIE, a tokenized deposit offering 4.4% APY and FDIC insurance, with the option to convert to SoFiUSD.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916",
-      "image_url": null,
-      "published_at": "2026-10-22T12:00:00.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
-      "summary_zh": "SoFi has launched SOFIE, a tokenized deposit offering 4.4% APY and FDIC insurance, with the option to convert to SoFiUSD."
+      "title_zh": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "summary_zh": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
     },
     {
       "id": "a6446520a2170e3f",
@@ -1020,38 +1030,74 @@
       "summary_zh": "The latest 12-month period marked the strongest return for the university's fund since 2021."
     },
     {
-      "id": "9ff9388e339c45b0",
-      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
-      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "id": "6264278a6358a967",
+      "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+      "summary": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-22T21:42:39.000Z",
+      "published_at": "2026-10-23T10:14:37.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Trump says Musk has restored access to Ukraine's Starlink network",
-      "summary_zh": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access."
+      "title_zh": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+      "summary_zh": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month."
     },
     {
-      "id": "74a5f7248259adfb",
-      "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
-      "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+      "id": "ce2cde3f3e4e09c9",
+      "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+      "summary": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-22T22:27:53.000Z",
+      "published_at": "2026-10-23T08:45:58.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+      "summary_zh": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say."
+    },
+    {
+      "id": "d0160258a2dae82d",
+      "title": "Rubio turns to small Indian town as US faces high oil prices",
+      "summary": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-23T08:39:42.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
-      "summary_zh": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\"."
+      "title_zh": "Rubio turns to small Indian town as US faces high oil prices",
+      "summary_zh": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year."
+    },
+    {
+      "id": "35e4386cd9d793c4",
+      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+      "summary": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-23T05:16:37.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Powerful earthquake hits Tibet killing 16 people, reports say",
+      "summary_zh": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region."
     },
     {
       "id": "ca733111188487f5",
@@ -1070,24 +1116,6 @@
       "summary_zh": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021."
     },
     {
-      "id": "f5d850849d66c035",
-      "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
-      "summary": "Officials say they both travelled through Entebbe International Airport on 3 October.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-23T04:54:25.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
-      "summary_zh": "Officials say they both travelled through Entebbe International Airport on 3 October."
-    },
-    {
       "id": "0d7e7917ccc33a86",
       "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
       "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
@@ -1104,54 +1132,108 @@
       "summary_zh": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis."
     },
     {
-      "id": "ebadd1dcf52e43fa",
-      "title": "Crowd of 50 beats foreigner to death in South Africa",
-      "summary": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
+      "id": "c3dbe1f08d12ecbc",
+      "title": "The Bukeleization of Latin America Has Arrived",
+      "summary": "Nayib Bukele’s notoriously harsh and wildly popular security crackdown in El Salvador is spawning imitators and remaking the region.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/23/world/americas/the-bukeleization-of-latin-america-has-arrived.html",
       "image_url": null,
-      "published_at": "2026-10-22T16:15:25.000Z",
+      "published_at": "2026-10-23T09:01:10.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Crowd of 50 beats foreigner to death in South Africa",
-      "summary_zh": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year."
+      "title_zh": "The Bukeleization of Latin America Has Arrived",
+      "summary_zh": "Nayib Bukele’s notoriously harsh and wildly popular security crackdown in El Salvador is spawning imitators and remaking the region."
     },
     {
-      "id": "4a8542686856e2df",
-      "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-      "summary": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
+      "id": "21a28aaefa3808f2",
+      "title": "As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise",
+      "summary": "Deep in cattle country, voter sentiments in an evangelical stronghold help explain why the country’s leftist president is the underdog in Sunday’s election.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html",
       "image_url": null,
-      "published_at": "2026-10-22T17:07:03.000Z",
+      "published_at": "2026-10-23T09:02:54.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-      "summary_zh": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year."
+      "title_zh": "As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise",
+      "summary_zh": "Deep in cattle country, voter sentiments in an evangelical stronghold help explain why the country’s leftist president is the underdog in Sunday’s election."
     },
     {
-      "id": "aab64ff21e3bb5cc",
-      "title": "At least four dead after storm brings flooding to southern France",
-      "summary": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
+      "id": "a66ed935f479f4af",
+      "title": "Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him?",
+      "summary": "Mr. Eisenkot, an ex-military chief leading in the polls, calls the Israeli prime minister an “anti-leader.” But his low-key campaigning style is worrying supporters.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html",
       "image_url": null,
-      "published_at": "2026-10-22T11:23:16.000Z",
+      "published_at": "2026-10-23T04:01:13.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him?",
+      "summary_zh": "Mr. Eisenkot, an ex-military chief leading in the polls, calls the Israeli prime minister an “anti-leader.” But his low-key campaigning style is worrying supporters."
+    },
+    {
+      "id": "5e61632dd905f894",
+      "title": "How Pastors Mobilize Communities in Congo’s Fight Against Ebola",
+      "summary": "As health care workers fought to control the latest outbreak this year, they got crucial aid from churches in beating back fear and misinformation.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/23/world/africa/congo-ebola-catholic-church-rumors.html",
+      "image_url": null,
+      "published_at": "2026-10-23T04:01:16.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "How Pastors Mobilize Communities in Congo’s Fight Against Ebola",
+      "summary_zh": "As health care workers fought to control the latest outbreak this year, they got crucial aid from churches in beating back fear and misinformation."
+    },
+    {
+      "id": "069ffceb0f7a0537",
+      "title": "Powerful Earthquake in Tibet Kills at Least 16",
+      "summary": "Dozens were injured and more than 300 homes were toppled by the 7.0-magnitude quake, which sent residents fleeing into the cold night air, state media said.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html",
+      "image_url": null,
+      "published_at": "2026-10-23T07:40:46.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Powerful Earthquake in Tibet Kills at Least 16",
+      "summary_zh": "Dozens were injured and more than 300 homes were toppled by the 7.0-magnitude quake, which sent residents fleeing into the cold night air, state media said."
+    },
+    {
+      "id": "45ed510efb8537e0",
+      "title": "Arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance",
+      "summary": "A rare escalation this month exposed the increasingly lethal arsenals the two Koreas are building up across the world’s most heavily fortified border.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html",
+      "image_url": null,
+      "published_at": "2026-10-23T05:13:32.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "At least four dead after storm brings flooding to southern France",
-      "summary_zh": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region."
+      "title_zh": "Arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance",
+      "summary_zh": "A rare escalation this month exposed the increasingly lethal arsenals the two Koreas are building up across the world’s most heavily fortified border."
     },
     {
       "id": "b3b47ff2de1c664d",
@@ -1172,72 +1254,20 @@
       "summary_zh": "The airport is in Dammam, which is near the headquarters of oil giant Saudi Aramco. For weeks, Yemen’s Iran-backed Houthi militia has been attacking the kingdom’s aviation and energy sectors."
     },
     {
-      "id": "087854a616e624e0",
-      "title": "Serbian Election Underscores the Region’s Long Political Limbo",
-      "summary": "Aleksandar Vucic, Serbia’s dominant political figure since 2012, may extend his grip, using the Balkans’ unresolved nationalist resentments.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html",
+      "id": "92de58610e22e339",
+      "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
+      "summary": "HSBC and Standard Chartered-led Anchorpoint received Hong Kong’s first stablecoin issuer licenses in April. Anchorpoint began rolling out HKDAP in August.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
       "image_url": null,
-      "published_at": "2026-10-22T22:44:35.000Z",
-      "importance_score": 46,
+      "published_at": "2026-10-23T10:22:56.000Z",
+      "importance_score": 44,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Serbian Election Underscores the Region’s Long Political Limbo",
-      "summary_zh": "Aleksandar Vucic, Serbia’s dominant political figure since 2012, may extend his grip, using the Balkans’ unresolved nationalist resentments."
-    },
-    {
-      "id": "b76c13ef7ce06dab",
-      "title": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
-      "summary": "One expert said the likelihood that a mayor announces closure of work and school because of a typhoon increases 31 percent during an election year.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html",
-      "image_url": null,
-      "published_at": "2026-10-22T17:39:10.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
-      "summary_zh": "One expert said the likelihood that a mayor announces closure of work and school because of a typhoon increases 31 percent during an election year."
-    },
-    {
-      "id": "3033b515c7b08101",
-      "title": "Space Debris Found Twice Within Days Amid ‘Growing Casualty Risk’",
-      "summary": "Debris was found in Indonesia on Monday, just days after a farmer across the globe in Minnesota reported a massive metal object thought to be space junk in a cornfield.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/22/world/asia/space-debris-indonesia-minnesota.html",
-      "image_url": null,
-      "published_at": "2026-10-22T09:03:31.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Space Debris Found Twice Within Days Amid ‘Growing Casualty Risk’",
-      "summary_zh": "Debris was found in Indonesia on Monday, just days after a farmer across the globe in Minnesota reported a massive metal object thought to be space junk in a cornfield."
-    },
-    {
-      "id": "2d78b3776e469cdc",
-      "title": "Protests in Indonesia Demand Action to Stop Rainforest Fires",
-      "summary": "Smoke from the blazes, blamed on destructive agricultural practices, has sickened hundreds of thousands and blanketed neighboring countries.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/22/world/asia/indonesia-protests-rainforest-haze.html",
-      "image_url": null,
-      "published_at": "2026-10-22T04:22:51.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Protests in Indonesia Demand Action to Stop Rainforest Fires",
-      "summary_zh": "Smoke from the blazes, blamed on destructive agricultural practices, has sickened hundreds of thousands and blanketed neighboring countries."
+      "title_zh": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
+      "summary_zh": "HSBC and Standard Chartered-led Anchorpoint received Hong Kong’s first stablecoin issuer licenses in April. Anchorpoint began rolling out HKDAP in August."
     },
     {
       "id": "7afffdca2b304b0c",
@@ -1309,58 +1339,38 @@
       "summary_zh": "The venture investor behind early bets on Coinbase, Solana and Uniswap said is broadening its focus, joining other crypto investment firms looking beyond blockchain to artificial intelligence and tech themes."
     },
     {
-      "id": "67e60effa2773402",
-      "title": "Crypto for Advisors: Stablecoins are ready for prime time",
-      "summary": "",
+      "id": "a39460e57014c2e3",
+      "title": "New York seeks over $1.3 billion from NovaTech founders after couple fled the US",
+      "summary": "New York wants $1.3 billion from NovaTech's founders, whose platform took in $1.16 billion and traded a fraction of it.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-10-23-new-york-seeks-over-1-3-billion-from-novatech-founders-after-couple-fled-the-us-424453",
       "image_url": null,
-      "published_at": "2026-10-22T14:58:31.000Z",
+      "published_at": "2026-10-23T10:12:02.000Z",
       "importance_score": 44,
       "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Crypto for Advisors: Stablecoins are ready for prime time",
-      "summary_zh": ""
+      "title_zh": "New York seeks over $1.3 billion from NovaTech founders after couple fled the US",
+      "summary_zh": "New York wants $1.3 billion from NovaTech's founders, whose platform took in $1.16 billion and traded a fraction of it."
     },
     {
-      "id": "40aedc955077e187",
-      "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
-      "summary": "The company is in talks with Visa over a potential $2.5 billion acquisition, Axios reported.",
+      "id": "4514f5a807465c54",
+      "title": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
+      "summary": "South Korea is currently developing the Digital Asset Basic Act, which seeks to establish a comprehensive framework for crypto.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028",
       "image_url": null,
-      "published_at": "2026-10-22T14:37:12.000Z",
+      "published_at": "2026-10-23T09:52:44.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
         "crypto"
       ],
       "region": "global",
-      "title_zh": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
-      "summary_zh": "The company is in talks with Visa over a potential $2.5 billion acquisition, Axios reported."
-    },
-    {
-      "id": "78251357afc21537",
-      "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
-      "summary": "Boosters often say crypto voters can swing elections, but Democrats are seeking mileage out of tying crypto to Trump, corruption and attempts to buy seats in Congress.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
-      "image_url": null,
-      "published_at": "2026-10-22T13:00:00.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
-      "summary_zh": "Boosters often say crypto voters can swing elections, but Democrats are seeking mileage out of tying crypto to Trump, corruption and attempts to buy seats in Congress."
+      "title_zh": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
+      "summary_zh": "South Korea is currently developing the Digital Asset Basic Act, which seeks to establish a comprehensive framework for crypto."
     },
     {
       "id": "4ef8bbc9f90751e2",
@@ -1523,25 +1533,6 @@
       "region": "global",
       "title_zh": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
       "summary_zh": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
-    },
-    {
-      "id": "78681b02974b7d7d",
-      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/cloudflare-cyber",
-      "image_url": null,
-      "published_at": "2026-10-21T00:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "summary_zh": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality."
     },
     {
       "id": "fc244a8c49efabef",
