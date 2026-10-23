@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T00:24:52.814Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【WORLD】Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds；【WORLD】Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing；【CRYPTO】Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble。",
+  "generated_at": "2026-10-23T05:33:16.575Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【WORLD】Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds；【WORLD】Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing；【CRYPTO】Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -57,43 +57,43 @@
       "summary_zh": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working."
     },
     {
-      "id": "c88cd06d102e19af",
-      "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
-      "summary": "Your day-ahead look for Oct. 21, 2026",
+      "id": "76dacc51f9926a3e",
+      "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+      "summary": "Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
+      "source_url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
       "image_url": null,
-      "published_at": "2026-10-22T11:20:04.000Z",
+      "published_at": "2026-10-23T03:13:01.000Z",
       "importance_score": 62,
       "sentiment": 0,
       "tags": [
-        "crypto",
+        "ai",
         "bitcoin",
-        "etf"
+        "inflation",
+        "stocks"
       ],
       "region": "global",
-      "title_zh": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
-      "summary_zh": "Your day-ahead look for Oct. 21, 2026"
+      "title_zh": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+      "summary_zh": "Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus."
     },
     {
-      "id": "387a8086ec3c5790",
-      "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
-      "summary": "Spot bitcoin ETFs attracted $528 million on Wednesday as BlackRock and Fidelity led a recovery in institutional demand.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
+      "id": "057607206eb95d9a",
+      "title": "Q&A: How AI came to model the “messy” human mind",
+      "summary": "Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness into early AI, giving rise to deep-learning models that sometimes hallucinate.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
       "image_url": null,
-      "published_at": "2026-10-22T09:56:16.000Z",
-      "importance_score": 62,
+      "published_at": "2026-10-23T04:00:00.000Z",
+      "importance_score": 58,
       "sentiment": 0,
       "tags": [
-        "bitcoin",
-        "etf"
+        "ai"
       ],
       "region": "global",
-      "title_zh": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
-      "summary_zh": "Spot bitcoin ETFs attracted $528 million on Wednesday as BlackRock and Fidelity led a recovery in institutional demand."
+      "title_zh": "Q&A: How AI came to model the “messy” human mind",
+      "summary_zh": "Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness into early AI, giving rise to deep-learning models that sometimes hallucinate."
     },
     {
       "id": "7572bbcd2fc3627f",
@@ -231,7 +231,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html",
       "image_url": null,
-      "published_at": "2026-10-22T19:02:04.000Z",
+      "published_at": "2026-10-22T19:02:05.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -267,7 +267,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
       "image_url": null,
-      "published_at": "2026-10-22T16:01:35.000Z",
+      "published_at": "2026-10-22T16:01:36.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
@@ -310,6 +310,25 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools"
     },
     {
+      "id": "7547c935b735cb07",
+      "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+      "summary": "Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+      "image_url": null,
+      "published_at": "2026-10-23T04:59:34.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "ethereum"
+      ],
+      "region": "global",
+      "title_zh": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+      "summary_zh": "Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations."
+    },
+    {
       "id": "de75843d918b1452",
       "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
       "summary": "When Silvergate was on the verge of collapse in 2023, Coinbase instructed 30 customers to deposit funds into an alternate account held by Coinbase at another U.S. bank.",
@@ -328,23 +347,22 @@
       "summary_zh": "When Silvergate was on the verge of collapse in 2023, Coinbase instructed 30 customers to deposit funds into an alternate account held by Coinbase at another U.S. bank."
     },
     {
-      "id": "de0798d84898012d",
-      "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
-      "summary": "The pre-IPO Jio contract on Bitget is trading near $12, a roughly 4% premium on the top price band, as India’s largest public offering remains open for subscription.",
+      "id": "9dfa1edd3d8b2860",
+      "title": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
+      "summary": "LG CNS is set to integrate Chainlink's cross-chain, data, and orchestration infrastructure into its digital asset platform.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993",
       "image_url": null,
-      "published_at": "2026-10-22T10:18:28.000Z",
+      "published_at": "2026-10-23T02:48:13.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
-        "ai",
-        "crypto"
+        "ai"
       ],
       "region": "global",
-      "title_zh": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
-      "summary_zh": "The pre-IPO Jio contract on Bitget is trading near $12, a roughly 4% premium on the top price band, as India’s largest public offering remains open for subscription."
+      "title_zh": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
+      "summary_zh": "LG CNS is set to integrate Chainlink's cross-chain, data, and orchestration infrastructure into its digital asset platform."
     },
     {
       "id": "e8aa73ef6340b929",
@@ -366,74 +384,14 @@
       "summary_zh": "Uniswap Labs has launched aggregator hooks, allowing Uniswap v4 to route trades through liquidity held on external platforms."
     },
     {
-      "id": "2c726b0db3c485f5",
-      "title": "Trending Crypto: Universal High Income (UHI)",
-      "summary": "CoinGecko trending rank #615.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/universal-high-income-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102179637/large/logo.jpg?1792416691",
-      "published_at": "2026-10-23T00:23:42.548Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "uhi"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Universal High Income (UHI)",
-      "summary_zh": "CoinGecko trending rank #615."
-    },
-    {
-      "id": "51bb114c9b444b0c",
-      "title": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary": "CoinGecko trending rank #813.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/dacity-coin-3",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102179652/large/logo.webp?1792510837",
-      "published_at": "2026-10-23T00:23:42.548Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "dacity"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary_zh": "CoinGecko trending rank #813."
-    },
-    {
-      "id": "e74fed41a562436c",
-      "title": "Trending Crypto: OnlyAgent (OA)",
-      "summary": "CoinGecko trending rank #919.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/onlyagent",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102179691/large/logo.png?1792642934",
-      "published_at": "2026-10-23T00:23:42.548Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "oa"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: OnlyAgent (OA)",
-      "summary_zh": "CoinGecko trending rank #919."
-    },
-    {
-      "id": "a33df8edd46e175e",
+      "id": "57322b2a2a1539fe",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-10-23T00:23:42.548Z",
+      "published_at": "2026-10-23T05:32:00.982Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -446,14 +404,14 @@
       "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "6a25b214d59f6f3a",
+      "id": "48fac2c0b3302f2e",
       "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #114.",
+      "summary": "CoinGecko trending rank #113.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
       "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-10-23T00:23:42.548Z",
+      "published_at": "2026-10-23T05:32:00.982Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -463,7 +421,67 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #114."
+      "summary_zh": "CoinGecko trending rank #113."
+    },
+    {
+      "id": "bbc49e2bba1d3837",
+      "title": "Trending Crypto: Axis Robotics (AXIS)",
+      "summary": "CoinGecko trending rank #477.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/axis-robotics",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102178869/large/axisrobotics.png?1790578974",
+      "published_at": "2026-10-23T05:32:00.982Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "axis"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Axis Robotics (AXIS)",
+      "summary_zh": "CoinGecko trending rank #477."
+    },
+    {
+      "id": "949e316c644f1da6",
+      "title": "Trending Crypto: Zcash (ZEC)",
+      "summary": "CoinGecko trending rank #10.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/zcash",
+      "image_url": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558",
+      "published_at": "2026-10-23T05:32:00.982Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "zec"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Zcash (ZEC)",
+      "summary_zh": "CoinGecko trending rank #10."
+    },
+    {
+      "id": "f006ce462d5b4028",
+      "title": "Trending Crypto: Pearl (PEARL)",
+      "summary": "CoinGecko trending rank #89.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
+      "published_at": "2026-10-23T05:32:00.982Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pearl"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Pearl (PEARL)",
+      "summary_zh": "CoinGecko trending rank #89."
     },
     {
       "id": "f56091d6f87a6ba7",
@@ -682,42 +700,22 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Wednesday, 09/30/2026. To see our most recent links, visit the Quant Mashup. Read on readers! A New Stage, a New Deadline: Quantpedia Awards 2027 Are Here Again! [Quantpedia] Hello everyone, The Quantpedia Awards a"
     },
     {
-      "id": "472a05c05b0b9d74",
-      "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
-      "summary": "A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear.",
+      "id": "e8dab4151960ee67",
+      "title": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
+      "summary": "The Wall Street sell-off extended to Asian equities on Friday morning, with South Korea's Kospi down 2.3% and Japan's Nikkei 225 down 1.6%.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990",
       "image_url": null,
-      "published_at": "2026-10-22T12:14:29.000Z",
+      "published_at": "2026-10-23T02:21:30.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
-        "crypto",
-        "ethereum"
-      ],
-      "region": "global",
-      "title_zh": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
-      "summary_zh": "A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear."
-    },
-    {
-      "id": "c4597e87c52bdf79",
-      "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
-      "summary": "Bitcoin as much as 2.9% to around $81,600 as Nasdaq futures dropped, while the CoinDesk 80 lost 3.5% and DeFi index slid 6%.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
-      "image_url": null,
-      "published_at": "2026-10-22T10:50:04.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
         "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
-      "summary_zh": "Bitcoin as much as 2.9% to around $81,600 as Nasdaq futures dropped, while the CoinDesk 80 lost 3.5% and DeFi index slid 6%."
+      "title_zh": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
+      "summary_zh": "The Wall Street sell-off extended to Asian equities on Friday morning, with South Korea's Kospi down 2.3% and Japan's Nikkei 225 down 1.6%."
     },
     {
       "id": "054a7e96bdbfbe8c",
@@ -754,41 +752,6 @@
       "region": "global",
       "title_zh": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
       "summary_zh": "SoFi has launched SOFIE, a tokenized deposit offering 4.4% APY and FDIC insurance, with the option to convert to SoFiUSD."
-    },
-    {
-      "id": "4d37385cb554e890",
-      "title": "Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1",
-      "summary": "Starknet's community backed research into becoming an independent post-quantum Layer 1, with a draft whitepaper expected in November.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885",
-      "image_url": null,
-      "published_at": "2026-10-22T09:32:00.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1",
-      "summary_zh": "Starknet's community backed research into becoming an independent post-quantum Layer 1, with a draft whitepaper expected in November."
-    },
-    {
-      "id": "a794d3a6bce328dc",
-      "title": "Layer 2 Scaling Solutions",
-      "summary": "Layer 2 scaling solutions help blockchains like Ethereum process more activity without forcing every transaction to happen directly on the base chain. Ethereum’s main network is secure and decentralized, but blockspace is limited. When demand rises, fees increase and users can ge",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685",
-      "image_url": null,
-      "published_at": "2026-10-22T09:15:50.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "ethereum"
-      ],
-      "region": "global",
-      "title_zh": "Layer 2 Scaling Solutions",
-      "summary_zh": "Layer 2 scaling solutions help blockchains like Ethereum process more activity without forcing every transaction to happen directly on the base chain. Ethereum’s main network is secure and decentralized, but blockspace is limited. When demand rises, fees increase and users can ge"
     },
     {
       "id": "a6446520a2170e3f",
@@ -1075,40 +1038,6 @@
       "summary_zh": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access."
     },
     {
-      "id": "0d7e7917ccc33a86",
-      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-      "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-22T15:56:36.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-      "summary_zh": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis."
-    },
-    {
-      "id": "35e4386cd9d793c4",
-      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
-      "summary": "The quake hit a mountainous, sparsely-populated region in north-eastern Tibet.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-23T00:00:38.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Powerful earthquake hits Tibet killing 16 people, reports say",
-      "summary_zh": "The quake hit a mountainous, sparsely-populated region in north-eastern Tibet."
-    },
-    {
       "id": "74a5f7248259adfb",
       "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
       "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
@@ -1132,13 +1061,47 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-23T00:10:46.000Z",
+      "published_at": "2026-10-23T01:38:44.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
       "title_zh": "Trump ordered to answer questions under oath in BBC lawsuit",
       "summary_zh": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021."
+    },
+    {
+      "id": "f5d850849d66c035",
+      "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
+      "summary": "Officials say they both travelled through Entebbe International Airport on 3 October.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-23T04:54:25.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
+      "summary_zh": "Officials say they both travelled through Entebbe International Airport on 3 October."
+    },
+    {
+      "id": "0d7e7917ccc33a86",
+      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+      "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-22T15:56:36.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+      "summary_zh": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis."
     },
     {
       "id": "ebadd1dcf52e43fa",
@@ -1277,6 +1240,38 @@
       "summary_zh": "Smoke from the blazes, blamed on destructive agricultural practices, has sickened hundreds of thousands and blanketed neighboring countries."
     },
     {
+      "id": "7afffdca2b304b0c",
+      "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
+      "summary": "Matthew Modabber was reportedly ousted after an internal probe of several instances of misconduct, according to the New York Post.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
+      "image_url": null,
+      "published_at": "2026-10-23T05:01:19.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
+      "summary_zh": "Matthew Modabber was reportedly ousted after an internal probe of several instances of misconduct, according to the New York Post."
+    },
+    {
+      "id": "1555acd786a5ff40",
+      "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
+      "summary": "Toto Finance wants 22 million ADA from Cardano’s treasury to buy tokenized copper, and the metal would have to trade well above its all-time high for holders to get their money back.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
+      "image_url": null,
+      "published_at": "2026-10-23T04:36:51.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
+      "summary_zh": "Toto Finance wants 22 million ADA from Cardano’s treasury to buy tokenized copper, and the metal would have to trade well above its all-time high for holders to get their money back."
+    },
+    {
       "id": "e25f999b9d0ec58c",
       "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
       "summary": "Senator Richard Blumenthal, the ranking Democrat on the investigations subcommittee, added a probe of the ex-White House crypto adviser to his list of crypto interests.",
@@ -1366,6 +1361,24 @@
       "region": "global",
       "title_zh": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
       "summary_zh": "Boosters often say crypto voters can swing elections, but Democrats are seeking mileage out of tying crypto to Trump, corruption and attempts to buy seats in Congress."
+    },
+    {
+      "id": "4ef8bbc9f90751e2",
+      "title": "HSBC rolls out its first HKD stablecoin RedCoin to retail users",
+      "summary": "PayMe users will be able to activate a stablecoin wallet in-app in the coming days for peer-to-peer and peer-to-merchant payments.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018",
+      "image_url": null,
+      "published_at": "2026-10-23T04:03:09.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "HSBC rolls out its first HKD stablecoin RedCoin to retail users",
+      "summary_zh": "PayMe users will be able to activate a stablecoin wallet in-app in the coming days for peer-to-peer and peer-to-merchant payments."
     },
     {
       "id": "5896dcbe2bedb8d7",
@@ -1769,22 +1782,6 @@
       "region": "global",
       "title_zh": "How artificial neural networks build their own learning machinery",
       "summary_zh": "Machine-learning networks can learn without detailed instructions from a designer. Those that do may offer insight into how the brain reorganizes itself during learning."
-    },
-    {
-      "id": "d679b8d3fe971a81",
-      "title": "MIT Lincoln Laboratory hosts National Security Commission on Emerging Biotechnology",
-      "summary": "Roadshow event highlights Massachusetts' defense-biotechnology ecosystem.",
-      "category": "AI",
-      "source_name": "MIT News AI",
-      "source_url": "https://news.mit.edu/2026/mit-lincoln-laboratory-hosts-national-security-commission-emerging-biotechnology-1013",
-      "image_url": null,
-      "published_at": "2026-10-13T20:40:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "MIT Lincoln Laboratory hosts National Security Commission on Emerging Biotechnology",
-      "summary_zh": "Roadshow event highlights Massachusetts' defense-biotechnology ecosystem."
     },
     {
       "id": "8679bab18a79a2b9",
