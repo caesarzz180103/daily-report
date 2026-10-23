@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T15:32:08.913Z",
+  "generated_at": "2026-10-23T19:38:01.874Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high；【WORLD】Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say；【CRYPTO】Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports。",
   "meta": {
     "sources_count": 11,
@@ -40,12 +40,12 @@
     {
       "id": "d47203f82349fed1",
       "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
-      "summary": "The Israeli military said two soldiers had been killed, and Prime Minister Benjamin Netanyahu threatened to launch a major offensive in the Israeli-occupied territory.",
+      "summary": "The Israeli military said two soldiers and two attackers had been killed, and three soldiers wounded. Prime Minister Benjamin Netanyahu vowed to launch a major offensive in the Israeli-occupied territory.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
       "image_url": null,
-      "published_at": "2026-10-23T13:58:18.000Z",
+      "published_at": "2026-10-23T17:11:13.000Z",
       "importance_score": 64,
       "sentiment": 0,
       "tags": [
@@ -53,7 +53,7 @@
       ],
       "region": "global",
       "title_zh": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
-      "summary_zh": "The Israeli military said two soldiers had been killed, and Prime Minister Benjamin Netanyahu threatened to launch a major offensive in the Israeli-occupied territory."
+      "summary_zh": "The Israeli military said two soldiers and two attackers had been killed, and three soldiers wounded. Prime Minister Benjamin Netanyahu vowed to launch a major offensive in the Israeli-occupied territory."
     },
     {
       "id": "9f0d0d1d2ce0364c",
@@ -240,54 +240,36 @@
       "summary_zh": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
-      "id": "b4efba7eb349cdaa",
-      "title": "Six shot dead by gunmen at church funeral in Jordan, officials say",
-      "summary": "Another 28 people are injured in the southern Karak governorate, and a manhunt is now under way.",
+      "id": "4142d52ef22dadc0",
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-23T15:15:18.000Z",
+      "published_at": "2026-10-23T18:10:56.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Six shot dead by gunmen at church funeral in Jordan, officials say",
-      "summary_zh": "Another 28 people are injured in the southern Karak governorate, and a manhunt is now under way."
+      "title_zh": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "summary_zh": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
     },
     {
-      "id": "47c458c0ce21b827",
-      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-      "summary": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election.",
+      "id": "a265d70a5b91abce",
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-23T14:45:43.000Z",
+      "published_at": "2026-10-23T15:37:07.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-      "summary_zh": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election."
-    },
-    {
-      "id": "c132bd1dc989aabf",
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-23T11:01:08.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "summary_zh": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown."
+      "title_zh": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "summary_zh": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning."
     },
     {
       "id": "53d9f71a429330f5",
@@ -329,7 +311,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/23/world/europe/uk-powell-sarah-helm-palestine.html",
       "image_url": null,
-      "published_at": "2026-10-23T15:23:56.000Z",
+      "published_at": "2026-10-23T17:35:25.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -407,6 +389,24 @@
       "summary_zh": "CoinDCX denies its active wallets were hacked after sleuths flagged $16 million in outflows from addresses linked to the India-based exchange."
     },
     {
+      "id": "011f8959fece7e7a",
+      "title": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
+      "summary": "Netanyahu says blockchain could help Israel prepare for possible sanctions targeting its banking system.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792",
+      "image_url": null,
+      "published_at": "2026-10-23T18:15:55.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
+      "summary_zh": "Netanyahu says blockchain could help Israel prepare for possible sanctions targeting its banking system."
+    },
+    {
       "id": "a84f9d105b8f25b7",
       "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
       "summary": "Malaysia and Thailand have joined Singapore's BLOOM initiative for cross-border stablecoin and tokenized deposit settlement.",
@@ -443,14 +443,34 @@
       "summary_zh": "LG CNS is set to integrate Chainlink's cross-chain, data, and orchestration infrastructure into its digital asset platform."
     },
     {
-      "id": "b8035367435029cc",
+      "id": "5bdf2f056d330754",
+      "title": "Trending Crypto: Irys (IRYS)",
+      "summary": "CoinGecko trending rank #120.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/irys",
+      "image_url": "https://coin-images.coingecko.com/coins/images/70808/large/irys.png?1764757341",
+      "published_at": "2026-10-23T19:36:52.401Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "irys"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Irys (IRYS)",
+      "summary_zh": "CoinGecko trending rank #120."
+    },
+    {
+      "id": "9e141a773f00355a",
       "title": "Trending Crypto: Universal High Income (UHI)",
-      "summary": "CoinGecko trending rank #617.",
+      "summary": "CoinGecko trending rank #569.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/universal-high-income-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179637/large/logo.jpg?1792416691",
-      "published_at": "2026-10-23T15:30:57.569Z",
+      "published_at": "2026-10-23T19:36:52.401Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -460,17 +480,17 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Universal High Income (UHI)",
-      "summary_zh": "CoinGecko trending rank #617."
+      "summary_zh": "CoinGecko trending rank #569."
     },
     {
-      "id": "722d988209e4430a",
+      "id": "379a1c0bdf283ec2",
       "title": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary": "CoinGecko trending rank #851.",
+      "summary": "CoinGecko trending rank #847.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/dacity-coin-3",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179652/large/logo.webp?1792510837",
-      "published_at": "2026-10-23T15:30:57.569Z",
+      "published_at": "2026-10-23T19:36:52.401Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -480,57 +500,17 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary_zh": "CoinGecko trending rank #851."
+      "summary_zh": "CoinGecko trending rank #847."
     },
     {
-      "id": "e7a32a9a81d7393d",
-      "title": "Trending Crypto: Pearl (PEARL)",
-      "summary": "CoinGecko trending rank #90.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-10-23T15:30:57.569Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pearl"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Pearl (PEARL)",
-      "summary_zh": "CoinGecko trending rank #90."
-    },
-    {
-      "id": "99e559a039ec6ade",
-      "title": "Trending Crypto: Quantus (QTC)",
-      "summary": "CoinGecko trending rank #716.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/quantus",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102171910/large/Token_Icon.png?1791345433",
-      "published_at": "2026-10-23T15:30:57.569Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "qtc"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Quantus (QTC)",
-      "summary_zh": "CoinGecko trending rank #716."
-    },
-    {
-      "id": "d819413c5a899c98",
+      "id": "c637d4da65e3f65d",
       "title": "Trending Crypto: Pudgy Penguins (PENGU)",
       "summary": "CoinGecko trending rank #111.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
       "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-10-23T15:30:57.569Z",
+      "published_at": "2026-10-23T19:36:52.401Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -541,6 +521,26 @@
       "region": "global",
       "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
       "summary_zh": "CoinGecko trending rank #111."
+    },
+    {
+      "id": "6f099cef0adc93d1",
+      "title": "Trending Crypto: Pearl (PEARL)",
+      "summary": "CoinGecko trending rank #88.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
+      "published_at": "2026-10-23T19:36:52.401Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pearl"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Pearl (PEARL)",
+      "summary_zh": "CoinGecko trending rank #88."
     },
     {
       "id": "f56091d6f87a6ba7",
@@ -814,22 +814,23 @@
       "summary_zh": "Previous bitcoin bear-market lows followed U.S. midterms, but this year’s recovery raises the possibility that the bottom arrived months earlier."
     },
     {
-      "id": "e8dab4151960ee67",
-      "title": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
-      "summary": "The Wall Street sell-off extended to Asian equities on Friday morning, with South Korea's Kospi down 2.3% and Japan's Nikkei 225 down 1.6%.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990",
+      "id": "3ca854e9cd10870b",
+      "title": "Securing our frontier model training environment",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "image_url": null,
-      "published_at": "2026-10-23T02:21:30.000Z",
-      "importance_score": 50,
+      "published_at": "2026-10-23T10:00:00.000Z",
+      "importance_score": 46,
       "sentiment": 0,
       "tags": [
-        "bitcoin"
+        "ai",
+        "openai"
       ],
       "region": "global",
-      "title_zh": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
-      "summary_zh": "The Wall Street sell-off extended to Asian equities on Friday morning, with South Korea's Kospi down 2.3% and Japan's Nikkei 225 down 1.6%."
+      "title_zh": "Securing our frontier model training environment",
+      "summary_zh": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
     },
     {
       "id": "8049990d7e19a49b",
@@ -908,23 +909,20 @@
       "summary_zh": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
     },
     {
-      "id": "d2cf2c0608bc9d18",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "id": "3626bff7dbd290e5",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "summary": "",
       "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/allenai/litpivot",
       "image_url": null,
-      "published_at": "2026-10-21T04:50:00.000Z",
+      "published_at": "2026-10-23T16:15:50.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Using thousands of AI agents to uncover new leads in biological data",
-      "summary_zh": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
+      "title_zh": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "summary_zh": ""
     },
     {
       "id": "b347da373302ab6f",
@@ -1135,30 +1133,30 @@
       "summary_zh": "The latest 12-month period marked the strongest return for the university's fund since 2021."
     },
     {
-      "id": "aa1d16d0d59eca84",
-      "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+      "id": "ed5f510243c991cb",
+      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
       "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-23T14:15:23.000Z",
+      "published_at": "2026-10-23T19:20:41.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+      "title_zh": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
       "summary_zh": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended."
     },
     {
       "id": "ff998ac29fc74a27",
       "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
-      "summary": "Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-23T15:06:27.000Z",
+      "published_at": "2026-10-23T19:30:19.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1166,7 +1164,41 @@
       ],
       "region": "global",
       "title_zh": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
-      "summary_zh": "Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
+      "summary_zh": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
+    },
+    {
+      "id": "c132bd1dc989aabf",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-23T18:52:17.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "summary_zh": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\"."
+    },
+    {
+      "id": "bdc8548f7242d48e",
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-23T15:30:47.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Oil spill washes up on UAE beaches after tanker strike",
+      "summary_zh": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife"
     },
     {
       "id": "8d6d4b0e40230f43",
@@ -1205,22 +1237,6 @@
       "summary_zh": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month."
     },
     {
-      "id": "42cc039cf5723523",
-      "title": "Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine",
-      "summary": "The Supreme Court will consider in the new year whether the 1868 legislation forbidding home distilling should be overturned.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-23T15:24:35.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine",
-      "summary_zh": "The Supreme Court will consider in the new year whether the 1868 legislation forbidding home distilling should be overturned."
-    },
-    {
       "id": "a4e44f8185b87d42",
       "title": "The Bukeleization of Latin America Has Arrived",
       "summary": "Nayib Bukele’s notoriously harsh and wildly popular security crackdown in El Salvador is spawning imitators and remaking the region.",
@@ -1244,7 +1260,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/23/world/europe/france-police-protests.html",
       "image_url": null,
-      "published_at": "2026-10-23T14:18:29.000Z",
+      "published_at": "2026-10-23T18:31:39.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1253,20 +1269,20 @@
       "summary_zh": "Government officials are trying to avoid a repeat of last weekend’s unrest across the country, which injured police officers and damaged stores."
     },
     {
-      "id": "92adeda9fbd9200d",
-      "title": "Gunmen Open Fire at Church in Jordan, Killing at Least Six",
-      "summary": "The shooting took place during a funeral in the southern province of Karak, home to a longstanding Christian community, according to Jordan’s national police force. It was one of the kingdom’s deadliest attacks in years.",
+      "id": "184d97d9f128bf80",
+      "title": "Gunmen Open Fire at Church in Jordan, Killing at Least Seven",
+      "summary": "The shooting took place during a funeral in the southern province of Karak, home to a longstanding Christian community, according to Jordan’s police chief.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html",
       "image_url": null,
-      "published_at": "2026-10-23T15:29:34.000Z",
+      "published_at": "2026-10-23T18:03:16.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Gunmen Open Fire at Church in Jordan, Killing at Least Six",
-      "summary_zh": "The shooting took place during a funeral in the southern province of Karak, home to a longstanding Christian community, according to Jordan’s national police force. It was one of the kingdom’s deadliest attacks in years."
+      "title_zh": "Gunmen Open Fire at Church in Jordan, Killing at Least Seven",
+      "summary_zh": "The shooting took place during a funeral in the southern province of Karak, home to a longstanding Christian community, according to Jordan’s police chief."
     },
     {
       "id": "29befd70946a4316",
@@ -1294,7 +1310,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/23/world/europe/finland-puppies-livestream-slow-tv.html",
       "image_url": null,
-      "published_at": "2026-10-23T14:53:47.000Z",
+      "published_at": "2026-10-23T16:38:45.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1373,6 +1389,43 @@
       "summary_zh": "Matthew Modabber was reportedly ousted after an internal probe of several instances of misconduct, according to the New York Post."
     },
     {
+      "id": "e25afc7ff44d3147",
+      "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
+      "summary": "Sen. Blumenthal said he wants answers from Tether following reports that it paid millions to a firm started by a former WH crypto adviser.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785",
+      "image_url": null,
+      "published_at": "2026-10-23T17:46:09.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
+      "summary_zh": "Sen. Blumenthal said he wants answers from Tether following reports that it paid millions to a firm started by a former WH crypto adviser."
+    },
+    {
+      "id": "60df525e9da56b90",
+      "title": "Initia halts network after security incident as attacker reportedly mints tokens",
+      "summary": "Onchain data shows a $2.7 million ether transfer as Initia investigates the scope of a security incident.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755",
+      "image_url": null,
+      "published_at": "2026-10-23T17:03:56.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Initia halts network after security incident as attacker reportedly mints tokens",
+      "summary_zh": "Onchain data shows a $2.7 million ether transfer as Initia investigates the scope of a security incident."
+    },
+    {
       "id": "f36334af61e12299",
       "title": "Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid state lawsuits",
       "summary": "Phantom users will fund trades with CASH stablecoins, with market restrictions applied in Michigan, Nevada and Washington.",
@@ -1441,42 +1494,23 @@
       "summary_zh": "PayMe users will be able to activate a stablecoin wallet in-app in the coming days for peer-to-peer and peer-to-merchant payments."
     },
     {
-      "id": "5896dcbe2bedb8d7",
-      "title": "JPMorgan says crypto regulatory moves partly offset Clarity Act failure, but risks remain",
-      "summary": "JPMorgan said actions by U.S. regulators partly offset the Clarity Act setback, but longer-lasting rules are still needed.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-10-22-jpmorgan-crypto-regulatory-moves-clarity-act-failure-risks-423473",
+      "id": "a03131aba90fe4bc",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
       "image_url": null,
-      "published_at": "2026-10-22T19:14:21.000Z",
-      "importance_score": 44,
+      "published_at": "2026-10-23T17:00:00.000Z",
+      "importance_score": 40,
       "sentiment": 0,
       "tags": [
         "ai",
-        "crypto"
+        "openai"
       ],
       "region": "global",
-      "title_zh": "JPMorgan says crypto regulatory moves partly offset Clarity Act failure, but risks remain",
-      "summary_zh": "JPMorgan said actions by U.S. regulators partly offset the Clarity Act setback, but longer-lasting rules are still needed."
-    },
-    {
-      "id": "157ec32ee1e6e097",
-      "title": "Blockchain Association pushes for crypto tax clarity as broader bill stalls",
-      "summary": "As progress stalls on a crypto bill, the Blockchain Association is urging Congress to pass legislation to resolve uncertainty around taxes.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-10-22-blockchain-association-pushes-crypto-tax-clarity-broader-bill-stalls-423475",
-      "image_url": null,
-      "published_at": "2026-10-22T18:59:25.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Blockchain Association pushes for crypto tax clarity as broader bill stalls",
-      "summary_zh": "As progress stalls on a crypto bill, the Blockchain Association is urging Congress to pass legislation to resolve uncertainty around taxes."
+      "title_zh": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "summary_zh": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
     },
     {
       "id": "725a36b05920f60a",
@@ -1531,38 +1565,6 @@
       "region": "global",
       "title_zh": "Broad access through consistent standards",
       "summary_zh": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
-    },
-    {
-      "id": "b7a3113e7ecd31ef",
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "image_url": null,
-      "published_at": "2026-10-21T13:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "summary_zh": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
-    },
-    {
-      "id": "fc244a8c49efabef",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "image_url": null,
-      "published_at": "2026-10-22T16:11:31.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "summary_zh": ""
     },
     {
       "id": "195004e6c9279986",
