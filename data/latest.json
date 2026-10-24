@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T15:00:59.855Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high；【CRYPTO】Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO；【CRYPTO】Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports。",
+  "generated_at": "2026-10-24T17:55:45.600Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends；【CRYPTO】Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO；【CRYPTO】Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -20,30 +20,31 @@
   },
   "items": [
     {
-      "id": "aa2412f17abc8b49",
-      "title": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
-      "summary": "Brent crude oil surged above $116 per barrel for the first time since late April.",
+      "id": "cce4def018fd7c72",
+      "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+      "summary": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
+      "source_url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
       "image_url": null,
-      "published_at": "2026-10-23T11:13:01.000Z",
-      "importance_score": 68,
+      "published_at": "2026-10-24T16:00:00.000Z",
+      "importance_score": 74,
       "sentiment": 0,
       "tags": [
-        "bitcoin"
+        "bitcoin",
+        "etf"
       ],
       "region": "global",
-      "title_zh": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
-      "summary_zh": "Brent crude oil surged above $116 per barrel for the first time since late April."
+      "title_zh": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+      "summary_zh": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market."
     },
     {
-      "id": "902bcf56b200fdd7",
+      "id": "64fb25ced166491d",
       "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
       "summary": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/",
+      "source_url": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
       "image_url": null,
       "published_at": "2026-10-24T14:00:00.000Z",
       "importance_score": 62,
@@ -74,6 +75,26 @@
       "region": "global",
       "title_zh": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
       "summary_zh": "The company's head of futures and prediction markets said bitcoin, gold and oil contracts are among its fastest-growing prediction markets."
+    },
+    {
+      "id": "69a2b2f598f8d2b7",
+      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
+      "summary": "Spot bitcoin ETFs lost $773 million on Thursday and Friday after three days of net inflows, per SoSoValue data.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
+      "image_url": null,
+      "published_at": "2026-10-24T17:44:36.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "bitcoin",
+        "etf"
+      ],
+      "region": "global",
+      "title_zh": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
+      "summary_zh": "Spot bitcoin ETFs lost $773 million on Thursday and Friday after three days of net inflows, per SoSoValue data."
     },
     {
       "id": "4aec804be91cff10",
@@ -259,14 +280,32 @@
       "summary_zh": "Hundreds of Palestinian families fled their homes as the Israeli military raided Hebron. The operation came a day after Palestinian gunmen killed two soldiers."
     },
     {
-      "id": "d6ae2d505de34cf3",
-      "title": "Speed of Starshield Satellite Network Is Improving, Ukraine Says",
-      "summary": "The announcement followed more than a week of disruption to Starshield, the Pentagon-funded satellite network that Ukraine relies on to thwart Russian attacks.",
+      "id": "12617be5dfe4061e",
+      "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
+      "summary": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
+      "image_url": null,
+      "published_at": "2026-10-24T17:45:16.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
+      "summary_zh": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself."
+    },
+    {
+      "id": "200583ba748b9697",
+      "title": "Drones on Starshield Network Are Back to Normal Speeds, Ukraine Says",
+      "summary": "The announcement followed more than a week of unexplained problems with Starshield, the Pentagon-funded satellite network Ukraine relies on to thwart Russian attacks.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
       "image_url": null,
-      "published_at": "2026-10-24T13:12:35.000Z",
+      "published_at": "2026-10-24T16:11:38.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -274,8 +313,8 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Speed of Starshield Satellite Network Is Improving, Ukraine Says",
-      "summary_zh": "The announcement followed more than a week of disruption to Starshield, the Pentagon-funded satellite network that Ukraine relies on to thwart Russian attacks."
+      "title_zh": "Drones on Starshield Network Are Back to Normal Speeds, Ukraine Says",
+      "summary_zh": "The announcement followed more than a week of unexplained problems with Starshield, the Pentagon-funded satellite network Ukraine relies on to thwart Russian attacks."
     },
     {
       "id": "62407d99b47ae5d1",
@@ -349,32 +388,34 @@
       "summary_zh": "Malaysia and Thailand have joined Singapore's BLOOM initiative for cross-border stablecoin and tokenized deposit settlement."
     },
     {
-      "id": "9dfa1edd3d8b2860",
-      "title": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
-      "summary": "LG CNS is set to integrate Chainlink's cross-chain, data, and orchestration infrastructure into its digital asset platform.",
+      "id": "85d5cebc07afe149",
+      "title": "Trending Crypto: Universal High Income (UHI)",
+      "summary": "CoinGecko trending rank #583.",
       "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993",
-      "image_url": null,
-      "published_at": "2026-10-23T02:48:13.000Z",
-      "importance_score": 56,
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/universal-high-income-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102179637/large/logo.jpg?1792416691",
+      "published_at": "2026-10-24T17:54:33.995Z",
+      "importance_score": 55,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "crypto",
+        "trending",
+        "uhi"
       ],
       "region": "global",
-      "title_zh": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
-      "summary_zh": "LG CNS is set to integrate Chainlink's cross-chain, data, and orchestration infrastructure into its digital asset platform."
+      "title_zh": "Trending Crypto: Universal High Income (UHI)",
+      "summary_zh": "CoinGecko trending rank #583."
     },
     {
-      "id": "6adac32e5ed00d07",
+      "id": "e8c6e373beb8f065",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
       "summary": "CoinGecko trending rank #11.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
       "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-10-24T14:59:48.737Z",
+      "published_at": "2026-10-24T17:54:33.995Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -387,54 +428,34 @@
       "summary_zh": "CoinGecko trending rank #11."
     },
     {
-      "id": "666317841b4b4a13",
-      "title": "Trending Crypto: Universal High Income (UHI)",
-      "summary": "CoinGecko trending rank #649.",
+      "id": "69bbb27f9edcd775",
+      "title": "Trending Crypto: Solana (SOL)",
+      "summary": "CoinGecko trending rank #7.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/universal-high-income-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102179637/large/logo.jpg?1792416691",
-      "published_at": "2026-10-24T14:59:48.737Z",
+      "source_url": "https://www.coingecko.com/en/coins/solana",
+      "image_url": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
+      "published_at": "2026-10-24T17:54:33.995Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "uhi"
+        "sol"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Universal High Income (UHI)",
-      "summary_zh": "CoinGecko trending rank #649."
+      "title_zh": "Trending Crypto: Solana (SOL)",
+      "summary_zh": "CoinGecko trending rank #7."
     },
     {
-      "id": "0c614816c09fab31",
-      "title": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary": "CoinGecko trending rank #882.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/dacity-coin-3",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102179652/large/logo.webp?1792510837",
-      "published_at": "2026-10-24T14:59:48.737Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "dacity"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary_zh": "CoinGecko trending rank #882."
-    },
-    {
-      "id": "3ec993a295792d21",
+      "id": "f00a3b94f0545e85",
       "title": "Trending Crypto: Binance Super CZ (BSC)",
-      "summary": "CoinGecko trending rank #802.",
+      "summary": "CoinGecko trending rank #842.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/binance-super-cz-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179721/large/logo.png?1792699055",
-      "published_at": "2026-10-24T14:59:48.737Z",
+      "published_at": "2026-10-24T17:54:33.995Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -444,27 +465,27 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Binance Super CZ (BSC)",
-      "summary_zh": "CoinGecko trending rank #802."
+      "summary_zh": "CoinGecko trending rank #842."
     },
     {
-      "id": "9bc3d8425bd36d0e",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #114.",
+      "id": "11e7685f2a65ab17",
+      "title": "Trending Crypto: Dacity Coin (DACITY)",
+      "summary": "CoinGecko trending rank #816.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-10-24T14:59:48.737Z",
+      "source_url": "https://www.coingecko.com/en/coins/dacity-coin-3",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102179652/large/logo.webp?1792510837",
+      "published_at": "2026-10-24T17:54:33.995Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pengu"
+        "dacity"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #114."
+      "title_zh": "Trending Crypto: Dacity Coin (DACITY)",
+      "summary_zh": "CoinGecko trending rank #816."
     },
     {
       "id": "f56091d6f87a6ba7",
@@ -631,20 +652,20 @@
       "summary_zh": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution."
     },
     {
-      "id": "3888e2166867cbfa",
-      "title": "Live Updates: Protesters March in France Amid Heavy Security",
-      "summary": "The interior minister estimated that 35,000 people were out on streets nationwide by midday. As many as 70,000 police and security officers will try to avert the arson and looting that shocked the country last weekend.",
+      "id": "7dfe5e1c9b4402c1",
+      "title": "Live Updates: Hundreds of Thousands March in France Amid Heavy Security",
+      "summary": "The marches were largely peaceful until evening, when clashes popped up and the police used tear gas and water cannons to disperse some protesters in Marseille and Paris.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
       "image_url": null,
-      "published_at": "2026-10-24T14:48:12.000Z",
+      "published_at": "2026-10-24T17:47:52.000Z",
       "importance_score": 52,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Live Updates: Protesters March in France Amid Heavy Security",
-      "summary_zh": "The interior minister estimated that 35,000 people were out on streets nationwide by midday. As many as 70,000 police and security officers will try to avert the arson and looting that shocked the country last weekend."
+      "title_zh": "Live Updates: Hundreds of Thousands March in France Amid Heavy Security",
+      "summary_zh": "The marches were largely peaceful until evening, when clashes popped up and the police used tear gas and water cannons to disperse some protesters in Marseille and Paris."
     },
     {
       "id": "71c5111662b1663f",
@@ -697,61 +718,23 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/03/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Buffett’s be greedy when others are fearful, tested [Quanter Lab] \"Be greedy when others are fearful\" is Warren Buffett's"
     },
     {
-      "id": "c1bae12009fd5664",
-      "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
-      "summary": "Developers merged a policy change that ends the months-long embargo for flaws a chatbot could rediscover, after a summer in which AI found hundreds of bitcoin bugs before the humans did.",
+      "id": "841a27851e0e57ce",
+      "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+      "summary": "Bitcoin has sunk to its weakest level in more than one month.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
+      "source_url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
       "image_url": null,
-      "published_at": "2026-10-23T12:03:53.000Z",
+      "published_at": "2026-10-24T15:11:24.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
-        "ai",
-        "bitcoin",
-        "policy"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
-      "summary_zh": "Developers merged a policy change that ends the months-long embargo for flaws a chatbot could rediscover, after a summer in which AI found hundreds of bitcoin bugs before the humans did."
-    },
-    {
-      "id": "743f6009fd03aa61",
-      "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
-      "summary": "Your day-ahead look for Oct. 23, 2026",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
-      "image_url": null,
-      "published_at": "2026-10-23T11:22:33.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
+        "crypto",
         "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
-      "summary_zh": "Your day-ahead look for Oct. 23, 2026"
-    },
-    {
-      "id": "25725f6ec12afd97",
-      "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
-      "summary": "Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
-      "image_url": null,
-      "published_at": "2026-10-23T10:54:41.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
-      "summary_zh": "Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%."
+      "title_zh": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+      "summary_zh": "Bitcoin has sunk to its weakest level in more than one month."
     },
     {
       "id": "3ca854e9cd10870b",
@@ -1075,21 +1058,21 @@
       "summary_zh": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week."
     },
     {
-      "id": "d902a3ddc806fd67",
-      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "id": "b695645f1aad4535",
+      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
       "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-24T14:16:05.000Z",
+      "published_at": "2026-10-24T15:21:44.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "title_zh": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
       "summary_zh": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
     },
     {
@@ -1113,50 +1096,18 @@
     {
       "id": "2583394d6c56c099",
       "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-      "summary": "The children were subsequently rescued from the water, police say.",
+      "summary": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-24T09:45:47.000Z",
+      "published_at": "2026-10-24T17:11:56.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
       "title_zh": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-      "summary_zh": "The children were subsequently rescued from the water, police say."
-    },
-    {
-      "id": "16a5ca9db48e4261",
-      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-      "summary": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-23T23:08:23.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-      "summary_zh": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule."
-    },
-    {
-      "id": "7a36e33d1bdaa560",
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-24T09:46:53.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "summary_zh": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo."
+      "summary_zh": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\"."
     },
     {
       "id": "600ac2b0779d4b47",
@@ -1193,6 +1144,22 @@
       "summary_zh": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say."
     },
     {
+      "id": "7a36e33d1bdaa560",
+      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-24T09:46:53.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "summary_zh": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo."
+    },
+    {
       "id": "dae555c53c757759",
       "title": "Australian MP's condition improves after alleged car attack",
       "summary": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
@@ -1207,6 +1174,22 @@
       "region": "global",
       "title_zh": "Australian MP's condition improves after alleged car attack",
       "summary_zh": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital."
+    },
+    {
+      "id": "16a5ca9db48e4261",
+      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+      "summary": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-23T23:08:23.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+      "summary_zh": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule."
     },
     {
       "id": "6c4463a9f606ec8d",
@@ -1225,6 +1208,24 @@
       "region": "global",
       "title_zh": "White House lifts tariffs on some Canadian goods as midterm elections loom",
       "summary_zh": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets."
+    },
+    {
+      "id": "0a928a96773b0c05",
+      "title": "Why Is the U.S. Accusing Canada of Election Interference?",
+      "summary": "The Trump administration says Canadian officials are trying to sway the midterm elections for Democrats. Prime Minister Mark Carney says those claims have “no merit.”",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html",
+      "image_url": null,
+      "published_at": "2026-10-24T16:02:21.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Why Is the U.S. Accusing Canada of Election Interference?",
+      "summary_zh": "The Trump administration says Canadian officials are trying to sway the midterm elections for Democrats. Prime Minister Mark Carney says those claims have “no merit.”"
     },
     {
       "id": "cd468bae3c399fd2",
@@ -1261,22 +1262,6 @@
       "region": "global",
       "title_zh": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump",
       "summary_zh": "The United States once declared that Ukraine’s fight was the front line in a global battle for freedom. Now the Trump administration is sending money to Moscow."
-    },
-    {
-      "id": "81113ee1e3370f04",
-      "title": "Netanyahu Has Reinvented Himself. Will Voters Think It’s Enough?",
-      "summary": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
-      "image_url": null,
-      "published_at": "2026-10-24T04:01:09.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Netanyahu Has Reinvented Himself. Will Voters Think It’s Enough?",
-      "summary_zh": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself."
     },
     {
       "id": "ca86070edcafb3c4",
@@ -1327,20 +1312,41 @@
       "summary_zh": "The Trump administration wants a public victory soon, as well as a potential path to U.S. military forces in Mexico."
     },
     {
-      "id": "d7a32012514d1712",
-      "title": "Could Lula Be on the Brink of Defeat in Brazil’s Election?",
-      "summary": "Brazil’s President Luiz Inácio Lula da Silva faces an uphill battle for another term, in a high-stakes election that may reshape Latin America.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html",
+      "id": "f8b364b10366b270",
+      "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
+      "summary": "Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children’s education.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
       "image_url": null,
-      "published_at": "2026-10-24T09:02:26.000Z",
-      "importance_score": 46,
+      "published_at": "2026-10-24T15:21:06.000Z",
+      "importance_score": 44,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai"
+      ],
       "region": "global",
-      "title_zh": "Could Lula Be on the Brink of Defeat in Brazil’s Election?",
-      "summary_zh": "Brazil’s President Luiz Inácio Lula da Silva faces an uphill battle for another term, in a high-stakes election that may reshape Latin America."
+      "title_zh": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
+      "summary_zh": "Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children’s education."
+    },
+    {
+      "id": "391d724e37c5e40b",
+      "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+      "summary": "Some of the world's biggest companies objected to being listed on the first tokenized securities trading venue under the SEC's innovation exemption. But the early pushback may say more about issuer caution than about rejection of tokenization itself.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
+      "image_url": null,
+      "published_at": "2026-10-24T15:00:00.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "google",
+        "stocks"
+      ],
+      "region": "global",
+      "title_zh": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+      "summary_zh": "Some of the world's biggest companies objected to being listed on the first tokenized securities trading venue under the SEC's innovation exemption. But the early pushback may say more about issuer caution than about rejection of tokenization itself."
     },
     {
       "id": "c92e7096d2a59d98",
@@ -1389,6 +1395,22 @@
       "region": "global",
       "title_zh": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
       "summary_zh": "Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer."
+    },
+    {
+      "id": "be1c04cd530f61f5",
+      "title": "Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’",
+      "summary": "The judge's 60-page ruling concluded Argentine President Javier Milei's post promoting the LIBRA token did not, by itself, establish fraud.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606",
+      "image_url": null,
+      "published_at": "2026-10-24T16:24:13.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’",
+      "summary_zh": "The judge's 60-page ruling concluded Argentine President Javier Milei's post promoting the LIBRA token did not, by itself, establish fraud."
     },
     {
       "id": "e25afc7ff44d3147",
@@ -1476,24 +1498,6 @@
       "region": "global",
       "title_zh": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
       "summary_zh": "South Korea is currently developing the Digital Asset Basic Act, which seeks to establish a comprehensive framework for crypto."
-    },
-    {
-      "id": "4ef8bbc9f90751e2",
-      "title": "HSBC rolls out its first HKD stablecoin RedCoin to retail users",
-      "summary": "PayMe users will be able to activate a stablecoin wallet in-app in the coming days for peer-to-peer and peer-to-merchant payments.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018",
-      "image_url": null,
-      "published_at": "2026-10-23T04:03:09.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "HSBC rolls out its first HKD stablecoin RedCoin to retail users",
-      "summary_zh": "PayMe users will be able to activate a stablecoin wallet in-app in the coming days for peer-to-peer and peer-to-merchant payments."
     },
     {
       "id": "a03131aba90fe4bc",
