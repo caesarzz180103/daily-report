@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T11:43:18.694Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high；【WORLD】Israel Launches Crackdown in West Bank After Deadly Attack；【CRYPTO】Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports。",
+  "generated_at": "2026-10-24T15:00:59.855Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high；【CRYPTO】Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO；【CRYPTO】Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -38,20 +38,23 @@
       "summary_zh": "Brent crude oil surged above $116 per barrel for the first time since late April."
     },
     {
-      "id": "dc498862ce2a6477",
-      "title": "Israel Launches Crackdown in West Bank After Deadly Attack",
-      "summary": "The military demolished buildings and erected roadblocks in Hebron, the biggest city in the territory, a day after Palestinian gunmen killed two soldiers.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
+      "id": "902bcf56b200fdd7",
+      "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+      "summary": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
       "image_url": null,
-      "published_at": "2026-10-24T11:04:10.000Z",
-      "importance_score": 64,
+      "published_at": "2026-10-24T14:00:00.000Z",
+      "importance_score": 62,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai",
+        "bitcoin"
+      ],
       "region": "global",
-      "title_zh": "Israel Launches Crackdown in West Bank After Deadly Attack",
-      "summary_zh": "The military demolished buildings and erected roadblocks in Hebron, the biggest city in the territory, a day after Palestinian gunmen killed two soldiers."
+      "title_zh": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+      "summary_zh": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk."
     },
     {
       "id": "9f0d0d1d2ce0364c",
@@ -238,6 +241,24 @@
       "summary_zh": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
+      "id": "0cb84460e19fb068",
+      "title": "Israel Cracks Down in West Bank City After Deadly Attack",
+      "summary": "Hundreds of Palestinian families fled their homes as the Israeli military raided Hebron. The operation came a day after Palestinian gunmen killed two soldiers.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
+      "image_url": null,
+      "published_at": "2026-10-24T14:52:05.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Israel Cracks Down in West Bank City After Deadly Attack",
+      "summary_zh": "Hundreds of Palestinian families fled their homes as the Israeli military raided Hebron. The operation came a day after Palestinian gunmen killed two soldiers."
+    },
+    {
       "id": "d6ae2d505de34cf3",
       "title": "Speed of Starshield Satellite Network Is Improving, Ukraine Says",
       "summary": "The announcement followed more than a week of disruption to Starshield, the Pentagon-funded satellite network that Ukraine relies on to thwart Russian attacks.",
@@ -245,7 +266,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
       "image_url": null,
-      "published_at": "2026-10-24T10:08:45.000Z",
+      "published_at": "2026-10-24T13:12:35.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -273,36 +294,23 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools"
     },
     {
-      "id": "e9f193baef04439d",
-      "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
-      "summary": "The Riksbank sees an e-krona as critical to securing national payments and monetary control.",
+      "id": "758e6cf9219323ad",
+      "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
+      "summary": "Apex Group CEO Peter Hughes warned that the failure of the U.S. Clarity Act will drive digital asset businesses toward faster-moving jurisdictions in Asia and the Middle East.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
+      "source_url": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
       "image_url": null,
-      "published_at": "2026-10-23T08:57:34.000Z",
+      "published_at": "2026-10-24T12:00:00.000Z",
       "importance_score": 56,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai",
+        "war"
+      ],
       "region": "global",
-      "title_zh": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
-      "summary_zh": "The Riksbank sees an e-krona as critical to securing national payments and monetary control."
-    },
-    {
-      "id": "c75b618107a67b83",
-      "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
-      "summary": "CoinDCX denies its active wallets were hacked after sleuths flagged $16 million in outflows from addresses linked to the India-based exchange.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
-      "image_url": null,
-      "published_at": "2026-10-23T08:02:35.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
-      "summary_zh": "CoinDCX denies its active wallets were hacked after sleuths flagged $16 million in outflows from addresses linked to the India-based exchange."
+      "title_zh": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
+      "summary_zh": "Apex Group CEO Peter Hughes warned that the failure of the U.S. Clarity Act will drive digital asset businesses toward faster-moving jurisdictions in Asia and the Middle East."
     },
     {
       "id": "011f8959fece7e7a",
@@ -359,14 +367,34 @@
       "summary_zh": "LG CNS is set to integrate Chainlink's cross-chain, data, and orchestration infrastructure into its digital asset platform."
     },
     {
-      "id": "bd83fc04335882fd",
+      "id": "6adac32e5ed00d07",
+      "title": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary": "CoinGecko trending rank #11.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
+      "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
+      "published_at": "2026-10-24T14:59:48.737Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "hype"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary_zh": "CoinGecko trending rank #11."
+    },
+    {
+      "id": "666317841b4b4a13",
       "title": "Trending Crypto: Universal High Income (UHI)",
-      "summary": "CoinGecko trending rank #734.",
+      "summary": "CoinGecko trending rank #649.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/universal-high-income-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179637/large/logo.jpg?1792416691",
-      "published_at": "2026-10-24T11:42:08.482Z",
+      "published_at": "2026-10-24T14:59:48.737Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -376,17 +404,17 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Universal High Income (UHI)",
-      "summary_zh": "CoinGecko trending rank #734."
+      "summary_zh": "CoinGecko trending rank #649."
     },
     {
-      "id": "95fd2550f880d2e5",
+      "id": "0c614816c09fab31",
       "title": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary": "CoinGecko trending rank #881.",
+      "summary": "CoinGecko trending rank #882.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/dacity-coin-3",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179652/large/logo.webp?1792510837",
-      "published_at": "2026-10-24T11:42:08.482Z",
+      "published_at": "2026-10-24T14:59:48.737Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -396,17 +424,17 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary_zh": "CoinGecko trending rank #881."
+      "summary_zh": "CoinGecko trending rank #882."
     },
     {
-      "id": "fe5e886d333f0ebf",
+      "id": "3ec993a295792d21",
       "title": "Trending Crypto: Binance Super CZ (BSC)",
-      "summary": "CoinGecko trending rank #807.",
+      "summary": "CoinGecko trending rank #802.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/binance-super-cz-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179721/large/logo.png?1792699055",
-      "published_at": "2026-10-24T11:42:08.482Z",
+      "published_at": "2026-10-24T14:59:48.737Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -416,47 +444,27 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Binance Super CZ (BSC)",
-      "summary_zh": "CoinGecko trending rank #807."
+      "summary_zh": "CoinGecko trending rank #802."
     },
     {
-      "id": "abe305db9a34650b",
-      "title": "Trending Crypto: Orderly (ORDER)",
-      "summary": "CoinGecko trending rank #754.",
+      "id": "9bc3d8425bd36d0e",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #114.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/orderly-network",
-      "image_url": "https://coin-images.coingecko.com/coins/images/38501/large/Orderly_Network_Coingecko_200*200.png?1717751359",
-      "published_at": "2026-10-24T11:42:08.482Z",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-10-24T14:59:48.737Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "order"
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Orderly (ORDER)",
-      "summary_zh": "CoinGecko trending rank #754."
-    },
-    {
-      "id": "1646c9ec4759e8ed",
-      "title": "Trending Crypto: Aerodrome Finance (AERO)",
-      "summary": "CoinGecko trending rank #99.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/aerodrome-finance",
-      "image_url": "https://coin-images.coingecko.com/coins/images/31745/large/token.png?1696530564",
-      "published_at": "2026-10-24T11:42:08.482Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "aero"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Aerodrome Finance (AERO)",
-      "summary_zh": "CoinGecko trending rank #99."
+      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary_zh": "CoinGecko trending rank #114."
     },
     {
       "id": "f56091d6f87a6ba7",
@@ -623,20 +631,20 @@
       "summary_zh": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution."
     },
     {
-      "id": "0815361507a0afef",
-      "title": "Live Updates: France Deploys Vast Security Force in Effort to Prevent More Riots",
-      "summary": "About 70,000 police and security officers, mobilized ahead of mass protests, will try to avert the arson and looting that shocked the country last weekend.",
+      "id": "3888e2166867cbfa",
+      "title": "Live Updates: Protesters March in France Amid Heavy Security",
+      "summary": "The interior minister estimated that 35,000 people were out on streets nationwide by midday. As many as 70,000 police and security officers will try to avert the arson and looting that shocked the country last weekend.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
       "image_url": null,
-      "published_at": "2026-10-24T11:40:48.000Z",
+      "published_at": "2026-10-24T14:48:12.000Z",
       "importance_score": 52,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Live Updates: France Deploys Vast Security Force in Effort to Prevent More Riots",
-      "summary_zh": "About 70,000 police and security officers, mobilized ahead of mass protests, will try to avert the arson and looting that shocked the country last weekend."
+      "title_zh": "Live Updates: Protesters March in France Amid Heavy Security",
+      "summary_zh": "The interior minister estimated that 35,000 people were out on streets nationwide by midday. As many as 70,000 police and security officers will try to avert the arson and looting that shocked the country last weekend."
     },
     {
       "id": "71c5111662b1663f",
@@ -744,25 +752,6 @@
       "region": "global",
       "title_zh": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
       "summary_zh": "Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%."
-    },
-    {
-      "id": "edcb7c9a4a03b1ce",
-      "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
-      "summary": "Previous bitcoin bear-market lows followed U.S. midterms, but this year’s recovery raises the possibility that the bottom arrived months earlier.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
-      "image_url": null,
-      "published_at": "2026-10-23T10:53:09.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin appears to have decoupled from midterm cycle bottom history",
-      "summary_zh": "Previous bitcoin bear-market lows followed U.S. midterms, but this year’s recovery raises the possibility that the bottom arrived months earlier."
     },
     {
       "id": "3ca854e9cd10870b",
@@ -1075,7 +1064,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-24T11:17:35.000Z",
+      "published_at": "2026-10-24T12:12:40.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1088,12 +1077,12 @@
     {
       "id": "d902a3ddc806fd67",
       "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-24T11:23:59.000Z",
+      "published_at": "2026-10-24T14:16:05.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1101,7 +1090,7 @@
       ],
       "region": "global",
       "title_zh": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "summary_zh": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
+      "summary_zh": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
     },
     {
       "id": "e83353fb20948604",
@@ -1170,6 +1159,40 @@
       "summary_zh": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo."
     },
     {
+      "id": "600ac2b0779d4b47",
+      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-24T14:45:30.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "summary_zh": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer."
+    },
+    {
+      "id": "3464664a49dfc526",
+      "title": "Three released without charge after fatal arson attack in Ireland",
+      "summary": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-24T09:38:28.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Three released without charge after fatal arson attack in Ireland",
+      "summary_zh": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say."
+    },
+    {
       "id": "dae555c53c757759",
       "title": "Australian MP's condition improves after alleged car attack",
       "summary": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
@@ -1202,38 +1225,6 @@
       "region": "global",
       "title_zh": "White House lifts tariffs on some Canadian goods as midterm elections loom",
       "summary_zh": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets."
-    },
-    {
-      "id": "3b31dce684e327dd",
-      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
-      "summary": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-24T09:44:01.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Seven missing after multi-storey building collapses in Kenya's capital",
-      "summary_zh": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled."
-    },
-    {
-      "id": "2752768900fbb774",
-      "title": "Trump administration sues to block certification of upcoming Alaska election",
-      "summary": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-23T18:49:14.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Trump administration sues to block certification of upcoming Alaska election",
-      "summary_zh": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters."
     },
     {
       "id": "cd468bae3c399fd2",
@@ -1304,22 +1295,20 @@
       "summary_zh": "Looters ravaged a storied commercial avenue in France’s second-largest city. Its merchants fear that more unrest could follow."
     },
     {
-      "id": "b90facae6b92959b",
-      "title": "North Korea’s Kim Jong-un Arrives in China, South Korea Says",
-      "summary": "Mr. Kim was said to have crossed the border via a newly opened bridge for his first visit to China in over a year, as the countries move to deepen ties.",
+      "id": "b2fa76a3ae274b18",
+      "title": "Kim Jong-un Makes First Visit to China in Over a Year",
+      "summary": "The North Korean leader crossed the border on a newly opened bridge for the trip, as the two countries move to deepen ties.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
       "image_url": null,
-      "published_at": "2026-10-24T10:25:29.000Z",
+      "published_at": "2026-10-24T13:12:26.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "North Korea’s Kim Jong-un Arrives in China, South Korea Says",
-      "summary_zh": "Mr. Kim was said to have crossed the border via a newly opened bridge for his first visit to China in over a year, as the countries move to deepen ties."
+      "title_zh": "Kim Jong-un Makes First Visit to China in Over a Year",
+      "summary_zh": "The North Korean leader crossed the border on a newly opened bridge for the trip, as the two countries move to deepen ties."
     },
     {
       "id": "f03a3cf4df86d8d0",
@@ -1354,6 +1343,38 @@
       "summary_zh": "Brazil’s President Luiz Inácio Lula da Silva faces an uphill battle for another term, in a high-stakes election that may reshape Latin America."
     },
     {
+      "id": "c92e7096d2a59d98",
+      "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
+      "summary": "The judge found that Milei's promotion of LIBRA did not constitute fraud, despite the attention his support drew to the token.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
+      "image_url": null,
+      "published_at": "2026-10-24T14:38:47.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
+      "summary_zh": "The judge found that Milei's promotion of LIBRA did not constitute fraud, despite the attention his support drew to the token."
+    },
+    {
+      "id": "f4c2282fcaffd53d",
+      "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
+      "summary": "Six more companies have objected to listing tokenized versions of their stock on the venue, Reuters reported, bringing the total to 22.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
+      "image_url": null,
+      "published_at": "2026-10-24T14:06:24.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
+      "summary_zh": "Six more companies have objected to listing tokenized versions of their stock on the venue, Reuters reported, bringing the total to 22."
+    },
+    {
       "id": "98034bac74937358",
       "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
       "summary": "Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer.",
@@ -1368,22 +1389,6 @@
       "region": "global",
       "title_zh": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
       "summary_zh": "Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer."
-    },
-    {
-      "id": "92de58610e22e339",
-      "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
-      "summary": "HSBC and Standard Chartered-led Anchorpoint received Hong Kong’s first stablecoin issuer licenses in April. Anchorpoint began rolling out HKDAP in August.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
-      "image_url": null,
-      "published_at": "2026-10-23T10:22:56.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
-      "summary_zh": "HSBC and Standard Chartered-led Anchorpoint received Hong Kong’s first stablecoin issuer licenses in April. Anchorpoint began rolling out HKDAP in August."
     },
     {
       "id": "e25afc7ff44d3147",
