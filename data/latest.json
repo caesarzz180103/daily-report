@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T17:55:45.600Z",
+  "generated_at": "2026-10-24T19:57:13.811Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends；【CRYPTO】Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO；【CRYPTO】Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports。",
   "meta": {
     "sources_count": 11,
@@ -388,14 +388,14 @@
       "summary_zh": "Malaysia and Thailand have joined Singapore's BLOOM initiative for cross-border stablecoin and tokenized deposit settlement."
     },
     {
-      "id": "85d5cebc07afe149",
+      "id": "3536b9d78189b2d8",
       "title": "Trending Crypto: Universal High Income (UHI)",
-      "summary": "CoinGecko trending rank #583.",
+      "summary": "CoinGecko trending rank #591.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/universal-high-income-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179637/large/logo.jpg?1792416691",
-      "published_at": "2026-10-24T17:54:33.995Z",
+      "published_at": "2026-10-24T19:56:03.251Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -405,17 +405,77 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Universal High Income (UHI)",
-      "summary_zh": "CoinGecko trending rank #583."
+      "summary_zh": "CoinGecko trending rank #591."
     },
     {
-      "id": "e8c6e373beb8f065",
+      "id": "0f9ed0cffe0e0085",
+      "title": "Trending Crypto: Binance Super CZ (BSC)",
+      "summary": "CoinGecko trending rank #851.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/binance-super-cz-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102179721/large/logo.png?1792699055",
+      "published_at": "2026-10-24T19:56:03.251Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "bsc"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Binance Super CZ (BSC)",
+      "summary_zh": "CoinGecko trending rank #851."
+    },
+    {
+      "id": "f0339a7742c468bb",
+      "title": "Trending Crypto: Dacity Coin (DACITY)",
+      "summary": "CoinGecko trending rank #739.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/dacity-coin-3",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102179652/large/logo.webp?1792510837",
+      "published_at": "2026-10-24T19:56:03.251Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "dacity"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Dacity Coin (DACITY)",
+      "summary_zh": "CoinGecko trending rank #739."
+    },
+    {
+      "id": "643630d8a664a38e",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #115.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-10-24T19:56:03.251Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pengu"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary_zh": "CoinGecko trending rank #115."
+    },
+    {
+      "id": "b8b6bf9068a7495a",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
       "summary": "CoinGecko trending rank #11.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
       "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-10-24T17:54:33.995Z",
+      "published_at": "2026-10-24T19:56:03.251Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -426,66 +486,6 @@
       "region": "global",
       "title_zh": "Trending Crypto: Hyperliquid (HYPE)",
       "summary_zh": "CoinGecko trending rank #11."
-    },
-    {
-      "id": "69bbb27f9edcd775",
-      "title": "Trending Crypto: Solana (SOL)",
-      "summary": "CoinGecko trending rank #7.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/solana",
-      "image_url": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
-      "published_at": "2026-10-24T17:54:33.995Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "sol"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Solana (SOL)",
-      "summary_zh": "CoinGecko trending rank #7."
-    },
-    {
-      "id": "f00a3b94f0545e85",
-      "title": "Trending Crypto: Binance Super CZ (BSC)",
-      "summary": "CoinGecko trending rank #842.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/binance-super-cz-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102179721/large/logo.png?1792699055",
-      "published_at": "2026-10-24T17:54:33.995Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "bsc"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Binance Super CZ (BSC)",
-      "summary_zh": "CoinGecko trending rank #842."
-    },
-    {
-      "id": "11e7685f2a65ab17",
-      "title": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary": "CoinGecko trending rank #816.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/dacity-coin-3",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102179652/large/logo.webp?1792510837",
-      "published_at": "2026-10-24T17:54:33.995Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "dacity"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary_zh": "CoinGecko trending rank #816."
     },
     {
       "id": "f56091d6f87a6ba7",
@@ -652,19 +652,19 @@
       "summary_zh": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution."
     },
     {
-      "id": "7dfe5e1c9b4402c1",
-      "title": "Live Updates: Hundreds of Thousands March in France Amid Heavy Security",
+      "id": "a56e4b08bf5c82f2",
+      "title": "France Protest Updates: Hundreds of Thousands March Amid Heavy Security",
       "summary": "The marches were largely peaceful until evening, when clashes popped up and the police used tear gas and water cannons to disperse some protesters in Marseille and Paris.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
       "image_url": null,
-      "published_at": "2026-10-24T17:47:52.000Z",
+      "published_at": "2026-10-24T19:44:42.000Z",
       "importance_score": 52,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Live Updates: Hundreds of Thousands March in France Amid Heavy Security",
+      "title_zh": "France Protest Updates: Hundreds of Thousands March Amid Heavy Security",
       "summary_zh": "The marches were largely peaceful until evening, when clashes popped up and the police used tear gas and water cannons to disperse some protesters in Marseille and Paris."
     },
     {
@@ -1058,6 +1058,22 @@
       "summary_zh": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week."
     },
     {
+      "id": "bcc50c89eff67cd3",
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-24T17:21:42.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "summary_zh": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election."
+    },
+    {
       "id": "b695645f1aad4535",
       "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
       "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
@@ -1117,7 +1133,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-24T14:45:30.000Z",
+      "published_at": "2026-10-24T19:12:51.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1190,24 +1206,6 @@
       "region": "global",
       "title_zh": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
       "summary_zh": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule."
-    },
-    {
-      "id": "6c4463a9f606ec8d",
-      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-24T00:36:47.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "summary_zh": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets."
     },
     {
       "id": "0a928a96773b0c05",
