@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T10:10:02.693Z",
+  "generated_at": "2026-10-25T10:19:57.028Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends；【STRATEGY】Recent Quant Links from Quantocracy as of 10/24/2026；【CRYPTO】Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO。",
   "meta": {
     "sources_count": 11,
@@ -293,7 +293,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "summary_zh": "以色列国防军宣布在周二选举前限制巴勒斯坦工人的行动。"
+      "summary_zh": "以色列国防军宣布在周二选举前夕限制巴勒斯坦工人的行动。"
     },
     {
       "id": "d8ebde07449bd00d",
@@ -311,7 +311,7 @@
       ],
       "region": "global",
       "title_zh": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-      "summary_zh": "警方正在搜寻其他伤亡人员，官员警告说，实际死亡人数可能会进一步上升。"
+      "summary_zh": "警方正在寻找其他伤亡人员，官员警告实际死亡人数可能会进一步上升。"
     },
     {
       "id": "72b998842758e827",
@@ -456,14 +456,14 @@
       "summary_zh": "马来西亚和泰国已加入新加坡的 BLOOM 跨境稳定币和代币化存款结算计划。"
     },
     {
-      "id": "3adf66dc312a6139",
+      "id": "c0da3de2b7b63c6c",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
       "summary": "CoinGecko trending rank #11.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
       "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-10-25T10:09:02.585Z",
+      "published_at": "2026-10-25T10:19:04.945Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -476,14 +476,14 @@
       "summary_zh": "CoinGecko 趋势排名第 11。"
     },
     {
-      "id": "97c5c33350b10a3c",
+      "id": "6a989f634ba44b1a",
       "title": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary": "CoinGecko trending rank #758.",
+      "summary": "CoinGecko trending rank #779.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/dacity-coin-3",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179652/large/logo.webp?1792510837",
-      "published_at": "2026-10-25T10:09:02.585Z",
+      "published_at": "2026-10-25T10:19:04.945Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -493,17 +493,17 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary_zh": "CoinGecko 趋势排名#758。"
+      "summary_zh": "CoinGecko 趋势排名#779。"
     },
     {
-      "id": "d2a97d252a38bd4e",
+      "id": "5c452d4fe8ec27d7",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-10-25T10:09:02.585Z",
+      "published_at": "2026-10-25T10:19:04.945Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -516,14 +516,34 @@
       "summary_zh": "CoinGecko 趋势排名第一。"
     },
     {
-      "id": "ecc5b18c5b219257",
+      "id": "f3cba38201ec9922",
+      "title": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary": "CoinGecko trending rank #20.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/near",
+      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
+      "published_at": "2026-10-25T10:19:04.945Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "near"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary_zh": "CoinGecko 趋势排名第 20。"
+    },
+    {
+      "id": "fa8ed7b948b6975a",
       "title": "Trending Crypto: Pearl (PEARL)",
       "summary": "CoinGecko trending rank #94.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pearl-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-10-25T10:09:02.585Z",
+      "published_at": "2026-10-25T10:19:04.945Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -534,26 +554,6 @@
       "region": "global",
       "title_zh": "Trending Crypto: Pearl (PEARL)",
       "summary_zh": "CoinGecko 趋势排名第 94。"
-    },
-    {
-      "id": "69f6c8d3bd541cbf",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #118.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-10-25T10:09:02.585Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pengu"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko 趋势排名第 118 位。"
     },
     {
       "id": "f56091d6f87a6ba7",
@@ -626,7 +626,7 @@
       ],
       "region": "global",
       "title_zh": "AI for Societal Impact",
-      "summary_zh": "探索此系列，了解专家和当地领导者如何利用人工智能突破来确保每个人都能分享人工智能的机会。"
+      "summary_zh": "探索此集合，了解专家和当地领导者如何利用人工智能突破来确保每个人都能分享人工智能的机会。"
     },
     {
       "id": "2841ddf841f149fc",
@@ -1121,7 +1121,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Voters in Brazil to choose between Lula and Bolsonaro's son",
-      "summary_zh": "巴西被监禁的前总统之子弗拉维奥·博尔索纳罗（Flávio Bolsonaro）向 80 岁、正在寻求第四个任期的卢拉提出了强有力的挑战。"
+      "summary_zh": "巴西被监禁的前总统之子弗拉维奥·博索纳罗（Flávio Bolsonaro）向 80 岁、正在寻求第四个任期的卢拉提出了强有力的挑战。"
     },
     {
       "id": "33f78fffbfab7d2d",
@@ -1426,7 +1426,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’",
-      "summary_zh": "法官长达 60 页的裁决得出结论，阿根廷总统哈维尔·米莱 (Javier Milei) 宣传 LIBRA 代币的帖子本身并不构成欺诈。"
+      "summary_zh": "法官长达 60 页的裁决得出结论，阿根廷总统哈维尔·米雷 (Javier Milei) 推广 LIBRA 代币的帖子本身并不构成欺诈。"
     },
     {
       "id": "e25afc7ff44d3147",
@@ -1479,7 +1479,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid state lawsuits",
-      "summary_zh": "Phantom 用户将使用 CASH 稳定币进行交易，密歇根州、内华达州和华盛顿州均实施市场限制。"
+      "summary_zh": "Phantom 用户将使用 CASH 稳定币为交易提供资金，密歇根州、内华达州和华盛顿州实行市场限制。"
     },
     {
       "id": "a39460e57014c2e3",
