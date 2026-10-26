@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T05:33:52.210Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends；【STRATEGY】Recent Quant Links from Quantocracy as of 10/24/2026；【CRYPTO】Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting。",
+  "generated_at": "2026-10-26T11:47:34.996Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead；【CRYPTO】Live news: Bitcoin barely holding $80,000 ahead of Fed on Wednesday, tech earnings this week；【STRATEGY】Recent Quant Links from Quantocracy as of 10/24/2026。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -20,23 +20,43 @@
   },
   "items": [
     {
-      "id": "cce4def018fd7c72",
-      "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
-      "summary": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.",
+      "id": "d9d269e30c03f212",
+      "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
+      "summary": "Your look at what's coming in the week starting Oct. 26.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+      "source_url": "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead",
       "image_url": null,
-      "published_at": "2026-10-24T16:00:00.000Z",
+      "published_at": "2026-10-26T09:14:47.000Z",
+      "importance_score": 80,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "fed"
+      ],
+      "region": "global",
+      "title_zh": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
+      "summary_zh": "Your look at what's coming in the week starting Oct. 26."
+    },
+    {
+      "id": "f389230393d204ca",
+      "title": "Live news: Bitcoin barely holding $80,000 ahead of Fed on Wednesday, tech earnings this week",
+      "summary": "Brazilian stocks are expected to plunge at the open as President Luiz Inácio Lula da Silva unexpectedly secured a fourth term in office.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
+      "image_url": null,
+      "published_at": "2026-10-26T11:05:31.000Z",
       "importance_score": 74,
       "sentiment": 0,
       "tags": [
         "bitcoin",
-        "etf"
+        "fed",
+        "stocks"
       ],
       "region": "global",
-      "title_zh": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
-      "summary_zh": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market."
+      "title_zh": "Live news: Bitcoin barely holding $80,000 ahead of Fed on Wednesday, tech earnings this week",
+      "summary_zh": "Brazilian stocks are expected to plunge at the open as President Luiz Inácio Lula da Silva unexpectedly secured a fourth term in office."
     },
     {
       "id": "76b381ebd56e0bce",
@@ -55,6 +75,26 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/24/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/24/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Shorting Leveraged ETFs: Role of Borrowing Costs and Rebalancing in Volatility-Decay Strategies [Quantpedia] Leveraged ET"
+    },
+    {
+      "id": "2d1acb7b8af91d5a",
+      "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
+      "summary": "Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
+      "image_url": null,
+      "published_at": "2026-10-26T11:24:33.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin",
+        "fed"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
+      "summary_zh": "Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday."
     },
     {
       "id": "455781da6bf415b7",
@@ -95,25 +135,6 @@
       "region": "global",
       "title_zh": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
       "summary_zh": "Spot bitcoin ETFs lost $773 million on Thursday and Friday after three days of net inflows, per SoSoValue data."
-    },
-    {
-      "id": "4aec804be91cff10",
-      "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
-      "summary": "BlackRock's IBIT led Thursday's net outflows with $254.1 million, while four other funds also witnessed withdrawals.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
-      "image_url": null,
-      "published_at": "2026-10-23T11:39:45.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin",
-        "etf"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
-      "summary_zh": "BlackRock's IBIT led Thursday's net outflows with $254.1 million, while four other funds also witnessed withdrawals."
     },
     {
       "id": "057607206eb95d9a",
@@ -280,46 +301,33 @@
       "summary_zh": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson."
     },
     {
-      "id": "7c5bd6c927d162f7",
-      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+      "id": "35f1b21318d86817",
+      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
+      "summary": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-25T05:15:52.000Z",
+      "published_at": "2026-10-25T14:34:33.000Z",
       "importance_score": 58,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai",
+        "fed"
+      ],
       "region": "global",
-      "title_zh": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "summary_zh": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election."
+      "title_zh": "Russia to host first Olympic federation world event since Ukraine invasion",
+      "summary_zh": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine."
     },
     {
-      "id": "cc2a8b30f40c78da",
-      "title": "Gabon says access to social media restored after eight-month ban",
-      "summary": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-25T14:39:47.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Gabon says access to social media restored after eight-month ban",
-      "summary_zh": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power."
-    },
-    {
-      "id": "6e8d2fc4e4c67ed1",
-      "title": "Iranians Face Anxious Wait as Threat of Attack Looms",
-      "summary": "The United States and Israel have drawn up plans to renew strikes against Iran, creating a sense of dread among war-weary residents.",
+      "id": "a9b9dbfdaba09f44",
+      "title": "To Work With P.O.W.s, Ukrainians Suppress Feelings About the Enemy",
+      "summary": "Much has been said about how Ukraine should treat Russian prisoners of war. Less attention has been paid to the emotional struggle for the Ukrainians tasked with that work.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
+      "source_url": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-russia-pows-prisoners.html",
       "image_url": null,
-      "published_at": "2026-10-25T05:14:44.000Z",
+      "published_at": "2026-10-26T09:58:09.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -327,8 +335,8 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Iranians Face Anxious Wait as Threat of Attack Looms",
-      "summary_zh": "The United States and Israel have drawn up plans to renew strikes against Iran, creating a sense of dread among war-weary residents."
+      "title_zh": "To Work With P.O.W.s, Ukrainians Suppress Feelings About the Enemy",
+      "summary_zh": "Much has been said about how Ukraine should treat Russian prisoners of war. Less attention has been paid to the emotional struggle for the Ukrainians tasked with that work."
     },
     {
       "id": "62407d99b47ae5d1",
@@ -345,6 +353,25 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/12/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools"
+    },
+    {
+      "id": "5c91357b442c6d8a",
+      "title": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
+      "summary": "California’s pension fund shifts toward private equity as investors question tech valuations and the payoff from soaring AI spending.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off",
+      "image_url": null,
+      "published_at": "2026-10-26T10:33:00.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
+      "summary_zh": "California’s pension fund shifts toward private equity as investors question tech valuations and the payoff from soaring AI spending."
     },
     {
       "id": "706b9d5b4b98e72e",
@@ -364,25 +391,6 @@
       "region": "global",
       "title_zh": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
       "summary_zh": "SpaceX has raised $40 billion in debt to buy GPUs, while Musk predicts a major shakeout among smaller AI cloud providers."
-    },
-    {
-      "id": "15fe0c0b92e92361",
-      "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
-      "summary": "The U.K. claims to aspire to become a global cryptocurrency hub, an ambition that would appear to be at odds with the attitude to crypto purchases of its major banks.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
-      "image_url": null,
-      "published_at": "2026-10-25T13:00:00.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
-      "summary_zh": "The U.K. claims to aspire to become a global cryptocurrency hub, an ambition that would appear to be at odds with the attitude to crypto purchases of its major banks."
     },
     {
       "id": "46d387f577bafa47",
@@ -422,92 +430,34 @@
       "summary_zh": "Netanyahu says blockchain could help Israel prepare for possible sanctions targeting its banking system."
     },
     {
-      "id": "a84f9d105b8f25b7",
-      "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
-      "summary": "Malaysia and Thailand have joined Singapore's BLOOM initiative for cross-border stablecoin and tokenized deposit settlement.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
-      "image_url": null,
-      "published_at": "2026-10-23T12:55:26.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
-      "summary_zh": "Malaysia and Thailand have joined Singapore's BLOOM initiative for cross-border stablecoin and tokenized deposit settlement."
-    },
-    {
-      "id": "04133a6103914303",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
+      "id": "e3ceeae4e92394bd",
+      "title": "Trending Crypto: evmzone (EVMZONE)",
+      "summary": "CoinGecko trending rank #941.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-10-26T05:32:40.909Z",
+      "source_url": "https://www.coingecko.com/en/coins/evmzone",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102179743/large/logo.jpg?1792852591",
+      "published_at": "2026-10-26T11:46:21.558Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "btc"
+        "evmzone"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Bitcoin (BTC)",
-      "summary_zh": "CoinGecko trending rank #1."
+      "title_zh": "Trending Crypto: evmzone (EVMZONE)",
+      "summary_zh": "CoinGecko trending rank #941."
     },
     {
-      "id": "93d75b69abf5c5dd",
-      "title": "Trending Crypto: Quant (QNT)",
-      "summary": "CoinGecko trending rank #38.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/quant-network",
-      "image_url": "https://coin-images.coingecko.com/coins/images/3370/large/5ZOu7brX_400x400.jpg?1696504070",
-      "published_at": "2026-10-26T05:32:40.909Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "qnt"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Quant (QNT)",
-      "summary_zh": "CoinGecko trending rank #38."
-    },
-    {
-      "id": "2039105f38c49c3f",
-      "title": "Trending Crypto: NEAR Protocol (NEAR)",
-      "summary": "CoinGecko trending rank #21.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/near",
-      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
-      "published_at": "2026-10-26T05:32:40.909Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "near"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
-      "summary_zh": "CoinGecko trending rank #21."
-    },
-    {
-      "id": "eb5dc421c9c5de7f",
+      "id": "7d8ba94fdd15997d",
       "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #117.",
+      "summary": "CoinGecko trending rank #115.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
       "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-10-26T05:32:40.909Z",
+      "published_at": "2026-10-26T11:46:21.558Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -517,27 +467,67 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #117."
+      "summary_zh": "CoinGecko trending rank #115."
     },
     {
-      "id": "6fa0fe8d1116c52a",
-      "title": "Trending Crypto: Aerodrome Finance (AERO)",
-      "summary": "CoinGecko trending rank #103.",
+      "id": "675c3788b31cd3a4",
+      "title": "Trending Crypto: Big Titty Coin (BTC)",
+      "summary": "CoinGecko trending rank #794.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/aerodrome-finance",
-      "image_url": "https://coin-images.coingecko.com/coins/images/31745/large/token.png?1696530564",
-      "published_at": "2026-10-26T05:32:40.909Z",
+      "source_url": "https://www.coingecko.com/en/coins/big-titty-coin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102179782/large/logo.png?1792952458",
+      "published_at": "2026-10-26T11:46:21.558Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "aero"
+        "btc"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Aerodrome Finance (AERO)",
-      "summary_zh": "CoinGecko trending rank #103."
+      "title_zh": "Trending Crypto: Big Titty Coin (BTC)",
+      "summary_zh": "CoinGecko trending rank #794."
+    },
+    {
+      "id": "1572752ef150d443",
+      "title": "Trending Crypto: Pepina (PEPINA)",
+      "summary": "CoinGecko trending rank #770.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pepina-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102179740/large/557a5c15baacdaf4ceff7bf12e3c353e_v2l.jpg?1792798930",
+      "published_at": "2026-10-26T11:46:21.558Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pepina"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Pepina (PEPINA)",
+      "summary_zh": "CoinGecko trending rank #770."
+    },
+    {
+      "id": "49e0565faa0e0857",
+      "title": "Trending Crypto: Pearl (PEARL)",
+      "summary": "CoinGecko trending rank #94.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
+      "published_at": "2026-10-26T11:46:21.558Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pearl"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Pearl (PEARL)",
+      "summary_zh": "CoinGecko trending rank #94."
     },
     {
       "id": "f56091d6f87a6ba7",
@@ -704,40 +694,6 @@
       "summary_zh": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution."
     },
     {
-      "id": "981fd4cc674a60e4",
-      "title": "Brazil Live Updates: Lula Wins Re-election as Bolsonaro Rejects Result",
-      "summary": "President Luiz Inácio Lula da Silva’s win ended a string of conservative victories in Latin America. His opponent, Flávio Bolsonaro, called for the election to be annulled.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
-      "image_url": null,
-      "published_at": "2026-10-26T05:22:04.000Z",
-      "importance_score": 52,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Brazil Live Updates: Lula Wins Re-election as Bolsonaro Rejects Result",
-      "summary_zh": "President Luiz Inácio Lula da Silva’s win ended a string of conservative victories in Latin America. His opponent, Flávio Bolsonaro, called for the election to be annulled."
-    },
-    {
-      "id": "a88bdab71b13416e",
-      "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
-      "summary": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
-      "image_url": null,
-      "published_at": "2026-10-25T21:39:45.000Z",
-      "importance_score": 52,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
-      "summary_zh": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month."
-    },
-    {
       "id": "71c5111662b1663f",
       "title": "Recent Quant Links from Quantocracy as of 10/22/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Thursday, 10/22/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Momentum timed with the rate of change (ROC) on the S&P 500’s ten steepest trends [Quanter Lab] Momentum is one of the ol",
@@ -788,6 +744,25 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/03/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Buffett’s be greedy when others are fearful, tested [Quanter Lab] \"Be greedy when others are fearful\" is Warren Buffett's"
     },
     {
+      "id": "5f5275be4809a148",
+      "title": "Over 11 million bitcoin has no known owner. Here's what it means",
+      "summary": "The large number of coins held in unidentified wallets shows that retail investors have been in this market for years, observers said. But this interpretation comes with a caveat.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying",
+      "image_url": null,
+      "published_at": "2026-10-26T07:18:24.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "Over 11 million bitcoin has no known owner. Here's what it means",
+      "summary_zh": "The large number of coins held in unidentified wallets shows that retail investors have been in this market for years, observers said. But this interpretation comes with a caveat."
+    },
+    {
       "id": "c0b4adc48e9f028e",
       "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
       "summary": "Attackers replaced legitimate transactions with fake ones, then waited for users to approve higher fees. At least one person lost bitcoin before developers patched the flaw.",
@@ -807,23 +782,20 @@
       "summary_zh": "Attackers replaced legitimate transactions with fake ones, then waited for users to approve higher fees. At least one person lost bitcoin before developers patched the flaw."
     },
     {
-      "id": "841a27851e0e57ce",
-      "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
-      "summary": "Bitcoin has sunk to its weakest level in more than one month.",
+      "id": "3fc40a64d749740e",
+      "title": "Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger",
+      "summary": "Aviva Investors has launched a tokenized share class of its Sterling Liquidity Fund on the Ripple-backed XRP Ledger.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712",
       "image_url": null,
-      "published_at": "2026-10-24T15:11:24.000Z",
+      "published_at": "2026-10-26T11:34:12.000Z",
       "importance_score": 50,
       "sentiment": 0,
-      "tags": [
-        "crypto",
-        "bitcoin"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
-      "summary_zh": "Bitcoin has sunk to its weakest level in more than one month."
+      "title_zh": "Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger",
+      "summary_zh": "Aviva Investors has launched a tokenized share class of its Sterling Liquidity Fund on the Ripple-backed XRP Ledger."
     },
     {
       "id": "3ca854e9cd10870b",
@@ -1129,19 +1101,19 @@
       "summary_zh": "The latest 12-month period marked the strongest return for the university's fund since 2021."
     },
     {
-      "id": "1109e09a62d36889",
-      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+      "id": "611f3c2a9891744a",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-26T01:07:05.000Z",
+      "published_at": "2026-10-26T11:02:20.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+      "title_zh": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "summary_zh": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
     },
     {
@@ -1161,22 +1133,70 @@
       "summary_zh": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
     },
     {
-      "id": "33f78fffbfab7d2d",
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+      "id": "750211f76781df43",
+      "title": "Australian murderer loses bid to eat Vegemite in prison",
+      "summary": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-25T09:00:00.000Z",
+      "published_at": "2026-10-26T04:05:28.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Australian murderer loses bid to eat Vegemite in prison",
+      "summary_zh": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture."
+    },
+    {
+      "id": "5c8fe1bf23aa0f26",
+      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+      "summary": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-26T06:16:15.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+      "summary_zh": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme."
+    },
+    {
+      "id": "7bb8282a5a036429",
+      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+      "summary": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-25T23:33:19.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "summary_zh": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
+      "title_zh": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+      "summary_zh": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms."
+    },
+    {
+      "id": "0f3c03b0c5626886",
+      "title": "Uganda imposes 21-day quarantine on citizens returning from DR Congo",
+      "summary": "Uganda will also not allow most travellers who have been in DR Congo to transit through the country.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-26T08:18:22.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Uganda imposes 21-day quarantine on citizens returning from DR Congo",
+      "summary_zh": "Uganda will also not allow most travellers who have been in DR Congo to transit through the country."
     },
     {
       "id": "d9424c4baaa64734",
@@ -1197,58 +1217,108 @@
       "summary_zh": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said."
     },
     {
-      "id": "26e54d91d6d39859",
-      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-      "summary": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
+      "id": "33f78fffbfab7d2d",
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-25T10:55:33.000Z",
+      "published_at": "2026-10-25T09:00:00.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "El Salvador president says bodies found in Haiti are not those of hostages",
-      "summary_zh": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week."
+      "title_zh": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "summary_zh": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
     },
     {
-      "id": "6807e6aafb70eb7b",
-      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
-      "summary": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
+      "id": "8a5e88d42bbe3fba",
+      "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
+      "summary": "Supporters and opponents of Prime Minister Benjamin Netanyahu have expressed intense anxieties about isolation abroad, security at home and the future of Israel’s identity.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html",
       "image_url": null,
-      "published_at": "2026-10-25T19:14:27.000Z",
+      "published_at": "2026-10-26T10:30:57.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
-      "summary_zh": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze."
+      "title_zh": "Israeli Jews Across the Spectrum Face an Election of Fears",
+      "summary_zh": "Supporters and opponents of Prime Minister Benjamin Netanyahu have expressed intense anxieties about isolation abroad, security at home and the future of Israel’s identity."
     },
     {
-      "id": "6fc39da39a8a8a96",
-      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-      "summary": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\".",
+      "id": "feb8891a5e054ec3",
+      "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
+      "summary": "President Luiz Inácio Lula da Silva triumphed over Flávio Bolsonaro, the eldest son of the right-wing leader he defeated four years ago.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
       "image_url": null,
-      "published_at": "2026-10-25T02:27:15.000Z",
+      "published_at": "2026-10-26T07:07:27.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
+      "summary_zh": "President Luiz Inácio Lula da Silva triumphed over Flávio Bolsonaro, the eldest son of the right-wing leader he defeated four years ago."
+    },
+    {
+      "id": "515e5784e0e00f40",
+      "title": "‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next Term",
+      "summary": "The Chinese leader Xi Jinping, who is likely preparing to secure a fourth term in power in 2027, has complained that officials cannot be trusted.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/26/world/asia/china-communist-party-xi-forever-purge.html",
+      "image_url": null,
+      "published_at": "2026-10-26T04:00:07.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-      "summary_zh": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\"."
+      "title_zh": "‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next Term",
+      "summary_zh": "The Chinese leader Xi Jinping, who is likely preparing to secure a fourth term in power in 2027, has complained that officials cannot be trusted."
+    },
+    {
+      "id": "083bf29e9b8acfb5",
+      "title": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
+      "summary": "The U.S. Army is training Apache pilots to shoot down drones as militaries around the world assess the efficacy of 20th-century technologies in a new era.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html",
+      "image_url": null,
+      "published_at": "2026-10-26T10:00:51.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
+      "summary_zh": "The U.S. Army is training Apache pilots to shoot down drones as militaries around the world assess the efficacy of 20th-century technologies in a new era."
+    },
+    {
+      "id": "27cd37efa9aabcb0",
+      "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+      "summary": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+      "image_url": null,
+      "published_at": "2026-10-26T10:03:40.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+      "summary_zh": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents."
     },
     {
       "id": "7f1547ade26bdf02",
@@ -1267,38 +1337,20 @@
       "summary_zh": "After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections."
     },
     {
-      "id": "27cd37efa9aabcb0",
-      "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
-      "summary": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.",
+      "id": "d4c5068fad388689",
+      "title": "Jordan Arrests 3 in Connection With Church Attack, State Media Reports",
+      "summary": "Nine people were killed and dozens were wounded in the attack last week on a Greek Orthodox Church in southern Jordan.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+      "source_url": "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html",
       "image_url": null,
-      "published_at": "2026-10-26T01:57:25.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Aleksandar Vucic Concedes Defeat in Serbian Election",
-      "summary_zh": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents."
-    },
-    {
-      "id": "be98cf6ed03b9833",
-      "title": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
-      "summary": "Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a narrow race that could redefine the future of Latin America.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
-      "image_url": null,
-      "published_at": "2026-10-25T19:53:55.000Z",
+      "published_at": "2026-10-26T09:27:13.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
-      "summary_zh": "Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a narrow race that could redefine the future of Latin America."
+      "title_zh": "Jordan Arrests 3 in Connection With Church Attack, State Media Reports",
+      "summary_zh": "Nine people were killed and dozens were wounded in the attack last week on a Greek Orthodox Church in southern Jordan."
     },
     {
       "id": "cb93900c9e5ec450",
@@ -1315,38 +1367,6 @@
       "region": "global",
       "title_zh": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
       "summary_zh": "While the police kept a lid on vandalism, the huge number of protesters and France’s fraught politics suggest unrest could grow."
-    },
-    {
-      "id": "573061b70478e60e",
-      "title": "Israel’s High-Stakes Election: What to Know",
-      "summary": "Israelis head to the polls on Tuesday for an election that will determine the country’s next prime minister. But it can take weeks, months or longer to form a new government.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html",
-      "image_url": null,
-      "published_at": "2026-10-25T09:01:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Israel’s High-Stakes Election: What to Know",
-      "summary_zh": "Israelis head to the polls on Tuesday for an election that will determine the country’s next prime minister. But it can take weeks, months or longer to form a new government."
-    },
-    {
-      "id": "45f69ce6294f1528",
-      "title": "Far, Far Away",
-      "summary": "Making a home on the world’s most remote inhabited island.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/25/world/africa/tristan-da-cunha-island.html",
-      "image_url": null,
-      "published_at": "2026-10-25T04:01:26.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Far, Far Away",
-      "summary_zh": "Making a home on the world’s most remote inhabited island."
     },
     {
       "id": "52094708b03c8af0",
@@ -1367,6 +1387,25 @@
       "summary_zh": "The comments came after the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds."
     },
     {
+      "id": "932d57f6a3441df4",
+      "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
+      "summary": "The Mumbai-based exchange initially dismissed reports of suspicious outflows as a false alarm. It now says it lost $16 million and will absorb the loss.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
+      "image_url": null,
+      "published_at": "2026-10-26T05:39:17.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
+      "summary_zh": "The Mumbai-based exchange initially dismissed reports of suspicious outflows as a false alarm. It now says it lost $16 million and will absorb the loss."
+    },
+    {
       "id": "d590d7a8b062d8fc",
       "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
       "summary": "Economics Minister Viktors Valainis says rules could arrive in the first half of next year, but an overdue assessment remains unfinished and no sovereign-bond issuance was identified.",
@@ -1385,57 +1424,23 @@
       "summary_zh": "Economics Minister Viktors Valainis says rules could arrive in the first half of next year, but an overdue assessment remains unfinished and no sovereign-bond issuance was identified."
     },
     {
-      "id": "f8b364b10366b270",
-      "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
-      "summary": "Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children’s education.",
+      "id": "36e5724ef8e9bd74",
+      "title": "South Korea weighs fourth delay of crypto gains tax, eyes 2029 start: report",
+      "summary": "The delay reportedly aims to align with the U.S. schedule of integrating CARF, the OECD's international tax framework for digital assets.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-10-26-south-korea-weighs-fourth-delay-crypto-tax-431649",
       "image_url": null,
-      "published_at": "2026-10-24T15:21:06.000Z",
+      "published_at": "2026-10-26T10:06:02.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "ai",
+        "crypto"
       ],
       "region": "global",
-      "title_zh": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
-      "summary_zh": "Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children’s education."
-    },
-    {
-      "id": "391d724e37c5e40b",
-      "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
-      "summary": "Some of the world's biggest companies objected to being listed on the first tokenized securities trading venue under the SEC's innovation exemption. But the early pushback may say more about issuer caution than about rejection of tokenization itself.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
-      "image_url": null,
-      "published_at": "2026-10-24T15:00:00.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "google",
-        "stocks"
-      ],
-      "region": "global",
-      "title_zh": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
-      "summary_zh": "Some of the world's biggest companies objected to being listed on the first tokenized securities trading venue under the SEC's innovation exemption. But the early pushback may say more about issuer caution than about rejection of tokenization itself."
-    },
-    {
-      "id": "c92e7096d2a59d98",
-      "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
-      "summary": "The judge found that Milei's promotion of LIBRA did not constitute fraud, despite the attention his support drew to the token.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
-      "image_url": null,
-      "published_at": "2026-10-24T14:38:47.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
-      "summary_zh": "The judge found that Milei's promotion of LIBRA did not constitute fraud, despite the attention his support drew to the token."
+      "title_zh": "South Korea weighs fourth delay of crypto gains tax, eyes 2029 start: report",
+      "summary_zh": "The delay reportedly aims to align with the U.S. schedule of integrating CARF, the OECD's international tax framework for digital assets."
     },
     {
       "id": "276ed03731021edb",
