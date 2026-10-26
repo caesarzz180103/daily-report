@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T17:49:50.405Z",
+  "generated_at": "2026-10-26T22:02:38.293Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】OCC calls on community banks to enter the stablecoin payments market；【STRATEGY】Recent Quant Links from Quantocracy as of 10/24/2026；【CRYPTO】Bitcoin holds near $80,000 as oil retreats and the Fed decision looms。",
   "meta": {
     "sources_count": 11,
@@ -259,6 +259,24 @@
       "summary_zh": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
+      "id": "e7d687cef11a7ec0",
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-26T19:27:21.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "fed"
+      ],
+      "region": "global",
+      "title_zh": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "summary_zh": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director."
+    },
+    {
       "id": "9b6f7005d9d47565",
       "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
       "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
@@ -385,6 +403,24 @@
       "summary_zh": "California’s pension fund shifts toward private equity as investors question tech valuations and the payoff from soaring AI spending."
     },
     {
+      "id": "c2af791ddcdb71e9",
+      "title": "Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer",
+      "summary": "Hyperliquid plans to make Kraken parent Payward the first CFTC-regulated HIP-3 deployer, a step toward regulated U.S. perpetual futures.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787",
+      "image_url": null,
+      "published_at": "2026-10-26T18:21:17.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer",
+      "summary_zh": "Hyperliquid plans to make Kraken parent Payward the first CFTC-regulated HIP-3 deployer, a step toward regulated U.S. perpetual futures."
+    },
+    {
       "id": "3d1d33f70d2efb14",
       "title": "Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle",
       "summary": "Bernstein cuts Coinbase’s target while raising Circle’s as new products shift their earnings outlook.",
@@ -404,33 +440,14 @@
       "summary_zh": "Bernstein cuts Coinbase’s target while raising Circle’s as new products shift their earnings outlook."
     },
     {
-      "id": "46d387f577bafa47",
-      "title": "Keystone customers say breach exposed data the hardware wallet maker promised to delete",
-      "summary": "Keystone has said it deletes customer information 180 days after their orders in most cases, though X users have cast doubt on that claim.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-25-keystone-customers-say-breach-exposed-data-the-hardware-wallet-maker-promised-to-delete-431613",
-      "image_url": null,
-      "published_at": "2026-10-25T15:56:30.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Keystone customers say breach exposed data the hardware wallet maker promised to delete",
-      "summary_zh": "Keystone has said it deletes customer information 180 days after their orders in most cases, though X users have cast doubt on that claim."
-    },
-    {
-      "id": "964bafe2b13d1014",
+      "id": "d6a846f30542a22d",
       "title": "Trending Crypto: Big Titty Coin (BTC)",
-      "summary": "CoinGecko trending rank #790.",
+      "summary": "CoinGecko trending rank #675.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/big-titty-coin",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179782/large/logo.png?1792952458",
-      "published_at": "2026-10-26T17:48:35.830Z",
+      "published_at": "2026-10-26T22:01:27.118Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -440,107 +457,106 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Big Titty Coin (BTC)",
-      "summary_zh": "CoinGecko trending rank #790."
+      "summary_zh": "CoinGecko trending rank #675."
     },
     {
-      "id": "65b6f97c8f824beb",
-      "title": "Trending Crypto: evmzone (EVMZONE)",
-      "summary": "CoinGecko trending rank #900.",
+      "id": "fca0a5191c2857a4",
+      "title": "Trending Crypto: Quack AI (Q)",
+      "summary": "CoinGecko trending rank #91.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/evmzone",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102179743/large/logo.jpg?1792852591",
-      "published_at": "2026-10-26T17:48:35.830Z",
+      "source_url": "https://www.coingecko.com/en/coins/quack-ai",
+      "image_url": "https://coin-images.coingecko.com/coins/images/68793/large/quack_ai.png?1756615808",
+      "published_at": "2026-10-26T22:01:27.118Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "evmzone"
+        "q"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: evmzone (EVMZONE)",
-      "summary_zh": "CoinGecko trending rank #900."
+      "title_zh": "Trending Crypto: Quack AI (Q)",
+      "summary_zh": "CoinGecko trending rank #91."
     },
     {
-      "id": "6325befb07247174",
-      "title": "Trending Crypto: Pepina (PEPINA)",
-      "summary": "CoinGecko trending rank #805.",
+      "id": "04145fa7fb7dfcc9",
+      "title": "Trending Crypto: Pump.fun (PUMP)",
+      "summary": "CoinGecko trending rank #49.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pepina-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102179740/large/557a5c15baacdaf4ceff7bf12e3c353e_v2l.jpg?1792798930",
-      "published_at": "2026-10-26T17:48:35.830Z",
+      "source_url": "https://www.coingecko.com/en/coins/pump-fun",
+      "image_url": "https://coin-images.coingecko.com/coins/images/67164/large/pump.jpg?1751949376",
+      "published_at": "2026-10-26T22:01:27.118Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pepina"
+        "pump"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pepina (PEPINA)",
-      "summary_zh": "CoinGecko trending rank #805."
+      "title_zh": "Trending Crypto: Pump.fun (PUMP)",
+      "summary_zh": "CoinGecko trending rank #49."
     },
     {
-      "id": "9ae40b5f8031b1ed",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
+      "id": "68c92843f3d81206",
+      "title": "Trending Crypto: Sui (SUI)",
+      "summary": "CoinGecko trending rank #30.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-10-26T17:48:35.830Z",
+      "source_url": "https://www.coingecko.com/en/coins/sui",
+      "image_url": "https://coin-images.coingecko.com/coins/images/26375/large/sui-ocean-square.png?1727791290",
+      "published_at": "2026-10-26T22:01:27.118Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "btc"
+        "sui"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Bitcoin (BTC)",
-      "summary_zh": "CoinGecko trending rank #1."
+      "title_zh": "Trending Crypto: Sui (SUI)",
+      "summary_zh": "CoinGecko trending rank #30."
     },
     {
-      "id": "80c452c11b235677",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #117.",
+      "id": "1ad722c615e9eaa7",
+      "title": "Trending Crypto: Aerodrome Finance (AERO)",
+      "summary": "CoinGecko trending rank #103.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-10-26T17:48:35.830Z",
+      "source_url": "https://www.coingecko.com/en/coins/aerodrome-finance",
+      "image_url": "https://coin-images.coingecko.com/coins/images/31745/large/token.png?1696530564",
+      "published_at": "2026-10-26T22:01:27.118Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pengu"
+        "aero"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #117."
+      "title_zh": "Trending Crypto: Aerodrome Finance (AERO)",
+      "summary_zh": "CoinGecko trending rank #103."
     },
     {
-      "id": "f56091d6f87a6ba7",
-      "title": "What FDE means at OpenAI",
-      "summary": "What forward deployed engineering means at OpenAI",
+      "id": "b385f6ee9d6a3ecd",
+      "title": "Working with academic communities to build scientific understanding",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
       "category": "AI",
       "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/forward-deployed-engineering-means",
+      "source_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
       "image_url": null,
-      "published_at": "2026-10-22T06:00:00.000Z",
+      "published_at": "2026-10-26T00:00:00.000Z",
       "importance_score": 52,
       "sentiment": 0,
       "tags": [
         "ai",
-        "openai",
-        "war"
+        "openai"
       ],
       "region": "global",
-      "title_zh": "What FDE means at OpenAI",
-      "summary_zh": "What forward deployed engineering means at OpenAI"
+      "title_zh": "Working with academic communities to build scientific understanding",
+      "summary_zh": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
     },
     {
       "id": "ebfa95e3891a1bf1",
@@ -758,8 +774,8 @@
       "summary_zh": "Your day-ahead look for Oct. 26, 2026"
     },
     {
-      "id": "04a190e967780a1a",
-      "title": "Live news: Bitcoin sits near $80,000 as tech rallies following Anthropic IPO filing",
+      "id": "b3db86ee20d9a539",
+      "title": "Live news: Bitcoin dips below $80,000 as stocks rally following Anthropic IPO filing",
       "summary": "Alongside Anthropic raising as much as $100 billion, Meta on Monday announced a $95 billion share sale to fund its own AI ambitions.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
@@ -771,10 +787,11 @@
       "tags": [
         "ai",
         "anthropic",
-        "bitcoin"
+        "bitcoin",
+        "stocks"
       ],
       "region": "global",
-      "title_zh": "Live news: Bitcoin sits near $80,000 as tech rallies following Anthropic IPO filing",
+      "title_zh": "Live news: Bitcoin dips below $80,000 as stocks rally following Anthropic IPO filing",
       "summary_zh": "Alongside Anthropic raising as much as $100 billion, Meta on Monday announced a $95 billion share sale to fund its own AI ambitions."
     },
     {
@@ -849,45 +866,6 @@
       "region": "global",
       "title_zh": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "summary_zh": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
-    },
-    {
-      "id": "a6446520a2170e3f",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "image_url": null,
-      "published_at": "2026-10-22T00:00:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "summary_zh": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
-    },
-    {
-      "id": "d1fe0161caf715ed",
-      "title": "OpenAI models are coming to Google Cloud",
-      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/openai-models-google-cloud",
-      "image_url": null,
-      "published_at": "2026-10-21T12:00:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai",
-        "google"
-      ],
-      "region": "global",
-      "title_zh": "OpenAI models are coming to Google Cloud",
-      "summary_zh": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
     },
     {
       "id": "3626bff7dbd290e5",
@@ -1105,7 +1083,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-26T16:49:14.000Z",
+      "published_at": "2026-10-26T21:02:47.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1128,22 +1106,6 @@
       "region": "global",
       "title_zh": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "summary_zh": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
-    },
-    {
-      "id": "48f2ac15b4e9a421",
-      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-      "summary": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-26T14:16:09.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-      "summary_zh": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle."
     },
     {
       "id": "93d769d85b229866",
@@ -1196,6 +1158,24 @@
       "summary_zh": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
     },
     {
+      "id": "7bb75d2620e45d9e",
+      "title": "'Maxxing' selected as Dictionary.com word of the year",
+      "summary": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-26T21:31:53.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "'Maxxing' selected as Dictionary.com word of the year",
+      "summary_zh": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising."
+    },
+    {
       "id": "b688cea5d5e968b8",
       "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
       "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
@@ -1228,20 +1208,22 @@
       "summary_zh": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola."
     },
     {
-      "id": "30502acf10895e2a",
-      "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
-      "summary": "The incident happened on Saturday night, close to an American football stadium where a game had just been played.",
+      "id": "1af16caba791fe17",
+      "title": "Egypt OKs Military Aid to Saudis in Fight With Houthis",
+      "summary": "The Egyptians will commit forces for defensive purposes only, officials have said, as the kingdom exchanges increasingly deadly strikes with the Iranian-backed militia in Yemen.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html",
       "image_url": null,
-      "published_at": "2026-10-26T15:45:30.000Z",
+      "published_at": "2026-10-26T19:42:58.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai"
+      ],
       "region": "global",
-      "title_zh": "Police arrest teenager after shooting that injured 12, including children, in Florida",
-      "summary_zh": "The incident happened on Saturday night, close to an American football stadium where a game had just been played."
+      "title_zh": "Egypt OKs Military Aid to Saudis in Fight With Houthis",
+      "summary_zh": "The Egyptians will commit forces for defensive purposes only, officials have said, as the kingdom exchanges increasingly deadly strikes with the Iranian-backed militia in Yemen."
     },
     {
       "id": "18c40e0a7658a3de",
@@ -1251,7 +1233,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/26/world/europe/serbia-election-vucic-nationalist-populists.html",
       "image_url": null,
-      "published_at": "2026-10-26T17:44:26.000Z",
+      "published_at": "2026-10-26T18:26:54.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1283,7 +1265,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
       "image_url": null,
-      "published_at": "2026-10-26T17:22:26.000Z",
+      "published_at": "2026-10-26T20:32:15.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1299,7 +1281,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
       "image_url": null,
-      "published_at": "2026-10-26T15:57:06.000Z",
+      "published_at": "2026-10-26T19:31:32.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1362,22 +1344,6 @@
       "summary_zh": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents."
     },
     {
-      "id": "7f1547ade26bdf02",
-      "title": "María Corina Machado Returns to Venezuela",
-      "summary": "After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
-      "image_url": null,
-      "published_at": "2026-10-26T16:40:42.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "María Corina Machado Returns to Venezuela",
-      "summary_zh": "After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections."
-    },
-    {
       "id": "d2da63c33b682add",
       "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
       "summary": "Officials are concerned users of domestic exchanges would bear the tax burden because the U.S. won’t share crypto trading data until 2029.",
@@ -1416,6 +1382,43 @@
       "summary_zh": "The maker of Claude reported $16.3 billion in first-half revenue and an $80.7 billion net loss as it aims to price its offering in mid-November."
     },
     {
+      "id": "e62191ce846e670f",
+      "title": "CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell",
+      "summary": "CZ sees AI driving crypto use, while BNB Standard plans to expand beyond holding tokens in its treasury.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790",
+      "image_url": null,
+      "published_at": "2026-10-26T19:43:47.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell",
+      "summary_zh": "CZ sees AI driving crypto use, while BNB Standard plans to expand beyond holding tokens in its treasury."
+    },
+    {
+      "id": "07d0a53fce68dbe3",
+      "title": "Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders",
+      "summary": "The platform is in beta and plans to open to the public in the coming weeks, co-founder Chetan Manda told The Block.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775",
+      "image_url": null,
+      "published_at": "2026-10-26T17:55:02.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders",
+      "summary_zh": "The platform is in beta and plans to open to the public in the coming weeks, co-founder Chetan Manda told The Block."
+    },
+    {
       "id": "b525c5035b0e76ed",
       "title": "NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket",
       "summary": "The CFTC and NBA have agreed to put in place standards to protect the integrity of the game when it comes to prediction markets.",
@@ -1450,39 +1453,39 @@
       "summary_zh": "The company's combined crypto, cash, marketable securities, and other investments totaled $15 billion as of Oct. 25."
     },
     {
-      "id": "36e5724ef8e9bd74",
-      "title": "South Korea weighs fourth delay of crypto gains tax, eyes 2029 start: report",
-      "summary": "The delay reportedly aims to align with the U.S. schedule of integrating CARF, the OECD's international tax framework for digital assets.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-10-26-south-korea-weighs-fourth-delay-crypto-tax-431649",
+      "id": "1802c6a31c8fa9b9",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
       "image_url": null,
-      "published_at": "2026-10-26T10:06:02.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "South Korea weighs fourth delay of crypto gains tax, eyes 2029 start: report",
-      "summary_zh": "The delay reportedly aims to align with the U.S. schedule of integrating CARF, the OECD's international tax framework for digital assets."
-    },
-    {
-      "id": "276ed03731021edb",
-      "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
-      "summary": "CEO Sumit Gupta had told X users on Wednesday that early reports of a breach sounded like \"a false alarm.\"",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
-      "image_url": null,
-      "published_at": "2026-10-25T18:46:21.000Z",
-      "importance_score": 44,
+      "published_at": "2026-10-26T13:45:00.000Z",
+      "importance_score": 40,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
-      "summary_zh": "CEO Sumit Gupta had told X users on Wednesday that early reports of a breach sounded like \"a false alarm.\""
+      "title_zh": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "summary_zh": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
+    },
+    {
+      "id": "ec107f17e5d9a9ec",
+      "title": "ChatGPT’s expanding world of work",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "image_url": null,
+      "published_at": "2026-10-26T10:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global",
+      "title_zh": "ChatGPT’s expanding world of work",
+      "summary_zh": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
     },
     {
       "id": "f78b5aba2fa56989",
@@ -1502,6 +1505,41 @@
       "region": "global",
       "title_zh": "How Fanatics and OpenAI streamline the fan experience",
       "summary_zh": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
+    },
+    {
+      "id": "262ca203e217a151",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-cut-incident-investigation",
+      "image_url": null,
+      "published_at": "2026-10-26T07:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global",
+      "title_zh": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "summary_zh": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
+    },
+    {
+      "id": "9caef7338a26fb0e",
+      "title": "Introducing GPT-6.1 Terra",
+      "summary": "Bringing fast and capable computer use to everyone",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "image_url": null,
+      "published_at": "2026-10-26T00:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Introducing GPT-6.1 Terra",
+      "summary_zh": "Bringing fast and capable computer use to everyone"
     },
     {
       "id": "a03131aba90fe4bc",
@@ -1537,44 +1575,6 @@
       "region": "global",
       "title_zh": "Build more responsive apps with the Decisions API",
       "summary_zh": "Fast, focused, low-cost decisions for any application."
-    },
-    {
-      "id": "de1bcbc6da328aa8",
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/att-legal",
-      "image_url": null,
-      "published_at": "2026-10-21T17:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "How AT&T is rethinking in-house legal work with OpenAI",
-      "summary_zh": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
-    },
-    {
-      "id": "53de34cd3455328a",
-      "title": "Broad access through consistent standards",
-      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "image_url": null,
-      "published_at": "2026-10-21T21:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "Broad access through consistent standards",
-      "summary_zh": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
     },
     {
       "id": "195004e6c9279986",
@@ -1752,6 +1752,22 @@
       "summary_zh": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW."
     },
     {
+      "id": "9f4c929548b19201",
+      "title": "At New York Climate Week 2026, MIT connects with a global network",
+      "summary": "A cross-section of the MIT community convened discussions on topics ranging from data centers and super pollutants to agriculture and education.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026",
+      "image_url": null,
+      "published_at": "2026-10-26T19:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "At New York Climate Week 2026, MIT connects with a global network",
+      "summary_zh": "A cross-section of the MIT community convened discussions on topics ranging from data centers and super pollutants to agriculture and education."
+    },
+    {
       "id": "066c333a97ff7401",
       "title": "Reinforcing the value of human understanding at MIT",
       "summary": "During the School of Humanities, Arts, and Social Sciences’ 75th Anniversary Symposium, President Sally Kornbluth said “MIT has never needed your particular insight and guidance more than we do now.”",
@@ -1784,24 +1800,6 @@
       "region": "global",
       "title_zh": "Fostering community amid Kendall Square’s innovation",
       "summary_zh": "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society."
-    },
-    {
-      "id": "26b7fc2bf09e69b0",
-      "title": "Q&A: The “collision” between AI, your brain, and society",
-      "summary": "In a new book, Professor Eric So explores how the technology affects our thinking skills.",
-      "category": "AI",
-      "source_name": "MIT News AI",
-      "source_url": "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015",
-      "image_url": null,
-      "published_at": "2026-10-15T04:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Q&A: The “collision” between AI, your brain, and society",
-      "summary_zh": "In a new book, Professor Eric So explores how the technology affects our thinking skills."
     },
     {
       "id": "8679bab18a79a2b9",
