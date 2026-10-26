@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T11:47:34.996Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead；【CRYPTO】Live news: Bitcoin barely holding $80,000 ahead of Fed on Wednesday, tech earnings this week；【STRATEGY】Recent Quant Links from Quantocracy as of 10/24/2026。",
+  "generated_at": "2026-10-26T17:49:50.405Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】OCC calls on community banks to enter the stablecoin payments market；【STRATEGY】Recent Quant Links from Quantocracy as of 10/24/2026；【CRYPTO】Bitcoin holds near $80,000 as oil retreats and the Fed decision looms。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -20,43 +20,22 @@
   },
   "items": [
     {
-      "id": "d9d269e30c03f212",
-      "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
-      "summary": "Your look at what's coming in the week starting Oct. 26.",
+      "id": "1174ac53de0ed79b",
+      "title": "OCC calls on community banks to enter the stablecoin payments market",
+      "summary": "The U.S. banking regulator is encouraging smaller lenders to develop stablecoin services as new federal licensing requirements approach.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead",
+      "source_url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
       "image_url": null,
-      "published_at": "2026-10-26T09:14:47.000Z",
-      "importance_score": 80,
+      "published_at": "2026-10-26T15:45:51.000Z",
+      "importance_score": 68,
       "sentiment": 0,
       "tags": [
-        "crypto",
         "fed"
       ],
       "region": "global",
-      "title_zh": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
-      "summary_zh": "Your look at what's coming in the week starting Oct. 26."
-    },
-    {
-      "id": "f389230393d204ca",
-      "title": "Live news: Bitcoin barely holding $80,000 ahead of Fed on Wednesday, tech earnings this week",
-      "summary": "Brazilian stocks are expected to plunge at the open as President Luiz Inácio Lula da Silva unexpectedly secured a fourth term in office.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
-      "image_url": null,
-      "published_at": "2026-10-26T11:05:31.000Z",
-      "importance_score": 74,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin",
-        "fed",
-        "stocks"
-      ],
-      "region": "global",
-      "title_zh": "Live news: Bitcoin barely holding $80,000 ahead of Fed on Wednesday, tech earnings this week",
-      "summary_zh": "Brazilian stocks are expected to plunge at the open as President Luiz Inácio Lula da Silva unexpectedly secured a fourth term in office."
+      "title_zh": "OCC calls on community banks to enter the stablecoin payments market",
+      "summary_zh": "The U.S. banking regulator is encouraging smaller lenders to develop stablecoin services as new federal licensing requirements approach."
     },
     {
       "id": "76b381ebd56e0bce",
@@ -97,44 +76,41 @@
       "summary_zh": "Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday."
     },
     {
-      "id": "455781da6bf415b7",
-      "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-      "summary": "Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%.",
+      "id": "b922631f476a3736",
+      "title": "Strategy pauses bitcoin buys, repurchases $205 million of STRC preferred shares",
+      "summary": "Strategy's bitcoin holdings account for roughly 4% of the total supply cap, with $3.9 billion in paper gains.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-10-26-strategy-pauses-bitcoin-buys-repurchases-205-million-of-strc-preferred-shares-431699",
       "image_url": null,
-      "published_at": "2026-10-26T04:37:02.000Z",
+      "published_at": "2026-10-26T13:23:14.000Z",
       "importance_score": 62,
       "sentiment": 0,
       "tags": [
         "ai",
-        "bitcoin",
-        "fed"
+        "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-      "summary_zh": "Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%."
+      "title_zh": "Strategy pauses bitcoin buys, repurchases $205 million of STRC preferred shares",
+      "summary_zh": "Strategy's bitcoin holdings account for roughly 4% of the total supply cap, with $3.9 billion in paper gains."
     },
     {
-      "id": "69a2b2f598f8d2b7",
-      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
-      "summary": "Spot bitcoin ETFs lost $773 million on Thursday and Friday after three days of net inflows, per SoSoValue data.",
+      "id": "6927752318a354c7",
+      "title": "Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase",
+      "summary": "Strive's latest bitcoin purchase puts it within 1,000 BTC of second-place Metaplanet as it unveils a new $1 billion preferred stock offering program.",
       "category": "CRYPTO",
       "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
+      "source_url": "https://www.theblock.co/news/business/2026-10-26-strive-closes-in-second-largest-corporate-bitcoin-treasury-511-million-purchase-431729",
       "image_url": null,
-      "published_at": "2026-10-24T17:44:36.000Z",
+      "published_at": "2026-10-26T13:19:08.000Z",
       "importance_score": 62,
       "sentiment": 0,
       "tags": [
-        "crypto",
-        "bitcoin",
-        "etf"
+        "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
-      "summary_zh": "Spot bitcoin ETFs lost $773 million on Thursday and Friday after three days of net inflows, per SoSoValue data."
+      "title_zh": "Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase",
+      "summary_zh": "Strive's latest bitcoin purchase puts it within 1,000 BTC of second-place Metaplanet as it unveils a new $1 billion preferred stock offering program."
     },
     {
       "id": "057607206eb95d9a",
@@ -283,41 +259,24 @@
       "summary_zh": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
-      "id": "5ef8a3fba33d2a5d",
-      "title": "Deeply divided Israel braces for pivotal election",
-      "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "id": "9b6f7005d9d47565",
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-25T22:11:13.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Deeply divided Israel braces for pivotal election",
-      "summary_zh": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson."
-    },
-    {
-      "id": "35f1b21318d86817",
-      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
-      "summary": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-25T14:34:33.000Z",
+      "published_at": "2026-10-26T16:27:17.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
         "ai",
-        "fed"
+        "anthropic",
+        "war"
       ],
       "region": "global",
-      "title_zh": "Russia to host first Olympic federation world event since Ukraine invasion",
-      "summary_zh": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine."
+      "title_zh": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "summary_zh": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI."
     },
     {
       "id": "a9b9dbfdaba09f44",
@@ -339,6 +298,24 @@
       "summary_zh": "Much has been said about how Ukraine should treat Russian prisoners of war. Less attention has been paid to the emotional struggle for the Ukrainians tasked with that work."
     },
     {
+      "id": "0c29fd993e5d7237",
+      "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
+      "summary": "Saudi Arabia, Turkey and Pakistan made a rare joint visit to Tehran amid reports that the U.S. and Israel were drawing up plans to renew their attacks on Iran.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
+      "image_url": null,
+      "published_at": "2026-10-26T14:30:53.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
+      "summary_zh": "Saudi Arabia, Turkey and Pakistan made a rare joint visit to Tehran amid reports that the U.S. and Israel were drawing up plans to renew their attacks on Iran."
+    },
+    {
       "id": "62407d99b47ae5d1",
       "title": "Recent Quant Links from Quantocracy as of 10/12/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools",
@@ -353,6 +330,40 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/12/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools"
+    },
+    {
+      "id": "749f75c24e7ffa8e",
+      "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+      "summary": "The U.S. derivatives regulator, which has championed the arrival of prediction market firms such as Kalshi, has been gathering allied sports leagues.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+      "image_url": null,
+      "published_at": "2026-10-26T15:59:55.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+      "summary_zh": "The U.S. derivatives regulator, which has championed the arrival of prediction market firms such as Kalshi, has been gathering allied sports leagues."
+    },
+    {
+      "id": "146914e800c19f8b",
+      "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
+      "summary": "Under the draft rules, non-bank stablecoin issuers must back tokens 1:1 with reserves held at qualified Canadian institutions and settle redemptions within three business days.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
+      "image_url": null,
+      "published_at": "2026-10-26T14:23:41.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
+      "summary_zh": "Under the draft rules, non-bank stablecoin issuers must back tokens 1:1 with reserves held at qualified Canadian institutions and settle redemptions within three business days."
     },
     {
       "id": "5c91357b442c6d8a",
@@ -374,23 +385,23 @@
       "summary_zh": "California’s pension fund shifts toward private equity as investors question tech valuations and the payoff from soaring AI spending."
     },
     {
-      "id": "706b9d5b4b98e72e",
-      "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
-      "summary": "SpaceX has raised $40 billion in debt to buy GPUs, while Musk predicts a major shakeout among smaller AI cloud providers.",
+      "id": "3d1d33f70d2efb14",
+      "title": "Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle",
+      "summary": "Bernstein cuts Coinbase’s target while raising Circle’s as new products shift their earnings outlook.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750",
       "image_url": null,
-      "published_at": "2026-10-26T03:11:39.000Z",
+      "published_at": "2026-10-26T16:36:43.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
         "ai",
-        "war"
+        "crypto"
       ],
       "region": "global",
-      "title_zh": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
-      "summary_zh": "SpaceX has raised $40 billion in debt to buy GPUs, while Musk predicts a major shakeout among smaller AI cloud providers."
+      "title_zh": "Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle",
+      "summary_zh": "Bernstein cuts Coinbase’s target while raising Circle’s as new products shift their earnings outlook."
     },
     {
       "id": "46d387f577bafa47",
@@ -412,72 +423,14 @@
       "summary_zh": "Keystone has said it deletes customer information 180 days after their orders in most cases, though X users have cast doubt on that claim."
     },
     {
-      "id": "011f8959fece7e7a",
-      "title": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
-      "summary": "Netanyahu says blockchain could help Israel prepare for possible sanctions targeting its banking system.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792",
-      "image_url": null,
-      "published_at": "2026-10-23T18:15:55.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
-      "summary_zh": "Netanyahu says blockchain could help Israel prepare for possible sanctions targeting its banking system."
-    },
-    {
-      "id": "e3ceeae4e92394bd",
-      "title": "Trending Crypto: evmzone (EVMZONE)",
-      "summary": "CoinGecko trending rank #941.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/evmzone",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102179743/large/logo.jpg?1792852591",
-      "published_at": "2026-10-26T11:46:21.558Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "evmzone"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: evmzone (EVMZONE)",
-      "summary_zh": "CoinGecko trending rank #941."
-    },
-    {
-      "id": "7d8ba94fdd15997d",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #115.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-10-26T11:46:21.558Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pengu"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #115."
-    },
-    {
-      "id": "675c3788b31cd3a4",
+      "id": "964bafe2b13d1014",
       "title": "Trending Crypto: Big Titty Coin (BTC)",
-      "summary": "CoinGecko trending rank #794.",
+      "summary": "CoinGecko trending rank #790.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/big-titty-coin",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179782/large/logo.png?1792952458",
-      "published_at": "2026-10-26T11:46:21.558Z",
+      "published_at": "2026-10-26T17:48:35.830Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -487,17 +440,37 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Big Titty Coin (BTC)",
-      "summary_zh": "CoinGecko trending rank #794."
+      "summary_zh": "CoinGecko trending rank #790."
     },
     {
-      "id": "1572752ef150d443",
+      "id": "65b6f97c8f824beb",
+      "title": "Trending Crypto: evmzone (EVMZONE)",
+      "summary": "CoinGecko trending rank #900.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/evmzone",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102179743/large/logo.jpg?1792852591",
+      "published_at": "2026-10-26T17:48:35.830Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "evmzone"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: evmzone (EVMZONE)",
+      "summary_zh": "CoinGecko trending rank #900."
+    },
+    {
+      "id": "6325befb07247174",
       "title": "Trending Crypto: Pepina (PEPINA)",
-      "summary": "CoinGecko trending rank #770.",
+      "summary": "CoinGecko trending rank #805.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pepina-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179740/large/557a5c15baacdaf4ceff7bf12e3c353e_v2l.jpg?1792798930",
-      "published_at": "2026-10-26T11:46:21.558Z",
+      "published_at": "2026-10-26T17:48:35.830Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -507,27 +480,47 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Pepina (PEPINA)",
-      "summary_zh": "CoinGecko trending rank #770."
+      "summary_zh": "CoinGecko trending rank #805."
     },
     {
-      "id": "49e0565faa0e0857",
-      "title": "Trending Crypto: Pearl (PEARL)",
-      "summary": "CoinGecko trending rank #94.",
+      "id": "9ae40b5f8031b1ed",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-10-26T11:46:21.558Z",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-10-26T17:48:35.830Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pearl"
+        "btc"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pearl (PEARL)",
-      "summary_zh": "CoinGecko trending rank #94."
+      "title_zh": "Trending Crypto: Bitcoin (BTC)",
+      "summary_zh": "CoinGecko trending rank #1."
+    },
+    {
+      "id": "80c452c11b235677",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #117.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-10-26T17:48:35.830Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pengu"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary_zh": "CoinGecko trending rank #117."
     },
     {
       "id": "f56091d6f87a6ba7",
@@ -583,24 +576,6 @@
       "region": "global",
       "title_zh": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
       "summary_zh": ""
-    },
-    {
-      "id": "3f7bb263e1577691",
-      "title": "AI for Societal Impact",
-      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-      "category": "AI",
-      "source_name": "Google AI Blog",
-      "source_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
-      "published_at": "2026-09-15T16:00:00.000Z",
-      "importance_score": 52,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "AI for Societal Impact",
-      "summary_zh": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI."
     },
     {
       "id": "2841ddf841f149fc",
@@ -744,33 +719,73 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/03/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Buffett’s be greedy when others are fearful, tested [Quanter Lab] \"Be greedy when others are fearful\" is Warren Buffett's"
     },
     {
-      "id": "5f5275be4809a148",
-      "title": "Over 11 million bitcoin has no known owner. Here's what it means",
-      "summary": "The large number of coins held in unidentified wallets shows that retail investors have been in this market for years, observers said. But this interpretation comes with a caveat.",
+      "id": "1e82beccf7ed4c05",
+      "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+      "summary": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying",
+      "source_url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
       "image_url": null,
-      "published_at": "2026-10-26T07:18:24.000Z",
+      "published_at": "2026-10-26T16:05:12.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
         "ai",
-        "bitcoin"
+        "crypto",
+        "ethereum",
+        "stocks"
       ],
       "region": "global",
-      "title_zh": "Over 11 million bitcoin has no known owner. Here's what it means",
-      "summary_zh": "The large number of coins held in unidentified wallets shows that retail investors have been in this market for years, observers said. But this interpretation comes with a caveat."
+      "title_zh": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+      "summary_zh": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback."
     },
     {
-      "id": "c0b4adc48e9f028e",
-      "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
-      "summary": "Attackers replaced legitimate transactions with fake ones, then waited for users to approve higher fees. At least one person lost bitcoin before developers patched the flaw.",
+      "id": "bd778cb7a71ca4b1",
+      "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
+      "summary": "Your day-ahead look for Oct. 26, 2026",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
+      "source_url": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000",
       "image_url": null,
-      "published_at": "2026-10-26T05:15:20.000Z",
+      "published_at": "2026-10-26T11:53:07.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
+      "summary_zh": "Your day-ahead look for Oct. 26, 2026"
+    },
+    {
+      "id": "04a190e967780a1a",
+      "title": "Live news: Bitcoin sits near $80,000 as tech rallies following Anthropic IPO filing",
+      "summary": "Alongside Anthropic raising as much as $100 billion, Meta on Monday announced a $95 billion share sale to fund its own AI ambitions.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
+      "image_url": null,
+      "published_at": "2026-10-26T11:05:31.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "anthropic",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "Live news: Bitcoin sits near $80,000 as tech rallies following Anthropic IPO filing",
+      "summary_zh": "Alongside Anthropic raising as much as $100 billion, Meta on Monday announced a $95 billion share sale to fund its own AI ambitions."
+    },
+    {
+      "id": "17ee52ff9c345495",
+      "title": "Galaxy says bitcoin bear market is over; now is the time to buy and hold",
+      "summary": "Galaxy said bitcoin’s bear market ended in June as fading long-term holder selling signals an attractive buying opportunity.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-10-26-galaxy-says-bitcoin-bear-market-is-over-now-is-the-time-to-buy-and-hold-431720",
+      "image_url": null,
+      "published_at": "2026-10-26T13:00:00.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
@@ -778,8 +793,8 @@
         "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
-      "summary_zh": "Attackers replaced legitimate transactions with fake ones, then waited for users to approve higher fees. At least one person lost bitcoin before developers patched the flaw."
+      "title_zh": "Galaxy says bitcoin bear market is over; now is the time to buy and hold",
+      "summary_zh": "Galaxy said bitcoin’s bear market ended in June as fading long-term holder selling signals an attractive buying opportunity."
     },
     {
       "id": "3fc40a64d749740e",
@@ -873,24 +888,6 @@
       "region": "global",
       "title_zh": "OpenAI models are coming to Google Cloud",
       "summary_zh": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
-    },
-    {
-      "id": "e7f55afbfec86f81",
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "image_url": null,
-      "published_at": "2026-10-21T07:00:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "summary_zh": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
     },
     {
       "id": "3626bff7dbd290e5",
@@ -1101,6 +1098,22 @@
       "summary_zh": "The latest 12-month period marked the strongest return for the university's fund since 2021."
     },
     {
+      "id": "245baf70d7af4c71",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-26T16:49:14.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Lula wins fourth term in dramatic Brazil election comeback",
+      "summary_zh": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro."
+    },
+    {
       "id": "611f3c2a9891744a",
       "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
@@ -1108,13 +1121,63 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-26T11:02:20.000Z",
+      "published_at": "2026-10-26T14:34:52.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
       "title_zh": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "summary_zh": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
+    },
+    {
+      "id": "48f2ac15b4e9a421",
+      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+      "summary": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-26T14:16:09.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+      "summary_zh": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle."
+    },
+    {
+      "id": "93d769d85b229866",
+      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+      "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-26T15:46:31.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Catholic bishops apologise for 'exploited' Trump meeting",
+      "summary_zh": "Two bishops in images that show them praying with Trump have said they believed the meeting was private."
+    },
+    {
+      "id": "4277a0c30ee0de83",
+      "title": "US Marine indicted for murder and robbery of woman in Japan",
+      "summary": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-26T14:13:18.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "US Marine indicted for murder and robbery of woman in Japan",
+      "summary_zh": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports."
     },
     {
       "id": "0bcc2251a6975515",
@@ -1133,106 +1196,68 @@
       "summary_zh": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
     },
     {
-      "id": "750211f76781df43",
-      "title": "Australian murderer loses bid to eat Vegemite in prison",
-      "summary": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
+      "id": "b688cea5d5e968b8",
+      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-26T04:05:28.000Z",
+      "published_at": "2026-10-26T17:00:09.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Australian murderer loses bid to eat Vegemite in prison",
-      "summary_zh": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture."
+      "title_zh": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "summary_zh": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border."
     },
     {
-      "id": "5c8fe1bf23aa0f26",
-      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
-      "summary": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-26T06:16:15.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
-      "summary_zh": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme."
-    },
-    {
-      "id": "7bb8282a5a036429",
-      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
-      "summary": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-25T23:33:19.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
-      "summary_zh": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms."
-    },
-    {
-      "id": "0f3c03b0c5626886",
-      "title": "Uganda imposes 21-day quarantine on citizens returning from DR Congo",
-      "summary": "Uganda will also not allow most travellers who have been in DR Congo to transit through the country.",
+      "id": "81ae04ea0bb5d01e",
+      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+      "summary": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-26T08:18:22.000Z",
+      "published_at": "2026-10-26T14:27:32.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Uganda imposes 21-day quarantine on citizens returning from DR Congo",
-      "summary_zh": "Uganda will also not allow most travellers who have been in DR Congo to transit through the country."
+      "title_zh": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+      "summary_zh": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola."
     },
     {
-      "id": "d9424c4baaa64734",
-      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-      "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+      "id": "30502acf10895e2a",
+      "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+      "summary": "The incident happened on Saturday night, close to an American football stadium where a game had just been played.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-25T15:32:51.000Z",
+      "published_at": "2026-10-26T15:45:30.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-      "summary_zh": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said."
+      "title_zh": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+      "summary_zh": "The incident happened on Saturday night, close to an American football stadium where a game had just been played."
     },
     {
-      "id": "33f78fffbfab7d2d",
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+      "id": "18c40e0a7658a3de",
+      "title": "Serbia’s Election Shows New Vulnerability for Nationalist Populists",
+      "summary": "In much of Europe, the advance of the right has been seen as unstoppable. But in the east, nationalists are being cast aside in places where they long governed.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/26/world/europe/serbia-election-vucic-nationalist-populists.html",
       "image_url": null,
-      "published_at": "2026-10-25T09:00:00.000Z",
+      "published_at": "2026-10-26T17:44:26.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "summary_zh": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
+      "title_zh": "Serbia’s Election Shows New Vulnerability for Nationalist Populists",
+      "summary_zh": "In much of Europe, the advance of the right has been seen as unstoppable. But in the east, nationalists are being cast aside in places where they long governed."
     },
     {
       "id": "8a5e88d42bbe3fba",
@@ -1258,13 +1283,29 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
       "image_url": null,
-      "published_at": "2026-10-26T07:07:27.000Z",
+      "published_at": "2026-10-26T17:22:26.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
       "title_zh": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
       "summary_zh": "President Luiz Inácio Lula da Silva triumphed over Flávio Bolsonaro, the eldest son of the right-wing leader he defeated four years ago."
+    },
+    {
+      "id": "dfa7fe0e5ff5be4f",
+      "title": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
+      "summary": "Norwegian officials emphasized that their government does not have any influence over who receives the Peace Prize, after President Trump used crude language to express his frustration.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
+      "image_url": null,
+      "published_at": "2026-10-26T15:57:06.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
+      "summary_zh": "Norwegian officials emphasized that their government does not have any influence over who receives the Peace Prize, after President Trump used crude language to express his frustration."
     },
     {
       "id": "515e5784e0e00f40",
@@ -1274,7 +1315,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/26/world/asia/china-communist-party-xi-forever-purge.html",
       "image_url": null,
-      "published_at": "2026-10-26T04:00:07.000Z",
+      "published_at": "2026-10-26T13:14:20.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1328,7 +1369,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
       "image_url": null,
-      "published_at": "2026-10-26T05:18:47.000Z",
+      "published_at": "2026-10-26T16:40:42.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1337,64 +1378,14 @@
       "summary_zh": "After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections."
     },
     {
-      "id": "d4c5068fad388689",
-      "title": "Jordan Arrests 3 in Connection With Church Attack, State Media Reports",
-      "summary": "Nine people were killed and dozens were wounded in the attack last week on a Greek Orthodox Church in southern Jordan.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html",
-      "image_url": null,
-      "published_at": "2026-10-26T09:27:13.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Jordan Arrests 3 in Connection With Church Attack, State Media Reports",
-      "summary_zh": "Nine people were killed and dozens were wounded in the attack last week on a Greek Orthodox Church in southern Jordan."
-    },
-    {
-      "id": "cb93900c9e5ec450",
-      "title": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
-      "summary": "While the police kept a lid on vandalism, the huge number of protesters and France’s fraught politics suggest unrest could grow.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html",
-      "image_url": null,
-      "published_at": "2026-10-25T17:52:46.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
-      "summary_zh": "While the police kept a lid on vandalism, the huge number of protesters and France’s fraught politics suggest unrest could grow."
-    },
-    {
-      "id": "52094708b03c8af0",
-      "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
-      "summary": "The comments came after the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-      "image_url": null,
-      "published_at": "2026-10-25T09:28:36.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Elon Musk Says Ukraine Violated Starlink’s Rules",
-      "summary_zh": "The comments came after the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds."
-    },
-    {
-      "id": "932d57f6a3441df4",
-      "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
-      "summary": "The Mumbai-based exchange initially dismissed reports of suspicious outflows as a false alarm. It now says it lost $16 million and will absorb the loss.",
+      "id": "d2da63c33b682add",
+      "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
+      "summary": "Officials are concerned users of domestic exchanges would bear the tax burden because the U.S. won’t share crypto trading data until 2029.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
+      "source_url": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
       "image_url": null,
-      "published_at": "2026-10-26T05:39:17.000Z",
+      "published_at": "2026-10-26T14:51:07.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
@@ -1402,26 +1393,61 @@
         "crypto"
       ],
       "region": "global",
-      "title_zh": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
-      "summary_zh": "The Mumbai-based exchange initially dismissed reports of suspicious outflows as a false alarm. It now says it lost $16 million and will absorb the loss."
+      "title_zh": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
+      "summary_zh": "Officials are concerned users of domestic exchanges would bear the tax burden because the U.S. won’t share crypto trading data until 2029."
     },
     {
-      "id": "d590d7a8b062d8fc",
-      "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
-      "summary": "Economics Minister Viktors Valainis says rules could arrive in the first half of next year, but an overdue assessment remains unfinished and no sovereign-bond issuance was identified.",
+      "id": "6f8813ae9af5e09d",
+      "title": "AI giant Anthropic files for blockbuster IPO",
+      "summary": "The maker of Claude reported $16.3 billion in first-half revenue and an $80.7 billion net loss as it aims to price its offering in mid-November.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus",
+      "source_url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
       "image_url": null,
-      "published_at": "2026-10-25T15:00:00.000Z",
+      "published_at": "2026-10-26T13:22:09.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "ai",
+        "anthropic"
       ],
       "region": "global",
-      "title_zh": "Latvia targets tokenization rules in 2027 with commercial property in focus",
-      "summary_zh": "Economics Minister Viktors Valainis says rules could arrive in the first half of next year, but an overdue assessment remains unfinished and no sovereign-bond issuance was identified."
+      "title_zh": "AI giant Anthropic files for blockbuster IPO",
+      "summary_zh": "The maker of Claude reported $16.3 billion in first-half revenue and an $80.7 billion net loss as it aims to price its offering in mid-November."
+    },
+    {
+      "id": "b525c5035b0e76ed",
+      "title": "NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket",
+      "summary": "The CFTC and NBA have agreed to put in place standards to protect the integrity of the game when it comes to prediction markets.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764",
+      "image_url": null,
+      "published_at": "2026-10-26T16:27:37.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket",
+      "summary_zh": "The CFTC and NBA have agreed to put in place standards to protect the integrity of the game when it comes to prediction markets."
+    },
+    {
+      "id": "2b56bb2e0e22fe41",
+      "title": "Tom Lee insists ‘crypto bull market is underway’ as Bitmine adds 10,452 ETH",
+      "summary": "The company's combined crypto, cash, marketable securities, and other investments totaled $15 billion as of Oct. 25.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743",
+      "image_url": null,
+      "published_at": "2026-10-26T14:12:59.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Tom Lee insists ‘crypto bull market is underway’ as Bitmine adds 10,452 ETH",
+      "summary_zh": "The company's combined crypto, cash, marketable securities, and other investments totaled $15 billion as of Oct. 25."
     },
     {
       "id": "36e5724ef8e9bd74",
@@ -1459,73 +1485,23 @@
       "summary_zh": "CEO Sumit Gupta had told X users on Wednesday that early reports of a breach sounded like \"a false alarm.\""
     },
     {
-      "id": "be1c04cd530f61f5",
-      "title": "Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’",
-      "summary": "The judge's 60-page ruling concluded Argentine President Javier Milei's post promoting the LIBRA token did not, by itself, establish fraud.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606",
+      "id": "f78b5aba2fa56989",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/fanatics-streamline-fan-experience",
       "image_url": null,
-      "published_at": "2026-10-24T16:24:13.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’",
-      "summary_zh": "The judge's 60-page ruling concluded Argentine President Javier Milei's post promoting the LIBRA token did not, by itself, establish fraud."
-    },
-    {
-      "id": "e25afc7ff44d3147",
-      "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
-      "summary": "Sen. Blumenthal said he wants answers from Tether following reports that it paid millions to a firm started by a former WH crypto adviser.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785",
-      "image_url": null,
-      "published_at": "2026-10-23T17:46:09.000Z",
-      "importance_score": 44,
+      "published_at": "2026-10-26T07:00:00.000Z",
+      "importance_score": 40,
       "sentiment": 0,
       "tags": [
         "ai",
-        "crypto"
+        "openai"
       ],
       "region": "global",
-      "title_zh": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
-      "summary_zh": "Sen. Blumenthal said he wants answers from Tether following reports that it paid millions to a firm started by a former WH crypto adviser."
-    },
-    {
-      "id": "60df525e9da56b90",
-      "title": "Initia halts network after security incident as attacker reportedly mints tokens",
-      "summary": "Onchain data shows a $2.7 million ether transfer as Initia investigates the scope of a security incident.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755",
-      "image_url": null,
-      "published_at": "2026-10-23T17:03:56.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Initia halts network after security incident as attacker reportedly mints tokens",
-      "summary_zh": "Onchain data shows a $2.7 million ether transfer as Initia investigates the scope of a security incident."
-    },
-    {
-      "id": "f36334af61e12299",
-      "title": "Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid state lawsuits",
-      "summary": "Phantom users will fund trades with CASH stablecoins, with market restrictions applied in Michigan, Nevada and Washington.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652",
-      "image_url": null,
-      "published_at": "2026-10-23T13:00:00.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid state lawsuits",
-      "summary_zh": "Phantom users will fund trades with CASH stablecoins, with market restrictions applied in Michigan, Nevada and Washington."
+      "title_zh": "How Fanatics and OpenAI streamline the fan experience",
+      "summary_zh": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
     },
     {
       "id": "a03131aba90fe4bc",
@@ -1667,6 +1643,25 @@
       "region": "global",
       "title_zh": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
       "summary_zh": ""
+    },
+    {
+      "id": "05b92bf13bdcdfe4",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp",
+      "published_at": "2026-10-26T16:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "google"
+      ],
+      "region": "global",
+      "title_zh": "Our newest AI Quest: Mapping the human brain",
+      "summary_zh": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
     },
     {
       "id": "aec88acb7ddd0e59",
