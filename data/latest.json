@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T06:59:16.313Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight；【CRYPTO】OCC calls on community banks to enter the stablecoin payments market；【STRATEGY】Recent Quant Links from Quantocracy as of 10/24/2026。",
+  "generated_at": "2026-10-27T12:57:17.336Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Ripple 获得 OCC 最终批准，成立国家信托银行并将 RLUSD 置于联邦监管之下；【CRYPTO】Galaxy 表示，现在是积累比特币的时候了；【CRYPTO】实时更新：随着人工智能的建设吸引投资者的注意力和资本，比特币保持在 80,000 美元以下。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
     "feed_failed": 0,
     "failed_sources": [],
-    "translated_items": 0,
+    "translated_items": 105,
     "translation_target": "zh-CN",
     "version": "1.3.0"
   },
@@ -35,26 +35,48 @@
         "fed"
       ],
       "region": "global",
-      "title_zh": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
-      "summary_zh": "Ripple's structure places reserve management and custody under federal supervision while leaving issuance with the New York-regulated entity."
+      "title_zh": "Ripple 获得 OCC 最终批准，成立国家信托银行并将 RLUSD 置于联邦监管之下",
+      "summary_zh": "Ripple 的结构将储备管理和托管置于联邦监管之下，同时将发行交给受纽约监管的实体。"
     },
     {
-      "id": "1174ac53de0ed79b",
-      "title": "OCC calls on community banks to enter the stablecoin payments market",
-      "summary": "The U.S. banking regulator is encouraging smaller lenders to develop stablecoin services as new federal licensing requirements approach.",
+      "id": "bc6ed808174cc8b7",
+      "title": "Now is the time to accumulate bitcoin, Galaxy says",
+      "summary": "Galaxy argues improving price trends, resilient ETF demand and rising U.S. debt support bitcoin’s recovery towards its previous high.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+      "source_url": "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
       "image_url": null,
-      "published_at": "2026-10-26T15:45:51.000Z",
+      "published_at": "2026-10-27T09:42:46.000Z",
+      "importance_score": 74,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin",
+        "etf",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Galaxy 表示，现在是积累比特币的时候了",
+      "summary_zh": "Galaxy 认为，价格趋势的改善、ETF 需求的弹性以及美国债务的上升支持比特币恢复至之前的高点。"
+    },
+    {
+      "id": "a34ee78eb5c1ac63",
+      "title": "Live updates: Bitcoin holds below $80,000 as AI buildout draws investor attention and capital",
+      "summary": "Interest rates and oil are slipping and equities are rising, but crypto remains under pressure.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
+      "image_url": null,
+      "published_at": "2026-10-27T11:40:50.000Z",
       "importance_score": 68,
       "sentiment": 0,
       "tags": [
-        "fed"
+        "ai",
+        "crypto",
+        "bitcoin"
       ],
       "region": "global",
-      "title_zh": "OCC calls on community banks to enter the stablecoin payments market",
-      "summary_zh": "The U.S. banking regulator is encouraging smaller lenders to develop stablecoin services as new federal licensing requirements approach."
+      "title_zh": "实时更新：随着人工智能的建设吸引投资者的注意力和资本，比特币保持在 80,000 美元以下",
+      "summary_zh": "利率和石油价格正在下滑，股市正在上涨，但加密货币仍然面临压力。"
     },
     {
       "id": "76b381ebd56e0bce",
@@ -71,44 +93,85 @@
         "etf"
       ],
       "region": "global",
-      "title_zh": "Recent Quant Links from Quantocracy as of 10/24/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/24/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Shorting Leveraged ETFs: Role of Borrowing Costs and Rebalancing in Volatility-Decay Strategies [Quantpedia] Leveraged ET"
+      "title_zh": "截至 2026 年 10 月 24 日，来自 Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 10 月 24 日星期六 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！做空杠杆 ETF：借贷成本和再平衡在波动性衰减策略中的作用 [Quantpedia] 杠杆 ET"
     },
     {
-      "id": "2017548265df33d0",
-      "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
-      "summary": "The Office of the Comptroller of the Currency has approved Ripple National Trust Bank (RNTB), Ripple's CEO Brad Garlinghouse announced on X.",
+      "id": "7986e68a981466cc",
+      "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
+      "summary": "Your day-ahead look for Oct. 27, 2026",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
+      "source_url": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
       "image_url": null,
-      "published_at": "2026-10-27T04:28:49.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
-      "summary_zh": "The Office of the Comptroller of the Currency has approved Ripple National Trust Bank (RNTB), Ripple's CEO Brad Garlinghouse announced on X."
-    },
-    {
-      "id": "2d1acb7b8af91d5a",
-      "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-      "summary": "Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
-      "image_url": null,
-      "published_at": "2026-10-26T11:24:33.000Z",
+      "published_at": "2026-10-27T12:00:39.000Z",
       "importance_score": 62,
       "sentiment": 0,
       "tags": [
         "ai",
-        "bitcoin",
-        "fed"
+        "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-      "summary_zh": "Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday."
+      "title_zh": "比特币显示疲软迹象，而 Ripple 的银行胜利未能提振 XRP",
+      "summary_zh": "2026 年 10 月 27 日天气预报"
+    },
+    {
+      "id": "d228d20e5a2110d7",
+      "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
+      "summary": "Bitcoin fell 0.4% to around $79,700 since midnight UTC while Asian tech stocks rallied. The DeFi index dropped 1.8%, and the Fed is set to begin a two-day meeting.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
+      "image_url": null,
+      "published_at": "2026-10-27T11:32:45.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "bitcoin",
+        "fed",
+        "stocks"
+      ],
+      "region": "global",
+      "title_zh": "美联储会议开始，加密货币忽视亚洲科技股反弹，比特币跌破 80,000 美元",
+      "summary_zh": "自 UTC 午夜以来，比特币下跌 0.4% 至 79,700 美元左右，而亚洲科技股则上涨。 DeFi 指数下跌 1.8%，美联储将开始为期两天的会议。"
+    },
+    {
+      "id": "fc0554244649d65d",
+      "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
+      "summary": "Researchers must now permanently burn 1 SOL for every submission after a monthlong contest drew 809 reports, with AI believed to have helped generate or write nearly all of them.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
+      "image_url": null,
+      "published_at": "2026-10-27T07:44:04.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "由于人工智能充斥着垃圾邮件，Solana 错误报告现在需要 1 SOL",
+      "summary_zh": "经过一个月的竞赛，共收到 809 份报告，研究人员现在必须为每份提交永久销毁 1 SOL，据信人工智能帮助生成或撰写了几乎所有报告。"
+    },
+    {
+      "id": "49e09c027e620261",
+      "title": "Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as BTC grinds lower",
+      "summary": "Ark Invest rebalanced its fund weightings, adding Circle shares and trimming its Bitcoin ETF holdings as BTC fell below $80,000.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-lower-431838",
+      "image_url": null,
+      "published_at": "2026-10-27T10:57:34.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin",
+        "etf"
+      ],
+      "region": "global",
+      "title_zh": "随着 BTC 走低，Ark Invest 买入 520 万美元的 Circle 股票，出售 1590 万美元的自有比特币 ETF",
+      "summary_zh": "随着 BTC 跌破 80,000 美元，Ark Invest 重新平衡了其基金权重，增持了 Circle 股票并削减了其比特币 ETF 持仓。"
     },
     {
       "id": "716887c8f668c998",
@@ -126,8 +189,8 @@
         "bitcoin"
       ],
       "region": "global",
-      "title_zh": "StoneX lifts Strive price target 34% as new stock offering bolsters bitcoin strategy",
-      "summary_zh": "StoneX has raised its price target for bitcoin treasury company Strive to $43 from $32 and reiterated its Buy rating on the stock."
+      "title_zh": "StoneX 将 Strive 目标价提高 34%，新股发行支持比特币策略",
+      "summary_zh": "StoneX 将比特币财务公司 Strive 的目标股价从 32 美元上调至 43 美元，并重申了对该股的买入评级。"
     },
     {
       "id": "057607206eb95d9a",
@@ -144,8 +207,8 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Q&A: How AI came to model the “messy” human mind",
-      "summary_zh": "Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness into early AI, giving rise to deep-learning models that sometimes hallucinate."
+      "title_zh": "问答：人工智能如何模拟“混乱”的人类思维",
+      "summary_zh": "助理教授本杰明·林德奎斯特（Benjamin Lindquist）研究工程师如何故意将随机性注入早期人工智能，从而产生有时会产生幻觉的深度学习模型。"
     },
     {
       "id": "7572bbcd2fc3627f",
@@ -162,8 +225,8 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "AI model decodes the language cells use to communicate",
-      "summary_zh": "A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies."
+      "title_zh": "人工智能模型解码用于交流的语言细胞",
+      "summary_zh": "一种新的计算方法揭示了细胞如何通信以组装成组织。这可以加速干细胞工程、改善疾病模型并为治疗提供信息。"
     },
     {
       "id": "8e03a7f3fe58c867",
@@ -180,8 +243,8 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-      "summary_zh": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds."
+      "title_zh": "高盛、摩根大通和摩根士丹利正在主导人工智能股票的繁荣。这是他们的优势",
+      "summary_zh": "华尔街三巨头今年已创造了 520 亿美元的股票交易收入，凭借对冲基金保证金贷款的增加占据了约 80% 的市场份额。"
     },
     {
       "id": "5c24f1ca668bf7ff",
@@ -199,8 +262,8 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "HSBC CEO warns the AI boom won’t make every data center a good bet",
-      "summary_zh": "Data center campuses house the servers that power AI and cloud computing."
+      "title_zh": "汇丰银行首席执行官警告人工智能繁荣不会让每个数据中心都成为不错的选择",
+      "summary_zh": "数据中心园区容纳了为人工智能和云计算提供支持的服务器。"
     },
     {
       "id": "9337e785e37e983c",
@@ -217,8 +280,8 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "The world’s finance chiefs see new risks — and less China angst",
-      "summary_zh": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background."
+      "title_zh": "世界各国财长们看到了新的风险，并且对中国的担忧有所减轻",
+      "summary_zh": "在曼谷举行的国际货币基金组织与世界银行会议上，债务、人工智能和乌克兰成为了讨论的焦点，而 2018 年的焦点中国则退居幕后。"
     },
     {
       "id": "dea884fa7762e603",
@@ -236,8 +299,8 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-      "summary_zh": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains."
+      "title_zh": "机器人工厂和高超音速导弹：摩根大通首笔 50 亿美元的国防投资",
+      "summary_zh": "摩根大通已在资产负债表外部署了 50 亿美元，正在加速对国防技术、硬件和供应链的直接投资。"
     },
     {
       "id": "72ef94c76dc7a887",
@@ -254,8 +317,8 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Software’s new consolidator gets big vote of confidence from Berkshire",
-      "summary_zh": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway."
+      "title_zh": "Software公司的新整合者获得了伯克希尔的大力信任",
+      "summary_zh": "上市公司成立还不到四个月，Bending Spoons 本周获得了伯克希尔哈撒韦公司的大力信任票。"
     },
     {
       "id": "418c493b90bc3d9b",
@@ -272,8 +335,44 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-      "summary_zh": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
+      "title_zh": "官员称，美国在曼谷双边会谈中就万事达卡和花旗集团的市场准入问题向中国施压",
+      "summary_zh": "美国财政部官员表示，美国本周在曼谷举行的双边会议上提出了万事达卡和花旗集团在中国的市场准入问题。"
+    },
+    {
+      "id": "5aa1096b3e9001e3",
+      "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
+      "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-27T11:11:33.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "以色列人在关键选举中投票，投票率达到数十年来最高水平",
+      "summary_zh": "这次选举是自哈马斯领导的对以色列的袭击以及随后的战争以来的第一次选举，被广泛视为对本杰明·内塔尼亚胡的公投。"
+    },
+    {
+      "id": "26e44f0bc5d90c19",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-27T11:53:57.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "乌克兰城市开始停战，居民以杂草为生",
+      "summary_zh": "白宫表示，奥列什基停火协议是由美国第一夫人梅拉尼娅·特朗普签署的，旨在允许援助进入并允许平民撤离。"
     },
     {
       "id": "749cb34fc4e0a1fa",
@@ -283,63 +382,25 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-27T02:01:27.000Z",
+      "published_at": "2026-10-27T11:44:54.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
         "fed"
       ],
       "region": "global",
-      "title_zh": "Ex-FBI chief James Comey faces federal charges for third time",
-      "summary_zh": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016."
+      "title_zh": "前联邦调查局局长詹姆斯·科米第三次面临联邦指控",
+      "summary_zh": "科米的律师表示，此案源于 2016 年涉嫌向《纽约时报》披露机密信息。"
     },
     {
-      "id": "e7d687cef11a7ec0",
-      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-      "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
+      "id": "141823d885e1b544",
+      "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
+      "summary": "The cycle of revenge attacks continue as the country heads towards its first election since independence.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-26T19:27:21.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "fed"
-      ],
-      "region": "global",
-      "title_zh": "Trump administration illegally fired James Comey's daughter, judge rules",
-      "summary_zh": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director."
-    },
-    {
-      "id": "9b6f7005d9d47565",
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-26T16:27:17.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "anthropic",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "summary_zh": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI."
-    },
-    {
-      "id": "a9b9dbfdaba09f44",
-      "title": "To Work With P.O.W.s, Ukrainians Suppress Feelings About the Enemy",
-      "summary": "Much has been said about how Ukraine should treat Russian prisoners of war. Less attention has been paid to the emotional struggle for the Ukrainians tasked with that work.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-russia-pows-prisoners.html",
-      "image_url": null,
-      "published_at": "2026-10-26T09:58:09.000Z",
+      "published_at": "2026-10-27T12:25:14.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -347,26 +408,45 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "To Work With P.O.W.s, Ukrainians Suppress Feelings About the Enemy",
-      "summary_zh": "Much has been said about how Ukraine should treat Russian prisoners of war. Less attention has been paid to the emotional struggle for the Ukrainians tasked with that work."
+      "title_zh": "南苏丹协调一致的牛群袭击造成至少 72 人死亡",
+      "summary_zh": "随着该国即将迎来独立以来的首次选举，报复性袭击的循环仍在继续。"
     },
     {
-      "id": "0c29fd993e5d7237",
-      "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
-      "summary": "Saudi Arabia, Turkey and Pakistan made a rare joint visit to Tehran amid reports that the U.S. and Israel were drawing up plans to renew their attacks on Iran.",
+      "id": "728fa3d960f799be",
+      "title": "2 British Men Charged Over RAF Fairford Incident",
+      "summary": "One man is accused of helping Iranian intelligence in connection with the events at R.A.F. Fairford, a base used by the United States in its war against Iran.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
+      "source_url": "https://www.nytimes.com/2026/10/27/world/europe/raf-fairford-charges-uk-air-base-us-iran.html",
       "image_url": null,
-      "published_at": "2026-10-26T14:30:53.000Z",
+      "published_at": "2026-10-27T12:20:41.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "两名英国男子因英国皇家空军费尔福德事件受到指控",
+      "summary_zh": "一名男子被指控帮助伊朗情报部门处理英国皇家空军事件。费尔福德，美国在对伊朗战争中使用的基地。"
+    },
+    {
+      "id": "9a9a9aa4a9388b00",
+      "title": "India Evacuates Tens of Thousands as Cyclone Arnab Approaches",
+      "summary": "The storm, Arnab, is forecast to make landfall Wednesday on the country’s eastern coast and then cut inland and head north toward Nepal.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/27/world/asia/india-cyclone-arnab-evacuations-nepal.html",
+      "image_url": null,
+      "published_at": "2026-10-27T11:09:52.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
         "war"
       ],
       "region": "global",
-      "title_zh": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
-      "summary_zh": "Saudi Arabia, Turkey and Pakistan made a rare joint visit to Tehran amid reports that the U.S. and Israel were drawing up plans to renew their attacks on Iran."
+      "title_zh": "飓风“阿纳布”逼近，印度疏散数万人",
+      "summary_zh": "预计风暴“阿纳布”将于周三在该国东海岸登陆，然后切入内陆并向北前往尼泊尔。"
     },
     {
       "id": "62407d99b47ae5d1",
@@ -381,42 +461,42 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Recent Quant Links from Quantocracy as of 10/12/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools"
+      "title_zh": "截至 2026 年 10 月 12 日，Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 10 月 12 日星期一 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ Quant Observer：量化工具、数据、研究等的精选目录。quant.observer 收集有用的量化交易工具"
     },
     {
-      "id": "749f75c24e7ffa8e",
-      "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
-      "summary": "The U.S. derivatives regulator, which has championed the arrival of prediction market firms such as Kalshi, has been gathering allied sports leagues.",
+      "id": "b10d3ede29c3ceeb",
+      "title": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
+      "summary": "CEO Noritaka Okabe blamed a 1 million yen per-transaction cap for Type II funds transfer providers, which has slowed corporate adoption.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+      "source_url": "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
       "image_url": null,
-      "published_at": "2026-10-26T15:59:55.000Z",
+      "published_at": "2026-10-27T11:37:52.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
-      "summary_zh": "The U.S. derivatives regulator, which has championed the arrival of prediction market firms such as Kalshi, has been gathering allied sports leagues."
+      "title_zh": "日本顶级日元稳定币在令人失望的第一年未能达到目标",
+      "summary_zh": "首席执行官 Noritaka Okabe 将 II 类资金转账提供商的每笔交易上限归咎于 100 万日元，这减缓了企业的采用速度。"
     },
     {
-      "id": "146914e800c19f8b",
-      "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-      "summary": "Under the draft rules, non-bank stablecoin issuers must back tokens 1:1 with reserves held at qualified Canadian institutions and settle redemptions within three business days.",
+      "id": "543cacad3512a26d",
+      "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+      "summary": "Developers initially rejected the change before reversing course, as testing delays gave them more time to examine a flaw in Ethereum's upcoming Glamsterdam upgrade.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
+      "source_url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
       "image_url": null,
-      "published_at": "2026-10-26T14:23:41.000Z",
+      "published_at": "2026-10-27T07:09:56.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "ethereum"
       ],
       "region": "global",
-      "title_zh": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-      "summary_zh": "Under the draft rules, non-bank stablecoin issuers must back tokens 1:1 with reserves held at qualified Canadian institutions and settle redemptions within three business days."
+      "title_zh": "以太坊修复了 Glamsterdam 错误，该错误可能会向建筑商发送质押押金",
+      "summary_zh": "开发人员最初拒绝了这一更改，然后又改变了方向，因为测试延迟让他们有更多时间来检查以太坊即将推出的 Glamsterdam 升级中的缺陷。"
     },
     {
       "id": "0cde989aa0f094b2",
@@ -434,8 +514,8 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Circle faces up to 20% revenue risk from AI agents, Mizuho says",
-      "summary_zh": "Mizuho cited 10-20% medium-term reserve revenue downside risk as AI agents steer USDC holders toward higher-yielding fiat alternatives."
+      "title_zh": "瑞穗表示，Circle 面临来自人工智能代理高达 20% 的收入风险",
+      "summary_zh": "瑞穗引用了 10-20% 的中期储备收入下行风险，因为人工智能代理引导 USDC 持有者转向更高收益的法定替代品。"
     },
     {
       "id": "c2af791ddcdb71e9",
@@ -452,8 +532,8 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer",
-      "summary_zh": "Hyperliquid plans to make Kraken parent Payward the first CFTC-regulated HIP-3 deployer, a step toward regulated U.S. perpetual futures."
+      "title_zh": "Hyperliquid 表示 Kraken 母公司 Payward 将成为首个受 CFTC 监管的 HIP-3 部署商",
+      "summary_zh": "Hyperliquid 计划让 Kraken 母公司 Payward 成为第一个受 CFTC 监管的 HIP-3 部署者，这是迈向受监管的美国永续期货的一步。"
     },
     {
       "id": "3d1d33f70d2efb14",
@@ -471,38 +551,18 @@
         "crypto"
       ],
       "region": "global",
-      "title_zh": "Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle",
-      "summary_zh": "Bernstein cuts Coinbase’s target while raising Circle’s as new products shift their earnings outlook."
+      "title_zh": "预测市场和衍生品推动了 Bernstein 对 Coinbase、Robinhood 和 Circle 的加密货币股票前景的预测",
+      "summary_zh": "由于新产品改变了盈利前景，伯恩斯坦下调了 Coinbase 的目标，同时提高了 Circle 的目标。"
     },
     {
-      "id": "63e0279d2dc4d577",
-      "title": "Trending Crypto: Quack AI (Q)",
-      "summary": "CoinGecko trending rank #96.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/quack-ai",
-      "image_url": "https://coin-images.coingecko.com/coins/images/68793/large/quack_ai.png?1756615808",
-      "published_at": "2026-10-27T06:58:03.556Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "q"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Quack AI (Q)",
-      "summary_zh": "CoinGecko trending rank #96."
-    },
-    {
-      "id": "77de629b770e21b3",
+      "id": "b574023cb0223c25",
       "title": "Trending Crypto: Infinity Ground (AIN)",
-      "summary": "CoinGecko trending rank #796.",
+      "summary": "CoinGecko trending rank #713.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/infinity-ground",
       "image_url": "https://coin-images.coingecko.com/coins/images/67034/large/ain.jpg?1751527676",
-      "published_at": "2026-10-27T06:58:03.556Z",
+      "published_at": "2026-10-27T12:56:45.958Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -511,18 +571,78 @@
         "ain"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Infinity Ground (AIN)",
-      "summary_zh": "CoinGecko trending rank #796."
+      "title_zh": "加密货币趋势：Infinity Ground (AIN)",
+      "summary_zh": "CoinGecko 趋势排名#713。"
     },
     {
-      "id": "679e1cf49361b8d4",
+      "id": "4341f6832366cb38",
+      "title": "Trending Crypto: Venice Token (VVV)",
+      "summary": "CoinGecko trending rank #69.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/venice-token",
+      "image_url": "https://coin-images.coingecko.com/coins/images/54023/large/VVV_Token_Transparent.png?1741856877",
+      "published_at": "2026-10-27T12:56:45.958Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "vvv"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：Venice Token (VVV)",
+      "summary_zh": "CoinGecko 趋势排名第 69。"
+    },
+    {
+      "id": "4ee36898b176a4af",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #118.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-10-27T12:56:45.958Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pengu"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：矮胖企鹅 (PENGU)",
+      "summary_zh": "CoinGecko 趋势排名第 118 位。"
+    },
+    {
+      "id": "71c77c24f8d5ed23",
+      "title": "Trending Crypto: Quantus (QTC)",
+      "summary": "CoinGecko trending rank #760.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/quantus",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102171910/large/Token_Icon.png?1791345433",
+      "published_at": "2026-10-27T12:56:45.958Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "qtc"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：Quantus (QTC)",
+      "summary_zh": "CoinGecko 趋势排名#760。"
+    },
+    {
+      "id": "6d8c04c837bf5aa5",
       "title": "Trending Crypto: Pearl (PEARL)",
-      "summary": "CoinGecko trending rank #97.",
+      "summary": "CoinGecko trending rank #96.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pearl-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-10-27T06:58:03.556Z",
+      "published_at": "2026-10-27T12:56:45.958Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -531,48 +651,8 @@
         "pearl"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pearl (PEARL)",
-      "summary_zh": "CoinGecko trending rank #97."
-    },
-    {
-      "id": "5e3dddafde0b575c",
-      "title": "Trending Crypto: Quant (QNT)",
-      "summary": "CoinGecko trending rank #36.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/quant-network",
-      "image_url": "https://coin-images.coingecko.com/coins/images/3370/large/5ZOu7brX_400x400.jpg?1696504070",
-      "published_at": "2026-10-27T06:58:03.556Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "qnt"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Quant (QNT)",
-      "summary_zh": "CoinGecko trending rank #36."
-    },
-    {
-      "id": "454cdf58341e67f3",
-      "title": "Trending Crypto: Ondo (ONDO)",
-      "summary": "CoinGecko trending rank #49.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/ondo-finance",
-      "image_url": "https://coin-images.coingecko.com/coins/images/26580/large/ONDO.png?1696525656",
-      "published_at": "2026-10-27T06:58:03.556Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "ondo"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Ondo (ONDO)",
-      "summary_zh": "CoinGecko trending rank #49."
+      "title_zh": "流行加密货币：珍珠（PEARL）",
+      "summary_zh": "CoinGecko 趋势排名第 96。"
     },
     {
       "id": "b385f6ee9d6a3ecd",
@@ -590,8 +670,8 @@
         "openai"
       ],
       "region": "global",
-      "title_zh": "Working with academic communities to build scientific understanding",
-      "summary_zh": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
+      "title_zh": "与学术界合作建立科学理解",
+      "summary_zh": "OpenAI 分享了挂谷猜想、指数时间假说和量子色动力学的模型结果，以及研究人员如何验证和构建它们。"
     },
     {
       "id": "ebfa95e3891a1bf1",
@@ -609,7 +689,7 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "title_zh": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体",
       "summary_zh": ""
     },
     {
@@ -625,7 +705,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "title_zh": "Granite Speech 5.0：更准确、更快地转录、翻译和归因",
       "summary_zh": ""
     },
     {
@@ -644,8 +724,8 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
-      "summary_zh": "In Compton Lecture, the distinguished legal scholar warns of potential “loss of the Enlightenment” while suggesting ways innovations can meet our civic and cultural needs."
+      "title_zh": "在麻省理工学院，玛莎·米诺 (Martha Minow) 谈论通过使用和克服人工智能来维持民主",
+      "summary_zh": "在康普顿讲座中，这位杰出的法律学者警告说，可能会出现“启蒙运动的丧失”，同时提出了创新可以满足我们公民和文化需求的方法。"
     },
     {
       "id": "8cd22c9d34a13250",
@@ -662,8 +742,8 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "This design software reimagines everyday objects as self-aware devices",
-      "summary_zh": "“X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact."
+      "title_zh": "该设计软件将日常物品重新想象为具有自我意识的设备",
+      "summary_zh": "“X-Hinges”通过交互式方式帮助设计和 3D 打印灯具和手套等物品：自动嵌入传感器，感知人类接触并做出自适应响应。"
     },
     {
       "id": "eb5d90d2c7c8cdb6",
@@ -680,8 +760,8 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
-      "summary_zh": "A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits."
+      "title_zh": "为什么向人工智能教授对称性可以使产前诊断更加可靠",
+      "summary_zh": "麻省理工学院和波士顿儿童医院的研究人员开发的模型可以动态调整扫描以跟踪胎儿运动，从而可能避免家庭重复去医院就诊。"
     },
     {
       "id": "d8ec26be4b89b2d4",
@@ -698,8 +778,8 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Giving AI a “crystal clear” view of the materials world",
-      "summary_zh": "New research can help AI models understand crystalline materials in 3D and reason about their properties."
+      "title_zh": "让人工智能对材料世界有一个“清晰”的认识",
+      "summary_zh": "新研究可以帮助 AI 模型理解 3D 晶体材料并推理其特性。"
     },
     {
       "id": "1ebd24f688a16dd9",
@@ -716,8 +796,8 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
-      "summary_zh": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution."
+      "title_zh": "供应链可持续发展状况报告发现企业承诺创历史新高，但治理滞后",
+      "summary_zh": "麻省理工学院的运输和物流中心发现，可持续发展承诺是强有力的，但治理差距和外部干扰阻碍了执行。"
     },
     {
       "id": "71c5111662b1663f",
@@ -732,8 +812,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Recent Quant Links from Quantocracy as of 10/22/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Thursday, 10/22/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Momentum timed with the rate of change (ROC) on the S&P 500’s ten steepest trends [Quanter Lab] Momentum is one of the ol"
+      "title_zh": "截至 2026 年 10 月 22 日，来自 Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 10 月 22 日星期四 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！动量与标准普尔 500 指数十大最陡趋势的变化率 (ROC) 同步 [Quanter Lab] 动量是最重要的指标之一"
     },
     {
       "id": "4cab9231c24f395b",
@@ -748,8 +828,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Recent Quant Links from Quantocracy as of 10/18/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 10/18/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Less Wrong [Quantitativo] The biggest risk is that you have a losing strategy when you think you have a winning one. Jeff Y"
+      "title_zh": "截至 2026 年 10 月 18 日，来自 Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 10 月 18 日星期日 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！错误较少 [定量] 最大的风险是，当您认为自己拥有获胜策略时，您却陷入了失败的策略。杰夫·Y"
     },
     {
       "id": "4c00231168740568",
@@ -766,47 +846,28 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Recent Quant Links from Quantocracy as of 10/03/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/03/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Buffett’s be greedy when others are fearful, tested [Quanter Lab] \"Be greedy when others are fearful\" is Warren Buffett's"
+      "title_zh": "截至 2026 年 10 月 3 日，Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 10 月 3 日星期六 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！巴菲特在别人恐惧时贪婪，经过测试 [Quanter Lab] “在别人恐惧时贪婪”是沃伦·巴菲特的名言"
     },
     {
-      "id": "1e82beccf7ed4c05",
-      "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
-      "summary": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.",
+      "id": "697048ef34e5a205",
+      "title": "Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
+      "summary": "Jason Calacanis wants investors to sell bitcoin and back artificial intelligence. He is also holding TAO, the cryptocurrency behind AI network Bittensor.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
+      "source_url": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
       "image_url": null,
-      "published_at": "2026-10-26T16:05:12.000Z",
+      "published_at": "2026-10-27T10:57:51.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
         "ai",
         "crypto",
-        "ethereum",
-        "stocks"
-      ],
-      "region": "global",
-      "title_zh": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
-      "summary_zh": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback."
-    },
-    {
-      "id": "bd778cb7a71ca4b1",
-      "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
-      "summary": "Your day-ahead look for Oct. 26, 2026",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000",
-      "image_url": null,
-      "published_at": "2026-10-26T11:53:07.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
         "bitcoin"
       ],
       "region": "global",
-      "title_zh": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
-      "summary_zh": "Your day-ahead look for Oct. 26, 2026"
+      "title_zh": "呼吁 2023 年人工智能转向的投资者称比特币将达到 57,000 美元",
+      "summary_zh": "杰森卡拉卡尼斯希望投资者出售比特币并支持人工智能。他还持有 TAO，AI 网络 Bittensor 背后的加密货币。"
     },
     {
       "id": "3ca854e9cd10870b",
@@ -824,8 +885,8 @@
         "openai"
       ],
       "region": "global",
-      "title_zh": "Securing our frontier model training environment",
-      "summary_zh": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
+      "title_zh": "确保我们的前沿模型训练环境的安全",
+      "summary_zh": "OpenAI 解释了我们如何加强对前沿模型训练和评估的遏制，包括离线环境和高计算红队。"
     },
     {
       "id": "8049990d7e19a49b",
@@ -843,8 +904,8 @@
         "openai"
       ],
       "region": "global",
-      "title_zh": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "summary_zh": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
+      "title_zh": "OpenAI 与波兰 NSK 合作推进人工智能安全",
+      "summary_zh": "OpenAI 和波兰的 NASK 正在人工智能安全和技术研究方面开展合作，以加强保障措施并支持更具弹性的数字生态系统。"
     },
     {
       "id": "3626bff7dbd290e5",
@@ -859,7 +920,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "title_zh": "LitPivot：通过文学景观中的动态情境化发展研究思路",
       "summary_zh": ""
     },
     {
@@ -877,7 +938,7 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Does Your Model Run on AWS Trainium? Look It Up",
+      "title_zh": "您的模型在 AWS Trainium 上运行吗？查找一下",
       "summary_zh": ""
     },
     {
@@ -893,7 +954,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Ensemble forecasting with IBM Granite time-series models",
+      "title_zh": "使用 IBM Granite 时间序列模型进行集合预测",
       "summary_zh": ""
     },
     {
@@ -909,7 +970,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "title_zh": "AnyLanguageModel 1.0：Apple 平台本地模型一年",
       "summary_zh": ""
     },
     {
@@ -925,8 +986,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary_zh": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
+      "title_zh": "Gemini 4 Argon：专为解决您最棘手的问题而打造",
+      "summary_zh": "我们为开发人员、企业、科学家和消费者提供了使用我们最新前沿模型 Gemini 4 Argon 的机会。"
     },
     {
       "id": "1166871997db867b",
@@ -944,8 +1005,8 @@
         "google"
       ],
       "region": "global",
-      "title_zh": "The latest AI news we announced in September 2026",
-      "summary_zh": "Here are Google’s latest AI updates from September 2026"
+      "title_zh": "我们于 2026 年 9 月公布的最新 AI 新闻",
+      "summary_zh": "以下是 Google 自 2026 年 9 月起最新的 AI 更新"
     },
     {
       "id": "a0f1101c437d770e",
@@ -963,8 +1024,8 @@
         "google"
       ],
       "region": "global",
-      "title_zh": "New experts join Google’s AI & Economy team",
-      "summary_zh": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers."
+      "title_zh": "新专家加入 Google 人工智能与经济团队",
+      "summary_zh": "我们正在通过世界一流的学术顾问、研究员和核心内部研究人员来扩大我们的人工智能与经济团队。"
     },
     {
       "id": "06eda647b737de70",
@@ -981,8 +1042,8 @@
         "google"
       ],
       "region": "global",
-      "title_zh": "Making global data easier to explore",
-      "summary_zh": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search."
+      "title_zh": "让全球数据更容易探索",
+      "summary_zh": "谷歌和联合国系统推出了联合国系统数据共享区，这是一个新的开放平台，使全球统计数据易于访问和搜索。"
     },
     {
       "id": "c624cb80975316fd",
@@ -1001,8 +1062,8 @@
         "anthropic"
       ],
       "region": "global",
-      "title_zh": "Anthropic is AI trade's last big hope for a major IPO this year",
-      "summary_zh": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too."
+      "title_zh": "Anthropic是人工智能行业今年大规模IPO的最后一个大希望",
+      "summary_zh": "在 Kalshi 上，Anthropic 被视为继 OpenAI 推迟公开市场首次亮相后 2026 年最后一家大型 IPO。其他人也推迟了。"
     },
     {
       "id": "69d4764475f5a55f",
@@ -1017,8 +1078,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
-      "summary_zh": "Investors may want to rethink their bond allocation and opt for managed futures exposure."
+      "title_zh": "十年“死钱”：为什么这种对冲基金方法可能比债券更具优势",
+      "summary_zh": "投资者可能希望重新考虑其债券配置并选择管理期货敞口。"
     },
     {
       "id": "c5f15a0da4e19d9e",
@@ -1035,8 +1096,8 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "People in China are spending nearly as much of their income as Americans on healthcare",
-      "summary_zh": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said."
+      "title_zh": "中国人在医疗保健上的支出几乎与美国人一样多",
+      "summary_zh": "国际货币基金组织表示，增加政府在医疗保健方面的支出可能有助于刺激中国的消费。"
     },
     {
       "id": "13919bbb105864f6",
@@ -1051,24 +1112,24 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
-      "summary_zh": "The latest 12-month period marked the strongest return for the university's fund since 2021."
+      "title_zh": "哈佛大学的捐赠基金在 2026 财年增长了 27%，SpaceX 成为最大持股者",
+      "summary_zh": "最近 12 个月是该大学基金自 2021 年以来最强劲的回报。"
     },
     {
-      "id": "245baf70d7af4c71",
-      "title": "Lula wins fourth term in dramatic Brazil election comeback",
-      "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+      "id": "1822e3843f6ce403",
+      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+      "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-26T21:02:47.000Z",
+      "published_at": "2026-10-27T01:46:38.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Lula wins fourth term in dramatic Brazil election comeback",
-      "summary_zh": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro."
+      "title_zh": "卢拉在巴西复出削弱了特朗普对拉丁美洲的野心",
+      "summary_zh": "特朗普与卢拉的关系可能已经解冻，但有几个问题可能会重新引发两位领导人之间的紧张关系。"
     },
     {
       "id": "f58fef0bd93ad8aa",
@@ -1085,8 +1146,58 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-      "summary_zh": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said."
+      "title_zh": "约旦对叙利亚发动致命袭击，报复教堂袭击事件",
+      "summary_zh": "叙利亚卫生官员称，叙利亚一个村庄的袭击造成五人死亡，其中包括妇女和儿童。"
+    },
+    {
+      "id": "a58152da00d0e868",
+      "title": "Jay-Z to perform at Super Bowl half-time show",
+      "summary": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-27T05:05:15.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Jay-Z 将在超级碗半场表演中表演",
+      "summary_zh": "这位说唱歌手多年来一直参与该节目，但之前从未在 NFL 冠军赛中表演过。"
+    },
+    {
+      "id": "cb2d7de067952cc4",
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-27T12:02:20.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "姆巴佩对毛泽东言论在中国遭到强烈反对表示歉意",
+      "summary_zh": "这位法国明星在接受模因采访时将这位中国前领导人称为“独裁者”。"
+    },
+    {
+      "id": "544c6540c498b40b",
+      "title": "Netherlands pulls out of Eurovision again over Israel participation",
+      "summary": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-27T11:23:19.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "荷兰因以色列参赛再次退出欧洲歌唱大赛",
+      "summary_zh": "一家荷兰广播公司以以色列参与的“敏感性”为由，推翻了参加的决定。"
     },
     {
       "id": "8ea6315913307117",
@@ -1103,264 +1214,198 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Meghan to co-host Junior MasterChef Australia",
-      "summary_zh": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year."
+      "title_zh": "梅根将联合主持澳大利亚少年厨艺大师",
+      "summary_zh": "苏塞克斯公爵夫人表示，她“迫不及待”想要参加该节目，该节目将于明年播出。"
     },
     {
-      "id": "a58152da00d0e868",
-      "title": "Jay-Z to perform at Super Bowl half-time show",
-      "summary": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
+      "id": "8af0096774f329fb",
+      "title": "Two Visions, Two Israels, One Nation in the Balance",
+      "summary": "As Israel votes, hard-right nationalism competes with the country’s founding ideals. The outcome could shape Israel’s identity for years.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html",
       "image_url": null,
-      "published_at": "2026-10-27T05:05:15.000Z",
+      "published_at": "2026-10-27T09:06:47.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Jay-Z to perform at Super Bowl half-time show",
-      "summary_zh": "The rapper has been involved with the show for years but has never before performed at the NFL championship game."
+      "title_zh": "两种愿景、两个以色列、一个处于平衡之中的国家",
+      "summary_zh": "随着以色列投票，极右民族主义与该国的建国理想发生了竞争。这一结果可能会在未来数年内塑造以色列的身份。"
     },
     {
-      "id": "2252b9f304c2ce24",
-      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
-      "summary": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
+      "id": "c9eb9c4ddb705963",
+      "title": "The Key Election Issues Dividing Israelis as They Vote",
+      "summary": "The question of accountability for the government’s failures in the Hamas-led attacks on Oct. 7, 2023, looms over the election.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-elections-key-issues.html",
       "image_url": null,
-      "published_at": "2026-10-27T00:31:11.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
-      "summary_zh": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being."
-    },
-    {
-      "id": "611f3c2a9891744a",
-      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-26T14:34:52.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-      "summary_zh": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
-    },
-    {
-      "id": "93d769d85b229866",
-      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
-      "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-26T15:46:31.000Z",
+      "published_at": "2026-10-27T11:07:47.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Catholic bishops apologise for 'exploited' Trump meeting",
-      "summary_zh": "Two bishops in images that show them praying with Trump have said they believed the meeting was private."
+      "title_zh": "以色列人投票时出现分歧的关键选举问题",
+      "summary_zh": "政府在 2023 年 10 月 7 日哈马斯领导的袭击中失败的责任问题笼罩在选举中。"
     },
     {
-      "id": "1af16caba791fe17",
-      "title": "Egypt OKs Military Aid to Saudis in Fight With Houthis",
-      "summary": "The Egyptians will commit forces for defensive purposes only, officials have said, as the kingdom exchanges increasingly deadly strikes with the Iranian-backed militia in Yemen.",
+      "id": "dd1253c7af72b715",
+      "title": "Cease-Fire Brokered by Melania Trump Begins in Ukrainian City of Oleshky",
+      "summary": "Many people left in Oleshky, where bombardment is constant, have run out of food. A truce that began Tuesday is supposed to allow aid in and civilians out.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html",
+      "source_url": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
       "image_url": null,
-      "published_at": "2026-10-26T19:42:58.000Z",
+      "published_at": "2026-10-27T08:25:45.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Egypt OKs Military Aid to Saudis in Fight With Houthis",
-      "summary_zh": "The Egyptians will commit forces for defensive purposes only, officials have said, as the kingdom exchanges increasingly deadly strikes with the Iranian-backed militia in Yemen."
+      "title_zh": "由梅拉尼娅·特朗普斡旋的停火在乌克兰奥列什基市开始",
+      "summary_zh": "奥列什基经常遭受轰炸，许多人已经没有食物了。周二开始的休战应该允许援助物资进入和平民撤离。"
     },
     {
-      "id": "18c40e0a7658a3de",
-      "title": "Serbia’s Election Shows New Vulnerability for Nationalist Populists",
-      "summary": "In much of Europe, the advance of the right has been seen as unstoppable. But in the east, nationalists are being cast aside in places where they long governed.",
+      "id": "4b365bd51be9df09",
+      "title": "2 Right-Wingers Who Broke With Netanyahu Could Bid to Unseat Him",
+      "summary": "The political evolutions of Naftali Bennett, a former prime minister, and Avigdor Liberman, a former defense minister, are indicative of how Benjamin Netanyahu has polarized Israel.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/26/world/europe/serbia-election-vucic-nationalist-populists.html",
+      "source_url": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-avigdor-liberman-naftali-bennett.html",
       "image_url": null,
-      "published_at": "2026-10-27T03:29:47.000Z",
+      "published_at": "2026-10-27T12:06:02.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Serbia’s Election Shows New Vulnerability for Nationalist Populists",
-      "summary_zh": "In much of Europe, the advance of the right has been seen as unstoppable. But in the east, nationalists are being cast aside in places where they long governed."
+      "title_zh": "2 与内塔尼亚胡决裂的右翼分子可能会竞相推翻他",
+      "summary_zh": "前总理纳夫塔利·贝内特和前国防部长阿维格多·利伯曼的政治演变表明了本杰明·内塔尼亚胡如何使以色列两极分化。"
     },
     {
-      "id": "8a5e88d42bbe3fba",
-      "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
-      "summary": "Supporters and opponents of Prime Minister Benjamin Netanyahu have expressed intense anxieties about isolation abroad, security at home and the future of Israel’s identity.",
+      "id": "4ecf9161deb08aa5",
+      "title": "King Charles Faces High Stakes Test With Caribbean Tour",
+      "summary": "The king will confront calls for reparations and apologies for his country’s colonial past as he attends the Commonwealth heads of government meeting.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html",
+      "source_url": "https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html",
       "image_url": null,
-      "published_at": "2026-10-26T10:30:57.000Z",
+      "published_at": "2026-10-27T12:02:49.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Israeli Jews Across the Spectrum Face an Election of Fears",
-      "summary_zh": "Supporters and opponents of Prime Minister Benjamin Netanyahu have expressed intense anxieties about isolation abroad, security at home and the future of Israel’s identity."
+      "title_zh": "查尔斯国王加勒比之旅面临高风险考验",
+      "summary_zh": "在出席英联邦政府首脑会议时，国王将面临要求赔偿和为其国家的殖民历史道歉的呼声。"
     },
     {
-      "id": "feb8891a5e054ec3",
-      "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
-      "summary": "President Luiz Inácio Lula da Silva triumphed over Flávio Bolsonaro, the eldest son of the right-wing leader he defeated four years ago.",
+      "id": "71117462f38de785",
+      "title": "What Is the Commonwealth? What to Know as King Charles Hosts Meeting in the Caribbean",
+      "summary": "King Charles III is traveling to host a meeting of the leaders of more than 50 nations.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
+      "source_url": "https://www.nytimes.com/2026/10/27/world/europe/commonwealth-king-charles-chogm.html",
       "image_url": null,
-      "published_at": "2026-10-26T20:32:16.000Z",
+      "published_at": "2026-10-27T04:01:13.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
-      "summary_zh": "President Luiz Inácio Lula da Silva triumphed over Flávio Bolsonaro, the eldest son of the right-wing leader he defeated four years ago."
+      "title_zh": "什么是英联邦？查尔斯国王在加勒比海主持会议时需要了解什么",
+      "summary_zh": "查理三世国王将前往主持 50 多个国家领导人的会议。"
     },
     {
-      "id": "dfa7fe0e5ff5be4f",
-      "title": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
-      "summary": "Norwegian officials emphasized that their government does not have any influence over who receives the Peace Prize, after President Trump used crude language to express his frustration.",
+      "id": "262ab1ddf044e349",
+      "title": "Jordan Says Its Deadly Strikes in Syria Targeted Islamic State",
+      "summary": "The airstrikes late Monday, which Syrian state media said killed at least seven civilians, were in retaliation for an attack on a Jordanian church, Jordan said.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
+      "source_url": "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html",
       "image_url": null,
-      "published_at": "2026-10-26T19:31:32.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
-      "summary_zh": "Norwegian officials emphasized that their government does not have any influence over who receives the Peace Prize, after President Trump used crude language to express his frustration."
-    },
-    {
-      "id": "515e5784e0e00f40",
-      "title": "‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next Term",
-      "summary": "The Chinese leader Xi Jinping, who is likely preparing to secure a fourth term in power in 2027, has complained that officials cannot be trusted.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/26/world/asia/china-communist-party-xi-forever-purge.html",
-      "image_url": null,
-      "published_at": "2026-10-26T13:14:21.000Z",
+      "published_at": "2026-10-27T12:01:10.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next Term",
-      "summary_zh": "The Chinese leader Xi Jinping, who is likely preparing to secure a fourth term in power in 2027, has complained that officials cannot be trusted."
+      "title_zh": "约旦称其对叙利亚的致命袭击针对的是伊斯兰国",
+      "summary_zh": "约旦表示，周一晚间的空袭是为了报复对约旦一座教堂的袭击，叙利亚官方媒体称此次空袭造成至少七名平民死亡。"
     },
     {
-      "id": "083bf29e9b8acfb5",
-      "title": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
-      "summary": "The U.S. Army is training Apache pilots to shoot down drones as militaries around the world assess the efficacy of 20th-century technologies in a new era.",
+      "id": "37989e287d622420",
+      "title": "5 Key Moments From Israel’s Pivotal Election Campaign",
+      "summary": "New political alliances, a contentious A.I. video and accusations about security failures all featured in the run-up to Tuesday’s election, widely seen as one of the most consequential in Israeli history.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html",
+      "source_url": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-campaign-highlights.html",
       "image_url": null,
-      "published_at": "2026-10-26T10:00:51.000Z",
+      "published_at": "2026-10-27T09:45:05.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
-      "summary_zh": "The U.S. Army is training Apache pilots to shoot down drones as militaries around the world assess the efficacy of 20th-century technologies in a new era."
+      "title_zh": "以色列关键竞选活动的 5 个关键时刻",
+      "summary_zh": "新的政治联盟，有争议的人工智能。视频和对安全失败的指控都是周二选举前夕的焦点，人们普遍认为这是以色列历史上最重要的选举之一。"
     },
     {
-      "id": "27cd37efa9aabcb0",
-      "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
-      "summary": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
-      "image_url": null,
-      "published_at": "2026-10-26T10:03:40.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Aleksandar Vucic Concedes Defeat in Serbian Election",
-      "summary_zh": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents."
-    },
-    {
-      "id": "5f0513c3f394f7e3",
-      "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
-      "summary": "Sean Bowe’s proposal would send the committee’s 8% share of newly created ZEC to a reserve for future miners. The committee would keep the money it has already received.",
+      "id": "410c80d7383f00e8",
+      "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
+      "summary": "The breach exposed 25,964 buyer records, some kept past Keystone’s 180-day deletion policy after an automated tool failed without the firm noticing.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
+      "source_url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
       "image_url": null,
-      "published_at": "2026-10-27T06:14:41.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
-      "summary_zh": "Sean Bowe’s proposal would send the committee’s 8% share of newly created ZEC to a reserve for future miners. The committee would keep the money it has already received."
-    },
-    {
-      "id": "d2da63c33b682add",
-      "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
-      "summary": "Officials are concerned users of domestic exchanges would bear the tax burden because the U.S. won’t share crypto trading data until 2029.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
-      "image_url": null,
-      "published_at": "2026-10-26T14:51:07.000Z",
+      "published_at": "2026-10-27T11:13:54.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
         "ai",
-        "crypto"
+        "crypto",
+        "policy"
       ],
       "region": "global",
-      "title_zh": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
-      "summary_zh": "Officials are concerned users of domestic exchanges would bear the tax burden because the U.S. won’t share crypto trading data until 2029."
+      "title_zh": "加密钱包制造商 Keystone 在安全漏洞后销毁近 19,000 台设备",
+      "summary_zh": "此次泄露事件暴露了 25,964 条买家记录，其中一些记录在自动化工具失败而公司没有注意到的情况下超出了 Keystone 的 180 天删除政策。"
     },
     {
-      "id": "6f8813ae9af5e09d",
-      "title": "AI giant Anthropic files for blockbuster IPO",
-      "summary": "The maker of Claude reported $16.3 billion in first-half revenue and an $80.7 billion net loss as it aims to price its offering in mid-November.",
+      "id": "c4a44f9aefdc1cf1",
+      "title": "An AI label alone no longer wins lenders, JPMorgan says",
+      "summary": "As default insurance on several AI-linked firms hits record costs, companies must show they can finance investment, service the debt and eventually mint cash, JPMorgan says.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
+      "source_url": "https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says",
       "image_url": null,
-      "published_at": "2026-10-26T13:22:09.000Z",
+      "published_at": "2026-10-27T08:24:39.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
-        "ai",
-        "anthropic"
+        "ai"
       ],
       "region": "global",
-      "title_zh": "AI giant Anthropic files for blockbuster IPO",
-      "summary_zh": "The maker of Claude reported $16.3 billion in first-half revenue and an $80.7 billion net loss as it aims to price its offering in mid-November."
+      "title_zh": "摩根大通表示，仅靠人工智能标签不再能赢得贷款人的青睐",
+      "summary_zh": "摩根大通表示，随着几家与人工智能相关的公司的违约保险成本达到创纪录的水平，公司必须证明他们有能力为投资提供资金、偿还债务并最终赚取现金。"
+    },
+    {
+      "id": "4785071078e71203",
+      "title": "Zcash co-founder proposes ending grants subsidy, citing $125 million treasury",
+      "summary": "Zcash co-founder Sean Bowe proposed ending automatic grants funding, citing a treasury valuation of more than $125 million.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/ecosystems/2026-10-27-zcash-co-founder-proposes-ending-grants-subsidy-citing-125-million-treasury-431847",
+      "image_url": null,
+      "published_at": "2026-10-27T12:05:17.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Zcash 联合创始人提议终止赠款补贴，理由是财政部有 1.25 亿美元",
+      "summary_zh": "Zcash 联合创始人 Sean Bowe 提议终止自动赠款融资，理由是财务估值超过 1.25 亿美元。"
     },
     {
       "id": "eb59b5be5b979ff8",
@@ -1375,8 +1420,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
-      "summary_zh": "BlackRock, SBI Holdings, and Startale will explore connecting tokenized money market funds with SBI's Japanese yen-pegged stablecoin JPYSC."
+      "title_zh": "贝莱德 (BlackRock) 携手 SBI 和 Startale 将代币化 MMF 与日元稳定币联系起来",
+      "summary_zh": "BlackRock、SBI Holdings 和 Startale 将探索将代币化货币市场基金与 SBI 的日元挂钩稳定币 JPYSC 连接起来。"
     },
     {
       "id": "e62191ce846e670f",
@@ -1394,8 +1439,8 @@
         "crypto"
       ],
       "region": "global",
-      "title_zh": "CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell",
-      "summary_zh": "CZ sees AI driving crypto use, while BNB Standard plans to expand beyond holding tokens in its treasury."
+      "title_zh": "BNB 标准敲响纳斯达克钟声，CZ 宣传 BNB Chain 在人工智能领域的作用",
+      "summary_zh": "CZ 认为人工智能正在推动加密货币的使用，而 BNB Standard 则计划将业务扩展到在其金库中持有代币之外。"
     },
     {
       "id": "07d0a53fce68dbe3",
@@ -1412,42 +1457,8 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders",
-      "summary_zh": "The platform is in beta and plans to open to the public in the coming weeks, co-founder Chetan Manda told The Block."
-    },
-    {
-      "id": "b525c5035b0e76ed",
-      "title": "NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket",
-      "summary": "The CFTC and NBA have agreed to put in place standards to protect the integrity of the game when it comes to prediction markets.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764",
-      "image_url": null,
-      "published_at": "2026-10-26T16:27:37.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket",
-      "summary_zh": "The CFTC and NBA have agreed to put in place standards to protect the integrity of the game when it comes to prediction markets."
-    },
-    {
-      "id": "2b56bb2e0e22fe41",
-      "title": "Tom Lee insists ‘crypto bull market is underway’ as Bitmine adds 10,452 ETH",
-      "summary": "The company's combined crypto, cash, marketable securities, and other investments totaled $15 billion as of Oct. 25.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743",
-      "image_url": null,
-      "published_at": "2026-10-26T14:12:59.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Tom Lee insists ‘crypto bull market is underway’ as Bitmine adds 10,452 ETH",
-      "summary_zh": "The company's combined crypto, cash, marketable securities, and other investments totaled $15 billion as of Oct. 25."
+      "title_zh": "Y Combinator 支持的 Mochatrade 融资 550 万美元，向印度交易者提供美国股票永续合约",
+      "summary_zh": "联合创始人 Chetan Manda 告诉 The Block，该平台正处于测试阶段，计划在未来几周内向公众开放。"
     },
     {
       "id": "01325602a76b561b",
@@ -1462,8 +1473,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "summary_zh": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+      "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
+      "summary_zh": "Greptile 如何使用 GPT-6 Astra 来测试用户工作流程，使用 Daybreak 来增强安全性，使用 Codex 来减少返工。"
     },
     {
       "id": "1802c6a31c8fa9b9",
@@ -1478,8 +1489,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "summary_zh": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
+      "title_zh": "GPT-6.1 Sol 帮助 CodeRabbit 加强复杂代码库的安全性",
+      "summary_zh": "CodeRabbit 使用 GPT-6.1 Sol 来调查复杂代码库中的安全风险。其安全代理可帮助开发人员审查调查结果和建议的修复方案。"
     },
     {
       "id": "ec107f17e5d9a9ec",
@@ -1497,8 +1508,8 @@
         "openai"
       ],
       "region": "global",
-      "title_zh": "ChatGPT’s expanding world of work",
-      "summary_zh": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
+      "title_zh": "ChatGPT 不断扩大的工作领域",
+      "summary_zh": "探索 OpenAI Signals 近 100 个国家/地区 165 项工作活动的数据，揭示人们如何使用 ChatGPT 进行工作以及使用情况如何随时间变化。"
     },
     {
       "id": "f78b5aba2fa56989",
@@ -1516,8 +1527,8 @@
         "openai"
       ],
       "region": "global",
-      "title_zh": "How Fanatics and OpenAI streamline the fan experience",
-      "summary_zh": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
+      "title_zh": "Fanatics 和 OpenAI 如何简化粉丝体验",
+      "summary_zh": "Fanatics 使用 OpenAI 帮助球迷通过 Shop the Look 完成比赛日服装。对大约 30,000 个 MLB 产品进行的测试显示，参与度提高了 10%。"
     },
     {
       "id": "262ca203e217a151",
@@ -1535,8 +1546,8 @@
         "openai"
       ],
       "region": "global",
-      "title_zh": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "summary_zh": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
+      "title_zh": "Ultrafast 如何将 OpenAI 的事件调查时间从几小时缩短至几分钟",
+      "summary_zh": "了解 OpenAI 工程师如何使用 Codex Ultrafast 在几分钟内调查事件。探索更快的安全分析、代码重构和日常工作流程。"
     },
     {
       "id": "9caef7338a26fb0e",
@@ -1551,8 +1562,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Introducing GPT-6.1 Terra",
-      "summary_zh": "Bringing fast and capable computer use to everyone"
+      "title_zh": "GPT-6.1 Terra 简介",
+      "summary_zh": "让每个人都能快速、高效地使用计算机"
     },
     {
       "id": "a03131aba90fe4bc",
@@ -1570,8 +1581,8 @@
         "openai"
       ],
       "region": "global",
-      "title_zh": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "summary_zh": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
+      "title_zh": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分）",
+      "summary_zh": "了解 OpenAI 如何通过可靠的多租户、全局缓存和 Azure Cosmos DB 扩展 Habitat，为 ChatGPT 提供 12 倍的更快读取速度。"
     },
     {
       "id": "195004e6c9279986",
@@ -1588,7 +1599,7 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "title_zh": "NVIDIA Kumo Relational 在关系数据上的表现优于监督式机器学习，无需培训",
       "summary_zh": ""
     },
     {
@@ -1604,7 +1615,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "title_zh": "SLM 词汇专业化如何在实际应用中将推理成本降低 77%",
       "summary_zh": ""
     },
     {
@@ -1622,7 +1633,7 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "title_zh": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。",
       "summary_zh": ""
     },
     {
@@ -1638,7 +1649,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "title_zh": "拥抱脸❤️ TorchTPU：TPU，原生",
       "summary_zh": ""
     },
     {
@@ -1657,8 +1668,8 @@
         "google"
       ],
       "region": "global",
-      "title_zh": "Our newest AI Quest: Mapping the human brain",
-      "summary_zh": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
+      "title_zh": "我们最新的人工智能任务：绘制人类大脑图谱",
+      "summary_zh": "通过 Google 最新的神经科学 AI Quests 课程“Polar Peaks”学习 AI 素养。"
     },
     {
       "id": "aec88acb7ddd0e59",
@@ -1675,8 +1686,8 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Southeast Asia’s digital economy to hit $368 billion",
-      "summary_zh": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
+      "title_zh": "东南亚数字经济规模将达3680亿美元",
+      "summary_zh": "人工智能的广泛采用正在推动东南亚数字经济在 2026 年达到 3680 亿美元，到 2035 年将达到 1 万亿美元。"
     },
     {
       "id": "2ebe2fa68a279da0",
@@ -1691,8 +1702,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Introducing Playground: Create and play custom games",
-      "summary_zh": "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
+      "title_zh": "Playground 简介：创建和玩自定义游戏",
+      "summary_zh": "Playground 是一个新的实验性游戏平台，可让您创建、玩和共享自定义游戏。"
     },
     {
       "id": "67521a1c829f3743",
@@ -1709,8 +1720,8 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "summary_zh": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
+      "title_zh": "观看 Future Vision XPRIZE 的获奖预告片《天才》。",
+      "summary_zh": "观看 Future Vision XPRIZE 的获奖预告片《天才》。"
     },
     {
       "id": "e0f567fea9ac235b",
@@ -1727,8 +1738,8 @@
         "google"
       ],
       "region": "global",
-      "title_zh": "Google Beam expands with new regions, partners, and customers",
-      "summary_zh": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network."
+      "title_zh": "Google Beam 不断拓展新的地区、合作伙伴和客户",
+      "summary_zh": "我们正在将 Google Beam 扩展到五个新国家，并与 Industrious 合作扩展网络。"
     },
     {
       "id": "d43c7e0697177b20",
@@ -1745,8 +1756,8 @@
         "google"
       ],
       "region": "global",
-      "title_zh": "Co-creating the future of fashion with Google",
-      "summary_zh": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW."
+      "title_zh": "与 Google 共同创造时尚的未来",
+      "summary_zh": "Google 与设计师 Jane Wade 和 Sergio Hudson 并肩合作，定制设计 Google Flow 工具，为纽约时装周做准备。"
     },
     {
       "id": "9f4c929548b19201",
@@ -1761,8 +1772,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "At New York Climate Week 2026, MIT connects with a global network",
-      "summary_zh": "A cross-section of the MIT community convened discussions on topics ranging from data centers and super pollutants to agriculture and education."
+      "title_zh": "在 2026 年纽约气候周上，麻省理工学院连接全球网络",
+      "summary_zh": "麻省理工学院社区的各个部门就从数据中心和超级污染物到农业和教育等话题进行了讨论。"
     },
     {
       "id": "066c333a97ff7401",
@@ -1779,8 +1790,8 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Reinforcing the value of human understanding at MIT",
-      "summary_zh": "During the School of Humanities, Arts, and Social Sciences’ 75th Anniversary Symposium, President Sally Kornbluth said “MIT has never needed your particular insight and guidance more than we do now.”"
+      "title_zh": "麻省理工学院加强人类理解的价值",
+      "summary_zh": "在人文、艺术和社会科学学院 75 周年纪念研讨会上，校长 Sally Kornbluth 表示：“麻省理工学院从未像现在这样需要您的独特见解和指导。”"
     },
     {
       "id": "ae8a6060e604ebc1",
@@ -1795,8 +1806,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Fostering community amid Kendall Square’s innovation",
-      "summary_zh": "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society."
+      "title_zh": "在肯德尔广场的创新中培育社区",
+      "summary_zh": "第 18 届肯德尔广场协会年会探讨了新技术如何成为社会共同繁荣的力量。"
     },
     {
       "id": "8679bab18a79a2b9",
@@ -1811,8 +1822,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Recent Quant Links from Quantocracy as of 10/15/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Thursday, 10/15/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Financial Mentor’s OptimumV [Allocate Smartly] This is a test of OptimumV from Todd Tresidder of Financial Mentor. Backte"
+      "title_zh": "截至 2026 年 10 月 15 日，Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 10 月 15 日星期四 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ Financial Mentor 的 OptimumV [智能分配] 这是 Financial Mentor 的 Todd Tresidder 对 OptimumV 的测试。巴克特"
     },
     {
       "id": "5f00c410ee01b8a5",
@@ -1827,8 +1838,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Recent Quant Links from Quantocracy as of 10/14/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Wednesday, 10/14/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Does More History Help? A Market-Regime HMM and the Trouble with Out-of-Sample Evaluation [Quantpedia] This paper invest"
+      "title_zh": "截至 2026 年 10 月 14 日，Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 10 月 14 日星期三 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！更多历史有帮助吗？市场制度 HMM 和样本外评估的麻烦 [Quantpedia] 本文投资"
     },
     {
       "id": "86c639fc8375d5b4",
@@ -1843,8 +1854,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Recent Quant Links from Quantocracy as of 10/10/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/10/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Why Long Bonds Still Belong in the Portfolio [Beyond Passive] In the first week of October the thirty-year Treasury yield"
+      "title_zh": "截至 2026 年 10 月 10 日来自 Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 10 月 10 日星期六 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！为什么长期债券仍属于投资组合 [超越被动] 10 月第一周三十年期国债收益率"
     },
     {
       "id": "72e6af20fbdef690",
@@ -1859,8 +1870,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Recent Quant Links from Quantocracy as of 10/07/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Wednesday, 10/07/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Podcast with Kris Longmore of Robot Wealth [Algorithmic Advantage] Ex-prop trader on why solo trading is a different gam"
+      "title_zh": "截至 2026 年 10 月 7 日，Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 10 月 7 日星期三 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ Robot Wealth 的 Kris Longmore 播客 [算法优势] 前自营交易员讲述为什么单独交易是一种不同的游戏"
     },
     {
       "id": "7dcadc45a79d871b",
@@ -1877,8 +1888,8 @@
         "stocks"
       ],
       "region": "global",
-      "title_zh": "Recent Quant Links from Quantocracy as of 10/05/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 10/05/2026. To see our most recent links, visit the Quant Mashup. Read on readers! A Century of Meme Stocks and the Price of Coordination [Quantpedia] Meme stocks are commonly studied through social-media a"
+      "title_zh": "截至 2026 年 10 月 5 日，Quantocracy 的最新量化链接",
+      "summary_zh": "这是截至 2026 年 10 月 5 日星期一 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ Meme 股票的一个世纪和协调价格 [Quantpedia] Meme 股票通常通过社交媒体进行研究"
     }
   ]
 }
