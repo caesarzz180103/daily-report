@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T01:41:53.288Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】OCC calls on community banks to enter the stablecoin payments market；【STRATEGY】Recent Quant Links from Quantocracy as of 10/24/2026；【CRYPTO】Bitcoin holds near $80,000 as oil retreats and the Fed decision looms。",
+  "generated_at": "2026-10-27T06:59:16.313Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight；【CRYPTO】OCC calls on community banks to enter the stablecoin payments market；【STRATEGY】Recent Quant Links from Quantocracy as of 10/24/2026。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -19,6 +19,25 @@
     "FINANCE": 10
   },
   "items": [
+    {
+      "id": "62f43e6b9d86d7a7",
+      "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
+      "summary": "Ripple's structure places reserve management and custody under federal supervision while leaving issuance with the New York-regulated entity.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810",
+      "image_url": null,
+      "published_at": "2026-10-27T02:28:18.000Z",
+      "importance_score": 86,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "fed"
+      ],
+      "region": "global",
+      "title_zh": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
+      "summary_zh": "Ripple's structure places reserve management and custody under federal supervision while leaving issuance with the New York-regulated entity."
+    },
     {
       "id": "1174ac53de0ed79b",
       "title": "OCC calls on community banks to enter the stablecoin payments market",
@@ -56,6 +75,22 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/24/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Shorting Leveraged ETFs: Role of Borrowing Costs and Rebalancing in Volatility-Decay Strategies [Quantpedia] Leveraged ET"
     },
     {
+      "id": "2017548265df33d0",
+      "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+      "summary": "The Office of the Comptroller of the Currency has approved Ripple National Trust Bank (RNTB), Ripple's CEO Brad Garlinghouse announced on X.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
+      "image_url": null,
+      "published_at": "2026-10-27T04:28:49.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+      "summary_zh": "The Office of the Comptroller of the Currency has approved Ripple National Trust Bank (RNTB), Ripple's CEO Brad Garlinghouse announced on X."
+    },
+    {
       "id": "2d1acb7b8af91d5a",
       "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
       "summary": "Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday.",
@@ -76,14 +111,14 @@
       "summary_zh": "Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday."
     },
     {
-      "id": "b922631f476a3736",
-      "title": "Strategy pauses bitcoin buys, repurchases $205 million of STRC preferred shares",
-      "summary": "Strategy's bitcoin holdings account for roughly 4% of the total supply cap, with $3.9 billion in paper gains.",
+      "id": "716887c8f668c998",
+      "title": "StoneX lifts Strive price target 34% as new stock offering bolsters bitcoin strategy",
+      "summary": "StoneX has raised its price target for bitcoin treasury company Strive to $43 from $32 and reiterated its Buy rating on the stock.",
       "category": "CRYPTO",
       "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-26-strategy-pauses-bitcoin-buys-repurchases-205-million-of-strc-preferred-shares-431699",
+      "source_url": "https://www.theblock.co/news/business/2026-10-26-stonex-lifts-strive-price-target-431818",
       "image_url": null,
-      "published_at": "2026-10-26T13:23:14.000Z",
+      "published_at": "2026-10-27T03:58:07.000Z",
       "importance_score": 62,
       "sentiment": 0,
       "tags": [
@@ -91,26 +126,8 @@
         "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Strategy pauses bitcoin buys, repurchases $205 million of STRC preferred shares",
-      "summary_zh": "Strategy's bitcoin holdings account for roughly 4% of the total supply cap, with $3.9 billion in paper gains."
-    },
-    {
-      "id": "6927752318a354c7",
-      "title": "Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase",
-      "summary": "Strive's latest bitcoin purchase puts it within 1,000 BTC of second-place Metaplanet as it unveils a new $1 billion preferred stock offering program.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-26-strive-closes-in-second-largest-corporate-bitcoin-treasury-511-million-purchase-431729",
-      "image_url": null,
-      "published_at": "2026-10-26T13:19:08.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase",
-      "summary_zh": "Strive's latest bitcoin purchase puts it within 1,000 BTC of second-place Metaplanet as it unveils a new $1 billion preferred stock offering program."
+      "title_zh": "StoneX lifts Strive price target 34% as new stock offering bolsters bitcoin strategy",
+      "summary_zh": "StoneX has raised its price target for bitcoin treasury company Strive to $43 from $32 and reiterated its Buy rating on the stock."
     },
     {
       "id": "057607206eb95d9a",
@@ -259,6 +276,24 @@
       "summary_zh": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
+      "id": "749cb34fc4e0a1fa",
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-27T02:01:27.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "fed"
+      ],
+      "region": "global",
+      "title_zh": "Ex-FBI chief James Comey faces federal charges for third time",
+      "summary_zh": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016."
+    },
+    {
       "id": "e7d687cef11a7ec0",
       "title": "Trump administration illegally fired James Comey's daughter, judge rules",
       "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
@@ -384,14 +419,14 @@
       "summary_zh": "Under the draft rules, non-bank stablecoin issuers must back tokens 1:1 with reserves held at qualified Canadian institutions and settle redemptions within three business days."
     },
     {
-      "id": "5c91357b442c6d8a",
-      "title": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
-      "summary": "California’s pension fund shifts toward private equity as investors question tech valuations and the payoff from soaring AI spending.",
+      "id": "0cde989aa0f094b2",
+      "title": "Circle faces up to 20% revenue risk from AI agents, Mizuho says",
+      "summary": "Mizuho cited 10-20% medium-term reserve revenue downside risk as AI agents steer USDC holders toward higher-yielding fiat alternatives.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826",
       "image_url": null,
-      "published_at": "2026-10-26T10:33:00.000Z",
+      "published_at": "2026-10-27T06:28:34.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
@@ -399,8 +434,8 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
-      "summary_zh": "California’s pension fund shifts toward private equity as investors question tech valuations and the payoff from soaring AI spending."
+      "title_zh": "Circle faces up to 20% revenue risk from AI agents, Mizuho says",
+      "summary_zh": "Mizuho cited 10-20% medium-term reserve revenue downside risk as AI agents steer USDC holders toward higher-yielding fiat alternatives."
     },
     {
       "id": "c2af791ddcdb71e9",
@@ -440,14 +475,14 @@
       "summary_zh": "Bernstein cuts Coinbase’s target while raising Circle’s as new products shift their earnings outlook."
     },
     {
-      "id": "db71026dc53d4833",
+      "id": "63e0279d2dc4d577",
       "title": "Trending Crypto: Quack AI (Q)",
-      "summary": "CoinGecko trending rank #79.",
+      "summary": "CoinGecko trending rank #96.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/quack-ai",
       "image_url": "https://coin-images.coingecko.com/coins/images/68793/large/quack_ai.png?1756615808",
-      "published_at": "2026-10-27T01:40:41.893Z",
+      "published_at": "2026-10-27T06:58:03.556Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -457,87 +492,87 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Quack AI (Q)",
-      "summary_zh": "CoinGecko trending rank #79."
+      "summary_zh": "CoinGecko trending rank #96."
     },
     {
-      "id": "80444e320ab4f1c3",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #119.",
+      "id": "77de629b770e21b3",
+      "title": "Trending Crypto: Infinity Ground (AIN)",
+      "summary": "CoinGecko trending rank #796.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-10-27T01:40:41.893Z",
+      "source_url": "https://www.coingecko.com/en/coins/infinity-ground",
+      "image_url": "https://coin-images.coingecko.com/coins/images/67034/large/ain.jpg?1751527676",
+      "published_at": "2026-10-27T06:58:03.556Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pengu"
+        "ain"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #119."
+      "title_zh": "Trending Crypto: Infinity Ground (AIN)",
+      "summary_zh": "CoinGecko trending rank #796."
     },
     {
-      "id": "544c1a336e41b399",
-      "title": "Trending Crypto: NEAR Protocol (NEAR)",
-      "summary": "CoinGecko trending rank #20.",
+      "id": "679e1cf49361b8d4",
+      "title": "Trending Crypto: Pearl (PEARL)",
+      "summary": "CoinGecko trending rank #97.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/near",
-      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
-      "published_at": "2026-10-27T01:40:41.893Z",
+      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
+      "published_at": "2026-10-27T06:58:03.556Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "near"
+        "pearl"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
-      "summary_zh": "CoinGecko trending rank #20."
+      "title_zh": "Trending Crypto: Pearl (PEARL)",
+      "summary_zh": "CoinGecko trending rank #97."
     },
     {
-      "id": "72585a9f18253d48",
-      "title": "Trending Crypto: USD.AI (CHIP)",
-      "summary": "CoinGecko trending rank #276.",
+      "id": "5e3dddafde0b575c",
+      "title": "Trending Crypto: Quant (QNT)",
+      "summary": "CoinGecko trending rank #36.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/chip-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102171777/large/CHIP_Token_Logo_Large.png?1776777444",
-      "published_at": "2026-10-27T01:40:41.893Z",
+      "source_url": "https://www.coingecko.com/en/coins/quant-network",
+      "image_url": "https://coin-images.coingecko.com/coins/images/3370/large/5ZOu7brX_400x400.jpg?1696504070",
+      "published_at": "2026-10-27T06:58:03.556Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "chip"
+        "qnt"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: USD.AI (CHIP)",
-      "summary_zh": "CoinGecko trending rank #276."
+      "title_zh": "Trending Crypto: Quant (QNT)",
+      "summary_zh": "CoinGecko trending rank #36."
     },
     {
-      "id": "88cad7384a15597d",
-      "title": "Trending Crypto: XRP (XRP)",
-      "summary": "CoinGecko trending rank #5.",
+      "id": "454cdf58341e67f3",
+      "title": "Trending Crypto: Ondo (ONDO)",
+      "summary": "CoinGecko trending rank #49.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/ripple",
-      "image_url": "https://coin-images.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1696501442",
-      "published_at": "2026-10-27T01:40:41.893Z",
+      "source_url": "https://www.coingecko.com/en/coins/ondo-finance",
+      "image_url": "https://coin-images.coingecko.com/coins/images/26580/large/ONDO.png?1696525656",
+      "published_at": "2026-10-27T06:58:03.556Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "xrp"
+        "ondo"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: XRP (XRP)",
-      "summary_zh": "CoinGecko trending rank #5."
+      "title_zh": "Trending Crypto: Ondo (ONDO)",
+      "summary_zh": "CoinGecko trending rank #49."
     },
     {
       "id": "b385f6ee9d6a3ecd",
@@ -772,46 +807,6 @@
       "region": "global",
       "title_zh": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
       "summary_zh": "Your day-ahead look for Oct. 26, 2026"
-    },
-    {
-      "id": "b3db86ee20d9a539",
-      "title": "Live news: Bitcoin dips below $80,000 as stocks rally following Anthropic IPO filing",
-      "summary": "Alongside Anthropic raising as much as $100 billion, Meta on Monday announced a $95 billion share sale to fund its own AI ambitions.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
-      "image_url": null,
-      "published_at": "2026-10-26T11:05:31.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "anthropic",
-        "bitcoin",
-        "stocks"
-      ],
-      "region": "global",
-      "title_zh": "Live news: Bitcoin dips below $80,000 as stocks rally following Anthropic IPO filing",
-      "summary_zh": "Alongside Anthropic raising as much as $100 billion, Meta on Monday announced a $95 billion share sale to fund its own AI ambitions."
-    },
-    {
-      "id": "17ee52ff9c345495",
-      "title": "Galaxy says bitcoin bear market is over; now is the time to buy and hold",
-      "summary": "Galaxy said bitcoin’s bear market ended in June as fading long-term holder selling signals an attractive buying opportunity.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-10-26-galaxy-says-bitcoin-bear-market-is-over-now-is-the-time-to-buy-and-hold-431720",
-      "image_url": null,
-      "published_at": "2026-10-26T13:00:00.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Galaxy says bitcoin bear market is over; now is the time to buy and hold",
-      "summary_zh": "Galaxy said bitcoin’s bear market ended in June as fading long-term holder selling signals an attractive buying opportunity."
     },
     {
       "id": "3ca854e9cd10870b",
@@ -1076,6 +1071,74 @@
       "summary_zh": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro."
     },
     {
+      "id": "f58fef0bd93ad8aa",
+      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+      "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-27T02:40:17.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+      "summary_zh": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said."
+    },
+    {
+      "id": "8ea6315913307117",
+      "title": "Meghan to co-host Junior MasterChef Australia",
+      "summary": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-27T04:43:56.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Meghan to co-host Junior MasterChef Australia",
+      "summary_zh": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year."
+    },
+    {
+      "id": "a58152da00d0e868",
+      "title": "Jay-Z to perform at Super Bowl half-time show",
+      "summary": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-27T05:05:15.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Jay-Z to perform at Super Bowl half-time show",
+      "summary_zh": "The rapper has been involved with the show for years but has never before performed at the NFL championship game."
+    },
+    {
+      "id": "2252b9f304c2ce24",
+      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "summary": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-27T00:31:11.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "summary_zh": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being."
+    },
+    {
       "id": "611f3c2a9891744a",
       "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
@@ -1110,88 +1173,6 @@
       "summary_zh": "Two bishops in images that show them praying with Trump have said they believed the meeting was private."
     },
     {
-      "id": "4277a0c30ee0de83",
-      "title": "US Marine indicted for murder and robbery of woman in Japan",
-      "summary": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-26T14:13:18.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "US Marine indicted for murder and robbery of woman in Japan",
-      "summary_zh": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports."
-    },
-    {
-      "id": "0bcc2251a6975515",
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-26T05:20:19.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Venezuelan opposition leader María Machado returns after months in exile",
-      "summary_zh": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
-    },
-    {
-      "id": "7bb75d2620e45d9e",
-      "title": "'Maxxing' selected as Dictionary.com word of the year",
-      "summary": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-26T21:31:53.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "'Maxxing' selected as Dictionary.com word of the year",
-      "summary_zh": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising."
-    },
-    {
-      "id": "b688cea5d5e968b8",
-      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-      "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-26T17:00:09.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Algeria to send troops to Niger in first foreign deployment since 1973",
-      "summary_zh": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border."
-    },
-    {
-      "id": "81ae04ea0bb5d01e",
-      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
-      "summary": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-26T14:27:32.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Nurse killed in attack while responding to Ebola alert in DR Congo",
-      "summary_zh": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola."
-    },
-    {
       "id": "1af16caba791fe17",
       "title": "Egypt OKs Military Aid to Saudis in Fight With Houthis",
       "summary": "The Egyptians will commit forces for defensive purposes only, officials have said, as the kingdom exchanges increasingly deadly strikes with the Iranian-backed militia in Yemen.",
@@ -1217,7 +1198,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/26/world/europe/serbia-election-vucic-nationalist-populists.html",
       "image_url": null,
-      "published_at": "2026-10-26T18:26:54.000Z",
+      "published_at": "2026-10-27T03:29:47.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1249,7 +1230,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
       "image_url": null,
-      "published_at": "2026-10-26T20:32:15.000Z",
+      "published_at": "2026-10-26T20:32:16.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1281,7 +1262,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/26/world/asia/china-communist-party-xi-forever-purge.html",
       "image_url": null,
-      "published_at": "2026-10-26T13:14:20.000Z",
+      "published_at": "2026-10-26T13:14:21.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1326,6 +1307,22 @@
       "region": "global",
       "title_zh": "Aleksandar Vucic Concedes Defeat in Serbian Election",
       "summary_zh": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents."
+    },
+    {
+      "id": "5f0513c3f394f7e3",
+      "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+      "summary": "Sean Bowe’s proposal would send the committee’s 8% share of newly created ZEC to a reserve for future miners. The committee would keep the money it has already received.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
+      "image_url": null,
+      "published_at": "2026-10-27T06:14:41.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+      "summary_zh": "Sean Bowe’s proposal would send the committee’s 8% share of newly created ZEC to a reserve for future miners. The committee would keep the money it has already received."
     },
     {
       "id": "d2da63c33b682add",
