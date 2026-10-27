@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T22:02:38.293Z",
+  "generated_at": "2026-10-27T01:41:53.288Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】OCC calls on community banks to enter the stablecoin payments market；【STRATEGY】Recent Quant Links from Quantocracy as of 10/24/2026；【CRYPTO】Bitcoin holds near $80,000 as oil retreats and the Fed decision looms。",
   "meta": {
     "sources_count": 11,
@@ -440,34 +440,14 @@
       "summary_zh": "Bernstein cuts Coinbase’s target while raising Circle’s as new products shift their earnings outlook."
     },
     {
-      "id": "d6a846f30542a22d",
-      "title": "Trending Crypto: Big Titty Coin (BTC)",
-      "summary": "CoinGecko trending rank #675.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/big-titty-coin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102179782/large/logo.png?1792952458",
-      "published_at": "2026-10-26T22:01:27.118Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "btc"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Big Titty Coin (BTC)",
-      "summary_zh": "CoinGecko trending rank #675."
-    },
-    {
-      "id": "fca0a5191c2857a4",
+      "id": "db71026dc53d4833",
       "title": "Trending Crypto: Quack AI (Q)",
-      "summary": "CoinGecko trending rank #91.",
+      "summary": "CoinGecko trending rank #79.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/quack-ai",
       "image_url": "https://coin-images.coingecko.com/coins/images/68793/large/quack_ai.png?1756615808",
-      "published_at": "2026-10-26T22:01:27.118Z",
+      "published_at": "2026-10-27T01:40:41.893Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -477,67 +457,87 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Quack AI (Q)",
-      "summary_zh": "CoinGecko trending rank #91."
+      "summary_zh": "CoinGecko trending rank #79."
     },
     {
-      "id": "04145fa7fb7dfcc9",
-      "title": "Trending Crypto: Pump.fun (PUMP)",
-      "summary": "CoinGecko trending rank #49.",
+      "id": "80444e320ab4f1c3",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #119.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pump-fun",
-      "image_url": "https://coin-images.coingecko.com/coins/images/67164/large/pump.jpg?1751949376",
-      "published_at": "2026-10-26T22:01:27.118Z",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-10-27T01:40:41.893Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pump"
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pump.fun (PUMP)",
-      "summary_zh": "CoinGecko trending rank #49."
+      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary_zh": "CoinGecko trending rank #119."
     },
     {
-      "id": "68c92843f3d81206",
-      "title": "Trending Crypto: Sui (SUI)",
-      "summary": "CoinGecko trending rank #30.",
+      "id": "544c1a336e41b399",
+      "title": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary": "CoinGecko trending rank #20.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/sui",
-      "image_url": "https://coin-images.coingecko.com/coins/images/26375/large/sui-ocean-square.png?1727791290",
-      "published_at": "2026-10-26T22:01:27.118Z",
+      "source_url": "https://www.coingecko.com/en/coins/near",
+      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
+      "published_at": "2026-10-27T01:40:41.893Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "sui"
+        "near"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Sui (SUI)",
-      "summary_zh": "CoinGecko trending rank #30."
+      "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary_zh": "CoinGecko trending rank #20."
     },
     {
-      "id": "1ad722c615e9eaa7",
-      "title": "Trending Crypto: Aerodrome Finance (AERO)",
-      "summary": "CoinGecko trending rank #103.",
+      "id": "72585a9f18253d48",
+      "title": "Trending Crypto: USD.AI (CHIP)",
+      "summary": "CoinGecko trending rank #276.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/aerodrome-finance",
-      "image_url": "https://coin-images.coingecko.com/coins/images/31745/large/token.png?1696530564",
-      "published_at": "2026-10-26T22:01:27.118Z",
+      "source_url": "https://www.coingecko.com/en/coins/chip-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102171777/large/CHIP_Token_Logo_Large.png?1776777444",
+      "published_at": "2026-10-27T01:40:41.893Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "aero"
+        "chip"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Aerodrome Finance (AERO)",
-      "summary_zh": "CoinGecko trending rank #103."
+      "title_zh": "Trending Crypto: USD.AI (CHIP)",
+      "summary_zh": "CoinGecko trending rank #276."
+    },
+    {
+      "id": "88cad7384a15597d",
+      "title": "Trending Crypto: XRP (XRP)",
+      "summary": "CoinGecko trending rank #5.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/ripple",
+      "image_url": "https://coin-images.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1696501442",
+      "published_at": "2026-10-27T01:40:41.893Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "xrp"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: XRP (XRP)",
+      "summary_zh": "CoinGecko trending rank #5."
     },
     {
       "id": "b385f6ee9d6a3ecd",
@@ -547,7 +547,7 @@
       "source_name": "OpenAI News",
       "source_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
       "image_url": null,
-      "published_at": "2026-10-26T00:00:00.000Z",
+      "published_at": "2026-10-26T14:30:00.000Z",
       "importance_score": 52,
       "sentiment": 0,
       "tags": [
@@ -812,22 +812,6 @@
       "region": "global",
       "title_zh": "Galaxy says bitcoin bear market is over; now is the time to buy and hold",
       "summary_zh": "Galaxy said bitcoin’s bear market ended in June as fading long-term holder selling signals an attractive buying opportunity."
-    },
-    {
-      "id": "3fc40a64d749740e",
-      "title": "Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger",
-      "summary": "Aviva Investors has launched a tokenized share class of its Sterling Liquidity Fund on the Ripple-backed XRP Ledger.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712",
-      "image_url": null,
-      "published_at": "2026-10-26T11:34:12.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger",
-      "summary_zh": "Aviva Investors has launched a tokenized share class of its Sterling Liquidity Fund on the Ripple-backed XRP Ledger."
     },
     {
       "id": "3ca854e9cd10870b",
@@ -1382,6 +1366,22 @@
       "summary_zh": "The maker of Claude reported $16.3 billion in first-half revenue and an $80.7 billion net loss as it aims to price its offering in mid-November."
     },
     {
+      "id": "eb59b5be5b979ff8",
+      "title": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
+      "summary": "BlackRock, SBI Holdings, and Startale will explore connecting tokenized money market funds with SBI's Japanese yen-pegged stablecoin JPYSC.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642",
+      "image_url": null,
+      "published_at": "2026-10-27T01:00:00.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
+      "summary_zh": "BlackRock, SBI Holdings, and Startale will explore connecting tokenized money market funds with SBI's Japanese yen-pegged stablecoin JPYSC."
+    },
+    {
       "id": "e62191ce846e670f",
       "title": "CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell",
       "summary": "CZ sees AI driving crypto use, while BNB Standard plans to expand beyond holding tokens in its treasury.",
@@ -1451,6 +1451,22 @@
       "region": "global",
       "title_zh": "Tom Lee insists ‘crypto bull market is underway’ as Bitmine adds 10,452 ETH",
       "summary_zh": "The company's combined crypto, cash, marketable securities, and other investments totaled $15 billion as of Oct. 25."
+    },
+    {
+      "id": "01325602a76b561b",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "image_url": null,
+      "published_at": "2026-10-26T22:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "summary_zh": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
     },
     {
       "id": "1802c6a31c8fa9b9",
@@ -1559,22 +1575,6 @@
       "region": "global",
       "title_zh": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "summary_zh": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
-    },
-    {
-      "id": "725a36b05920f60a",
-      "title": "Build more responsive apps with the Decisions API",
-      "summary": "Fast, focused, low-cost decisions for any application.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/decisions-api",
-      "image_url": null,
-      "published_at": "2026-10-22T19:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Build more responsive apps with the Decisions API",
-      "summary_zh": "Fast, focused, low-cost decisions for any application."
     },
     {
       "id": "195004e6c9279986",
