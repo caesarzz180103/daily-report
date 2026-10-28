@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T01:54:36.041Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【STRATEGY】Recent Quant Links from Quantocracy as of 10/24/2026；【CRYPTO】Brazilian companies turned to stablecoins on election day to dodge a currency crash；【CRYPTO】Bitcoin miners' move into AI is creating a new market for trading computing power。",
+  "generated_at": "2026-10-28T07:41:48.110Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Bithumb hacked through employee system as South Korean financial firms face cyberattacks；【STRATEGY】Recent Quant Links from Quantocracy as of 10/24/2026；【CRYPTO】Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -20,6 +20,22 @@
   },
   "items": [
     {
+      "id": "8732369a9e019869",
+      "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+      "summary": "The breach hit an internal employee system that Bithumb says is separate from its trading platform, while the exchange is still determining whether customer information was exposed.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
+      "image_url": null,
+      "published_at": "2026-10-28T05:10:36.000Z",
+      "importance_score": 68,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+      "summary_zh": "The breach hit an internal employee system that Bithumb says is separate from its trading platform, while the exchange is still determining whether customer information was exposed."
+    },
+    {
       "id": "76b381ebd56e0bce",
       "title": "Recent Quant Links from Quantocracy as of 10/24/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/24/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Shorting Leveraged ETFs: Role of Borrowing Costs and Rebalancing in Volatility-Decay Strategies [Quantpedia] Leveraged ET",
@@ -36,6 +52,26 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/24/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/24/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Shorting Leveraged ETFs: Role of Borrowing Costs and Rebalancing in Volatility-Decay Strategies [Quantpedia] Leveraged ET"
+    },
+    {
+      "id": "9cda521699f54791",
+      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+      "summary": "Majors outpaced bitcoin across the board as tech stocks extended a climb.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
+      "image_url": null,
+      "published_at": "2026-10-28T04:15:20.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin",
+        "fed",
+        "stocks"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+      "summary_zh": "Majors outpaced bitcoin across the board as tech stocks extended a climb."
     },
     {
       "id": "490533d60615c4fe",
@@ -56,45 +92,6 @@
       "region": "global",
       "title_zh": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
       "summary_zh": "USDT volume on crypto exchange Mercado Bitcoin jumped nearly 800% and bitcoin volume surged 865%. Binance’s USDT/BRL market tripled while the global BTC/USDT pair fell."
-    },
-    {
-      "id": "b25fc0ba794e82c7",
-      "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
-      "summary": "Luxor raised $16 million to expand into AI hardware and trading, betting that computing power will become a market where companies can hedge costs and prices.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
-      "image_url": null,
-      "published_at": "2026-10-27T13:13:50.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin miners' move into AI is creating a new market for trading computing power",
-      "summary_zh": "Luxor raised $16 million to expand into AI hardware and trading, betting that computing power will become a market where companies can hedge costs and prices."
-    },
-    {
-      "id": "7986e68a981466cc",
-      "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
-      "summary": "Your day-ahead look for Oct. 27, 2026",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
-      "image_url": null,
-      "published_at": "2026-10-27T12:00:39.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
-      "summary_zh": "Your day-ahead look for Oct. 27, 2026"
     },
     {
       "id": "c6a6925a97aa21a3",
@@ -344,7 +341,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/27/world/europe/egypt-press-crackdown-mada-masr-attalah.html",
       "image_url": null,
-      "published_at": "2026-10-27T17:21:41.000Z",
+      "published_at": "2026-10-28T02:38:45.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -410,34 +407,54 @@
       "summary_zh": "Crypto market structure is the architecture behind digital asset markets. It explains who participates, where trades happen, how liquidity forms, how prices are discovered, how derivatives and funding rates work, and how market design affects execution, fairness, risk, and resili"
     },
     {
-      "id": "1e679f4f81708409",
-      "title": "Trending Crypto: Sui (SUI)",
-      "summary": "CoinGecko trending rank #30.",
+      "id": "cd875a3d7bd27505",
+      "title": "Trending Crypto: Pearl (PEARL)",
+      "summary": "CoinGecko trending rank #96.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/sui",
-      "image_url": "https://coin-images.coingecko.com/coins/images/26375/large/sui-ocean-square.png?1727791290",
-      "published_at": "2026-10-28T01:53:17.910Z",
+      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
+      "published_at": "2026-10-28T07:40:34.944Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "sui"
+        "pearl"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Sui (SUI)",
-      "summary_zh": "CoinGecko trending rank #30."
+      "title_zh": "Trending Crypto: Pearl (PEARL)",
+      "summary_zh": "CoinGecko trending rank #96."
     },
     {
-      "id": "c140d5f5bd5bb5e7",
+      "id": "25b9cc937f5ca649",
+      "title": "Trending Crypto: Pons (PONS)",
+      "summary": "CoinGecko trending rank #182.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pons",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102174571/large/jhitvkisdq8fhxvimdkpcw7y3dx5.?1784093932",
+      "published_at": "2026-10-28T07:40:34.944Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pons"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Pons (PONS)",
+      "summary_zh": "CoinGecko trending rank #182."
+    },
+    {
+      "id": "198493b49e496895",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
       "summary": "CoinGecko trending rank #11.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
       "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-10-28T01:53:17.910Z",
+      "published_at": "2026-10-28T07:40:34.944Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -450,64 +467,44 @@
       "summary_zh": "CoinGecko trending rank #11."
     },
     {
-      "id": "dfcb1e0617c3c360",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #113.",
+      "id": "aac748de61f5e4fd",
+      "title": "Trending Crypto: STONK (STONK)",
+      "summary": "CoinGecko trending rank #257.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-10-28T01:53:17.910Z",
+      "source_url": "https://www.coingecko.com/en/coins/stonk-3",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102175239/large/tscmgapqpfx5j4hu8gbs3aj85s7a.?1785895603",
+      "published_at": "2026-10-28T07:40:34.944Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pengu"
+        "stonk"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #113."
+      "title_zh": "Trending Crypto: STONK (STONK)",
+      "summary_zh": "CoinGecko trending rank #257."
     },
     {
-      "id": "2576fc1042a945ef",
-      "title": "Trending Crypto: Pepe (PEPE)",
-      "summary": "CoinGecko trending rank #49.",
+      "id": "f08e867dcb36fd56",
+      "title": "Trending Crypto: Quack AI (Q)",
+      "summary": "CoinGecko trending rank #147.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pepe",
-      "image_url": "https://coin-images.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1696528776",
-      "published_at": "2026-10-28T01:53:17.910Z",
+      "source_url": "https://www.coingecko.com/en/coins/quack-ai",
+      "image_url": "https://coin-images.coingecko.com/coins/images/68793/large/quack_ai.png?1756615808",
+      "published_at": "2026-10-28T07:40:34.944Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pepe"
+        "q"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pepe (PEPE)",
-      "summary_zh": "CoinGecko trending rank #49."
-    },
-    {
-      "id": "ead17968c34455ef",
-      "title": "Trending Crypto: Ondo (ONDO)",
-      "summary": "CoinGecko trending rank #50.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/ondo-finance",
-      "image_url": "https://coin-images.coingecko.com/coins/images/26580/large/ONDO.png?1696525656",
-      "published_at": "2026-10-28T01:53:17.910Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "ondo"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Ondo (ONDO)",
-      "summary_zh": "CoinGecko trending rank #50."
+      "title_zh": "Trending Crypto: Quack AI (Q)",
+      "summary_zh": "CoinGecko trending rank #147."
     },
     {
       "id": "b385f6ee9d6a3ecd",
@@ -655,40 +652,6 @@
       "summary_zh": "New research can help AI models understand crystalline materials in 3D and reason about their properties."
     },
     {
-      "id": "1ebd24f688a16dd9",
-      "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
-      "summary": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution.",
-      "category": "AI",
-      "source_name": "MIT News AI",
-      "source_url": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015",
-      "image_url": null,
-      "published_at": "2026-10-15T21:00:00.000Z",
-      "importance_score": 52,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
-      "summary_zh": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution."
-    },
-    {
-      "id": "da6656a90b0e92cf",
-      "title": "Israel Election Live Updates: Rivals Strike Tone of Triumph, but Outcome Is Far From Clear",
-      "summary": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-      "image_url": null,
-      "published_at": "2026-10-28T01:51:53.000Z",
-      "importance_score": 52,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Israel Election Live Updates: Rivals Strike Tone of Triumph, but Outcome Is Far From Clear",
-      "summary_zh": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days."
-    },
-    {
       "id": "71c5111662b1663f",
       "title": "Recent Quant Links from Quantocracy as of 10/22/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Thursday, 10/22/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Momentum timed with the rate of change (ROC) on the S&P 500’s ten steepest trends [Quanter Lab] Momentum is one of the ol",
@@ -721,22 +684,23 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 10/18/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Less Wrong [Quantitativo] The biggest risk is that you have a losing strategy when you think you have a winning one. Jeff Y"
     },
     {
-      "id": "4c00231168740568",
-      "title": "Recent Quant Links from Quantocracy as of 10/03/2026",
-      "summary": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/03/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Buffett’s be greedy when others are fearful, tested [Quanter Lab] \"Be greedy when others are fearful\" is Warren Buffett's",
-      "category": "STRATEGY",
-      "source_name": "Quantocracy",
-      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-10032026/",
+      "id": "c796f888a02ad43a",
+      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+      "summary": "The company said the accounting correction will cut reported assets by $92.2 million at the end of 2025 after bitcoin held on Biconomy could not be withdrawn.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
       "image_url": null,
-      "published_at": "2026-10-04T05:15:04.000Z",
-      "importance_score": 52,
+      "published_at": "2026-10-28T05:28:13.000Z",
+      "importance_score": 50,
       "sentiment": 0,
       "tags": [
-        "war"
+        "ai",
+        "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Recent Quant Links from Quantocracy as of 10/03/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/03/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Buffett’s be greedy when others are fearful, tested [Quanter Lab] \"Be greedy when others are fearful\" is Warren Buffett's"
+      "title_zh": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+      "summary_zh": "The company said the accounting correction will cut reported assets by $92.2 million at the end of 2025 after bitcoin held on Biconomy could not be withdrawn."
     },
     {
       "id": "73b88465eae2d8ff",
@@ -757,22 +721,23 @@
       "summary_zh": "Robinhood helped launch a rival dollar-backed token, USDG, but will also offer Ripple's stablecoin to retail customers later this year."
     },
     {
-      "id": "796f012071834b13",
-      "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
-      "summary": "The $500 billion asset manager is launching an issuer-sponsored fund on Stellar, taking a different approach from third-party stock tokens.",
+      "id": "c7f1e375421002e7",
+      "title": "Datavault AI stock plummets 50% after firm says it cannot withdraw bitcoin tied to $150 million deal",
+      "summary": "The issue centers on a deal with Scilex, under which Scilex agreed to buy shares of Datavault AI for $150 million, payable in bitcoin.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-10-27-datavault-ai-stock-plummets-bitcoin-deal-431962",
       "image_url": null,
-      "published_at": "2026-10-27T14:21:10.000Z",
+      "published_at": "2026-10-28T03:00:33.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "ai",
+        "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
-      "summary_zh": "The $500 billion asset manager is launching an issuer-sponsored fund on Stellar, taking a different approach from third-party stock tokens."
+      "title_zh": "Datavault AI stock plummets 50% after firm says it cannot withdraw bitcoin tied to $150 million deal",
+      "summary_zh": "The issue centers on a deal with Scilex, under which Scilex agreed to buy shares of Datavault AI for $150 million, payable in bitcoin."
     },
     {
       "id": "3f06938df341fe38",
@@ -1114,7 +1079,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-27T23:41:23.000Z",
+      "published_at": "2026-10-28T02:20:25.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1175,6 +1140,22 @@
       "region": "global",
       "title_zh": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
       "summary_zh": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie."
+    },
+    {
+      "id": "13b10ce33095bf0c",
+      "title": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
+      "summary": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+      "image_url": null,
+      "published_at": "2026-10-28T06:46:19.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
+      "summary_zh": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days."
     },
     {
       "id": "43e6baf7f3e89748",
@@ -1275,6 +1256,24 @@
       "summary_zh": "The political evolutions of Naftali Bennett, a former prime minister, and Avigdor Liberman, a former defense minister, are indicative of how Benjamin Netanyahu has polarized Israel."
     },
     {
+      "id": "5d917fb8b2c4ab90",
+      "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+      "summary": "The crypto exchange says an incident at analytics firm Amplitude exposed some customer contact information, but insists its own systems were not breached.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+      "image_url": null,
+      "published_at": "2026-10-28T03:11:14.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+      "summary_zh": "The crypto exchange says an incident at analytics firm Amplitude exposed some customer contact information, but insists its own systems were not breached."
+    },
+    {
       "id": "b9c8e998a6b4c397",
       "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
       "summary": "Crypto trading volume fell 38% from year-ago levels, but the firm's overall blockchain business gained traction.",
@@ -1326,24 +1325,6 @@
       "region": "global",
       "title_zh": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
       "summary_zh": "The latest notice added four objections, bringing the total to 26 as the joint venture prepares to test the SEC’s new framework for blockchain-based stock trading."
-    },
-    {
-      "id": "484adcf1507d8022",
-      "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
-      "summary": "The new service could help developers build blockchain-based index funds, tokenized portfolios and derivatives using established financial benchmarks.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
-      "image_url": null,
-      "published_at": "2026-10-27T14:00:00.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
-      "summary_zh": "The new service could help developers build blockchain-based index funds, tokenized portfolios and derivatives using established financial benchmarks."
     },
     {
       "id": "864977ba2bc10a21",
@@ -1450,22 +1431,6 @@
       "region": "global",
       "title_zh": "Galaxy Digital swings to $323 million quarterly profit, announces new $200 million share buyback",
       "summary_zh": "Galaxy returned to profitability in the third quarter as trading volumes and lending increased, with a new $200 million buyback authorized."
-    },
-    {
-      "id": "4785071078e71203",
-      "title": "Zcash co-founder proposes ending grants subsidy, citing $125 million treasury",
-      "summary": "Zcash co-founder Sean Bowe proposed ending automatic grants funding, citing a treasury valuation of more than $125 million.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/ecosystems/2026-10-27-zcash-co-founder-proposes-ending-grants-subsidy-citing-125-million-treasury-431847",
-      "image_url": null,
-      "published_at": "2026-10-27T12:05:17.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Zcash co-founder proposes ending grants subsidy, citing $125 million treasury",
-      "summary_zh": "Zcash co-founder Sean Bowe proposed ending automatic grants funding, citing a treasury valuation of more than $125 million."
     },
     {
       "id": "01325602a76b561b",
@@ -1748,6 +1713,22 @@
       "summary_zh": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW."
     },
     {
+      "id": "ef70eb12c2a43798",
+      "title": "Making machines that can listen",
+      "summary": "Professor Paris Smaragdis develops computers with superhuman hearing for applications like speech recognition, music understanding, and environmental monitoring.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028",
+      "image_url": null,
+      "published_at": "2026-10-28T04:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Making machines that can listen",
+      "summary_zh": "Professor Paris Smaragdis develops computers with superhuman hearing for applications like speech recognition, music understanding, and environmental monitoring."
+    },
+    {
       "id": "9f4c929548b19201",
       "title": "At New York Climate Week 2026, MIT connects with a global network",
       "summary": "A cross-section of the MIT community convened discussions on topics ranging from data centers and super pollutants to agriculture and education.",
@@ -1796,6 +1777,22 @@
       "region": "global",
       "title_zh": "Fostering community amid Kendall Square’s innovation",
       "summary_zh": "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society."
+    },
+    {
+      "id": "724b1bd70c93244d",
+      "title": "Recent Quant Links from Quantocracy as of 10/27/2026",
+      "summary": "This is a summary of links recently featured on Quantocracy as of Tuesday, 10/27/2026. To see our most recent links, visit the Quant Mashup. Read on readers! The Part Time Trader Part 5: Half a Million Backtests & a Coin Flip [Algorithmic Advantage] Half a million tests can map a",
+      "category": "STRATEGY",
+      "source_name": "Quantocracy",
+      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-10272026/",
+      "image_url": null,
+      "published_at": "2026-10-28T05:15:05.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Recent Quant Links from Quantocracy as of 10/27/2026",
+      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Tuesday, 10/27/2026. To see our most recent links, visit the Quant Mashup. Read on readers! The Part Time Trader Part 5: Half a Million Backtests & a Coin Flip [Algorithmic Advantage] Half a million tests can map a"
     },
     {
       "id": "8679bab18a79a2b9",
