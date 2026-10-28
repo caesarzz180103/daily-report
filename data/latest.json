@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T07:41:48.110Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Bithumb hacked through employee system as South Korean financial firms face cyberattacks；【STRATEGY】Recent Quant Links from Quantocracy as of 10/24/2026；【CRYPTO】Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%。",
+  "generated_at": "2026-10-28T14:40:13.124Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Live updates: Bitcoin sheds early gains, with Fed decision looming；【CRYPTO】Kospi surges 7% as SK Hynix earnings fuel AI stock rebound；【STRATEGY】Recent Quant Links from Quantocracy as of 10/24/2026。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -20,20 +20,42 @@
   },
   "items": [
     {
-      "id": "8732369a9e019869",
-      "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
-      "summary": "The breach hit an internal employee system that Bithumb says is separate from its trading platform, while the exchange is still determining whether customer information was exposed.",
+      "id": "625b5e32b4298a95",
+      "title": "Live updates: Bitcoin sheds early gains, with Fed decision looming",
+      "summary": "The U.S. central bank is expected to leave rates on hold later Wednesday but deliver a hawkish message to prepare markets for a December rate hike.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
+      "source_url": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
       "image_url": null,
-      "published_at": "2026-10-28T05:10:36.000Z",
+      "published_at": "2026-10-28T11:23:34.000Z",
+      "importance_score": 92,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin",
+        "fed"
+      ],
+      "region": "global",
+      "title_zh": "Live updates: Bitcoin sheds early gains, with Fed decision looming",
+      "summary_zh": "The U.S. central bank is expected to leave rates on hold later Wednesday but deliver a hawkish message to prepare markets for a December rate hike."
+    },
+    {
+      "id": "cd461f2c78c674a3",
+      "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
+      "summary": "South Korean chipmakers led a broader AI recovery after SK Hynix reported a sevenfold profit surge and announced another $45 billion in shareholder returns.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound",
+      "image_url": null,
+      "published_at": "2026-10-28T09:59:25.000Z",
       "importance_score": 68,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai"
+      ],
       "region": "global",
-      "title_zh": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
-      "summary_zh": "The breach hit an internal employee system that Bithumb says is separate from its trading platform, while the exchange is still determining whether customer information was exposed."
+      "title_zh": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
+      "summary_zh": "South Korean chipmakers led a broader AI recovery after SK Hynix reported a sevenfold profit surge and announced another $45 billion in shareholder returns."
     },
     {
       "id": "76b381ebd56e0bce",
@@ -54,44 +76,23 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/24/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Shorting Leveraged ETFs: Role of Borrowing Costs and Rebalancing in Volatility-Decay Strategies [Quantpedia] Leveraged ET"
     },
     {
-      "id": "9cda521699f54791",
-      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
-      "summary": "Majors outpaced bitcoin across the board as tech stocks extended a climb.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
+      "id": "ac39d7b1ed0b1ad6",
+      "title": "Legora is building the agentic operating system for legal work",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
       "image_url": null,
-      "published_at": "2026-10-28T04:15:20.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin",
-        "fed",
-        "stocks"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
-      "summary_zh": "Majors outpaced bitcoin across the board as tech stocks extended a climb."
-    },
-    {
-      "id": "490533d60615c4fe",
-      "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
-      "summary": "USDT volume on crypto exchange Mercado Bitcoin jumped nearly 800% and bitcoin volume surged 865%. Binance’s USDT/BRL market tripled while the global BTC/USDT pair fell.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
-      "image_url": null,
-      "published_at": "2026-10-27T16:59:07.000Z",
-      "importance_score": 62,
+      "published_at": "2026-10-28T09:30:00.000Z",
+      "importance_score": 58,
       "sentiment": 0,
       "tags": [
         "ai",
-        "crypto",
-        "bitcoin"
+        "openai"
       ],
       "region": "global",
-      "title_zh": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
-      "summary_zh": "USDT volume on crypto exchange Mercado Bitcoin jumped nearly 800% and bitcoin volume surged 865%. Binance’s USDT/BRL market tripled while the global BTC/USDT pair fell."
+      "title_zh": "Legora is building the agentic operating system for legal work",
+      "summary_zh": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
     },
     {
       "id": "c6a6925a97aa21a3",
@@ -260,6 +261,22 @@
       "summary_zh": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
+      "id": "e2fffea9bd2a4f0f",
+      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+      "summary": "The energy minister described it as a \"major milestone\" for the East African nation.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-28T10:18:40.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Tanzania celebrates first natural gas discovery in more than 10 years",
+      "summary_zh": "The energy minister described it as a \"major milestone\" for the East African nation."
+    },
+    {
       "id": "54a8fa44d9ae5faf",
       "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
       "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
@@ -294,6 +311,43 @@
       "region": "global",
       "title_zh": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
       "summary_zh": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder."
+    },
+    {
+      "id": "f2870c38c0eaa84d",
+      "title": "The Ocean ‘Was the Color of Chocolate.’ Mexico Declares War on Seaweed.",
+      "summary": "To protect Mexico’s tourism-reliant economy, the Navy is fighting a massive sargassum bloom that dumps thousands of tons of seaweed onto Caribbean beaches daily.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+      "image_url": null,
+      "published_at": "2026-10-28T12:08:53.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "The Ocean ‘Was the Color of Chocolate.’ Mexico Declares War on Seaweed.",
+      "summary_zh": "To protect Mexico’s tourism-reliant economy, the Navy is fighting a massive sargassum bloom that dumps thousands of tons of seaweed onto Caribbean beaches daily."
+    },
+    {
+      "id": "aef96e0b8327f367",
+      "title": "Rare Wartime Dissent in Moscow Over Plans to Dismantle Russia’s ‘Eiffel Tower’",
+      "summary": "A state broadcaster says it cannot afford the restoration of a 1922 steel tower, prompting rare wartime dissent and a movement to save the Modernist masterpiece.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/28/world/europe/russia-shukhov-radio-tower.html",
+      "image_url": null,
+      "published_at": "2026-10-28T09:04:44.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Rare Wartime Dissent in Moscow Over Plans to Dismantle Russia’s ‘Eiffel Tower’",
+      "summary_zh": "A state broadcaster says it cannot afford the restoration of a 1922 steel tower, prompting rare wartime dissent and a movement to save the Modernist masterpiece."
     },
     {
       "id": "d9764777b5df75ca",
@@ -334,25 +388,6 @@
       "summary_zh": "The diplomatic outreach was part of an effort to push talks to end the war in Ukraine, though it was not welcomed by all European leaders."
     },
     {
-      "id": "8ae00017f8e634da",
-      "title": "Egyptian Court Orders News Site Closed as Critics Warn of a Crackdown",
-      "summary": "Mada Masr, one of Egypt’s few independent media outlets, said a judge ordered it closed for operating without a license and detained its editor in chief.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/27/world/europe/egypt-press-crackdown-mada-masr-attalah.html",
-      "image_url": null,
-      "published_at": "2026-10-28T02:38:45.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Egyptian Court Orders News Site Closed as Critics Warn of a Crackdown",
-      "summary_zh": "Mada Masr, one of Egypt’s few independent media outlets, said a judge ordered it closed for operating without a license and detained its editor in chief."
-    },
-    {
       "id": "62407d99b47ae5d1",
       "title": "Recent Quant Links from Quantocracy as of 10/12/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools",
@@ -369,92 +404,104 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools"
     },
     {
-      "id": "3f85a46070530a48",
-      "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
-      "summary": "Speaking at Ripple's conference, the U.S. Treasury Secretary said the SEC and CFTC action could help fill the gap left by the Clarity Act's failure, while curbing crypto debanking.",
+      "id": "416a7b5c00be25d8",
+      "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
+      "summary": "DTCC's tokenization service went live on Canton Network and private chain Besu, with JPMorgan, Citi and Morgan Stanley among 20 firms signed up.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
+      "source_url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
       "image_url": null,
-      "published_at": "2026-10-27T20:41:33.000Z",
+      "published_at": "2026-10-28T13:14:37.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
-        "ai",
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
+      "summary_zh": "DTCC's tokenization service went live on Canton Network and private chain Besu, with JPMorgan, Citi and Morgan Stanley among 20 firms signed up."
+    },
+    {
+      "id": "da5b8e29bf6460b2",
+      "title": "Dissent and more: 3 things to watch for at the Fed meeting",
+      "summary": "Your day-ahead look for Oct. 28, 2026",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting",
+      "image_url": null,
+      "published_at": "2026-10-28T11:57:26.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "fed"
+      ],
+      "region": "global",
+      "title_zh": "Dissent and more: 3 things to watch for at the Fed meeting",
+      "summary_zh": "Your day-ahead look for Oct. 28, 2026"
+    },
+    {
+      "id": "6cc53080dc445651",
+      "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
+      "summary": "Itaú Unibanco notified Brazil’s central bank of its crypto trading and custody operations on Tuesday, ahead of an Oct. 30 deadline.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
+      "image_url": null,
+      "published_at": "2026-10-28T10:07:54.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
         "crypto"
       ],
       "region": "global",
-      "title_zh": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
-      "summary_zh": "Speaking at Ripple's conference, the U.S. Treasury Secretary said the SEC and CFTC action could help fill the gap left by the Clarity Act's failure, while curbing crypto debanking."
+      "title_zh": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
+      "summary_zh": "Itaú Unibanco notified Brazil’s central bank of its crypto trading and custody operations on Tuesday, ahead of an Oct. 30 deadline."
     },
     {
-      "id": "9cb49a5c4edeb27f",
-      "title": "Crypto Market Structure Explained",
-      "summary": "Crypto market structure is the architecture behind digital asset markets. It explains who participates, where trades happen, how liquidity forms, how prices are discovered, how derivatives and funding rates work, and how market design affects execution, fairness, risk, and resili",
+      "id": "8f1221e0fc423c37",
+      "title": "Ripple expects $900 million annualized product revenue run rate as institutional business expands",
+      "summary": "Ripple expects a $900M annualized product revenue run rate by end of 2026, as RLUSD reaches $2.5B and payments near $150B in lifetime volume.",
       "category": "CRYPTO",
       "source_name": "The Block",
-      "source_url": "https://www.theblock.co/learn/campus/crypto-market-structure-explained-426489",
+      "source_url": "https://www.theblock.co/news/business/2026-10-28-ripple-900-million-revenue-run-rate-rlusd-431920",
       "image_url": null,
-      "published_at": "2026-10-27T14:14:08.000Z",
+      "published_at": "2026-10-28T13:00:00.000Z",
       "importance_score": 56,
       "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Crypto Market Structure Explained",
-      "summary_zh": "Crypto market structure is the architecture behind digital asset markets. It explains who participates, where trades happen, how liquidity forms, how prices are discovered, how derivatives and funding rates work, and how market design affects execution, fairness, risk, and resili"
+      "title_zh": "Ripple expects $900 million annualized product revenue run rate as institutional business expands",
+      "summary_zh": "Ripple expects a $900M annualized product revenue run rate by end of 2026, as RLUSD reaches $2.5B and payments near $150B in lifetime volume."
     },
     {
-      "id": "cd875a3d7bd27505",
-      "title": "Trending Crypto: Pearl (PEARL)",
-      "summary": "CoinGecko trending rank #96.",
+      "id": "29d77217e85b65c9",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #114.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-10-28T07:40:34.944Z",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-10-28T14:39:00.980Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pearl"
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pearl (PEARL)",
-      "summary_zh": "CoinGecko trending rank #96."
+      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary_zh": "CoinGecko trending rank #114."
     },
     {
-      "id": "25b9cc937f5ca649",
-      "title": "Trending Crypto: Pons (PONS)",
-      "summary": "CoinGecko trending rank #182.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pons",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102174571/large/jhitvkisdq8fhxvimdkpcw7y3dx5.?1784093932",
-      "published_at": "2026-10-28T07:40:34.944Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pons"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Pons (PONS)",
-      "summary_zh": "CoinGecko trending rank #182."
-    },
-    {
-      "id": "198493b49e496895",
+      "id": "4f991daa6c3a0a34",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
       "summary": "CoinGecko trending rank #11.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
       "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-10-28T07:40:34.944Z",
+      "published_at": "2026-10-28T14:39:00.980Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -467,44 +514,64 @@
       "summary_zh": "CoinGecko trending rank #11."
     },
     {
-      "id": "aac748de61f5e4fd",
-      "title": "Trending Crypto: STONK (STONK)",
-      "summary": "CoinGecko trending rank #257.",
+      "id": "9d8f1072bf79b3bd",
+      "title": "Trending Crypto: Initia (INIT)",
+      "summary": "CoinGecko trending rank #482.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/stonk-3",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102175239/large/tscmgapqpfx5j4hu8gbs3aj85s7a.?1785895603",
-      "published_at": "2026-10-28T07:40:34.944Z",
+      "source_url": "https://www.coingecko.com/en/coins/initia",
+      "image_url": "https://coin-images.coingecko.com/coins/images/40138/large/initia_symbol_white.png?1745511525",
+      "published_at": "2026-10-28T14:39:00.980Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "stonk"
+        "init"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: STONK (STONK)",
-      "summary_zh": "CoinGecko trending rank #257."
+      "title_zh": "Trending Crypto: Initia (INIT)",
+      "summary_zh": "CoinGecko trending rank #482."
     },
     {
-      "id": "f08e867dcb36fd56",
-      "title": "Trending Crypto: Quack AI (Q)",
-      "summary": "CoinGecko trending rank #147.",
+      "id": "308807e6e4f91964",
+      "title": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary": "CoinGecko trending rank #19.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/quack-ai",
-      "image_url": "https://coin-images.coingecko.com/coins/images/68793/large/quack_ai.png?1756615808",
-      "published_at": "2026-10-28T07:40:34.944Z",
+      "source_url": "https://www.coingecko.com/en/coins/near",
+      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
+      "published_at": "2026-10-28T14:39:00.980Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "q"
+        "near"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Quack AI (Q)",
-      "summary_zh": "CoinGecko trending rank #147."
+      "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary_zh": "CoinGecko trending rank #19."
+    },
+    {
+      "id": "f0d578ad41789584",
+      "title": "Trending Crypto: Solana (SOL)",
+      "summary": "CoinGecko trending rank #7.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/solana",
+      "image_url": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
+      "published_at": "2026-10-28T14:39:00.980Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "sol"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Solana (SOL)",
+      "summary_zh": "CoinGecko trending rank #7."
     },
     {
       "id": "b385f6ee9d6a3ecd",
@@ -652,6 +719,24 @@
       "summary_zh": "New research can help AI models understand crystalline materials in 3D and reason about their properties."
     },
     {
+      "id": "86f0fdee680273d6",
+      "title": "Live Updates: At Least 64 Killed in Train Crash in Spain, Officials Say",
+      "summary": "A high-speed passenger train rear-ended another near Toledo, months after a crash involving the same carriers killed dozens and stunned the country.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
+      "image_url": null,
+      "published_at": "2026-10-28T14:24:46.000Z",
+      "importance_score": 52,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Live Updates: At Least 64 Killed in Train Crash in Spain, Officials Say",
+      "summary_zh": "A high-speed passenger train rear-ended another near Toledo, months after a crash involving the same carriers killed dozens and stunned the country."
+    },
+    {
       "id": "71c5111662b1663f",
       "title": "Recent Quant Links from Quantocracy as of 10/22/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Thursday, 10/22/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Momentum timed with the rate of change (ROC) on the S&P 500’s ten steepest trends [Quanter Lab] Momentum is one of the ol",
@@ -684,41 +769,45 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 10/18/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Less Wrong [Quantitativo] The biggest risk is that you have a losing strategy when you think you have a winning one. Jeff Y"
     },
     {
-      "id": "c796f888a02ad43a",
-      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
-      "summary": "The company said the accounting correction will cut reported assets by $92.2 million at the end of 2025 after bitcoin held on Biconomy could not be withdrawn.",
+      "id": "fdbb2d775e618ecf",
+      "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
+      "summary": "Bitcoin rose above $81,400 as Asian chip stocks rallied, with frog-themed memecoin pepe adding 9%.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
+      "source_url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
       "image_url": null,
-      "published_at": "2026-10-28T05:28:13.000Z",
+      "published_at": "2026-10-28T11:32:31.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "bitcoin",
+        "stocks"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
+      "summary_zh": "Bitcoin rose above $81,400 as Asian chip stocks rallied, with frog-themed memecoin pepe adding 9%."
+    },
+    {
+      "id": "c5a684d90db4b57e",
+      "title": "Google to preview crypto custody security system as AI threats grow",
+      "summary": "Google Multi-Party Compute is in private preview, with several major financial institutions testing the technology and parent company Alphabet using it to secure its own digital assets on Ethereum and Solana.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
+      "image_url": null,
+      "published_at": "2026-10-28T11:00:00.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
         "ai",
-        "bitcoin"
+        "google",
+        "crypto",
+        "ethereum"
       ],
       "region": "global",
-      "title_zh": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
-      "summary_zh": "The company said the accounting correction will cut reported assets by $92.2 million at the end of 2025 after bitcoin held on Biconomy could not be withdrawn."
-    },
-    {
-      "id": "73b88465eae2d8ff",
-      "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
-      "summary": "Robinhood helped launch a rival dollar-backed token, USDG, but will also offer Ripple's stablecoin to retail customers later this year.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
-      "image_url": null,
-      "published_at": "2026-10-27T16:35:29.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
-      "summary_zh": "Robinhood helped launch a rival dollar-backed token, USDG, but will also offer Ripple's stablecoin to retail customers later this year."
+      "title_zh": "Google to preview crypto custody security system as AI threats grow",
+      "summary_zh": "Google Multi-Party Compute is in private preview, with several major financial institutions testing the technology and parent company Alphabet using it to secure its own digital assets on Ethereum and Solana."
     },
     {
       "id": "c7f1e375421002e7",
@@ -756,25 +845,6 @@
       "region": "global",
       "title_zh": "Crypto.com and OG.com launch US crypto perps with up to 5x leverage",
       "summary_zh": "The contracts have no expiration date and allow traders to bet on crypto prices rising or falling."
-    },
-    {
-      "id": "afa3476328cfdc9f",
-      "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
-      "summary": "The company plans to expand its AI business and hire about 12 people by year-end, COO Ethan Vera told The Block.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
-      "image_url": null,
-      "published_at": "2026-10-27T14:32:08.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
-      "summary_zh": "The company plans to expand its AI business and hire about 12 people by year-end, COO Ethan Vera told The Block."
     },
     {
       "id": "9ce33e1ccf75bdc5",
@@ -1006,54 +1076,68 @@
       "summary_zh": "The latest 12-month period marked the strongest return for the university's fund since 2021."
     },
     {
-      "id": "b63165cc91f69d51",
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
+      "id": "642d4958261bf69c",
+      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-27T18:28:23.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Norway and Finland leaders hold rare call with Putin",
-      "summary_zh": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
-    },
-    {
-      "id": "cb2d7de067952cc4",
-      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-27T13:25:54.000Z",
+      "published_at": "2026-10-28T10:31:22.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-      "summary_zh": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes."
+      "title_zh": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "summary_zh": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\"."
     },
     {
-      "id": "1822e3843f6ce403",
-      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-      "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+      "id": "0a86a8d573b142d4",
+      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-27T01:46:38.000Z",
+      "published_at": "2026-10-28T10:17:54.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-      "summary_zh": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders."
+      "title_zh": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "summary_zh": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services."
+    },
+    {
+      "id": "a1e63be9610a8afc",
+      "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
+      "summary": "No official reason has been given for postponing next month’s hearing to May 2027, the family says.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-28T08:28:39.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
+      "summary_zh": "No official reason has been given for postponing next month’s hearing to May 2027, the family says."
+    },
+    {
+      "id": "8ae30299f532f5ec",
+      "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+      "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-28T04:32:36.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+      "summary_zh": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda."
     },
     {
       "id": "6b6463ee1c816e7a",
@@ -1072,74 +1156,38 @@
       "summary_zh": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades."
     },
     {
-      "id": "f1a14144aecf51ac",
-      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
-      "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+      "id": "b63165cc91f69d51",
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-28T02:20:25.000Z",
+      "published_at": "2026-10-27T18:28:23.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Norway and Finland leaders hold rare call with Putin",
+      "summary_zh": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
+    },
+    {
+      "id": "1822e3843f6ce403",
+      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+      "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-27T01:46:38.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
-      "summary_zh": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them."
-    },
-    {
-      "id": "a11b0219f7073a3f",
-      "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
-      "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-27T20:44:40.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Egypt court fines journalist Lina Attalah and orders news site's closure",
-      "summary_zh": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\"."
-    },
-    {
-      "id": "d7e7884b1730dae8",
-      "title": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
-      "summary": "The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-27T18:43:41.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
-      "summary_zh": "The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money."
-    },
-    {
-      "id": "f7d02d9cd52d0588",
-      "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
-      "summary": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-27T14:29:39.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
-      "summary_zh": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie."
+      "title_zh": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+      "summary_zh": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders."
     },
     {
       "id": "13b10ce33095bf0c",
@@ -1149,7 +1197,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
       "image_url": null,
-      "published_at": "2026-10-28T06:46:19.000Z",
+      "published_at": "2026-10-28T12:38:05.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1158,173 +1206,140 @@
       "summary_zh": "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government. Vote counting could take days."
     },
     {
-      "id": "43e6baf7f3e89748",
-      "title": "South Africa Deploys 500 Soldiers to Quell Anti-Immigration Violence",
-      "summary": "The deployment comes after a foreign national was beaten to death by a mob during an anti-immigrant protest last week.",
+      "id": "2c280f0aa7a9bd31",
+      "title": "Israel’s President, Isaac Herzog, Faces a Difficult Choice",
+      "summary": "The president has a largely ceremonial role, except after elections when it is his responsibility to pick a candidate for prime minister.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/27/world/africa/south-africa-durban-soldiers.html",
+      "source_url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html",
       "image_url": null,
-      "published_at": "2026-10-27T18:28:59.000Z",
+      "published_at": "2026-10-28T05:18:10.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "South Africa Deploys 500 Soldiers to Quell Anti-Immigration Violence",
-      "summary_zh": "The deployment comes after a foreign national was beaten to death by a mob during an anti-immigrant protest last week."
+      "title_zh": "Israel’s President, Isaac Herzog, Faces a Difficult Choice",
+      "summary_zh": "The president has a largely ceremonial role, except after elections when it is his responsibility to pick a candidate for prime minister."
     },
     {
-      "id": "dd1253c7af72b715",
-      "title": "Cease-Fire Brokered by Melania Trump Begins in Ukrainian City of Oleshky",
-      "summary": "Many people left in Oleshky, where bombardment is constant, have run out of food. A truce that began Tuesday is supposed to allow aid in and civilians out.",
+      "id": "a352addc6366a9f9",
+      "title": "Knife-Wielding Attacker Fatally Shot Outside Israeli Embassy in Serbia",
+      "summary": "The attacker, a minor, appeared to be a supporter of the Islamic State, the government said. Authorities have described it as a terrorist attack.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
+      "source_url": "https://www.nytimes.com/2026/10/28/world/europe/knife-wielding-attacker-fatally-shot-outside-israeli-embassy-in-serbia.html",
       "image_url": null,
-      "published_at": "2026-10-27T08:25:45.000Z",
+      "published_at": "2026-10-28T13:05:37.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Cease-Fire Brokered by Melania Trump Begins in Ukrainian City of Oleshky",
-      "summary_zh": "Many people left in Oleshky, where bombardment is constant, have run out of food. A truce that began Tuesday is supposed to allow aid in and civilians out."
+      "title_zh": "Knife-Wielding Attacker Fatally Shot Outside Israeli Embassy in Serbia",
+      "summary_zh": "The attacker, a minor, appeared to be a supporter of the Islamic State, the government said. Authorities have described it as a terrorist attack."
     },
     {
-      "id": "15a6e2d084081884",
-      "title": "Serbian Students, Victorious and Leaderless, Go After the Media",
-      "summary": "Supporters of the opposition movement that won Sunday’s election stormed the offices of a pro-government tabloid. Another news outlet apologized for years of “one-sided” coverage.",
+      "id": "166df773ba4b5554",
+      "title": "Behind Italy’s Protests: Rising Prices and Sinking Hopes",
+      "summary": "Inspired in part by French demonstrations, protests in Italy by students in the north and truckers in the south could affect national elections next year.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/27/world/europe/serbia-student-list-news-media-vucic.html",
+      "source_url": "https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html",
       "image_url": null,
-      "published_at": "2026-10-27T17:14:59.000Z",
+      "published_at": "2026-10-28T13:16:35.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Serbian Students, Victorious and Leaderless, Go After the Media",
-      "summary_zh": "Supporters of the opposition movement that won Sunday’s election stormed the offices of a pro-government tabloid. Another news outlet apologized for years of “one-sided” coverage."
+      "title_zh": "Behind Italy’s Protests: Rising Prices and Sinking Hopes",
+      "summary_zh": "Inspired in part by French demonstrations, protests in Italy by students in the north and truckers in the south could affect national elections next year."
     },
     {
-      "id": "0fef8c81c739ba60",
-      "title": "In Israel’s Election, It’s Nationalism vs. Founding Ideals",
-      "summary": "As Israel votes, ever more strident hard-right views compete with hopes for a diverse land. The outcome could shape the country’s identity for years.",
+      "id": "86ce3db0229b9b8a",
+      "title": "A Chinese Port Could Be a Lifeline for Spain, but Also a Threat",
+      "summary": "Residents say a proposed Chinese car plant in northern Spain will create new jobs. Others say it’s a long-term risk, distilling a debate about the costs and perks of ties to China.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html",
+      "source_url": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
       "image_url": null,
-      "published_at": "2026-10-27T21:49:04.000Z",
+      "published_at": "2026-10-28T04:01:09.000Z",
       "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "In Israel’s Election, It’s Nationalism vs. Founding Ideals",
-      "summary_zh": "As Israel votes, ever more strident hard-right views compete with hopes for a diverse land. The outcome could shape the country’s identity for years."
-    },
-    {
-      "id": "4ecf9161deb08aa5",
-      "title": "King Charles Faces High Stakes Test With Caribbean Tour",
-      "summary": "The king will confront calls for reparations and apologies for his country’s colonial past as he attends the Commonwealth heads of government meeting.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html",
-      "image_url": null,
-      "published_at": "2026-10-27T23:39:58.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "King Charles Faces High Stakes Test With Caribbean Tour",
-      "summary_zh": "The king will confront calls for reparations and apologies for his country’s colonial past as he attends the Commonwealth heads of government meeting."
-    },
-    {
-      "id": "4b365bd51be9df09",
-      "title": "2 Right-Wingers Who Broke With Netanyahu Could Bid to Unseat Him",
-      "summary": "The political evolutions of Naftali Bennett, a former prime minister, and Avigdor Liberman, a former defense minister, are indicative of how Benjamin Netanyahu has polarized Israel.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-avigdor-liberman-naftali-bennett.html",
-      "image_url": null,
-      "published_at": "2026-10-27T15:46:09.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "2 Right-Wingers Who Broke With Netanyahu Could Bid to Unseat Him",
-      "summary_zh": "The political evolutions of Naftali Bennett, a former prime minister, and Avigdor Liberman, a former defense minister, are indicative of how Benjamin Netanyahu has polarized Israel."
-    },
-    {
-      "id": "5d917fb8b2c4ab90",
-      "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
-      "summary": "The crypto exchange says an incident at analytics firm Amplitude exposed some customer contact information, but insists its own systems were not breached.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
-      "image_url": null,
-      "published_at": "2026-10-28T03:11:14.000Z",
-      "importance_score": 44,
       "sentiment": 0,
       "tags": [
-        "crypto"
+        "ai"
       ],
       "region": "global",
-      "title_zh": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
-      "summary_zh": "The crypto exchange says an incident at analytics firm Amplitude exposed some customer contact information, but insists its own systems were not breached."
+      "title_zh": "A Chinese Port Could Be a Lifeline for Spain, but Also a Threat",
+      "summary_zh": "Residents say a proposed Chinese car plant in northern Spain will create new jobs. Others say it’s a long-term risk, distilling a debate about the costs and perks of ties to China."
     },
     {
-      "id": "b9c8e998a6b4c397",
-      "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
-      "summary": "Crypto trading volume fell 38% from year-ago levels, but the firm's overall blockchain business gained traction.",
+      "id": "5b1935604c93d927",
+      "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized tock trading plan",
+      "summary": "Nearly half the companies on the venture’s original roster have now objected to their shares trading on the planned blockchain-based venue.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales",
+      "source_url": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
       "image_url": null,
-      "published_at": "2026-10-27T20:32:21.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
-      "summary_zh": "Crypto trading volume fell 38% from year-ago levels, but the firm's overall blockchain business gained traction."
-    },
-    {
-      "id": "a262c40d58c21941",
-      "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
-      "summary": "The U.S. Commodity Futures Trading Commission has pursued more than a dozen legal actions to protect what its chief sees as its sole power over prediction markets.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
-      "image_url": null,
-      "published_at": "2026-10-27T19:07:59.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
-      "summary_zh": "The U.S. Commodity Futures Trading Commission has pursued more than a dozen legal actions to protect what its chief sees as its sole power over prediction markets."
-    },
-    {
-      "id": "0d76edc7f59cb875",
-      "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
-      "summary": "The latest notice added four objections, bringing the total to 26 as the joint venture prepares to test the SEC’s new framework for blockchain-based stock trading.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
-      "image_url": null,
-      "published_at": "2026-10-27T18:13:02.000Z",
+      "published_at": "2026-10-28T12:59:36.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
-      "summary_zh": "The latest notice added four objections, bringing the total to 26 as the joint venture prepares to test the SEC’s new framework for blockchain-based stock trading."
+      "title_zh": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized tock trading plan",
+      "summary_zh": "Nearly half the companies on the venture’s original roster have now objected to their shares trading on the planned blockchain-based venue."
+    },
+    {
+      "id": "531cdb22019bc939",
+      "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
+      "summary": "An experimental change would let companies cover the reserve for customer and AI-agent accounts, allowing users to start with stablecoins without first acquiring XRP.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
+      "image_url": null,
+      "published_at": "2026-10-28T11:52:14.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
+      "summary_zh": "An experimental change would let companies cover the reserve for customer and AI-agent accounts, allowing users to start with stablecoins without first acquiring XRP."
+    },
+    {
+      "id": "8238a4fbf4dad4a7",
+      "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
+      "summary": "Stablecoins lead instruments in use or planned at 63%, ahead of tokenized deposits at 53% and tokenized money market funds at 52%.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
+      "image_url": null,
+      "published_at": "2026-10-28T10:41:51.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
+      "summary_zh": "Stablecoins lead instruments in use or planned at 63%, ahead of tokenized deposits at 53% and tokenized money market funds at 52%."
+    },
+    {
+      "id": "0293abdde058b7a3",
+      "title": "Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin",
+      "summary": "Moody's Ratings assigned the RLUSD A2 long-term and P-1 short-term ratings, citing credit quality and market value of its reserve assets.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969",
+      "image_url": null,
+      "published_at": "2026-10-28T09:15:20.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin",
+      "summary_zh": "Moody's Ratings assigned the RLUSD A2 long-term and P-1 short-term ratings, citing credit quality and market value of its reserve assets."
     },
     {
       "id": "864977ba2bc10a21",
@@ -1520,22 +1535,6 @@
       "region": "global",
       "title_zh": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
       "summary_zh": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
-    },
-    {
-      "id": "9caef7338a26fb0e",
-      "title": "Introducing GPT-6.1 Terra",
-      "summary": "Bringing fast and capable computer use to everyone",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "image_url": null,
-      "published_at": "2026-10-26T00:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Introducing GPT-6.1 Terra",
-      "summary_zh": "Bringing fast and capable computer use to everyone"
     },
     {
       "id": "195004e6c9279986",
