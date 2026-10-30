@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T22:10:13.945Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers；【CRYPTO】Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook；【AI】An updated Model Spec for more capable and beneficial AI。",
+  "generated_at": "2026-10-30T09:14:12.755Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Live News: Binance hack rattles crypto as Intel plunges and AI spending fears hit tech；【CRYPTO】Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis；【AI】An updated Model Spec for more capable and beneficial AI。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
     "feed_failed": 0,
     "failed_sources": [],
-    "translated_items": 99,
+    "translated_items": 100,
     "translation_target": "zh-CN",
     "version": "1.3.0"
   },
@@ -20,44 +20,42 @@
   },
   "items": [
     {
-      "id": "0c05e067f229a882",
-      "title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
-      "summary": "SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow.",
+      "id": "fe0d3302a467b402",
+      "title": "Live News: Binance hack rattles crypto as Intel plunges and AI spending fears hit tech",
+      "summary": "A $6.3 billion Binance hack adds to crypto jitters, while weak earnings outlooks and mounting concerns over AI spending push QQQ down more than 2%.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
+      "source_url": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
       "image_url": null,
-      "published_at": "2026-10-29T14:15:46.000Z",
-      "importance_score": 74,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin",
-        "etf"
-      ],
-      "region": "global",
-      "title_zh": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
-      "summary_zh": "瑞士第六交易所确认了国际准入，而 FINMA 则解释了批准该基金的原因以及以太坊和 solana ETF 是否可以跟进。"
-    },
-    {
-      "id": "cacce4cb3868833e",
-      "title": "Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook",
-      "summary": "Bernstein sees Robinhood’s crypto business shifting toward infrastructure as new products like prediction markets and perps gain ground.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011",
-      "image_url": null,
-      "published_at": "2026-10-28T17:06:24.000Z",
+      "published_at": "2026-10-30T08:36:52.000Z",
       "importance_score": 68,
       "sentiment": 0,
       "tags": [
         "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Live News: Binance hack rattles crypto as Intel plunges and AI spending fears hit tech",
+      "summary_zh": "币安价值 63 亿美元的黑客事件加剧了加密货币市场的恐慌，而疲弱的盈利前景和对人工智能支出的日益担忧导致 QQQ 股价下跌超过 2%。"
+    },
+    {
+      "id": "9ddc4966cca573ec",
+      "title": "Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis",
+      "summary": "Trezor urged CryptoBilis buyers to migrate funds after receiving a credible report of a hardware implant inside a Safe 5 device.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196",
+      "image_url": null,
+      "published_at": "2026-10-30T08:55:39.000Z",
+      "importance_score": 68,
+      "sentiment": 0,
+      "tags": [
         "crypto",
         "war"
       ],
       "region": "global",
-      "title_zh": "Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook",
-      "summary_zh": "伯恩斯坦认为，随着预测市场和 Perps 等新产品的普及，Robinhood 的加密业务正在转向基础设施。"
+      "title_zh": "Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis",
+      "summary_zh": "Trezor 在收到有关 Safe 5 设备内硬件植入的可靠报告后，敦促 CryptoBilis 买家转移资金。"
     },
     {
       "id": "68c1cb66310c7782",
@@ -116,23 +114,80 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/24/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Shorting Leveraged ETFs: Role of Borrowing Costs and Rebalancing in Volatility-Decay Strategies [Quantpedia] Leveraged ET"
     },
     {
-      "id": "56a5ab6c519c2d37",
-      "title": "Binance loses $5.7 billion in largest crypto hack to date",
-      "summary": "Crypto prices are sliding on the news, with bitcoin falling back to $79,000.",
+      "id": "792b1ee07df31b62",
+      "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+      "summary": "All 18,270 coins sit in 19 wallets, 17 of them holding exactly 1,000 BTC each, and none has moved since Thursday night, a CoinDesk trace of the blockchain shows.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+      "source_url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
       "image_url": null,
-      "published_at": "2026-10-29T21:12:45.000Z",
+      "published_at": "2026-10-30T04:50:42.000Z",
       "importance_score": 62,
       "sentiment": 0,
       "tags": [
+        "ai",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "币安黑客将价值 14 亿美元的比特币分入 19 个无人能冻结的钱包",
+      "summary_zh": "All 18,270 coins sit in 19 wallets, 17 of them holding exactly 1,000 BTC each, and none has moved since Thursday night, a CoinDesk trace of the blockchain shows."
+    },
+    {
+      "id": "7cdf980346c75ac4",
+      "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+      "summary": "Bitcoin and ether slid after a suspected $6.3 billion Binance security breach and a Polymarket exploit. Standard Chartered says crypto prices may remain under pressure before finding a base.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
+      "image_url": null,
+      "published_at": "2026-10-30T04:00:43.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai",
         "crypto",
         "bitcoin"
       ],
       "region": "global",
-      "title_zh": "币安遭受迄今为止最大规模的加密货币黑客攻击，损失 57 亿美元",
-      "summary_zh": "Crypto prices are sliding on the news, with bitcoin falling back to $79,000."
+      "title_zh": "币安遭受 60 亿美元黑客攻击导致比特币、以太币暴跌；渣打银行预计将遭受更多痛苦",
+      "summary_zh": "Bitcoin and ether slid after a suspected $6.3 billion Binance security breach and a Polymarket exploit. Standard Chartered says crypto prices may remain under pressure before finding a base."
+    },
+    {
+      "id": "1cb1c3dc0e7faa3e",
+      "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
+      "summary": "Security researchers suggested that the hermit kingdom's Lazarus Group was behind Thursday's nearly $6 billion hack of the world's largest crypto exchange.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
+      "image_url": null,
+      "published_at": "2026-10-30T03:36:11.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "加密货币的长期敌人朝鲜拉撒路集团可能是币安黑客事件的幕后黑手：区块链侦探",
+      "summary_zh": "Security researchers suggested that the hermit kingdom's Lazarus Group was behind Thursday's nearly $6 billion hack of the world's largest crypto exchange."
+    },
+    {
+      "id": "cfea2e4e82d69297",
+      "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
+      "summary": "BNB lost 7.1%, while Binance Co-CEO Yi He pledged that the exchange will cover all user losses resulting from the hack.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
+      "image_url": null,
+      "published_at": "2026-10-30T02:22:31.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "比特币跌破 77,000 美元，BNB 因币安黑客攻击而下跌",
+      "summary_zh": "BNB lost 7.1%, while Binance Co-CEO Yi He pledged that the exchange will cover all user losses resulting from the hack."
     },
     {
       "id": "e712bdd61ae9fd64",
@@ -333,7 +388,7 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Software 的新整合者获得伯克希尔的大力信任",
+      "title_zh": "Software公司的新整合者获得了伯克希尔的大力信任",
       "summary_zh": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway."
     },
     {
@@ -355,6 +410,25 @@
       "summary_zh": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says."
     },
     {
+      "id": "c3c25fbfc5d01b39",
+      "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+      "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-30T09:02:31.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "加密货币巨头币安遭受 63 亿美元的黑客攻击，疑似史上规模最大的黑客攻击",
+      "summary_zh": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor."
+    },
+    {
       "id": "de43e703be43e75f",
       "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
       "summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
@@ -371,41 +445,20 @@
       "summary_zh": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes."
     },
     {
-      "id": "569b917bc4fa6336",
-      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
-      "summary": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
+      "id": "bb5f7d2f299dc903",
+      "title": "More than 43 million ballots cast so far in midterms early voting surge",
+      "summary": "Hispanic voters have helped drive the early voting numbers, which appear to outpace overall turnout for previous elections in some battleground counties.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-29T13:25:07.000Z",
+      "published_at": "2026-10-30T01:44:24.000Z",
       "importance_score": 58,
       "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "菲律宾警方获得搜查托马斯·马克尔设备的搜查令",
-      "summary_zh": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines."
-    },
-    {
-      "id": "dcaa3181d8506e75",
-      "title": "Details of thousands of US immigration agents leaked in major hack",
-      "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-29T01:30:43.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "数千名美国移民代理的详细信息在重大黑客事件中泄露",
-      "summary_zh": "A group called the Department of Peace released information on more than 41,000 DHS staff."
+      "title_zh": "中期选举提前投票激增，迄今为止已投出超过 4300 万张选票",
+      "summary_zh": "Hispanic voters have helped drive the early voting numbers, which appear to outpace overall turnout for previous elections in some battleground counties."
     },
     {
       "id": "62407d99b47ae5d1",
@@ -420,42 +473,79 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "截至 2026 年 10 月 12 日，来自 Quantocracy 的最新量化链接",
+      "title_zh": "截至 2026 年 10 月 12 日，Quantocracy 的最新量化链接",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools"
     },
     {
-      "id": "a39fb712a3f83672",
-      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
-      "summary": "The two networks are setting aside their rivalry to connect Solana's stablecoin activity with Polygon's banking, wallet and payment infrastructure.",
+      "id": "7a9a8121023864ae",
+      "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
+      "summary": "The hacker dumped FUN and other smaller tokens into markets too small to absorb large selling, leading to price crashes.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
+      "source_url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
       "image_url": null,
-      "published_at": "2026-10-29T16:35:43.000Z",
+      "published_at": "2026-10-30T07:54:07.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "从竞争对手到合作伙伴：Polygon 和 Solana 联手为银行提供稳定币支付",
-      "summary_zh": "The two networks are setting aside their rivalry to connect Solana's stablecoin activity with Polygon's banking, wallet and payment infrastructure."
+      "title_zh": "币安黑客抛售了一个鲜为人知的 2017 年代币，导致其崩溃 90%",
+      "summary_zh": "The hacker dumped FUN and other smaller tokens into markets too small to absorb large selling, leading to price crashes."
     },
     {
-      "id": "6359761fcd991057",
-      "title": "Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner",
-      "summary": "The service uses perpetual futures quotes to update reference prices when traditional markets close.",
+      "id": "6d6b8b1cf1338c4c",
+      "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+      "summary": "CoinDCX has restricted new futures positions after Binance’s security incident disrupted a key liquidity provider. Deposits, withdrawals and customer funds remain unaffected, the exchange said.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner",
+      "source_url": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
       "image_url": null,
-      "published_at": "2026-10-29T14:15:00.000Z",
+      "published_at": "2026-10-30T05:43:07.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "印度最大的加密货币交易所因限制期货交易而遭受黑客攻击",
+      "summary_zh": "CoinDCX has restricted new futures positions after Binance’s security incident disrupted a key liquidity provider. Deposits, withdrawals and customer funds remain unaffected, the exchange said."
+    },
+    {
+      "id": "8872fc21d340bd6a",
+      "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+      "summary": "The withdrawals suggest the fallout from the multibillion-dollar breach is spreading beyond Binance.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
+      "image_url": null,
+      "published_at": "2026-10-30T03:56:40.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "币安遭到黑客攻击后，机构加密货币投资者纷纷从交易所撤资",
+      "summary_zh": "The withdrawals suggest the fallout from the multibillion-dollar breach is spreading beyond Binance."
+    },
+    {
+      "id": "273635d061aca1b2",
+      "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+      "summary": "Binance’s own reserve data lists the drained wallets as backing customer balances, leaving its ether backing an estimated 6% short until the exchange replaces what was stolen.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+      "image_url": null,
+      "published_at": "2026-10-30T00:17:10.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Chainlink 增加了代币化资产的周末定价，Aave 作为启动合作伙伴",
-      "summary_zh": "The service uses perpetual futures quotes to update reference prices when traditional markets close."
+      "title_zh": "储备数据显示，币安黑客入侵支持客户资产的钱包被耗尽",
+      "summary_zh": "Binance’s own reserve data lists the drained wallets as backing customer balances, leaving its ether backing an estimated 6% short until the exchange replaces what was stolen."
     },
     {
       "id": "097857a8f27d0b27",
@@ -512,34 +602,14 @@
       "summary_zh": "Curve Finance has launched on Stellar mainnet, its first native deployment outside the Ethereum Virtual Machine (EVM) ecosystem."
     },
     {
-      "id": "d520f0c38241d7e6",
-      "title": "Trending Crypto: Super Pepe (SP)",
-      "summary": "CoinGecko trending rank #910.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/super-pepe",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102179845/large/logo.png?1793198508",
-      "published_at": "2026-10-29T22:09:24.999Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "sp"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：Super Pepe (SP)",
-      "summary_zh": "CoinGecko trending rank #910."
-    },
-    {
-      "id": "15c0d92e8380410e",
+      "id": "9dee97a4c1a56d27",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
       "summary": "CoinGecko trending rank #10.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
       "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-10-29T22:09:24.999Z",
+      "published_at": "2026-10-30T09:13:27.685Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -552,54 +622,14 @@
       "summary_zh": "CoinGecko trending rank #10."
     },
     {
-      "id": "b5eae2f3b6822942",
-      "title": "Trending Crypto: BNB (BNB)",
-      "summary": "CoinGecko trending rank #4.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/binancecoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1696501970",
-      "published_at": "2026-10-29T22:09:24.999Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "bnb"
-      ],
-      "region": "global",
-      "title_zh": "热门加密货币：BNB (BNB)",
-      "summary_zh": "CoinGecko trending rank #4."
-    },
-    {
-      "id": "f6ca2da8cd494958",
-      "title": "Trending Crypto: Monero (XMR)",
-      "summary": "CoinGecko trending rank #13.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/monero",
-      "image_url": "https://coin-images.coingecko.com/coins/images/69/large/monero_logo.png?1696501460",
-      "published_at": "2026-10-29T22:09:24.999Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "xmr"
-      ],
-      "region": "global",
-      "title_zh": "热门加密货币：门罗币 (XMR)",
-      "summary_zh": "CoinGecko trending rank #13."
-    },
-    {
-      "id": "55813cba6d79cf2a",
+      "id": "3ad66369db657f0b",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-10-29T22:09:24.999Z",
+      "published_at": "2026-10-30T09:13:27.685Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -610,6 +640,66 @@
       "region": "global",
       "title_zh": "流行加密货币：比特币 (BTC)",
       "summary_zh": "CoinGecko trending rank #1."
+    },
+    {
+      "id": "e507759befb8f670",
+      "title": "Trending Crypto: Beam (BEAM)",
+      "summary": "CoinGecko trending rank #154.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/beam-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/32417/large/cgicon.png?1747892021",
+      "published_at": "2026-10-30T09:13:27.685Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "beam"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：Beam (BEAM)",
+      "summary_zh": "CoinGecko trending rank #154."
+    },
+    {
+      "id": "a3e0b318c5ce366c",
+      "title": "Trending Crypto: Aave (AAVE)",
+      "summary": "CoinGecko trending rank #49.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/aave",
+      "image_url": "https://coin-images.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354",
+      "published_at": "2026-10-30T09:13:27.685Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "aave"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：Aave (AAVE)",
+      "summary_zh": "CoinGecko trending rank #49."
+    },
+    {
+      "id": "79b5a7a959f7f770",
+      "title": "Trending Crypto: Lighter (LIT)",
+      "summary": "CoinGecko trending rank #85.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/lighter",
+      "image_url": "https://coin-images.coingecko.com/coins/images/71121/large/lighter.png?1765888098",
+      "published_at": "2026-10-30T09:13:27.685Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "lit"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：打火机 (LIT)",
+      "summary_zh": "CoinGecko trending rank #85."
     },
     {
       "id": "cdb3352e58702733",
@@ -646,7 +736,7 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "将数据库评分转化为强化学习奖励：使用 ThinkingBox 进行训练后智能体",
+      "title_zh": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体",
       "summary_zh": ""
     },
     {
@@ -741,22 +831,6 @@
       "summary_zh": "新研究可以帮助人工智能模型理解 3D 晶体材料并推理其特性。"
     },
     {
-      "id": "63c21d9cc7cce0d3",
-      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-      "summary": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-29T17:02:59.000Z",
-      "importance_score": 52,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "EU chief lays out vision for new Canada partnership at Montreal summit",
-      "summary_zh": "尽管遭到包括德国在内的欧盟成员国的一些反对，乌尔苏拉·冯德莱恩继续对加拿大使用“准成员”一词。"
-    },
-    {
       "id": "71c5111662b1663f",
       "title": "Recent Quant Links from Quantocracy as of 10/22/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Thursday, 10/22/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Momentum timed with the rate of change (ROC) on the S&P 500’s ten steepest trends [Quanter Lab] Momentum is one of the ol",
@@ -789,23 +863,23 @@
       "summary_zh": "这是截至 2026 年 10 月 18 日星期日 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！错误较少 [定量] 最大的风险是，当您认为自己拥有获胜策略时，您却陷入了失败的策略。杰夫·Y"
     },
     {
-      "id": "f49a66d3eff19f47",
-      "title": "Bitwise raises bitcoin price target to $1.6 million by 2036, projects 34% annualized returns",
-      "summary": "Bitwise's bear case puts bitcoin at $130,686 by 2036, while its bull case reaches $3.67 million over the next decade.",
+      "id": "3e4b794158e9f75d",
+      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+      "summary": "Bets on rising prices accounted for nearly 84% of forced closures, with Binance handling almost half the total. A rebound has since started catching short sellers.",
       "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
       "image_url": null,
-      "published_at": "2026-10-28T16:07:08.000Z",
+      "published_at": "2026-10-30T06:22:00.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
-        "ai",
+        "crypto",
         "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Bitwise raises bitcoin price target to $1.6 million by 2036, projects 34% annualized returns",
-      "summary_zh": "Bitwise 的熊市预测认为，到 2036 年，比特币价格将达到 130,686 美元，而牛市预测在未来 10 年将达到 367 万美元。"
+      "title_zh": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+      "summary_zh": "对价格上涨的押注占强制关闭事件的近 84%，其中币安处理了近一半的事件。此后反弹开始吸引卖空者。"
     },
     {
       "id": "9354a62365ea0628",
@@ -1018,7 +1092,7 @@
         "anthropic"
       ],
       "region": "global",
-      "title_zh": "Anthropic是AI行业今年大规模IPO的最后一个大希望",
+      "title_zh": "Anthropic是人工智能行业今年大规模IPO的最后一个大希望",
       "summary_zh": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too."
     },
     {
@@ -1072,92 +1146,22 @@
       "summary_zh": "The latest 12-month period marked the strongest return for the university's fund since 2021."
     },
     {
-      "id": "c75f40980d4a71b6",
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+      "id": "1b77a333b4eeac2a",
+      "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
+      "summary": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-29T20:21:54.000Z",
+      "published_at": "2026-10-30T01:35:40.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "以色列反对派指责内塔尼亚胡试图“破坏”选举合法性",
-      "summary_zh": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority."
-    },
-    {
-      "id": "dde988c6e03571e2",
-      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-      "summary": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-29T11:07:35.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "音频揭示了致命事故发生前西班牙火车运营商和司机之间的交流",
-      "summary_zh": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled."
-    },
-    {
-      "id": "70b5d88ffaea9a75",
-      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-29T14:17:35.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "官员称俄罗斯无人机袭击乌克兰火车站至少14人死亡",
-      "summary_zh": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy."
-    },
-    {
-      "id": "a7009a48a1f76c54",
-      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-      "summary": "The defeated presidential candidate says he will lead the opposition from the US.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-29T14:58:28.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "弗拉维奥·博尔索纳罗在选举失败后称自己为“巴西领导人”",
-      "summary_zh": "The defeated presidential candidate says he will lead the opposition from the US."
-    },
-    {
-      "id": "7688aaf6cd9b1f70",
-      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-      "summary": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-29T13:44:39.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "当地媒体报道，土耳其卡帕多西亚岩石崩塌造成两人死亡",
-      "summary_zh": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum."
+      "title_zh": "蘑菇凶手在澳大利亚法庭挑战中未能推翻定罪",
+      "summary_zh": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all."
     },
     {
       "id": "e803b14c744edb72",
@@ -1167,7 +1171,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-29T12:49:17.000Z",
+      "published_at": "2026-10-30T03:24:12.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1176,6 +1180,91 @@
       "region": "global",
       "title_zh": "习近平在中国政治集会上强调“党纪”，清洗人数创历史新高",
       "summary_zh": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say."
+    },
+    {
+      "id": "12b745a8f190049f",
+      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+      "summary": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-30T06:02:23.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "由于危机挑战阿萨德后的复苏，叙利亚人在物价飞涨中挣扎",
+      "summary_zh": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government."
+    },
+    {
+      "id": "dd1083be8571f765",
+      "title": "How Kenyans got caught in $130m US ghost student scam",
+      "summary": "The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-30T08:32:35.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "肯尼亚人如何陷入价值 1.3 亿美元的美国幽灵学生骗局",
+      "summary_zh": "The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged."
+    },
+    {
+      "id": "a444593eff929336",
+      "title": "Hyrox athlete who soiled herself in race tells BBC she put others at risk but backlash was traumatic",
+      "summary": "In her first interview since the incident, Joanna Wietrzyk told the BBC she takes responsibility for it but did not deserve such a severe backlash.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-30T06:10:50.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "在比赛中弄脏自己的 Hyrox 运动员告诉 BBC，她将其他人置于危险之中，但强烈反对造成了创伤",
+      "summary_zh": "In her first interview since the incident, Joanna Wietrzyk told the BBC she takes responsibility for it but did not deserve such a severe backlash."
+    },
+    {
+      "id": "c2893d417cc0adfe",
+      "title": "Student-backed election winners demand sweeping resignations in Serbia",
+      "summary": "Days after ousting Aleksandar Vučić's party from power, Student List MPs call for top figures to stand down.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-30T00:17:28.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "塞尔维亚学生支持的选举获胜者要求全体辞职",
+      "summary_zh": "Days after ousting Aleksandar Vučić's party from power, Student List MPs call for top figures to stand down."
+    },
+    {
+      "id": "28bbd715bd98cc4e",
+      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-29T22:17:52.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "google"
+      ],
+      "region": "global",
+      "title_zh": "人工智能担忧扰乱华尔街，谷歌市值暴跌 5000 亿美元",
+      "summary_zh": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue."
     },
     {
       "id": "e3515555c44b9a34",
@@ -1214,12 +1303,12 @@
     {
       "id": "27dc411fa9313702",
       "title": "With No Clear Winner, How Could Israel Get a Prime Minister?",
-      "summary": "Deadlock is possible, as neither the bloc of Prime Minister Benjamin Netanyahu nor his main challenger appear likely to win a majority. But there are still paths to a new government.",
+      "summary": "Deadlock is possible, as neither the bloc of Prime Minister Benjamin Netanyahu nor his main challenger have won a majority. But there are still paths to a new government.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html",
       "image_url": null,
-      "published_at": "2026-10-29T12:30:50.000Z",
+      "published_at": "2026-10-30T06:31:57.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1227,7 +1316,7 @@
       ],
       "region": "global",
       "title_zh": "没有明确的赢家，以色列如何选出总理？",
-      "summary_zh": "Deadlock is possible, as neither the bloc of Prime Minister Benjamin Netanyahu nor his main challenger appear likely to win a majority. But there are still paths to a new government."
+      "summary_zh": "Deadlock is possible, as neither the bloc of Prime Minister Benjamin Netanyahu nor his main challenger have won a majority. But there are still paths to a new government."
     },
     {
       "id": "40f270de14bde014",
@@ -1253,7 +1342,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/29/world/europe/france-shootings-suspect.html",
       "image_url": null,
-      "published_at": "2026-10-29T14:05:07.000Z",
+      "published_at": "2026-10-29T14:05:08.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1289,7 +1378,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html",
       "image_url": null,
-      "published_at": "2026-10-29T09:09:01.000Z",
+      "published_at": "2026-10-30T05:24:20.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1325,7 +1414,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
       "image_url": null,
-      "published_at": "2026-10-29T21:32:39.000Z",
+      "published_at": "2026-10-29T22:14:37.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1343,7 +1432,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/29/world/asia/china-communist-party-purges.html",
       "image_url": null,
-      "published_at": "2026-10-29T12:49:05.000Z",
+      "published_at": "2026-10-30T01:41:21.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1354,112 +1443,38 @@
       "summary_zh": "Xi Jinping has enforced loyalty as he prepares to claim a fourth term as leader. Among those removed was a prominent former diplomat, Liu Jianchao."
     },
     {
-      "id": "babab0de9d3d6fde",
-      "title": "Polymarket suspends trading after third-party breach leads to user losses",
-      "summary": "Polymarket said one of its third-party providers was breached after users reported seeing their accounts drained.",
+      "id": "bbfb8c86f3a0cfdc",
+      "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
+      "summary": "A set of fixes would tighten who can hold permissioned tokens on the network. The XRP Ledger Foundation says no users were affected.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
+      "source_url": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
       "image_url": null,
-      "published_at": "2026-10-29T18:55:35.000Z",
+      "published_at": "2026-10-30T05:45:27.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "XRP Ledger 开发商收紧了谁可以持有“受限”代币的规则",
+      "summary_zh": "A set of fixes would tighten who can hold permissioned tokens on the network. The XRP Ledger Foundation says no users were affected."
+    },
+    {
+      "id": "769ff8f377b78761",
+      "title": "Coinbase Q3 net income jumps 66% as prediction markets gain traction",
+      "summary": "Bernstein analysts said Coinbase's expanding prediction markets and derivatives businesses helped offset weaker spot trading activity.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-10-30-coinbase-q3-net-income-jumps-432189",
+      "image_url": null,
+      "published_at": "2026-10-30T08:57:09.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "第三方违规导致用户损失后 Polymarket 暂停交易",
-      "summary_zh": "Polymarket said one of its third-party providers was breached after users reported seeing their accounts drained."
-    },
-    {
-      "id": "dee17bece515db7b",
-      "title": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
-      "summary": "The billionaire investor disclosed an investment in Trade[XYZ] as the platform teams up with the NYSE's parent company. His family office previously reported owning shares in a HYPE-focused treasury company.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment",
-      "image_url": null,
-      "published_at": "2026-10-29T17:04:19.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Stanley Druckenmiller 的第一个 X 帖子在间接投资 2300 万美元后支持 Hyperliquid 企业",
-      "summary_zh": "The billionaire investor disclosed an investment in Trade[XYZ] as the platform teams up with the NYSE's parent company. His family office previously reported owning shares in a HYPE-focused treasury company."
-    },
-    {
-      "id": "7498abf2fee2cef7",
-      "title": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
-      "summary": "The exchange is closing accounts in both countries after MEXC and Bitget announced similar moves earlier this month.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets",
-      "image_url": null,
-      "published_at": "2026-10-29T16:51:18.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "随着加密货币交易所退出西方认可的市场，库币退出俄罗斯和白俄罗斯",
-      "summary_zh": "The exchange is closing accounts in both countries after MEXC and Bitget announced similar moves earlier this month."
-    },
-    {
-      "id": "b181edd2e875c915",
-      "title": "Crypto exchange HTX exits the UK after settling with the FCA",
-      "summary": "The former Huobi exchange has stopped accepting deposits from British customers and agreed not to target them with crypto promotions.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca",
-      "image_url": null,
-      "published_at": "2026-10-29T16:11:18.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "与 FCA 达成和解后，加密货币交易所 HTX 退出英国",
-      "summary_zh": "The former Huobi exchange has stopped accepting deposits from British customers and agreed not to target them with crypto promotions."
-    },
-    {
-      "id": "55248f3e8ed9f057",
-      "title": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
-      "summary": "Polymarket’s new Up/Down crypto contracts come as the CFTC renews scrutiny of the prediction market’s compliance with its 2022 U.S. onboarding terms.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform",
-      "image_url": null,
-      "published_at": "2026-10-29T14:55:47.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Polymarket 将超短期加密货币预测市场引入美国平台",
-      "summary_zh": "Polymarket’s new Up/Down crypto contracts come as the CFTC renews scrutiny of the prediction market’s compliance with its 2022 U.S. onboarding terms."
-    },
-    {
-      "id": "8412f6e121e8e799",
-      "title": "Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
-      "summary": "",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure",
-      "image_url": null,
-      "published_at": "2026-10-29T14:39:01.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "顾问的加密货币：只有五分之一的美国人表示金融体系是安全的",
-      "summary_zh": ""
+      "title_zh": "随着预测市场的发展，Coinbase 第三季度净利润跃升 66%",
+      "summary_zh": "Bernstein analysts said Coinbase's expanding prediction markets and derivatives businesses helped offset weaker spot trading activity."
     },
     {
       "id": "c4ec0bf2fcf1300b",
@@ -1476,8 +1491,8 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Polymarket resumes trading after $2.65 million exploit, says third-party provider was compromised",
-      "summary_zh": "Polymarket 在几分钟内损失了超过 250 万美元，该平台表示，此后已将其交易所置于仅限取消模式。"
+      "title_zh": "Polymarket 在遭受 265 万美元的攻击后恢复交易，称第三方提供商受到损害",
+      "summary_zh": "After over $2.5 million was lost within minutes on Polymarket, the platform said it has since placed its exchange in cancel-only mode."
     },
     {
       "id": "e6df8bd58538d20f",
@@ -1492,26 +1507,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Uniswap Labs opens fee conversion tool TJAR to apps, starting with Robinhood",
-      "summary_zh": "Uniswap Labs 通过名为 TJAR 的新工具向其他应用程序开放了 Token Jar 费用转换系统。"
-    },
-    {
-      "id": "6162d7b300ab8550",
-      "title": "Utah files criminal charges against Kalshi, executives over alleged illegal gambling",
-      "summary": "Utah AG Derek Brown filed criminal charges against Kalshi, Tarek Mansour and Luana Lopes Lara for allegedly promoting online gambling.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-10-29-utah-criminal-charges-kalshi-432104",
-      "image_url": null,
-      "published_at": "2026-10-29T06:40:32.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Utah files criminal charges against Kalshi, executives over alleged illegal gambling",
-      "summary_zh": "犹他州总检察长德里克·布朗对卡尔希、塔里克·曼苏尔和卢安娜·洛佩斯·拉拉提出刑事指控，罪名是涉嫌宣传在线赌博。"
+      "title_zh": "Uniswap Labs 从 Robinhood 开始向应用程序开放费用转换工具 TJAR",
+      "summary_zh": "Uniswap Labs has opened up its Token Jar fee conversion system to other apps through a new tool called TJAR."
     },
     {
       "id": "4a269b380d7dc463",
@@ -1529,8 +1526,8 @@
         "openai"
       ],
       "region": "global",
-      "title_zh": "How Ropes & Gray is developing AI for transactional diligence",
-      "summary_zh": "Ropes & Gray 正在通过 OpenAI 开发用于交易尽职调查的人工智能。律师在向客户提供建议之前会审查分组文件、摘要和报告。"
+      "title_zh": "Ropes & Gray 如何开发用于交易尽职调查的人工智能",
+      "summary_zh": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
     },
     {
       "id": "dd17d7e8d2b49659",
@@ -1547,8 +1544,8 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "The future of the firm",
-      "summary_zh": "人工智能如何进入组织结构图——在我们之下、旁边和之间。"
+      "title_zh": "公司的未来",
+      "summary_zh": "How AI might enter the org chart—beneath, beside, and between us."
     },
     {
       "id": "01325602a76b561b",
@@ -1563,8 +1560,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "summary_zh": "Greptile 如何使用 GPT-6 Astra 来测试用户工作流程，使用 Daybreak 来增强安全性，使用 Codex 来减少返工。"
+      "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
+      "summary_zh": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
     },
     {
       "id": "7ed3a7aab5ce9dac",
@@ -1581,7 +1578,7 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "title_zh": "宣布 ProtoStar 项目：让公共资助的科学人工智能做好准备",
       "summary_zh": ""
     },
     {
@@ -1597,7 +1594,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "欢迎 Le Chonk：拥抱面部的 Mistral Large 4",
+      "title_zh": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
       "summary_zh": ""
     },
     {
@@ -1613,7 +1610,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "title_zh": "NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录",
       "summary_zh": ""
     },
     {
@@ -1632,8 +1629,8 @@
         "google"
       ],
       "region": "global",
-      "title_zh": "我们最新的人工智能任务：绘制人类大脑图谱",
-      "summary_zh": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
+      "title_zh": "Our newest AI Quest: Mapping the human brain",
+      "summary_zh": "通过 Google 最新的神经科学 AI Quests 课程“Polar Peaks”学习 AI 素养。"
     },
     {
       "id": "aec88acb7ddd0e59",
@@ -1650,8 +1647,8 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "东南亚数字经济规模将达3680亿美元",
-      "summary_zh": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
+      "title_zh": "Southeast Asia’s digital economy to hit $368 billion",
+      "summary_zh": "人工智能的广泛采用正在推动东南亚数字经济在 2026 年达到 3680 亿美元，到 2035 年将达到 1 万亿美元。"
     },
     {
       "id": "2ebe2fa68a279da0",
@@ -1666,8 +1663,8 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Playground 简介：创建和玩自定义游戏",
-      "summary_zh": "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
+      "title_zh": "Introducing Playground: Create and play custom games",
+      "summary_zh": "Playground 是一个新的实验性游戏平台，可让您创建、玩和共享自定义游戏。"
     },
     {
       "id": "67521a1c829f3743",
@@ -1684,7 +1681,7 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "观看 Future Vision XPRIZE 的获奖预告片《天才》。",
+      "title_zh": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "summary_zh": "观看 Future Vision XPRIZE 的获奖预告片《天才》。"
     },
     {
