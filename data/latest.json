@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T01:11:45.330Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Live updates: Bitcoin falls below $77,000 as Binance exploit combines with tech woes；【CRYPTO】Strategy’s preferred-stock fix sets up renewed bitcoin buying, analysts say；【CRYPTO】Experts divided over Binance hack asset freezes, warn recovery is another matter。",
+  "generated_at": "2026-10-31T07:41:21.171Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Strategy’s preferred-stock fix sets up renewed bitcoin buying, analysts say；【CRYPTO】Experts divided over Binance hack asset freezes, warn recovery is another matter；【CRYPTO】Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -19,26 +19,6 @@
     "FINANCE": 10
   },
   "items": [
-    {
-      "id": "a811bdf34808b44d",
-      "title": "Live updates: Bitcoin falls below $77,000 as Binance exploit combines with tech woes",
-      "summary": "The $6.3 billion Binance hack added to crypto jitters, while weak earnings outlooks and mounting concerns over AI spending pushed the Nasdaq down more than 2%.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
-      "image_url": null,
-      "published_at": "2026-10-30T08:36:52.000Z",
-      "importance_score": 80,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Live updates: Bitcoin falls below $77,000 as Binance exploit combines with tech woes",
-      "summary_zh": "币安 63 亿美元的黑客事件加剧了加密货币市场的恐慌，而疲软的盈利前景和对人工智能支出的日益担忧导致纳斯达克指数下跌超过 2%。"
-    },
     {
       "id": "469e3e6374ff89ad",
       "title": "Strategy’s preferred-stock fix sets up renewed bitcoin buying, analysts say",
@@ -203,7 +183,7 @@
         "bitcoin"
       ],
       "region": "global",
-      "title_zh": "战略首席财务官安德鲁·康(Andrew Kang)因公司营业利润创纪录而辞职",
+      "title_zh": "战略首席财务官安德鲁·康（Andrew Kang）因公司营业利润创纪录而辞职",
       "summary_zh": "Andrew Kang’s departure comes as Strategy reports $21 billion in quarterly operating income and bitcoin holdings of 848,517 BTC."
     },
     {
@@ -409,6 +389,22 @@
       "summary_zh": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
     },
     {
+      "id": "3f4302b509010392",
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-31T02:12:19.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "为什么朝鲜“精英”黑客是币安重大黑客攻击的首要嫌疑人",
+      "summary_zh": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
+    },
+    {
       "id": "9005dbd7a73c77f6",
       "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
       "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
@@ -427,22 +423,23 @@
       "summary_zh": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers."
     },
     {
-      "id": "ac635b52632e9ce1",
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+      "id": "167613a22b4ac963",
+      "title": "Will Digging Up Vietnam’s War Dead Heal Old Wounds or Reopen Them?",
+      "summary": "A 500-day campaign to find and identify fallen soldiers has unearthed hundreds of bodies, but not everyone gets a chance at closure.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html",
       "image_url": null,
-      "published_at": "2026-10-30T22:11:52.000Z",
+      "published_at": "2026-10-31T04:01:13.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "ai",
+        "war"
       ],
       "region": "global",
-      "title_zh": "俄罗斯部长出席抗议引发G20“全家福”取消",
-      "summary_zh": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine."
+      "title_zh": "挖掘越南战争死难者会治愈旧伤还是重新揭开伤痕？",
+      "summary_zh": "A 500-day campaign to find and identify fallen soldiers has unearthed hundreds of bodies, but not everyone gets a chance at closure."
     },
     {
       "id": "a1ac0bdb59997bd2",
@@ -481,43 +478,6 @@
       "summary_zh": "Journalists at the fiercely independent Novaya Gazeta, whose co-founder received the Nobel Peace Prize, said the government had orchestrated its demise."
     },
     {
-      "id": "5088069fc65e30a9",
-      "title": "New ‘Call of Duty’ Game Draws Criticism for Using Footage of Deadly Seoul Crowd Crush",
-      "summary": "Call of Duty: Modern Warfare 4 uses actual visuals from a Halloween crowd crush in South Korea, in which over 150 people died in a narrow alleyway.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/30/world/asia/call-of-duty-seoul-itaweon-crowd-crush.html",
-      "image_url": null,
-      "published_at": "2026-10-30T18:32:38.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "新的“使命召唤”游戏因使用首尔人群拥挤的致命镜头而受到批评",
-      "summary_zh": "Call of Duty: Modern Warfare 4 uses actual visuals from a Halloween crowd crush in South Korea, in which over 150 people died in a narrow alleyway."
-    },
-    {
-      "id": "052bbe23f9ca0bd5",
-      "title": "Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One.",
-      "summary": "I experienced war’s subterranean future as drones dominate the skies. I didn’t like it.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/30/world/europe/ukraine-russia-natural-gas-pipes.html",
-      "image_url": null,
-      "published_at": "2026-10-30T20:40:51.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "乌克兰人正在地下煤气管道内与俄罗斯人作战。我进去了。",
-      "summary_zh": "I experienced war’s subterranean future as drones dominate the skies. I didn’t like it."
-    },
-    {
       "id": "62407d99b47ae5d1",
       "title": "Recent Quant Links from Quantocracy as of 10/12/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools",
@@ -530,7 +490,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "截至 2026 年 10 月 12 日，来自 Quantocracy 的最新量化链接",
+      "title_zh": "截至 2026 年 10 月 12 日，Quantocracy 的最新量化链接",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools"
     },
     {
@@ -678,34 +638,34 @@
       "summary_zh": "Tether and Circle froze $1.79 billion in USDT and USDC after billions moved out of Binance hot wallets. Binance says it is investigating."
     },
     {
-      "id": "cc324551727089dc",
-      "title": "Trending Crypto: Super Pepe (SP)",
-      "summary": "CoinGecko trending rank #930.",
+      "id": "15bd00d030ce0355",
+      "title": "Trending Crypto: Infinity Ground (AIN)",
+      "summary": "CoinGecko trending rank #459.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/super-pepe",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102179845/large/logo.png?1793198508",
-      "published_at": "2026-10-31T01:11:00.100Z",
+      "source_url": "https://www.coingecko.com/en/coins/infinity-ground",
+      "image_url": "https://coin-images.coingecko.com/coins/images/67034/large/ain.jpg?1751527676",
+      "published_at": "2026-10-31T07:40:23.649Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "sp"
+        "ain"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：Super Pepe (SP)",
-      "summary_zh": "CoinGecko trending rank #930."
+      "title_zh": "加密货币趋势：Infinity Ground (AIN)",
+      "summary_zh": "CoinGecko trending rank #459."
     },
     {
-      "id": "ccdcf9413d8b49ac",
+      "id": "ddef2e33457c41c6",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
       "summary": "CoinGecko trending rank #11.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
       "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-10-31T01:11:00.100Z",
+      "published_at": "2026-10-31T07:40:23.649Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -718,64 +678,64 @@
       "summary_zh": "CoinGecko trending rank #11."
     },
     {
-      "id": "1828d36e54b8026b",
-      "title": "Trending Crypto: Monad (MON)",
-      "summary": "CoinGecko trending rank #154.",
+      "id": "8003744016943a23",
+      "title": "Trending Crypto: Quack AI (Q)",
+      "summary": "CoinGecko trending rank #197.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/monad",
-      "image_url": "https://coin-images.coingecko.com/coins/images/38927/large/mon.png?1766029057",
-      "published_at": "2026-10-31T01:11:00.100Z",
+      "source_url": "https://www.coingecko.com/en/coins/quack-ai",
+      "image_url": "https://coin-images.coingecko.com/coins/images/68793/large/quack_ai.png?1756615808",
+      "published_at": "2026-10-31T07:40:23.649Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "mon"
+        "q"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：Monad (MON)",
-      "summary_zh": "CoinGecko trending rank #154."
+      "title_zh": "加密货币趋势：Quack AI (Q)",
+      "summary_zh": "CoinGecko trending rank #197."
     },
     {
-      "id": "07b0aafa2ec38f33",
-      "title": "Trending Crypto: Kinetiq (KNTQ)",
-      "summary": "CoinGecko trending rank #198.",
+      "id": "2279761920c387ac",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #113.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/kinetiq",
-      "image_url": "https://coin-images.coingecko.com/coins/images/70252/large/kntq.png?1761279547",
-      "published_at": "2026-10-31T01:11:00.100Z",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-10-31T07:40:23.649Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "kntq"
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "加密货币趋势：Kinetiq (KNTQ)",
-      "summary_zh": "CoinGecko trending rank #198."
+      "title_zh": "加密货币趋势：矮胖企鹅 (PENGU)",
+      "summary_zh": "CoinGecko trending rank #113."
     },
     {
-      "id": "9a8e0fb4bc7f3a83",
-      "title": "Trending Crypto: Pearl (PEARL)",
-      "summary": "CoinGecko trending rank #98.",
+      "id": "f9800becf1cc8bc1",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-10-31T01:11:00.100Z",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-10-31T07:40:23.649Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pearl"
+        "btc"
       ],
       "region": "global",
-      "title_zh": "流行加密货币：珍珠（PEARL）",
-      "summary_zh": "CoinGecko trending rank #98."
+      "title_zh": "流行加密货币：比特币 (BTC)",
+      "summary_zh": "CoinGecko trending rank #1."
     },
     {
       "id": "cdb3352e58702733",
@@ -812,7 +772,7 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "将数据库评分转化为强化学习奖励：使用 ThinkingBox 进行训练后智能体",
+      "title_zh": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体",
       "summary_zh": ""
     },
     {
@@ -901,6 +861,25 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/18/2026",
       "summary_zh": "这是截至 2026 年 10 月 18 日星期日 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！错误较少 [定量] 最大的风险是，当您认为自己拥有获胜策略时，您却陷入了失败的策略。杰夫·Y"
+    },
+    {
+      "id": "ea253d19de8a8c00",
+      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+      "summary": "The 18,270 BTC haul is worth about $1.4 billion and comes within 442 coins of SpaceX’s disclosed holdings. Blockchain investigators link the attack to North Korea.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+      "image_url": null,
+      "published_at": "2026-10-31T05:01:32.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+      "summary_zh": "这 18,270 枚比特币价值约 14 亿美元，与 SpaceX 披露的持有量相差 442 枚。区块链调查人员将这次袭击与朝鲜联系起来。"
     },
     {
       "id": "9354a62365ea0628",
@@ -1112,7 +1091,7 @@
         "anthropic"
       ],
       "region": "global",
-      "title_zh": "Anthropic是AI行业今年大规模IPO的最后一个大希望",
+      "title_zh": "Anthropic是人工智能行业今年大规模IPO的最后一个大希望",
       "summary_zh": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too."
     },
     {
@@ -1184,24 +1163,6 @@
       "summary_zh": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
     },
     {
-      "id": "337629142cf044d1",
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-30T17:07:19.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "美国囚犯克里斯塔·派克 (Christa Pike) 表示，在执行失败后，她醒来时感到“困惑和痛苦”",
-      "summary_zh": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September."
-    },
-    {
       "id": "1847b88448c09f08",
       "title": "Police deployed during stand-off over control of top Poland court",
       "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
@@ -1209,7 +1170,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-30T20:52:01.000Z",
+      "published_at": "2026-10-31T01:11:43.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1218,6 +1179,42 @@
       "region": "global",
       "title_zh": "波兰最高法院控制权对峙期间部署警察",
       "summary_zh": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
+    },
+    {
+      "id": "59d4660dc322e189",
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-31T05:44:21.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "西班牙火车灾难给桑切斯连任的机会蒙上阴影",
+      "summary_zh": "The Spanish PM is hit by a succession of crises just weeks before a snap general election."
+    },
+    {
+      "id": "870b3fa71636ddb0",
+      "title": "Global nature talks reach deal but money remains an issue",
+      "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-31T01:27:05.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "全球自然谈判达成协议，但资金仍然是一个问题",
+      "summary_zh": "Countries have been trying to get a global agreement to halt nature decline back on track."
     },
     {
       "id": "ef9080b7cf0de4c0",
@@ -1236,59 +1233,73 @@
       "summary_zh": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades."
     },
     {
-      "id": "58bf46b8a7c6e9fd",
-      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-      "summary": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
+      "id": "1d73f0ecf0cb75f5",
+      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-30T15:03:39.000Z",
+      "published_at": "2026-10-31T02:39:25.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "特朗普的关税可能会关闭这个加拿大小镇 - 其居民正在努力拯救它",
+      "summary_zh": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work."
+    },
+    {
+      "id": "337629142cf044d1",
+      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+      "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-10-30T17:07:19.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "西班牙交通部长表示不会因高铁灾难而辞职",
-      "summary_zh": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people."
+      "title_zh": "美国囚犯克里斯塔·派克 (Christa Pike) 表示，在执行失败后，她醒来时感到“困惑和痛苦”",
+      "summary_zh": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September."
     },
     {
-      "id": "05aff65f99b2a753",
-      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-      "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
+      "id": "9f7a6cdca3415869",
+      "title": "Britain’s Prime Minister Says He’s Open to a Formal Apology for Slavery",
+      "summary": "The premier’s comments represent a major change in British policy, but they are unlikely to satisfy those who hoped that reparations would follow.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html",
       "image_url": null,
-      "published_at": "2026-10-30T14:48:22.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "教皇利奥十四世成为第一位在美国大选中投票的教皇",
-      "summary_zh": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress."
-    },
-    {
-      "id": "41b9d7f101bfda94",
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-30T20:34:46.000Z",
+      "published_at": "2026-10-31T03:32:20.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai",
-        "stocks"
+        "policy"
       ],
       "region": "global",
-      "title_zh": "随着人工智能支出接近 1 万亿美元，美国科技股大幅下跌",
-      "summary_zh": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
+      "title_zh": "英国首相表示他愿意就奴隶制正式道歉",
+      "summary_zh": "The premier’s comments represent a major change in British policy, but they are unlikely to satisfy those who hoped that reparations would follow."
+    },
+    {
+      "id": "db88e3fbfe7883e6",
+      "title": "Liu Yandong, Rare Woman Among China’s Political Elite, Dies at 80",
+      "summary": "The former vice premier was one of just six women to have served on the Chinese Communist Party’s elite Politburo, though she was excluded from the top ranks of power.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/10/31/world/asia/liu-yandong-dead.html",
+      "image_url": null,
+      "published_at": "2026-10-31T07:18:22.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "中国政治精英中罕见的女性刘延东去世，享年80岁",
+      "summary_zh": "The former vice premier was one of just six women to have served on the Chinese Communist Party’s elite Politburo, though she was excluded from the top ranks of power."
     },
     {
       "id": "8c90952932b486ca",
@@ -1314,7 +1325,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
       "image_url": null,
-      "published_at": "2026-10-30T23:27:45.000Z",
+      "published_at": "2026-10-30T23:27:46.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1377,24 +1388,6 @@
       "summary_zh": "The authorities said an attempt to steal copper gas pipes ultimately led to the massive explosion last month, which killed six people."
     },
     {
-      "id": "b390cb4f3f4f7e08",
-      "title": "Police Investigate Former Prince Andrew and Epstein’s Time at Balmoral, Royal Estate in Scotland",
-      "summary": "Andrew Mountbatten-Windsor spent time with Jeffrey Epstein, the convicted sex offender, and his associate Ghislaine Maxwell, at Balmoral, the royal family’s Scottish retreat.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/10/30/world/europe/andrew-epstein-scotland-police-investigation-uk-balmoral.html",
-      "image_url": null,
-      "published_at": "2026-10-30T18:51:14.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "警方调查前安德鲁王子和爱泼斯坦在苏格兰皇家庄园巴尔莫勒尔堡的时光",
-      "summary_zh": "Andrew Mountbatten-Windsor spent time with Jeffrey Epstein, the convicted sex offender, and his associate Ghislaine Maxwell, at Balmoral, the royal family’s Scottish retreat."
-    },
-    {
       "id": "8420376678c24cf7",
       "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
       "summary": "Anxiety about the AI boom has sent the Nasdaq 100 slumping by about 10% in just three weeks since hitting a record high on October 6, including a 4.5% drop on Friday.",
@@ -1428,7 +1421,7 @@
         "crypto"
       ],
       "region": "global",
-      "title_zh": "德克萨斯州兄弟因持枪劫持明尼苏达一家人抢劫 800 万美元加密货币而被判 15 年徒刑",
+      "title_zh": "德克萨斯兄弟因持枪劫持明尼苏达一家人抢劫 800 万美元加密货币而被判 15 年徒刑",
       "summary_zh": "Two brothers who held a family for nine hours at gunpoint in Minnesota for $8 million worth of cryptocurrency were sentenced on Friday."
     },
     {
