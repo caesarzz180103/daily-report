@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T15:32:34.504Z",
+  "generated_at": "2026-11-01T19:56:55.472Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Strategy’s preferred-stock fix sets up renewed bitcoin buying, analysts say；【WORLD】Crypto firm Binance covers 90% of losses after $6.3bn hack；【CRYPTO】Chainalysis says hacker using ‘offensive agentic techniques’ accessed its customers’ names and emails。",
   "meta": {
     "sources_count": 11,
@@ -75,25 +75,6 @@
       "summary_zh": "该公司还一直在跟踪币安的单独数十亿美元的黑客攻击，并表示攻击者正在使用 Tron 协议来避免稳定币冻结。"
     },
     {
-      "id": "9ddc4966cca573ec",
-      "title": "Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis",
-      "summary": "Trezor urged CryptoBilis buyers to migrate funds after receiving a credible report of a hardware implant inside a Safe 5 device.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196",
-      "image_url": null,
-      "published_at": "2026-10-30T08:55:39.000Z",
-      "importance_score": 68,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis",
-      "summary_zh": "Trezor 在收到有关 Safe 5 设备内硬件植入的可靠报告后，敦促 CryptoBilis 买家转移资金。"
-    },
-    {
       "id": "68c1cb66310c7782",
       "title": "An updated Model Spec for more capable and beneficial AI",
       "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
@@ -150,6 +131,25 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/24/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Shorting Leveraged ETFs: Role of Borrowing Costs and Rebalancing in Volatility-Decay Strategies [Quantpedia] Leveraged ET"
     },
     {
+      "id": "993814dc3fb73422",
+      "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
+      "summary": "The researchers say any approval an agent can reach is unreliable, and they built Countersign, an app tying approval to a physical action the agent can’t fake.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
+      "image_url": null,
+      "published_at": "2026-11-01T17:00:00.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "研究人员在一项新测试中发现，人工智能代理在未经人类批准的情况下绕过了加密货币支出限制",
+      "summary_zh": "The researchers say any approval an agent can reach is unreliable, and they built Countersign, an app tying approval to a physical action the agent can’t fake."
+    },
+    {
       "id": "8200f56403020503",
       "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
       "summary": "Binance reopens customer withdrawals following a record $6.3 billion exploit. Bitcoin leads the first phase.",
@@ -167,24 +167,6 @@
       "region": "global",
       "title_zh": "在遭受 63 亿美元黑客攻击后，币安从比特币开始分阶段开放加密货币提现",
       "summary_zh": "Binance reopens customer withdrawals following a record $6.3 billion exploit. Bitcoin leads the first phase."
-    },
-    {
-      "id": "cfea2e4e82d69297",
-      "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
-      "summary": "BNB lost 7.1%, while Binance Co-CEO Yi He pledged that the exchange will cover all user losses resulting from the hack.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
-      "image_url": null,
-      "published_at": "2026-10-30T02:22:31.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "比特币跌破 77,000 美元，BNB 因币安黑客攻击而下跌",
-      "summary_zh": "BNB lost 7.1%, while Binance Co-CEO Yi He pledged that the exchange will cover all user losses resulting from the hack."
     },
     {
       "id": "2ce7f81bfb7b29e4",
@@ -312,7 +294,7 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Software 的新整合者获得伯克希尔的大力信任",
+      "title_zh": "Software公司的新整合者获得了伯克希尔的大力信任",
       "summary_zh": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway."
     },
     {
@@ -341,7 +323,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
       "image_url": null,
-      "published_at": "2026-11-01T14:34:54.000Z",
+      "published_at": "2026-11-01T16:51:34.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
@@ -417,7 +399,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "截至 2026 年 10 月 12 日，Quantocracy 的最新量化链接",
+      "title_zh": "截至 2026 年 10 月 12 日，来自 Quantocracy 的最新量化链接",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools"
     },
     {
@@ -476,22 +458,41 @@
       "summary_zh": "Two strangers befriended Magnus Ahmad outside a London bar. Hours later, thieves had emptied his crypto wallets, accessed his bank accounts and disabled his laptop."
     },
     {
-      "id": "3b32fa521543e484",
-      "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
-      "summary": "Binance is absorbing all losses through corporate funds, futures reserves, and SAFU, keeping user balances intact.",
+      "id": "77c31f83b2c882fa",
+      "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+      "summary": "Crypto bridges Relay, THORChain, Chainflip and Symbiosis moved about $140 million of stolen funds off Tron, with Relay handling the most at $48 million.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
       "image_url": null,
-      "published_at": "2026-10-31T15:24:10.000Z",
+      "published_at": "2026-11-01T18:25:48.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
+        "ai",
         "crypto"
       ],
       "region": "global",
-      "title_zh": "币安表示，在价值 63 亿美元的大规模数据泄露事件后，该公司已替换了 90% 被盗的加密货币",
-      "summary_zh": "Binance is absorbing all losses through corporate funds, futures reserves, and SAFU, keeping user balances intact."
+      "title_zh": "FBI 向 THORChain 施压，朝鲜黑客通过 Tron 洗钱 2.42 亿美元币安赃物：分析师",
+      "summary_zh": "Crypto bridges Relay, THORChain, Chainflip and Symbiosis moved about $140 million of stolen funds off Tron, with Relay handling the most at $48 million."
+    },
+    {
+      "id": "e0bdccec23dae35a",
+      "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
+      "summary": "The exchange said the outflows equal 2.1% of its $171 billion in assets and that withdrawal volumes have declined after an initial spike.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259",
+      "image_url": null,
+      "published_at": "2026-11-01T16:32:31.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "创纪录的黑客事件后，币安重新开放提款，净流出 36.4 亿美元",
+      "summary_zh": "The exchange said the outflows equal 2.1% of its $171 billion in assets and that withdrawal volumes have declined after an initial spike."
     },
     {
       "id": "678421b96a60f3b9",
@@ -526,7 +527,7 @@
         "crypto"
       ],
       "region": "global",
-      "title_zh": "有史以来最大规模的加密货币黑客攻击：攻击者如何攻破币安并损失 63 亿美元",
+      "title_zh": "有史以来最大的加密货币黑客攻击：攻击者如何攻破币安并损失 63 亿美元",
       "summary_zh": "Investigators tie the $6B Binance hack to North Korea. Here's how hot-wallet signing infrastructure was compromised and where funds went."
     },
     {
@@ -564,14 +565,14 @@
       "summary_zh": "Binance has allocated $6.34 billion to cover hack losses, while industry partners have frozen another $3 billion in affected assets."
     },
     {
-      "id": "0b5f49cf1b38c436",
+      "id": "dbe9c7e4ceeef998",
       "title": "Trending Crypto: Super Inu (SI)",
-      "summary": "CoinGecko trending rank #911.",
+      "summary": "CoinGecko trending rank #718.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/super-inu-3",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179869/large/logo.png?1793260809",
-      "published_at": "2026-11-01T15:31:46.206Z",
+      "published_at": "2026-11-01T19:56:08.453Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -581,17 +582,17 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：Super Inu (SI)",
-      "summary_zh": "CoinGecko trending rank #911."
+      "summary_zh": "CoinGecko trending rank #718."
     },
     {
-      "id": "7799345f78b50622",
+      "id": "aa922010f20caa47",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
-      "summary": "CoinGecko trending rank #11.",
+      "summary": "CoinGecko trending rank #10.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
       "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-11-01T15:31:46.206Z",
+      "published_at": "2026-11-01T19:56:08.453Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -601,17 +602,57 @@
       ],
       "region": "global",
       "title_zh": "加密货币趋势：Hyperliquid (HYPE)",
-      "summary_zh": "CoinGecko trending rank #11."
+      "summary_zh": "CoinGecko trending rank #10."
     },
     {
-      "id": "ed50092c0c993fd0",
+      "id": "a299031f1eafee43",
+      "title": "Trending Crypto: Pearl (PEARL)",
+      "summary": "CoinGecko trending rank #98.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
+      "published_at": "2026-11-01T19:56:08.453Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pearl"
+      ],
+      "region": "global",
+      "title_zh": "流行加密货币：珍珠（PEARL）",
+      "summary_zh": "CoinGecko trending rank #98."
+    },
+    {
+      "id": "b2ba9f48f7c2859f",
+      "title": "Trending Crypto: Kinetiq (KNTQ)",
+      "summary": "CoinGecko trending rank #188.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/kinetiq",
+      "image_url": "https://coin-images.coingecko.com/coins/images/70252/large/kntq.png?1761279547",
+      "published_at": "2026-11-01T19:56:08.453Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "kntq"
+      ],
+      "region": "global",
+      "title_zh": "加密货币趋势：Kinetiq (KNTQ)",
+      "summary_zh": "CoinGecko trending rank #188."
+    },
+    {
+      "id": "2ffc0d44abc85aed",
       "title": "Trending Crypto: Lighter (LIT)",
       "summary": "CoinGecko trending rank #82.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/lighter",
       "image_url": "https://coin-images.coingecko.com/coins/images/71121/large/lighter.png?1765888098",
-      "published_at": "2026-11-01T15:31:46.206Z",
+      "published_at": "2026-11-01T19:56:08.453Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -622,46 +663,6 @@
       "region": "global",
       "title_zh": "加密货币趋势：打火机 (LIT)",
       "summary_zh": "CoinGecko trending rank #82."
-    },
-    {
-      "id": "51f6e6b5e251a6a7",
-      "title": "Trending Crypto: Kinetiq (KNTQ)",
-      "summary": "CoinGecko trending rank #185.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/kinetiq",
-      "image_url": "https://coin-images.coingecko.com/coins/images/70252/large/kntq.png?1761279547",
-      "published_at": "2026-11-01T15:31:46.206Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "kntq"
-      ],
-      "region": "global",
-      "title_zh": "加密货币趋势：Kinetiq (KNTQ)",
-      "summary_zh": "CoinGecko trending rank #185."
-    },
-    {
-      "id": "fb3b9e54353b4649",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-01T15:31:46.206Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "btc"
-      ],
-      "region": "global",
-      "title_zh": "流行加密货币：比特币 (BTC)",
-      "summary_zh": "CoinGecko trending rank #1."
     },
     {
       "id": "cdb3352e58702733",
@@ -1087,22 +1088,70 @@
       "summary_zh": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France."
     },
     {
-      "id": "349f3095aebb13f4",
-      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-      "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+      "id": "99c33700a9617c59",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-01T00:41:24.000Z",
+      "published_at": "2026-11-01T17:06:32.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "医院称，以色列对加沙的袭击造成包括儿童在内的八人死亡",
+      "summary_zh": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say."
+    },
+    {
+      "id": "128c6a17b1b6c26b",
+      "title": "University of Cambridge scientist among those who died in Spanish train crash",
+      "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-01T17:05:18.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "法官驳回特朗普就爱泼斯坦生日书对《华尔街日报》提起的诉讼",
-      "summary_zh": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book."
+      "title_zh": "剑桥大学科学家在西班牙火车事故中丧生",
+      "summary_zh": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked."
+    },
+    {
+      "id": "f41167912951ad77",
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-01T17:56:47.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "邦迪海滩袭击事件后，武装警察开始在悉尼巡逻",
+      "summary_zh": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival."
+    },
+    {
+      "id": "d21f399202b16816",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+      "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-01T19:17:34.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "随着党内争端升级，民主党在密歇根州参议院关键竞选中支持共和党候选人",
+      "summary_zh": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote."
     },
     {
       "id": "99c7911846305d39",
@@ -1121,56 +1170,22 @@
       "summary_zh": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down."
     },
     {
-      "id": "8eab107e6ef6ab04",
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+      "id": "349f3095aebb13f4",
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-10-31T19:22:26.000Z",
+      "published_at": "2026-11-01T00:41:24.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "在俄罗斯占领的前线城市生活多年后，乌克兰人说：“我们从地狱回来了”",
-      "summary_zh": "One evacuated couple says they crossed minefields in Oleshky in search of food."
-    },
-    {
-      "id": "452657c5767dfa17",
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-31T17:53:35.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "被困俄罗斯占领城市多年的乌克兰撤离人员与家人团聚",
-      "summary_zh": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
-    },
-    {
-      "id": "4a7eeabdce5b8f45",
-      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-01T00:55:06.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "塞尔维亚总统武契奇的垮台如何反映了匈牙利奥尔班的垮台",
-      "summary_zh": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary."
+      "title_zh": "法官驳回特朗普就爱泼斯坦生日书对《华尔街日报》提起的诉讼",
+      "summary_zh": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book."
     },
     {
       "id": "acccbb017c9ab7cc",
@@ -1203,22 +1218,6 @@
       "region": "global",
       "title_zh": "阿拉斯加参议院候选人否认知道涉嫌让两名丹·沙利文参加投票的阴谋",
       "summary_zh": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race."
-    },
-    {
-      "id": "4106ec8be17a50ef",
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-10-31T15:16:20.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "刚果民主共和国最致命的埃博拉疫情造成 5,000 多人死亡",
-      "summary_zh": "Government data shows that more than 10,000 people have contracted the rare virus."
     },
     {
       "id": "db2d5c46ab44d5ca",
@@ -1321,6 +1320,25 @@
       "summary_zh": "More than 300,000 people took to the streets, some wearing Halloween costumes, before the demonstrations ended in violence."
     },
     {
+      "id": "629eb0da31c1c546",
+      "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+      "summary": "America is going to the polls, and the results will shape crypto legislation and regulation over the next two years. Here's what to know.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+      "image_url": null,
+      "published_at": "2026-11-01T19:30:00.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "regulation"
+      ],
+      "region": "global",
+      "title_zh": "2026 年中期选举加密货币读者指南：加密货币现状",
+      "summary_zh": "America is going to the polls, and the results will shape crypto legislation and regulation over the next two years. Here's what to know."
+    },
+    {
       "id": "c0da8c1aa727ece5",
       "title": "The key races to watch for the 2026 election",
       "summary": "While crypto isn't a major issue in the 2026 election, the industry will be shaped by who takes office in January. Here are the main races CoinDesk is tracking.",
@@ -1377,25 +1395,6 @@
       "summary_zh": "The industry's $63 million question revolves around whether its political adversary in Ohio rides the Trump backlash back into the Senate."
     },
     {
-      "id": "3471ade88b3842fd",
-      "title": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
-      "summary": "Trade.xyz’s new ANT contract fell about 20% in its first hour on Hyperliquid. There are no shares behind it, and U.S. traders are locked out.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
-      "image_url": null,
-      "published_at": "2026-10-31T16:00:00.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "anthropic",
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "交易员已经使用加密合约对 Anthropic 的 IPO 进行杠杆押注",
-      "summary_zh": "Trade.xyz’s new ANT contract fell about 20% in its first hour on Hyperliquid. There are no shares behind it, and U.S. traders are locked out."
-    },
-    {
       "id": "6e12829775a71ea8",
       "title": "Texas brothers sentenced to 15 years for holding Minnesota family at gunpoint in $8 million crypto heist",
       "summary": "Two brothers who held a family for nine hours at gunpoint in Minnesota for $8 million worth of cryptocurrency were sentenced on Friday.",
@@ -1410,7 +1409,7 @@
         "crypto"
       ],
       "region": "global",
-      "title_zh": "德克萨斯州兄弟因持枪劫持明尼苏达一家人抢劫 800 万美元加密货币而被判 15 年徒刑",
+      "title_zh": "德克萨斯兄弟因持枪劫持明尼苏达一家人抢劫 800 万美元加密货币而被判 15 年徒刑",
       "summary_zh": "Two brothers who held a family for nine hours at gunpoint in Minnesota for $8 million worth of cryptocurrency were sentenced on Friday."
     },
     {
@@ -1801,7 +1800,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/31/2026",
-      "summary_zh": "这是截至 2026 年 10 月 31 日星期六 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！通过宏观因素跑赢标准普尔 500 指数 [Macrosynergy] 我们提出了一种经济有效的方法来跑赢大盘"
+      "summary_zh": "这是截至 2026 年 10 月 31 日星期六 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！通过宏观因素跑赢 S&P500 [Macrosynergy] 我们提出了一种经济有效的方法来跑赢大盘"
     },
     {
       "id": "724b1bd70c93244d",
