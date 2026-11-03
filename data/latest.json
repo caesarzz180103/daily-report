@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T18:09:25.727Z",
+  "generated_at": "2026-11-03T23:46:22.647Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains；【AI】Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery；【FINANCE】Fed officials are already saying they’ll need to get back to hiking rates。",
   "meta": {
     "sources_count": 11,
@@ -94,23 +94,23 @@
       "summary_zh": "In its first such survey, the BOK also asked about a crypto price crash, losses at another firm, and each firm’s crypto teams, budgets and investments."
     },
     {
-      "id": "e6f6cc5d3a962330",
-      "title": "CZ warns of more AI-driven hacks following Binance’s historic $6.3 billion heist",
-      "summary": "While investigators found no evidence that AI agents laundered the stolen Binance funds, Zhao stressed that automated tools are lowering the barrier for complex breaches.",
+      "id": "0bef77aabfe774f5",
+      "title": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
+      "summary": "In his first interview since the Binance hack, Changpeng Zhao says AI is accelerating cyberattacks and calls for industry security alliance.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458",
       "image_url": null,
-      "published_at": "2026-11-03T14:22:09.000Z",
+      "published_at": "2026-11-03T20:43:38.000Z",
       "importance_score": 68,
       "sentiment": 0,
       "tags": [
         "ai",
-        "war"
+        "crypto"
       ],
       "region": "global",
-      "title_zh": "CZ warns of more AI-driven hacks following Binance’s historic $6.3 billion heist",
-      "summary_zh": "While investigators found no evidence that AI agents laundered the stolen Binance funds, Zhao stressed that automated tools are lowering the barrier for complex breaches."
+      "title_zh": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
+      "summary_zh": "In his first interview since the Binance hack, Changpeng Zhao says AI is accelerating cyberattacks and calls for industry security alliance."
     },
     {
       "id": "d9adeb1054d16d36",
@@ -299,7 +299,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-03T17:56:03.000Z",
+      "published_at": "2026-11-03T20:42:47.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -308,24 +308,6 @@
       "region": "global",
       "title_zh": "Seven flights across Europe targeted by suspected bomb threats",
       "summary_zh": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats."
-    },
-    {
-      "id": "662087084ff3cc7e",
-      "title": "Tenerife striker De Miguel dies after on-field collision",
-      "summary": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-03T09:09:18.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Tenerife striker De Miguel dies after on-field collision",
-      "summary_zh": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match."
     },
     {
       "id": "418192530aa6cbff",
@@ -365,6 +347,40 @@
       "summary_zh": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble."
     },
     {
+      "id": "939ba60173c588f6",
+      "title": "Afghan Woman Is Among Dozens to Be Deported to Afghanistan",
+      "summary": "The Trump administration has arranged a flight to send dozens of Afghan immigrants back to Afghanistan, despite the risk of persecution by the Taliban.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html",
+      "image_url": null,
+      "published_at": "2026-11-03T20:57:48.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Afghan Woman Is Among Dozens to Be Deported to Afghanistan",
+      "summary_zh": "The Trump administration has arranged a flight to send dozens of Afghan immigrants back to Afghanistan, despite the risk of persecution by the Taliban."
+    },
+    {
+      "id": "6007b16e9f706874",
+      "title": "West Bank Property Sales Tactics Face a Challenge in Canada",
+      "summary": "The marketing practices of some firms promoting property in the Israeli-occupied territory to foreign purchasers are deceptive, a recent filing claims.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/03/world/canada/canada-west-bank-lawsuit.html",
+      "image_url": null,
+      "published_at": "2026-11-03T20:58:18.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "West Bank Property Sales Tactics Face a Challenge in Canada",
+      "summary_zh": "The marketing practices of some firms promoting property in the Israeli-occupied territory to foreign purchasers are deceptive, a recent filing claims."
+    },
+    {
       "id": "2472d1d64f9ac75a",
       "title": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
       "summary": "The energy-rich Gulf Arab countries are engaged in a flurry of mediation efforts to avert war between the U.S. and Iran, as many fear that the fighting will be worse this time around.",
@@ -401,24 +417,6 @@
       "summary_zh": "The weapons have become the No. 1 killer of civilians this year, according to the United Nations, devastating a population already overwhelmed by famine and drought."
     },
     {
-      "id": "2588181cd1f615fe",
-      "title": "Australian Court Hears Challenge to Social Media Ban",
-      "summary": "Reddit and an Australian digital advocacy group are claiming a law that restricts children younger than 16 from popular platforms infringes on their constitutional rights.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/03/world/asia/australia-social-media-ban-high-court.html",
-      "image_url": null,
-      "published_at": "2026-11-03T09:24:40.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Australian Court Hears Challenge to Social Media Ban",
-      "summary_zh": "Reddit and an Australian digital advocacy group are claiming a law that restricts children younger than 16 from popular platforms infringes on their constitutional rights."
-    },
-    {
       "id": "62407d99b47ae5d1",
       "title": "Recent Quant Links from Quantocracy as of 10/12/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools",
@@ -433,6 +431,25 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/12/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools"
+    },
+    {
+      "id": "321f0f712c75c14a",
+      "title": "What happens if North Korea steals Wall Street's tokenized assets next",
+      "summary": "The $6.3 billion Binance hack showed how quickly cryptocurrencies can disappear on blockchain rails. Tokenized securities may offer better recourse than crypto after a theft, but the markets around them can still break down when stress hits.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
+      "image_url": null,
+      "published_at": "2026-11-03T23:00:07.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "What happens if North Korea steals Wall Street's tokenized assets next",
+      "summary_zh": "The $6.3 billion Binance hack showed how quickly cryptocurrencies can disappear on blockchain rails. Tokenized securities may offer better recourse than crypto after a theft, but the markets around them can still break down when stress hits."
     },
     {
       "id": "155fda7c67f7fbf7",
@@ -451,24 +468,6 @@
       "region": "global",
       "title_zh": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
       "summary_zh": "Lee Jae Myung said he wants a government-wide agency to tackle cyberattacks as AI raises security concerns across financial institutions and critical infrastructure."
-    },
-    {
-      "id": "df8aaf8200de6ce4",
-      "title": "Binance net outflows reach $5.3 billion after record hack. CEO says recovery underway",
-      "summary": "Nearly $11 billion left the exchange over 46 hours, although CEO Richard Teng said hourly deposits were beginning to exceed withdrawals.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery",
-      "image_url": null,
-      "published_at": "2026-11-03T12:57:28.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Binance net outflows reach $5.3 billion after record hack. CEO says recovery underway",
-      "summary_zh": "Nearly $11 billion left the exchange over 46 hours, although CEO Richard Teng said hourly deposits were beginning to exceed withdrawals."
     },
     {
       "id": "3362028b1048158f",
@@ -542,52 +541,14 @@
       "summary_zh": "NEAR's House of Stake passed HSP-029, which lowers the network's maximum annual issuance rate from 2.5% to 1.6% over 24 months."
     },
     {
-      "id": "85c4c877e0c4b2de",
-      "title": "Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports",
-      "summary": "North Korea is now reportedly saying it was not behind the hack, despite the FBI finding that North Korean hackers were behind the heist.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344",
-      "image_url": null,
-      "published_at": "2026-11-02T22:26:06.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports",
-      "summary_zh": "North Korea is now reportedly saying it was not behind the hack, despite the FBI finding that North Korean hackers were behind the heist."
-    },
-    {
-      "id": "5afe3d29d219a15c",
-      "title": "Trending Crypto: Super Pepe (SP)",
-      "summary": "CoinGecko trending rank #910.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/super-pepe",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102179845/large/logo.png?1793198508",
-      "published_at": "2026-11-03T18:08:12.939Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "sp"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Super Pepe (SP)",
-      "summary_zh": "CoinGecko trending rank #910."
-    },
-    {
-      "id": "5a4dbb26f17a7b3f",
+      "id": "6ea129eea31f221f",
       "title": "Trending Crypto: AudaCity (DACITYCOIN)",
-      "summary": "CoinGecko trending rank #878.",
+      "summary": "CoinGecko trending rank #860.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/audacity-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179969/large/logo.jpg?1793537802",
-      "published_at": "2026-11-03T18:08:12.939Z",
+      "published_at": "2026-11-03T23:45:09.099Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -597,57 +558,17 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: AudaCity (DACITYCOIN)",
-      "summary_zh": "CoinGecko trending rank #878."
+      "summary_zh": "CoinGecko trending rank #860."
     },
     {
-      "id": "59c279c7fa29f9ae",
-      "title": "Trending Crypto: Pearl (PEARL)",
-      "summary": "CoinGecko trending rank #100.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-11-03T18:08:12.939Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pearl"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Pearl (PEARL)",
-      "summary_zh": "CoinGecko trending rank #100."
-    },
-    {
-      "id": "e195c9d5527b910b",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #113.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-11-03T18:08:12.939Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pengu"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #113."
-    },
-    {
-      "id": "042f0014b0d163bd",
+      "id": "63c3e50c156c65bf",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-03T18:08:12.939Z",
+      "published_at": "2026-11-03T23:45:09.099Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -658,6 +579,101 @@
       "region": "global",
       "title_zh": "Trending Crypto: Bitcoin (BTC)",
       "summary_zh": "CoinGecko trending rank #1."
+    },
+    {
+      "id": "792505aa15d6d501",
+      "title": "Trending Crypto: Aerodrome Finance (AERO)",
+      "summary": "CoinGecko trending rank #111.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/aerodrome-finance",
+      "image_url": "https://coin-images.coingecko.com/coins/images/31745/large/token.png?1696530564",
+      "published_at": "2026-11-03T23:45:09.099Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "aero"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Aerodrome Finance (AERO)",
+      "summary_zh": "CoinGecko trending rank #111."
+    },
+    {
+      "id": "fcb27888b255c00a",
+      "title": "Trending Crypto: Lighter (LIT)",
+      "summary": "CoinGecko trending rank #79.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/lighter",
+      "image_url": "https://coin-images.coingecko.com/coins/images/71121/large/lighter.png?1765888098",
+      "published_at": "2026-11-03T23:45:09.099Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "lit"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Lighter (LIT)",
+      "summary_zh": "CoinGecko trending rank #79."
+    },
+    {
+      "id": "b8ee1b73d492cbc2",
+      "title": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary": "CoinGecko trending rank #21.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/near",
+      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
+      "published_at": "2026-11-03T23:45:09.099Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "near"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary_zh": "CoinGecko trending rank #21."
+    },
+    {
+      "id": "f47c84bac36d33df",
+      "title": "Accelerating engineering for the physical world",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "image_url": null,
+      "published_at": "2026-11-03T12:00:00.000Z",
+      "importance_score": 52,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Accelerating engineering for the physical world",
+      "summary_zh": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
+    },
+    {
+      "id": "99968f202a80b7d6",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "image_url": null,
+      "published_at": "2026-11-03T00:00:00.000Z",
+      "importance_score": 52,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global",
+      "title_zh": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "summary_zh": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
     },
     {
       "id": "75433585528b1de6",
@@ -784,23 +800,23 @@
       "summary_zh": "Liquid Network said its bitcoin reserves are back to full backing after September's exploit, with Blockstream providing the funds."
     },
     {
-      "id": "ad052f4760057606",
-      "title": "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
-      "summary": "Brazil's largest crypto exchange Mercado Bitcoin confirmed earlier Monday a security incident and paused withdrawals.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
+      "id": "62b80a38eb3e1965",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/cisco-cyber",
       "image_url": null,
-      "published_at": "2026-11-02T20:19:49.000Z",
-      "importance_score": 50,
+      "published_at": "2026-11-03T08:00:00.000Z",
+      "importance_score": 46,
       "sentiment": 0,
       "tags": [
-        "crypto",
-        "bitcoin"
+        "ai",
+        "openai"
       ],
       "region": "global",
-      "title_zh": "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
-      "summary_zh": "Brazil's largest crypto exchange Mercado Bitcoin confirmed earlier Monday a security incident and paused withdrawals."
+      "title_zh": "How Cisco defends at machine speed with OpenAI",
+      "summary_zh": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
     },
     {
       "id": "14eb028655c0f3e0",
@@ -956,6 +972,22 @@
       "summary_zh": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers."
     },
     {
+      "id": "df848d6d445a4e5e",
+      "title": "Building connections across the research infrastructure",
+      "summary": "MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103",
+      "image_url": null,
+      "published_at": "2026-11-03T19:30:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Building connections across the research infrastructure",
+      "summary_zh": "MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected."
+    },
+    {
       "id": "882e279a5a09ab42",
       "title": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
       "summary": "Five MIT faculty members and two additional alumni are honored with fellowships to advance research on beneficial AI.",
@@ -1017,7 +1049,7 @@
       "source_name": "CNBC Finance",
       "source_url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
       "image_url": null,
-      "published_at": "2026-11-03T15:19:38.000Z",
+      "published_at": "2026-11-03T18:21:05.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1040,6 +1072,42 @@
       "region": "global",
       "title_zh": "Kalshi valuation jumps to $40 billion in latest funding round",
       "summary_zh": "The prediction market platform one year ago was valued at $5 billion."
+    },
+    {
+      "id": "bedfea1822272b8e",
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-03T22:45:59.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Spanish transport minister resigns days after deadly train crash",
+      "summary_zh": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid."
+    },
+    {
+      "id": "5749261316eb0d66",
+      "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+      "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-03T21:53:38.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "NTSB says crucial plane parts found three miles from Florida crash site",
+      "summary_zh": "The NTSB said because the parts were found far from the accident site, they fell off before the crash."
     },
     {
       "id": "ce1ae5a53066e696",
@@ -1128,24 +1196,6 @@
       "summary_zh": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer."
     },
     {
-      "id": "8089143ac8101da8",
-      "title": "US urges Venezuela to release remaining political prisoners",
-      "summary": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-03T12:09:20.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "US urges Venezuela to release remaining political prisoners",
-      "summary_zh": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'."
-    },
-    {
       "id": "3eece061e8bc6400",
       "title": "Poland Beefs Up Security at Border With Russia",
       "summary": "Prime Minister Donald Tusk said there had been “disturbing movement” in Kaliningrad, a Russian region just north of Poland.",
@@ -1153,7 +1203,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html",
       "image_url": null,
-      "published_at": "2026-11-03T17:35:45.000Z",
+      "published_at": "2026-11-03T18:18:07.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1184,12 +1234,12 @@
     {
       "id": "d1719878aea00930",
       "title": "King Charles Says U.K.’s Role in Slave Trade ‘Fills My Heart With Horror’",
-      "summary": "The monarch called Britain’s trafficking of slaves from Africa a “shameful chapter of history” at a meeting of Commonwealth heads of government in Antigua.",
+      "summary": "The monarch called Britain’s trafficking of enslaved people from Africa a “shameful chapter of history” at a meeting of Commonwealth heads of government in Antigua.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/03/world/europe/king-charles-speech-uk-slave-trade-antigua.html",
       "image_url": null,
-      "published_at": "2026-11-03T15:33:45.000Z",
+      "published_at": "2026-11-03T22:19:16.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1197,7 +1247,7 @@
       ],
       "region": "global",
       "title_zh": "King Charles Says U.K.’s Role in Slave Trade ‘Fills My Heart With Horror’",
-      "summary_zh": "The monarch called Britain’s trafficking of slaves from Africa a “shameful chapter of history” at a meeting of Commonwealth heads of government in Antigua."
+      "summary_zh": "The monarch called Britain’s trafficking of enslaved people from Africa a “shameful chapter of history” at a meeting of Commonwealth heads of government in Antigua."
     },
     {
       "id": "f93d71222c927fb9",
@@ -1225,7 +1275,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html",
       "image_url": null,
-      "published_at": "2026-11-03T14:09:33.000Z",
+      "published_at": "2026-11-03T21:30:27.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1252,22 +1302,41 @@
       "summary_zh": "Arab lawmakers give opponents of Benjamin Netanyahu a clear majority in the Parliament. But many Jewish lawmakers are trying to avoid relying on them."
     },
     {
-      "id": "8726f5cfec189697",
-      "title": "Russian Strike on Ukraine Humanitarian Hub Kills Dozens",
-      "summary": "The strike in the Zaporizhzhia region came a day after a brief humanitarian truce ended in neighboring Kherson.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html",
+      "id": "d843afbfe7972542",
+      "title": "What voters said about their views on crypto",
+      "summary": "A CoinDesk-commissioned poll from April sheds light on how voters — who aren't necessarily part of the crypto sector — view this industry.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
       "image_url": null,
-      "published_at": "2026-11-02T20:50:14.000Z",
-      "importance_score": 46,
+      "published_at": "2026-11-03T23:19:44.000Z",
+      "importance_score": 44,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "ai",
+        "crypto"
       ],
       "region": "global",
-      "title_zh": "Russian Strike on Ukraine Humanitarian Hub Kills Dozens",
-      "summary_zh": "The strike in the Zaporizhzhia region came a day after a brief humanitarian truce ended in neighboring Kherson."
+      "title_zh": "What voters said about their views on crypto",
+      "summary_zh": "A CoinDesk-commissioned poll from April sheds light on how voters — who aren't necessarily part of the crypto sector — view this industry."
+    },
+    {
+      "id": "781a3d032eaa682e",
+      "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
+      "summary": "A group backed by Citadel Securities and other firms sued the U.S. derivatives regulator for opening a path for perps that it argued belong in the SEC's hands.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+      "image_url": null,
+      "published_at": "2026-11-03T22:14:44.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
+      "summary_zh": "A group backed by Citadel Securities and other firms sued the U.S. derivatives regulator for opening a path for perps that it argued belong in the SEC's hands."
     },
     {
       "id": "e1d3210e75862129",
@@ -1320,23 +1389,36 @@
       "summary_zh": "Governance group Open Standard will charge a 0.1 basis point management fee on payment volume, capped at at $0.01 per payment."
     },
     {
-      "id": "ce81384ce6b2ae08",
-      "title": "LO:TECH raises $12 million to expand crypto trading into U.S. and Asia",
-      "summary": "LO:TECH is betting on round-the-clock tokenized stock trading but didn’t say if it trades them now; a WFE study found stock exchanges still set prices.",
+      "id": "19c8b67cedb33b67",
+      "title": "SEC division views Canton Coin as digital commodity in no-action letter",
+      "summary": "SEC's Division of Corporation Finance won't recommend enforcement over Canton Coin's programmatic issuance, calling CC a digital commodity.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/03/lo-tech-raises-usd12-million-to-expand-crypto-trading-into-u-s-and-asia",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492",
       "image_url": null,
-      "published_at": "2026-11-03T14:00:00.000Z",
+      "published_at": "2026-11-03T22:11:51.000Z",
       "importance_score": 44,
       "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "LO:TECH raises $12 million to expand crypto trading into U.S. and Asia",
-      "summary_zh": "LO:TECH is betting on round-the-clock tokenized stock trading but didn’t say if it trades them now; a WFE study found stock exchanges still set prices."
+      "title_zh": "SEC division views Canton Coin as digital commodity in no-action letter",
+      "summary_zh": "SEC's Division of Corporation Finance won't recommend enforcement over Canton Coin's programmatic issuance, calling CC a digital commodity."
+    },
+    {
+      "id": "c2fb079d8064ffad",
+      "title": "Prediction markets bet on Democratic sweep of House, Senate in midterm elections",
+      "summary": "Ahead of polls closing across the U.S., bettors on prediction markes are increasingly pricing in Democrats taking both the House and Senate.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461",
+      "image_url": null,
+      "published_at": "2026-11-03T18:30:31.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Prediction markets bet on Democratic sweep of House, Senate in midterm elections",
+      "summary_zh": "Ahead of polls closing across the U.S., bettors on prediction markes are increasingly pricing in Democrats taking both the House and Senate."
     },
     {
       "id": "cd7039b64faffd46",
@@ -1355,24 +1437,6 @@
       "region": "global",
       "title_zh": "CFTC approves individual stock perpetual futures trading in US for the first time",
       "summary_zh": "The CFTC approved the ability for exchanges in the U.S. to offer perpetual futures contracts tied to individual stocks."
-    },
-    {
-      "id": "c1a7ff750ab59d18",
-      "title": "Ark Invest buys $3.4 million in Coinbase, adds Circle and Robinhood as stocks trade lower",
-      "summary": "Cathie Wood's Ark Invest bought $3.4 million of Coinbase shares, $2.6 million of Circle, and $645,820 of Robinhood on Monday.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-02-ark-invest-buys-coinbase-circle-robinhood-432352",
-      "image_url": null,
-      "published_at": "2026-11-03T02:57:33.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "stocks"
-      ],
-      "region": "global",
-      "title_zh": "Ark Invest buys $3.4 million in Coinbase, adds Circle and Robinhood as stocks trade lower",
-      "summary_zh": "Cathie Wood's Ark Invest bought $3.4 million of Coinbase shares, $2.6 million of Circle, and $645,820 of Robinhood on Monday."
     },
     {
       "id": "fa53719e0641a40b",
@@ -1486,62 +1550,6 @@
       "region": "global",
       "title_zh": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
       "summary_zh": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies."
-    },
-    {
-      "id": "6f62d61514d53926",
-      "title": "Qodo builds context into AI code review with Codex",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/qodo-codex-plugin",
-      "image_url": null,
-      "published_at": "2026-11-02T00:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Qodo builds context into AI code review with Codex",
-      "summary_zh": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
-    },
-    {
-      "id": "0652becfb3d2a95a",
-      "title": "Making it easier for websites to express AI training preferences",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "image_url": null,
-      "published_at": "2026-10-30T09:30:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "Making it easier for websites to express AI training preferences",
-      "summary_zh": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
-    },
-    {
-      "id": "8fe9e2ee17f8768d",
-      "title": "Community safety report and new protections for teens",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "image_url": null,
-      "published_at": "2026-10-30T09:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "Community safety report and new protections for teens",
-      "summary_zh": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
     },
     {
       "id": "cf1818e3f02380d9",
@@ -1784,24 +1792,6 @@
       "region": "global",
       "title_zh": "At New York Climate Week 2026, MIT connects with a global network",
       "summary_zh": "A cross-section of the MIT community convened discussions on topics ranging from data centers and super pollutants to agriculture and education."
-    },
-    {
-      "id": "066c333a97ff7401",
-      "title": "Reinforcing the value of human understanding at MIT",
-      "summary": "During the School of Humanities, Arts, and Social Sciences’ 75th Anniversary Symposium, President Sally Kornbluth said “MIT has never needed your particular insight and guidance more than we do now.”",
-      "category": "AI",
-      "source_name": "MIT News AI",
-      "source_url": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023",
-      "image_url": null,
-      "published_at": "2026-10-23T19:35:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Reinforcing the value of human understanding at MIT",
-      "summary_zh": "During the School of Humanities, Arts, and Social Sciences’ 75th Anniversary Symposium, President Sally Kornbluth said “MIT has never needed your particular insight and guidance more than we do now.”"
     },
     {
       "id": "d32a74ece012258e",
