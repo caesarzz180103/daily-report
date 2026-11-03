@@ -1,5 +1,10 @@
 [
   {
+    "generated_at": "2026-11-03T10:14:43.207Z",
+    "path": "data/history/2026-11-03/10.json",
+    "total": 105
+  },
+  {
     "generated_at": "2026-11-03T02:46:13.472Z",
     "path": "data/history/2026-11-03/02.json",
     "total": 105
@@ -2493,10 +2498,5 @@
     "generated_at": "2026-08-03T07:45:44.543Z",
     "path": "data/history/2026-08-03/07.json",
     "total": 105
-  },
-  {
-    "generated_at": "2026-08-02T23:48:14.823Z",
-    "path": "data/history/2026-08-02/23.json",
-    "total": 95
   }
 ]
