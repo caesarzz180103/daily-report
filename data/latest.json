@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T11:42:50.572Z",
+  "generated_at": "2026-11-04T19:00:33.974Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains；【AI】Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery；【FINANCE】Fed officials are already saying they’ll need to get back to hiking rates。",
   "meta": {
     "sources_count": 11,
@@ -76,44 +76,6 @@
       "summary_zh": "The comments from Federal Reserve Presidents Alberto Musalem and Lorie Logan offer the first morsels of insight into what leaders at the Fed see happening next."
     },
     {
-      "id": "7eb8e9d1c833ed48",
-      "title": "Democrats surge toward Senate, House majorities, with crypto braced for new direction",
-      "summary": "The dominance of Republicans in all three government branches has been broken by the midterms, and the industry will feel the result as Congress changes hands.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction",
-      "image_url": null,
-      "published_at": "2026-11-04T04:55:11.000Z",
-      "importance_score": 68,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Democrats surge toward Senate, House majorities, with crypto braced for new direction",
-      "summary_zh": "The dominance of Republicans in all three government branches has been broken by the midterms, and the industry will feel the result as Congress changes hands."
-    },
-    {
-      "id": "0bef77aabfe774f5",
-      "title": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
-      "summary": "In his first interview since the Binance hack, Changpeng Zhao says AI is accelerating cyberattacks and calls for industry security alliance.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458",
-      "image_url": null,
-      "published_at": "2026-11-03T20:43:38.000Z",
-      "importance_score": 68,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
-      "summary_zh": "In his first interview since the Binance hack, Changpeng Zhao says AI is accelerating cyberattacks and calls for industry security alliance."
-    },
-    {
       "id": "d9adeb1054d16d36",
       "title": "Granite Switch 4.1.1 — Update models like you update software",
       "summary": "",
@@ -150,30 +112,14 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/24/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Shorting Leveraged ETFs: Role of Borrowing Costs and Rebalancing in Volatility-Decay Strategies [Quantpedia] Leveraged ET"
     },
     {
-      "id": "b8ed5ea0d61ba678",
-      "title": "Morgan Stanley says it is among the first banks to tokenize real world assets",
-      "summary": "The bank's announcement follows the launch of the Depository Trust & Clearing Corporation’s Tokenization Service, or DTS, on Oct. 28.",
+      "id": "e472da1950bd5009",
+      "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
+      "summary": "North Korea’s TraderTraitor is routing Binance hack proceeds through THORChain, swapping ether for bitcoin after an earlier wave of conversions from Tron.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain",
+      "source_url": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
       "image_url": null,
-      "published_at": "2026-11-04T09:22:58.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Morgan Stanley says it is among the first banks to tokenize real world assets",
-      "summary_zh": "The bank's announcement follows the launch of the Depository Trust & Clearing Corporation’s Tokenization Service, or DTS, on Oct. 28."
-    },
-    {
-      "id": "37a47e966743842d",
-      "title": "Bitcoin surges to $78,300 in V-shaped comeback as midterm election uncertainty fades",
-      "summary": "BTC is steaming higher as U.S. midterm election uncertainty fades.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
-      "image_url": null,
-      "published_at": "2026-11-04T06:16:40.000Z",
+      "published_at": "2026-11-04T12:49:56.000Z",
       "importance_score": 62,
       "sentiment": 0,
       "tags": [
@@ -181,27 +127,26 @@
         "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Bitcoin surges to $78,300 in V-shaped comeback as midterm election uncertainty fades",
-      "summary_zh": "BTC is steaming higher as U.S. midterm election uncertainty fades."
+      "title_zh": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
+      "summary_zh": "North Korea’s TraderTraitor is routing Binance hack proceeds through THORChain, swapping ether for bitcoin after an earlier wave of conversions from Tron."
     },
     {
-      "id": "794e4bff6fde5e8c",
-      "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
-      "summary": "The proposed agreement would resolve a federal anti-money-laundering investigation, while lower Cash App trading fees halved Block's quarterly bitcoin gross profit.",
+      "id": "7fe688a7485db485",
+      "title": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
+      "summary": "The $1 trillion-plus asset manager brings its emerging markets bond strategy to Solana, expanding the range of onchain actively managed funds.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878",
       "image_url": null,
-      "published_at": "2026-11-04T06:06:04.000Z",
+      "published_at": "2026-11-04T16:27:49.000Z",
       "importance_score": 62,
       "sentiment": 0,
       "tags": [
-        "bitcoin",
-        "fed"
+        "ai"
       ],
       "region": "global",
-      "title_zh": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
-      "summary_zh": "The proposed agreement would resolve a federal anti-money-laundering investigation, while lower Cash App trading fees halved Block's quarterly bitcoin gross profit."
+      "title_zh": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
+      "summary_zh": "The $1 trillion-plus asset manager brings its emerging markets bond strategy to Solana, expanding the range of onchain actively managed funds."
     },
     {
       "id": "6665305fecaa4be4",
@@ -312,6 +257,61 @@
       "summary_zh": "Aon CEO Greg Case said concentration risk at AI data centers could constrain insurance capacity and alter financing for new projects."
     },
     {
+      "id": "7c8e954ceecaa202",
+      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-04T16:26:15.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "summary_zh": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers."
+    },
+    {
+      "id": "1993ecd4e61669f6",
+      "title": "'Most difficult days of my life' for keeper Owono",
+      "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-04T16:40:38.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "'Most difficult days of my life' for keeper Owono",
+      "summary_zh": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death."
+    },
+    {
+      "id": "4c9f0acf99ca2052",
+      "title": "Israel's president begins consultations with parties after election deadlock",
+      "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-04T16:18:21.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Israel's president begins consultations with parties after election deadlock",
+      "summary_zh": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election."
+    },
+    {
       "id": "0e13c52341e1b850",
       "title": "Iran's chief negotiator says Americans voted 'no to war'",
       "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
@@ -319,7 +319,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-04T10:11:39.000Z",
+      "published_at": "2026-11-04T16:59:15.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -330,22 +330,22 @@
       "summary_zh": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat."
     },
     {
-      "id": "7bfaa4330dd5814e",
-      "title": "Countries Weigh, and Worry About, What Trump Will Do After Midterm Defeat",
-      "summary": "Commentators abroad wondered what the president’s electoral losses might mean for oil prices, the war on Iran and the end of the Trump era.",
+      "id": "ae2f6f2770bca2f3",
+      "title": "What Trump’s Midterm Defeat Means for Iran and Oil Prices",
+      "summary": "Commentators abroad wondered what President Trump’s electoral losses might mean for oil prices, the war on Iran and the future of American politics.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
       "image_url": null,
-      "published_at": "2026-11-04T10:18:37.000Z",
+      "published_at": "2026-11-04T17:51:20.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
         "war"
       ],
       "region": "global",
-      "title_zh": "Countries Weigh, and Worry About, What Trump Will Do After Midterm Defeat",
-      "summary_zh": "Commentators abroad wondered what the president’s electoral losses might mean for oil prices, the war on Iran and the end of the Trump era."
+      "title_zh": "What Trump’s Midterm Defeat Means for Iran and Oil Prices",
+      "summary_zh": "Commentators abroad wondered what President Trump’s electoral losses might mean for oil prices, the war on Iran and the future of American politics."
     },
     {
       "id": "9c41f642561ecdf8",
@@ -355,7 +355,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
       "image_url": null,
-      "published_at": "2026-11-03T23:04:05.000Z",
+      "published_at": "2026-11-04T16:26:32.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -400,24 +400,6 @@
       "summary_zh": "The Trump administration has arranged a flight to send dozens of Afghan immigrants back to Afghanistan, despite the risk of persecution by the Taliban."
     },
     {
-      "id": "2472d1d64f9ac75a",
-      "title": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
-      "summary": "The energy-rich Gulf Arab countries are engaged in a flurry of mediation efforts to avert war between the U.S. and Iran, as many fear that the fighting will be worse this time around.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
-      "image_url": null,
-      "published_at": "2026-11-04T03:39:11.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
-      "summary_zh": "The energy-rich Gulf Arab countries are engaged in a flurry of mediation efforts to avert war between the U.S. and Iran, as many fear that the fighting will be worse this time around."
-    },
-    {
       "id": "62407d99b47ae5d1",
       "title": "Recent Quant Links from Quantocracy as of 10/12/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools",
@@ -434,41 +416,95 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools"
     },
     {
-      "id": "1d2a0de149253e84",
-      "title": "ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft",
-      "summary": "Blockchain sleuth ZachXBT says the French bank may have lost more than $133 million from crypto exchange accounts. Crypto.com confirms it has blocked funds linked to the theft.",
+      "id": "8debe59b2f480a6e",
+      "title": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
+      "summary": "Industry experts warn the Clarity Act is likely dead in its current form as incoming Democratic majorities eye tighter scrutiny of crypto markets and tokenized stocks.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
+      "source_url": "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin",
       "image_url": null,
-      "published_at": "2026-11-04T10:18:50.000Z",
+      "published_at": "2026-11-04T16:11:29.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
         "ai",
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft",
-      "summary_zh": "Blockchain sleuth ZachXBT says the French bank may have lost more than $133 million from crypto exchange accounts. Crypto.com confirms it has blocked funds linked to the theft."
-    },
-    {
-      "id": "f181ed135c5152a3",
-      "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
-      "summary": "The committee withdrew its proposal after community backlash, leaving competing plans to cut off its funding or preserve the existing grants system.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards",
-      "image_url": null,
-      "published_at": "2026-11-04T08:04:04.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
+        "crypto",
+        "stocks",
         "war"
       ],
       "region": "global",
-      "title_zh": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
-      "summary_zh": "The committee withdrew its proposal after community backlash, leaving competing plans to cut off its funding or preserve the existing grants system."
+      "title_zh": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
+      "summary_zh": "Industry experts warn the Clarity Act is likely dead in its current form as incoming Democratic majorities eye tighter scrutiny of crypto markets and tokenized stocks."
+    },
+    {
+      "id": "d215b641011dfd76",
+      "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
+      "summary": "The biggest losers, so far, are the AI data center stocks following victories for several candidates who campaigned expressly against the sector.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
+      "image_url": null,
+      "published_at": "2026-11-04T14:00:53.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin",
+        "stocks"
+      ],
+      "region": "global",
+      "title_zh": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
+      "summary_zh": "The biggest losers, so far, are the AI data center stocks following victories for several candidates who campaigned expressly against the sector."
+    },
+    {
+      "id": "221e6363d0ac8eab",
+      "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
+      "summary": "The global asset manager, which oversees $1.1 trillion in assets, is bringing an actively managed bond strategy onchain through tokenization specialist Centrifuge.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
+      "image_url": null,
+      "published_at": "2026-11-04T13:00:00.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Global asset manager Schroders brings emerging market bond fund to Solana",
+      "summary_zh": "The global asset manager, which oversees $1.1 trillion in assets, is bringing an actively managed bond strategy onchain through tokenization specialist Centrifuge."
+    },
+    {
+      "id": "539a0a4cfd3b3eca",
+      "title": "Circle beats earnings expectations on strong revenue, but cuts 5% of its workforce",
+      "summary": "Circle’s net income for continuing operations of $226 million grew 5% year-over-year to $226 million in the third quarter.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume",
+      "image_url": null,
+      "published_at": "2026-11-04T12:33:54.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Circle beats earnings expectations on strong revenue, but cuts 5% of its workforce",
+      "summary_zh": "Circle’s net income for continuing operations of $226 million grew 5% year-over-year to $226 million in the third quarter."
+    },
+    {
+      "id": "0542ed77bf68bec1",
+      "title": "Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach",
+      "summary": "Coinbase says 99% of customer assets are in cold storage and it wasn't affected by the $6.3 billion Binance hack.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
+      "image_url": null,
+      "published_at": "2026-11-04T16:58:42.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach",
+      "summary_zh": "Coinbase says 99% of customer assets are in cold storage and it wasn't affected by the $6.3 billion Binance hack."
     },
     {
       "id": "caf583433dde735d",
@@ -507,33 +543,14 @@
       "summary_zh": "ZachXBT said he has a 'high degree of confidence' that the attacker is not associated with North Korea's Lazarus Group."
     },
     {
-      "id": "3362028b1048158f",
-      "title": "Justin Sun seeks sanctions against World Liberty, alleging Trump-linked firm hid UAE ties",
-      "summary": "Sun says World Liberty Financial hid its UAE citizenship to escape federal court, and plans to refile his $45M lawsuit in California state court.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439",
-      "image_url": null,
-      "published_at": "2026-11-03T16:08:14.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "fed"
-      ],
-      "region": "global",
-      "title_zh": "Justin Sun seeks sanctions against World Liberty, alleging Trump-linked firm hid UAE ties",
-      "summary_zh": "Sun says World Liberty Financial hid its UAE citizenship to escape federal court, and plans to refile his $45M lawsuit in California state court."
-    },
-    {
-      "id": "20c61429ca91e441",
+      "id": "d1f4c274f933b345",
       "title": "Trending Crypto: AudaCity (DACITYCOIN)",
-      "summary": "CoinGecko trending rank #830.",
+      "summary": "CoinGecko trending rank #802.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/audacity-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179969/large/logo.jpg?1793537802",
-      "published_at": "2026-11-04T11:41:37.225Z",
+      "published_at": "2026-11-04T18:59:23.478Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -543,87 +560,87 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: AudaCity (DACITYCOIN)",
-      "summary_zh": "CoinGecko trending rank #830."
+      "summary_zh": "CoinGecko trending rank #802."
     },
     {
-      "id": "4c03a0340518f815",
-      "title": "Trending Crypto: Lighter (LIT)",
-      "summary": "CoinGecko trending rank #77.",
+      "id": "8c7b447cc0b2e554",
+      "title": "Trending Crypto: Pearl (PEARL)",
+      "summary": "CoinGecko trending rank #99.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/lighter",
-      "image_url": "https://coin-images.coingecko.com/coins/images/71121/large/lighter.png?1765888098",
-      "published_at": "2026-11-04T11:41:37.225Z",
+      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
+      "published_at": "2026-11-04T18:59:23.478Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "lit"
+        "pearl"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Lighter (LIT)",
-      "summary_zh": "CoinGecko trending rank #77."
+      "title_zh": "Trending Crypto: Pearl (PEARL)",
+      "summary_zh": "CoinGecko trending rank #99."
     },
     {
-      "id": "4ede4bf511176816",
-      "title": "Trending Crypto: Bittensor (TAO)",
-      "summary": "CoinGecko trending rank #38.",
+      "id": "561ea24bdbd57b94",
+      "title": "Trending Crypto: Ethereum (ETH)",
+      "summary": "CoinGecko trending rank #2.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bittensor",
-      "image_url": "https://coin-images.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg?1696527447",
-      "published_at": "2026-11-04T11:41:37.225Z",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum",
+      "image_url": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+      "published_at": "2026-11-04T18:59:23.478Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "tao"
+        "eth"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Bittensor (TAO)",
-      "summary_zh": "CoinGecko trending rank #38."
+      "title_zh": "Trending Crypto: Ethereum (ETH)",
+      "summary_zh": "CoinGecko trending rank #2."
     },
     {
-      "id": "4bd539a04037b025",
-      "title": "Trending Crypto: Aerodrome Finance (AERO)",
-      "summary": "CoinGecko trending rank #148.",
+      "id": "57f43b09e956a776",
+      "title": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary": "CoinGecko trending rank #21.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/aerodrome-finance",
-      "image_url": "https://coin-images.coingecko.com/coins/images/31745/large/token.png?1696530564",
-      "published_at": "2026-11-04T11:41:37.225Z",
+      "source_url": "https://www.coingecko.com/en/coins/near",
+      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
+      "published_at": "2026-11-04T18:59:23.478Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "aero"
+        "near"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Aerodrome Finance (AERO)",
-      "summary_zh": "CoinGecko trending rank #148."
+      "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary_zh": "CoinGecko trending rank #21."
     },
     {
-      "id": "00e108e0329f2f14",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #111.",
+      "id": "5441237988ae6a01",
+      "title": "Trending Crypto: Official Trump (TRUMP)",
+      "summary": "CoinGecko trending rank #121.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-11-04T11:41:37.225Z",
+      "source_url": "https://www.coingecko.com/en/coins/official-trump",
+      "image_url": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561",
+      "published_at": "2026-11-04T18:59:23.478Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pengu"
+        "trump"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #111."
+      "title_zh": "Trending Crypto: Official Trump (TRUMP)",
+      "summary_zh": "CoinGecko trending rank #121."
     },
     {
       "id": "f47c84bac36d33df",
@@ -746,6 +763,25 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 10/18/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Less Wrong [Quantitativo] The biggest risk is that you have a losing strategy when you think you have a winning one. Jeff Y"
     },
     {
+      "id": "cd844222e37b7b52",
+      "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
+      "summary": "Bitcoin miners pivoting to AI face new uncertainty over power access and construction permits, while companies with approved projects could benefit from tighter supply.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
+      "image_url": null,
+      "published_at": "2026-11-04T16:08:14.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "Wall Street rethinks AI data center boom as Texas election raises new risks",
+      "summary_zh": "Bitcoin miners pivoting to AI face new uncertainty over power access and construction permits, while companies with approved projects could benefit from tighter supply."
+    },
+    {
       "id": "086142221094c4ab",
       "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
       "summary": "Bitcoin recovered from a dip to around $75,600 as Democrats won Congress, while DeFi tokens led gains and Trump-linked coins fell.",
@@ -765,24 +801,20 @@
       "summary_zh": "Bitcoin recovered from a dip to around $75,600 as Democrats won Congress, while DeFi tokens led gains and Trump-linked coins fell."
     },
     {
-      "id": "fa20483bcad1ba65",
-      "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
-      "summary": "Russia’s main bourse wants back the crypto trading Russians do abroad, and one of the coins it's listing is issued by a company that freezes wallets on the U.S. sanctions list.",
+      "id": "a2f85220c43edf03",
+      "title": "BitGo launches institutional trading and financial solutions business led by former NYDIG executive",
+      "summary": "BitGo has launched Global Markets, an institutional trading and financial solutions business headed by former NYDIG executive Pete Janney.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-04-bitgo-launches-institutional-trading-and-financial-solutions-business-led-by-former-nydig-executive-432646",
       "image_url": null,
-      "published_at": "2026-11-04T05:14:12.000Z",
+      "published_at": "2026-11-04T12:00:00.000Z",
       "importance_score": 50,
       "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto",
-        "bitcoin"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
-      "summary_zh": "Russia’s main bourse wants back the crypto trading Russians do abroad, and one of the coins it's listing is issued by a company that freezes wallets on the U.S. sanctions list."
+      "title_zh": "BitGo launches institutional trading and financial solutions business led by former NYDIG executive",
+      "summary_zh": "BitGo has launched Global Markets, an institutional trading and financial solutions business headed by former NYDIG executive Pete Janney."
     },
     {
       "id": "62b80a38eb3e1965",
@@ -865,22 +897,6 @@
       "tags": [],
       "region": "global",
       "title_zh": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "summary_zh": ""
-    },
-    {
-      "id": "3d8707803cf64d9f",
-      "title": "Build specialized multimodal models with LFM3",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "image_url": null,
-      "published_at": "2026-10-27T17:16:52.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Build specialized multimodal models with LFM3",
       "summary_zh": ""
     },
     {
@@ -991,20 +1007,20 @@
       "summary_zh": "Five MIT faculty members and two additional alumni are honored with fellowships to advance research on beneficial AI."
     },
     {
-      "id": "72c2cc3d9760de53",
-      "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
-      "summary": "Treasury yields fell on Tuesday night, as investors sought shelter from a sell-off in equity futures sparked by big victories from Democrats in the U.S. midterm elections.",
+      "id": "204648b2a79a613b",
+      "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+      "summary": "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
       "category": "FINANCE",
       "source_name": "CNBC Finance",
       "source_url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
       "image_url": null,
-      "published_at": "2026-11-04T10:02:00.000Z",
+      "published_at": "2026-11-04T17:11:00.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
-      "summary_zh": "Treasury yields fell on Tuesday night, as investors sought shelter from a sell-off in equity futures sparked by big victories from Democrats in the U.S. midterm elections."
+      "title_zh": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+      "summary_zh": "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections."
     },
     {
       "id": "1c96633a115118dc",
@@ -1059,52 +1075,54 @@
       "summary_zh": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress"
     },
     {
-      "id": "c2109133a01a2fd5",
-      "title": "South Carolina elects Democratic senator for first time in almost three decades",
-      "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
+      "id": "1f02f5f49f76167e",
+      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+      "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-04T07:32:02.000Z",
+      "published_at": "2026-11-04T13:33:30.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "South Carolina elects Democratic senator for first time in almost three decades",
-      "summary_zh": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death."
+      "title_zh": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+      "summary_zh": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them."
     },
     {
-      "id": "8660381e7dff31d5",
-      "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-      "summary": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
+      "id": "b242893d8df83e8b",
+      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-04T05:39:36.000Z",
+      "published_at": "2026-11-04T18:01:31.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-      "summary_zh": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas."
+      "title_zh": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "summary_zh": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal."
     },
     {
-      "id": "cb0521aab07fe1dd",
-      "title": "Florida Republicans fend off Democrats as state elects first black governor",
-      "summary": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
+      "id": "4691dd438bef6964",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-04T07:12:21.000Z",
+      "published_at": "2026-11-04T17:45:58.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai"
+      ],
       "region": "global",
-      "title_zh": "Florida Republicans fend off Democrats as state elects first black governor",
-      "summary_zh": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida."
+      "title_zh": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "summary_zh": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says."
     },
     {
       "id": "ef04c414deb486b5",
@@ -1125,6 +1143,22 @@
       "summary_zh": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category."
     },
     {
+      "id": "17bd0afcef06d78a",
+      "title": "Secret police files released in Hungary, 37 years after fall of communism",
+      "summary": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-04T15:28:18.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Secret police files released in Hungary, 37 years after fall of communism",
+      "summary_zh": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish."
+    },
+    {
       "id": "760e24b0213daef1",
       "title": "ANC under pressure to reverse South Africa decline",
       "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
@@ -1132,7 +1166,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-04T00:03:19.000Z",
+      "published_at": "2026-11-04T11:47:44.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1141,70 +1175,20 @@
       "summary_zh": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get."
     },
     {
-      "id": "c999d8a58f1e847d",
-      "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-      "summary": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
+      "id": "2542d1097cbda2dc",
+      "title": "Israel’s President Will Start Talks on Whether Netanyahu or Eisenkot Can Form a Government",
+      "summary": "President Isaac Herzog began meeting with party leaders for two days to decide whether to give Prime Minister Benjamin Netanyahu or rivals the first chance at forming a coalition.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
       "image_url": null,
-      "published_at": "2026-11-04T11:12:15.000Z",
+      "published_at": "2026-11-04T16:13:09.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-      "summary_zh": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo."
-    },
-    {
-      "id": "afb010faab10dd21",
-      "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
-      "summary": "Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-04T02:11:40.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Killer who escaped Tennessee prison captured after week-long manhunt",
-      "summary_zh": "Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence."
-    },
-    {
-      "id": "f8e57202f370c6d5",
-      "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
-      "summary": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-04T03:46:10.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
-      "summary_zh": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\"."
-    },
-    {
-      "id": "bedfea1822272b8e",
-      "title": "Spanish transport minister resigns days after deadly train crash",
-      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-03T22:45:59.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Spanish transport minister resigns days after deadly train crash",
-      "summary_zh": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid."
+      "title_zh": "Israel’s President Will Start Talks on Whether Netanyahu or Eisenkot Can Form a Government",
+      "summary_zh": "President Isaac Herzog began meeting with party leaders for two days to decide whether to give Prime Minister Benjamin Netanyahu or rivals the first chance at forming a coalition."
     },
     {
       "id": "3ea0b4c61bd028c7",
@@ -1232,7 +1216,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
       "image_url": null,
-      "published_at": "2026-11-04T09:43:34.000Z",
+      "published_at": "2026-11-04T13:18:58.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1293,32 +1277,14 @@
       "summary_zh": "Officials are investigating threats against at least seven planes. The aircraft landed safely and no explosives were found, the authorities said."
     },
     {
-      "id": "f40913b4564dfe7a",
-      "title": "Elon Musk floats space data centers as Democratic sweep puts pressure on AI trade",
-      "summary": "Texas election result raises fears of data centre restrictions, while Musk and Palihapitiya draw attention to the space economy.",
+      "id": "16a93d19c95010ff",
+      "title": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
+      "summary": "Retail traders increasingly want trades that resolve fast, from prediction markets to same-day options. Andy Baehr of GSR argues perpetual futures belong in that group, and that ICE’s deal to bring Trade[XYZ]’s Hyperliquid markets onshore is a play for that customer, one that doe",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/04/elon-musk-floats-space-data-centers-as-democratic-sweep-puts-pressure-on-ai-trade",
+      "source_url": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
       "image_url": null,
-      "published_at": "2026-11-04T10:03:33.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Elon Musk floats space data centers as Democratic sweep puts pressure on AI trade",
-      "summary_zh": "Texas election result raises fears of data centre restrictions, while Musk and Palihapitiya draw attention to the space economy."
-    },
-    {
-      "id": "b56d8ba8ba24691c",
-      "title": "South Korea's ruling party wants to delay its crypto tax again",
-      "summary": "South Korea's ruling party wants to delay crypto tax by about two years, as it waits for global tax-sharing rules and new digital assets law.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
-      "image_url": null,
-      "published_at": "2026-11-04T05:09:40.000Z",
+      "published_at": "2026-11-04T15:27:20.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
@@ -1326,8 +1292,59 @@
         "crypto"
       ],
       "region": "global",
-      "title_zh": "South Korea's ruling party wants to delay its crypto tax again",
-      "summary_zh": "South Korea's ruling party wants to delay crypto tax by about two years, as it waits for global tax-sharing rules and new digital assets law."
+      "title_zh": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
+      "summary_zh": "Retail traders increasingly want trades that resolve fast, from prediction markets to same-day options. Andy Baehr of GSR argues perpetual futures belong in that group, and that ICE’s deal to bring Trade[XYZ]’s Hyperliquid markets onshore is a play for that customer, one that doe"
+    },
+    {
+      "id": "42408231d1129c9a",
+      "title": "The election changes Washington. The work on crypto continues",
+      "summary": "The next Congress inherits an unfinished assignment: establishing clear, lasting rules for digital assets that protect consumers and ensure American innovation continues to thrive, writes Blockchain Association's Lindsay Fraser.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
+      "image_url": null,
+      "published_at": "2026-11-04T14:25:12.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "The election changes Washington. The work on crypto continues",
+      "summary_zh": "The next Congress inherits an unfinished assignment: establishing clear, lasting rules for digital assets that protect consumers and ensure American innovation continues to thrive, writes Blockchain Association's Lindsay Fraser."
+    },
+    {
+      "id": "15fe2e407c0cd0d3",
+      "title": "Here's how analysts are reacting to the new blue Congress",
+      "summary": "Your day-ahead look for Nov. 4, 2026",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/daybook-us/2026/11/04/here-s-how-analysts-are-reacting-to-the-new-blue-congress",
+      "image_url": null,
+      "published_at": "2026-11-04T12:14:11.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Here's how analysts are reacting to the new blue Congress",
+      "summary_zh": "Your day-ahead look for Nov. 4, 2026"
+    },
+    {
+      "id": "43e8581f0471ce7d",
+      "title": "Circle reports $865 million in Q3 revenue and reserve income, discloses 5% workforce reduction",
+      "summary": "Circle reported $865 million in third-quarter revenue and reserve income and disclosed cuts affecting approximately 5% of its workforce.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-04-circle-reports-865-million-in-q3-revenue-and-reserve-income-discloses-5-workforce-reduction-432671",
+      "image_url": null,
+      "published_at": "2026-11-04T13:17:31.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Circle reports $865 million in Q3 revenue and reserve income, discloses 5% workforce reduction",
+      "summary_zh": "Circle reported $865 million in third-quarter revenue and reserve income and disclosed cuts affecting approximately 5% of its workforce."
     },
     {
       "id": "e2e7d08fdaeafe71",
@@ -1403,36 +1420,41 @@
       "summary_zh": "The party leader stated that the country should first enact the Digital Asset Basic Act, a comprehensive legal framework for crypto."
     },
     {
-      "id": "19c8b67cedb33b67",
-      "title": "SEC division views Canton Coin as digital commodity in no-action letter",
-      "summary": "SEC's Division of Corporation Finance won't recommend enforcement over Canton Coin's programmatic issuance, calling CC a digital commodity.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492",
+      "id": "2ac97a21a0a2078d",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-to-acquire-pierre",
       "image_url": null,
-      "published_at": "2026-11-03T22:11:51.000Z",
-      "importance_score": 44,
+      "published_at": "2026-11-04T14:30:00.000Z",
+      "importance_score": 40,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai",
+        "openai"
+      ],
       "region": "global",
-      "title_zh": "SEC division views Canton Coin as digital commodity in no-action letter",
-      "summary_zh": "SEC's Division of Corporation Finance won't recommend enforcement over Canton Coin's programmatic issuance, calling CC a digital commodity."
+      "title_zh": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "summary_zh": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
     },
     {
-      "id": "c2fb079d8064ffad",
-      "title": "Prediction markets bet on Democratic sweep of House, Senate in midterm elections",
-      "summary": "Ahead of polls closing across the U.S., bettors on prediction markes are increasingly pricing in Democrats taking both the House and Senate.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461",
+      "id": "5aba511fd3efae4b",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/daybreak-red-aws-govcloud",
       "image_url": null,
-      "published_at": "2026-11-03T18:30:31.000Z",
-      "importance_score": 44,
+      "published_at": "2026-11-04T07:00:00.000Z",
+      "importance_score": 40,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai"
+      ],
       "region": "global",
-      "title_zh": "Prediction markets bet on Democratic sweep of House, Senate in midterm elections",
-      "summary_zh": "Ahead of polls closing across the U.S., bettors on prediction markes are increasingly pricing in Democrats taking both the House and Senate."
+      "title_zh": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "summary_zh": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
     },
     {
       "id": "fa53719e0641a40b",
@@ -1511,40 +1533,20 @@
       "summary_zh": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
     },
     {
-      "id": "df50af9c5fa78481",
-      "title": "LifeVal",
-      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "id": "8b0418a89d0e593d",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "summary": "",
       "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/lifeval",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
       "image_url": null,
-      "published_at": "2026-11-02T09:00:00.000Z",
+      "published_at": "2026-11-04T17:50:10.000Z",
       "importance_score": 40,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "LifeVal",
-      "summary_zh": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork."
-    },
-    {
-      "id": "6f62d61514d53926",
-      "title": "Qodo builds context into AI code review with Codex",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/qodo-codex-plugin",
-      "image_url": null,
-      "published_at": "2026-11-02T00:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Qodo builds context into AI code review with Codex",
-      "summary_zh": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
+      "title_zh": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "summary_zh": ""
     },
     {
       "id": "cf1818e3f02380d9",
