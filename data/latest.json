@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T19:00:33.974Z",
+  "generated_at": "2026-11-05T00:11:57.728Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains；【AI】Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery；【FINANCE】Fed officials are already saying they’ll need to get back to hiking rates。",
   "meta": {
     "sources_count": 11,
@@ -131,6 +131,24 @@
       "summary_zh": "North Korea’s TraderTraitor is routing Binance hack proceeds through THORChain, swapping ether for bitcoin after an earlier wave of conversions from Tron."
     },
     {
+      "id": "9039533a264b3da1",
+      "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
+      "summary": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
+      "image_url": null,
+      "published_at": "2026-11-04T20:09:58.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
+      "summary_zh": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact."
+    },
+    {
       "id": "7fe688a7485db485",
       "title": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
       "summary": "The $1 trillion-plus asset manager brings its emerging markets bond strategy to Solana, expanding the range of onchain actively managed funds.",
@@ -147,26 +165,6 @@
       "region": "global",
       "title_zh": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
       "summary_zh": "The $1 trillion-plus asset manager brings its emerging markets bond strategy to Solana, expanding the range of onchain actively managed funds."
-    },
-    {
-      "id": "6665305fecaa4be4",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "image_url": null,
-      "published_at": "2026-11-02T18:00:00.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Rewarding defenders with bigger bug bounties",
-      "summary_zh": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
     },
     {
       "id": "b28e57a7dbf053ea",
@@ -337,7 +335,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
       "image_url": null,
-      "published_at": "2026-11-04T17:51:20.000Z",
+      "published_at": "2026-11-04T23:36:59.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -346,6 +344,24 @@
       "region": "global",
       "title_zh": "What Trump’s Midterm Defeat Means for Iran and Oil Prices",
       "summary_zh": "Commentators abroad wondered what President Trump’s electoral losses might mean for oil prices, the war on Iran and the future of American politics."
+    },
+    {
+      "id": "aa42329a34b60c17",
+      "title": "For Israelis, U.S. Midterms Show How Far Their Star Has Fallen in America",
+      "summary": "Israel once had bipartisan support in the United States, but a strong showing for Democrats, some of whom are deeply critical of the war in Gaza, has left the country with fewer friends in Congress.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html",
+      "image_url": null,
+      "published_at": "2026-11-04T22:04:04.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "For Israelis, U.S. Midterms Show How Far Their Star Has Fallen in America",
+      "summary_zh": "Israel once had bipartisan support in the United States, but a strong showing for Democrats, some of whom are deeply critical of the war in Gaza, has left the country with fewer friends in Congress."
     },
     {
       "id": "9c41f642561ecdf8",
@@ -437,9 +453,9 @@
       "summary_zh": "Industry experts warn the Clarity Act is likely dead in its current form as incoming Democratic majorities eye tighter scrutiny of crypto markets and tokenized stocks."
     },
     {
-      "id": "d215b641011dfd76",
-      "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
-      "summary": "The biggest losers, so far, are the AI data center stocks following victories for several candidates who campaigned expressly against the sector.",
+      "id": "bffb11ed3e02d59e",
+      "title": "Live updates: Bitcoin rises above $80,000 as stocks gain following Blue Wave",
+      "summary": "The biggest losers were the AI data center stocks following victories for several candidates who campaigned expressly against the sector.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
       "source_url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
@@ -453,8 +469,8 @@
         "stocks"
       ],
       "region": "global",
-      "title_zh": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
-      "summary_zh": "The biggest losers, so far, are the AI data center stocks following victories for several candidates who campaigned expressly against the sector."
+      "title_zh": "Live updates: Bitcoin rises above $80,000 as stocks gain following Blue Wave",
+      "summary_zh": "The biggest losers were the AI data center stocks following victories for several candidates who campaigned expressly against the sector."
     },
     {
       "id": "221e6363d0ac8eab",
@@ -475,20 +491,22 @@
       "summary_zh": "The global asset manager, which oversees $1.1 trillion in assets, is bringing an actively managed bond strategy onchain through tokenization specialist Centrifuge."
     },
     {
-      "id": "539a0a4cfd3b3eca",
-      "title": "Circle beats earnings expectations on strong revenue, but cuts 5% of its workforce",
-      "summary": "Circle’s net income for continuing operations of $226 million grew 5% year-over-year to $226 million in the third quarter.",
+      "id": "b05f79744ad8d382",
+      "title": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
+      "summary": "After two years of a pro-crypto, pro-innovation climate in Washington, the digital asset industry faces a sharp political jolt.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362",
       "image_url": null,
-      "published_at": "2026-11-04T12:33:54.000Z",
+      "published_at": "2026-11-04T21:54:49.000Z",
       "importance_score": 56,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "crypto"
+      ],
       "region": "global",
-      "title_zh": "Circle beats earnings expectations on strong revenue, but cuts 5% of its workforce",
-      "summary_zh": "Circle’s net income for continuing operations of $226 million grew 5% year-over-year to $226 million in the third quarter."
+      "title_zh": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
+      "summary_zh": "After two years of a pro-crypto, pro-innovation climate in Washington, the digital asset industry faces a sharp political jolt."
     },
     {
       "id": "0542ed77bf68bec1",
@@ -543,14 +561,54 @@
       "summary_zh": "ZachXBT said he has a 'high degree of confidence' that the attacker is not associated with North Korea's Lazarus Group."
     },
     {
-      "id": "d1f4c274f933b345",
+      "id": "8e914f3712f4392d",
+      "title": "Trending Crypto: FOCO (FOCO)",
+      "summary": "CoinGecko trending rank #735.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/foco-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102179980/large/logo.png?1793544110",
+      "published_at": "2026-11-05T00:10:46.930Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "foco"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: FOCO (FOCO)",
+      "summary_zh": "CoinGecko trending rank #735."
+    },
+    {
+      "id": "3d76bcf804546ebb",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-11-05T00:10:46.930Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "btc"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Bitcoin (BTC)",
+      "summary_zh": "CoinGecko trending rank #1."
+    },
+    {
+      "id": "b177a9e0bf5728a7",
       "title": "Trending Crypto: AudaCity (DACITYCOIN)",
-      "summary": "CoinGecko trending rank #802.",
+      "summary": "CoinGecko trending rank #783.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/audacity-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179969/large/logo.jpg?1793537802",
-      "published_at": "2026-11-04T18:59:23.478Z",
+      "published_at": "2026-11-05T00:10:46.930Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -560,87 +618,66 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: AudaCity (DACITYCOIN)",
-      "summary_zh": "CoinGecko trending rank #802."
+      "summary_zh": "CoinGecko trending rank #783."
     },
     {
-      "id": "8c7b447cc0b2e554",
-      "title": "Trending Crypto: Pearl (PEARL)",
-      "summary": "CoinGecko trending rank #99.",
+      "id": "23815220dd2ead12",
+      "title": "Trending Crypto: Solana (SOL)",
+      "summary": "CoinGecko trending rank #7.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-11-04T18:59:23.478Z",
+      "source_url": "https://www.coingecko.com/en/coins/solana",
+      "image_url": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
+      "published_at": "2026-11-05T00:10:46.930Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pearl"
+        "sol"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pearl (PEARL)",
-      "summary_zh": "CoinGecko trending rank #99."
+      "title_zh": "Trending Crypto: Solana (SOL)",
+      "summary_zh": "CoinGecko trending rank #7."
     },
     {
-      "id": "561ea24bdbd57b94",
-      "title": "Trending Crypto: Ethereum (ETH)",
-      "summary": "CoinGecko trending rank #2.",
+      "id": "476b18b3340608d5",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #112.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/ethereum",
-      "image_url": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "published_at": "2026-11-04T18:59:23.478Z",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-11-05T00:10:46.930Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "eth"
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Ethereum (ETH)",
-      "summary_zh": "CoinGecko trending rank #2."
+      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary_zh": "CoinGecko trending rank #112."
     },
     {
-      "id": "57f43b09e956a776",
-      "title": "Trending Crypto: NEAR Protocol (NEAR)",
-      "summary": "CoinGecko trending rank #21.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/near",
-      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
-      "published_at": "2026-11-04T18:59:23.478Z",
-      "importance_score": 55,
+      "id": "97fb2574884ef3bd",
+      "title": "A thousand fewer paths to root",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "image_url": null,
+      "published_at": "2026-11-04T08:00:00.000Z",
+      "importance_score": 52,
       "sentiment": 0,
       "tags": [
-        "crypto",
-        "trending",
-        "near"
+        "ai",
+        "openai"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
-      "summary_zh": "CoinGecko trending rank #21."
-    },
-    {
-      "id": "5441237988ae6a01",
-      "title": "Trending Crypto: Official Trump (TRUMP)",
-      "summary": "CoinGecko trending rank #121.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/official-trump",
-      "image_url": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561",
-      "published_at": "2026-11-04T18:59:23.478Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "trump"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Official Trump (TRUMP)",
-      "summary_zh": "CoinGecko trending rank #121."
+      "title_zh": "A thousand fewer paths to root",
+      "summary_zh": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
     },
     {
       "id": "f47c84bac36d33df",
@@ -780,25 +817,6 @@
       "region": "global",
       "title_zh": "Wall Street rethinks AI data center boom as Texas election raises new risks",
       "summary_zh": "Bitcoin miners pivoting to AI face new uncertainty over power access and construction permits, while companies with approved projects could benefit from tighter supply."
-    },
-    {
-      "id": "086142221094c4ab",
-      "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
-      "summary": "Bitcoin recovered from a dip to around $75,600 as Democrats won Congress, while DeFi tokens led gains and Trump-linked coins fell.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains",
-      "image_url": null,
-      "published_at": "2026-11-04T10:38:58.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin rebounds from midterm dip as DeFi leads gains",
-      "summary_zh": "Bitcoin recovered from a dip to around $75,600 as Democrats won Congress, while DeFi tokens led gains and Trump-linked coins fell."
     },
     {
       "id": "a2f85220c43edf03",
@@ -1014,7 +1032,7 @@
       "source_name": "CNBC Finance",
       "source_url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
       "image_url": null,
-      "published_at": "2026-11-04T17:11:00.000Z",
+      "published_at": "2026-11-04T21:18:44.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1114,7 +1132,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-04T17:45:58.000Z",
+      "published_at": "2026-11-04T22:48:43.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1175,19 +1193,19 @@
       "summary_zh": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get."
     },
     {
-      "id": "2542d1097cbda2dc",
-      "title": "Israel’s President Will Start Talks on Whether Netanyahu or Eisenkot Can Form a Government",
+      "id": "ee61bbae04d45e6c",
+      "title": "Israel’s President Starts Talks on Whether Netanyahu or Eisenkot Can Form a Government",
       "summary": "President Isaac Herzog began meeting with party leaders for two days to decide whether to give Prime Minister Benjamin Netanyahu or rivals the first chance at forming a coalition.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
       "image_url": null,
-      "published_at": "2026-11-04T16:13:09.000Z",
+      "published_at": "2026-11-04T20:17:02.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Israel’s President Will Start Talks on Whether Netanyahu or Eisenkot Can Form a Government",
+      "title_zh": "Israel’s President Starts Talks on Whether Netanyahu or Eisenkot Can Form a Government",
       "summary_zh": "President Isaac Herzog began meeting with party leaders for two days to decide whether to give Prime Minister Benjamin Netanyahu or rivals the first chance at forming a coalition."
     },
     {
@@ -1259,22 +1277,61 @@
       "summary_zh": "Prime Minister Donald Tusk said there had been “disturbing movement” in Kaliningrad, a Russian region just north of Poland."
     },
     {
-      "id": "6baabeada82a7269",
-      "title": "Bomb Threats Disrupt Several Flights Across Europe",
-      "summary": "Officials are investigating threats against at least seven planes. The aircraft landed safely and no explosives were found, the authorities said.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
+      "id": "eec0865c3d2d4163",
+      "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+      "summary": "Wall Street's push to bring finance onto blockchain rails may continue under existing laws, though the SEC and CFTC face tougher oversight and questions over how long their rules will last, experts said.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
       "image_url": null,
-      "published_at": "2026-11-04T07:29:45.000Z",
-      "importance_score": 46,
+      "published_at": "2026-11-04T22:55:00.000Z",
+      "importance_score": 44,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "ai",
+        "crypto"
       ],
       "region": "global",
-      "title_zh": "Bomb Threats Disrupt Several Flights Across Europe",
-      "summary_zh": "Officials are investigating threats against at least seven planes. The aircraft landed safely and no explosives were found, the authorities said."
+      "title_zh": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+      "summary_zh": "Wall Street's push to bring finance onto blockchain rails may continue under existing laws, though the SEC and CFTC face tougher oversight and questions over how long their rules will last, experts said."
+    },
+    {
+      "id": "179b839db8472252",
+      "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
+      "summary": "The asset manager says global demand and institutional adoption will sustain the industry despite a political setback, while BlackRock sees little impact on its crypto business.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
+      "image_url": null,
+      "published_at": "2026-11-04T22:51:42.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
+      "summary_zh": "The asset manager says global demand and institutional adoption will sustain the industry despite a political setback, while BlackRock sees little impact on its crypto business."
+    },
+    {
+      "id": "48424deb6ccbf97d",
+      "title": "Crypto's powerhouse super PAC suffers costly setback as Democrats sweep Congress",
+      "summary": "The industry's primary campaign arm had cultivated a reputation as an unstoppable force, but more than a third of its spending failed to hit the mark, especially in Ohio.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
+      "image_url": null,
+      "published_at": "2026-11-04T20:29:12.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Crypto's powerhouse super PAC suffers costly setback as Democrats sweep Congress",
+      "summary_zh": "The industry's primary campaign arm had cultivated a reputation as an unstoppable force, but more than a third of its spending failed to hit the mark, especially in Ohio."
     },
     {
       "id": "16a93d19c95010ff",
@@ -1315,20 +1372,23 @@
       "summary_zh": "The next Congress inherits an unfinished assignment: establishing clear, lasting rules for digital assets that protect consumers and ensure American innovation continues to thrive, writes Blockchain Association's Lindsay Fraser."
     },
     {
-      "id": "15fe2e407c0cd0d3",
-      "title": "Here's how analysts are reacting to the new blue Congress",
-      "summary": "Your day-ahead look for Nov. 4, 2026",
+      "id": "ee09983aa8f0d302",
+      "title": "French Hill’s race still too close to call as House flips, changing the direction of crypto legislation",
+      "summary": "As of Wednesday afternoon, House Financial Services Committee Chair French Hill's race for reelection is too close to call.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/daybook-us/2026/11/04/here-s-how-analysts-are-reacting-to-the-new-blue-congress",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572",
       "image_url": null,
-      "published_at": "2026-11-04T12:14:11.000Z",
+      "published_at": "2026-11-04T19:02:05.000Z",
       "importance_score": 44,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai",
+        "crypto"
+      ],
       "region": "global",
-      "title_zh": "Here's how analysts are reacting to the new blue Congress",
-      "summary_zh": "Your day-ahead look for Nov. 4, 2026"
+      "title_zh": "French Hill’s race still too close to call as House flips, changing the direction of crypto legislation",
+      "summary_zh": "As of Wednesday afternoon, House Financial Services Committee Chair French Hill's race for reelection is too close to call."
     },
     {
       "id": "43e8581f0471ce7d",
@@ -1363,61 +1423,6 @@
       "region": "global",
       "title_zh": "DeFi Explained",
       "summary_zh": "DeFi 201 explains decentralized finance as a connected protocol system. It follows how DEXs and AMMs, liquidity pools, lending markets, yield aggregators, oracles, derivatives and DAO governance fit together, and where composability creates systemic risk."
-    },
-    {
-      "id": "d4e9da4124e28d1b",
-      "title": "Former Sen. Sherrod Brown defeats Jon Husted, dealing a blow to crypto PAC Fairshake",
-      "summary": "Former Democratic Sen. Sherrod Brown is taking back his spot in the Senate, leaving crypto political action committee Fairshake with the bag.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495",
-      "image_url": null,
-      "published_at": "2026-11-04T04:35:48.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Former Sen. Sherrod Brown defeats Jon Husted, dealing a blow to crypto PAC Fairshake",
-      "summary_zh": "Former Democratic Sen. Sherrod Brown is taking back his spot in the Senate, leaving crypto political action committee Fairshake with the bag."
-    },
-    {
-      "id": "cc491ce59b24d757",
-      "title": "Block Inc. shares rise 6% after-hours as it raises full-year profit forecast",
-      "summary": "Block raised its full-year gross profit forecast to $12.63 billion, which would represent a 22% year-on-year growth.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-03-block-q3-earnings-shares-rise-432585",
-      "image_url": null,
-      "published_at": "2026-11-04T04:13:10.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Block Inc. shares rise 6% after-hours as it raises full-year profit forecast",
-      "summary_zh": "Block raised its full-year gross profit forecast to $12.63 billion, which would represent a 22% year-on-year growth."
-    },
-    {
-      "id": "e18fd5ecde20981f",
-      "title": "South Korea’s ruling party formally proposes deferral of crypto income tax",
-      "summary": "The party leader stated that the country should first enact the Digital Asset Basic Act, a comprehensive legal framework for crypto.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580",
-      "image_url": null,
-      "published_at": "2026-11-04T02:51:52.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "South Korea’s ruling party formally proposes deferral of crypto income tax",
-      "summary_zh": "The party leader stated that the country should first enact the Digital Asset Basic Act, a comprehensive legal framework for crypto."
     },
     {
       "id": "2ac97a21a0a2078d",
@@ -1455,6 +1460,22 @@
       "region": "global",
       "title_zh": "Daybreak Red is now available in AWS GovCloud (US-East)",
       "summary_zh": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
+    },
+    {
+      "id": "68ba32fac50e98f8",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/devrev-enterprise-self-service",
+      "image_url": null,
+      "published_at": "2026-11-04T00:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "summary_zh": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
     },
     {
       "id": "fa53719e0641a40b",
@@ -1512,25 +1533,6 @@
       "region": "global",
       "title_zh": "Introducing the Grid Protectors Program",
       "summary_zh": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
-    },
-    {
-      "id": "38b8a19aba31d4d8",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "image_url": null,
-      "published_at": "2026-11-02T18:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "Preparing our next security sprint to harden OpenAI",
-      "summary_zh": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
     },
     {
       "id": "8b0418a89d0e593d",
