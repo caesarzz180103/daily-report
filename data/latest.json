@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T16:27:56.151Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【AI】Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery；【FINANCE】Barkin sees interest rate hikes ahead, but at a gradual pace；【WORLD】Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated。",
+  "generated_at": "2026-11-06T21:52:03.538Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says；【AI】Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery；【FINANCE】Barkin sees interest rate hikes ahead, but at a gradual pace。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -19,6 +19,25 @@
     "FINANCE": 10
   },
   "items": [
+    {
+      "id": "2e01b31d954fdbff",
+      "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
+      "summary": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
+      "image_url": null,
+      "published_at": "2026-11-06T19:05:00.000Z",
+      "importance_score": 82,
+      "sentiment": 0,
+      "tags": [
+        "fed",
+        "inflation"
+      ],
+      "region": "global",
+      "title_zh": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
+      "summary_zh": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances"
+    },
     {
       "id": "9afad00644facdb8",
       "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery",
@@ -56,6 +75,24 @@
       "region": "global",
       "title_zh": "Barkin sees interest rate hikes ahead, but at a gradual pace",
       "summary_zh": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust."
+    },
+    {
+      "id": "217011ae20377d9d",
+      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-06T15:30:42.000Z",
+      "importance_score": 70,
+      "sentiment": 0,
+      "tags": [
+        "fed"
+      ],
+      "region": "global",
+      "title_zh": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "summary_zh": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week."
     },
     {
       "id": "6810f54eb3af628d",
@@ -150,6 +187,26 @@
       "summary_zh": "Bitcoin recovered above $76,000 Friday after dropping below that level during Thursday's tech-driven market rout."
     },
     {
+      "id": "dd4ec42963c73cf9",
+      "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
+      "summary": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
+      "image_url": null,
+      "published_at": "2026-11-06T18:06:59.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
+      "summary_zh": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen."
+    },
+    {
       "id": "7cc1135c42a597ca",
       "title": "TeraWulf’s bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
       "summary": "TeraWulf reported $63 million in artificial intelligence-related quarterly HPC lease revenue, up 774% year over year.",
@@ -204,43 +261,6 @@
       "summary_zh": "From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs."
     },
     {
-      "id": "c1d23ec1347546e1",
-      "title": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
-      "summary": "Two high-profile security incidents this week, including the largest crypto theft in history, have raised custody and safety concerns.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
-      "image_url": null,
-      "published_at": "2026-10-31T12:47:08.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
-      "summary_zh": "Two high-profile security incidents this week, including the largest crypto theft in history, have raised custody and safety concerns."
-    },
-    {
-      "id": "b598e0923564c7c4",
-      "title": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
-      "summary": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
-      "image_url": null,
-      "published_at": "2026-10-30T16:55:41.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "inflation"
-      ],
-      "region": "global",
-      "title_zh": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
-      "summary_zh": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy"
-    },
-    {
       "id": "a758ba1555cbc524",
       "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
       "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
@@ -283,7 +303,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
       "image_url": null,
-      "published_at": "2026-11-06T14:35:42.000Z",
+      "published_at": "2026-11-06T19:24:08.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
@@ -308,22 +328,6 @@
       "summary_zh": "Less than a month after lung surgery, Pope Leo XIV is landing in Uruguay on Friday, the first stop of a 12-day voyage across South America."
     },
     {
-      "id": "a64cedc2a84ac54c",
-      "title": "Alberta’s Librarians Brace for a New Era of ‘Book Bans’",
-      "summary": "A new provincial law requires public libraries to pull and restrict items with “graphic visual depictions of sexual acts.” Librarians argue the mandate opens the door to censorship.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/06/world/canada/alberta-book-ban-public-libraries.html",
-      "image_url": null,
-      "published_at": "2026-11-06T14:41:59.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Alberta’s Librarians Brace for a New Era of ‘Book Bans’",
-      "summary_zh": "A new provincial law requires public libraries to pull and restrict items with “graphic visual depictions of sexual acts.” Librarians argue the mandate opens the door to censorship."
-    },
-    {
       "id": "62407d99b47ae5d1",
       "title": "Recent Quant Links from Quantocracy as of 10/12/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools",
@@ -338,6 +342,24 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/12/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools"
+    },
+    {
+      "id": "4cfbcd76498ac591",
+      "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+      "summary": "Strategy, Coinbase, Circle and Robinhood are among six companies from the venture’s initial selection with no disclosed objection, after 90% of issuers opted out.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
+      "image_url": null,
+      "published_at": "2026-11-06T20:09:18.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+      "summary_zh": "Strategy, Coinbase, Circle and Robinhood are among six companies from the venture’s initial selection with no disclosed objection, after 90% of issuers opted out."
     },
     {
       "id": "3c8d8b71eccbda0f",
@@ -376,9 +398,9 @@
       "summary_zh": "Your day-ahead look for Nov. 6, 2026"
     },
     {
-      "id": "8ff34e356f4a707c",
-      "title": "Live updates: Bitcoin holds in narrow range, stocks bounce after strong October jobs report",
-      "summary": "Chip stocks were leading a rebound in the broader market on Friday following yesterday's washout.",
+      "id": "d88295de6fb683bb",
+      "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
+      "summary": "The Nasdaq gained just 1.1%, while the S&P 500 only edged higher, and the DJIA lost more ground.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
       "source_url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
@@ -387,12 +409,12 @@
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
-        "bitcoin",
-        "stocks"
+        "ai",
+        "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Live updates: Bitcoin holds in narrow range, stocks bounce after strong October jobs report",
-      "summary_zh": "Chip stocks were leading a rebound in the broader market on Friday following yesterday's washout."
+      "title_zh": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
+      "summary_zh": "The Nasdaq gained just 1.1%, while the S&P 500 only edged higher, and the DJIA lost more ground."
     },
     {
       "id": "8cf8e9972a828835",
@@ -432,51 +454,34 @@
       "summary_zh": "U.S. spot crypto ETFs slumped back to net outflows on Thursday, with more than $540 million in withdrawals across major products."
     },
     {
-      "id": "f7f9dde0291e431e",
-      "title": "Nigeria’s central bank introduces stablecoin licensing rules, bans algorithmic versions",
-      "summary": "Nigeria's central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses.",
+      "id": "16d8138d46b1dba6",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #114.",
       "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
-      "image_url": null,
-      "published_at": "2026-11-06T11:43:44.000Z",
-      "importance_score": 56,
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-11-06T21:50:53.669Z",
+      "importance_score": 55,
       "sentiment": 0,
       "tags": [
-        "ai",
-        "regulation"
+        "crypto",
+        "trending",
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "Nigeria’s central bank introduces stablecoin licensing rules, bans algorithmic versions",
-      "summary_zh": "Nigeria's central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses."
+      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary_zh": "CoinGecko trending rank #114."
     },
     {
-      "id": "7b58fd3c15d73e32",
-      "title": "Kalshi hit with injunction over sports contracts on California tribal lands",
-      "summary": "A federal judge has granted the preliminary injunction to bar Kalshi from offering sports contracts on the lands of two California tribes.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-06-kalshi-injunction-california-tribal-lands-435813",
-      "image_url": null,
-      "published_at": "2026-11-06T08:34:02.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "fed"
-      ],
-      "region": "global",
-      "title_zh": "Kalshi hit with injunction over sports contracts on California tribal lands",
-      "summary_zh": "A federal judge has granted the preliminary injunction to bar Kalshi from offering sports contracts on the lands of two California tribes."
-    },
-    {
-      "id": "e75c967c56ed75a5",
+      "id": "c9b204c1ac119ed4",
       "title": "Trending Crypto: Reboot (REBOOT)",
-      "summary": "CoinGecko trending rank #896.",
+      "summary": "CoinGecko trending rank #874.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/reboot-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102180085/large/logo.png?1793822340",
-      "published_at": "2026-11-06T16:26:43.671Z",
+      "published_at": "2026-11-06T21:50:53.669Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -486,17 +491,57 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Reboot (REBOOT)",
-      "summary_zh": "CoinGecko trending rank #896."
+      "summary_zh": "CoinGecko trending rank #874."
     },
     {
-      "id": "9a567dda856e32f6",
+      "id": "2ecae44cae820a10",
+      "title": "Trending Crypto: DENIM (DENIM)",
+      "summary": "CoinGecko trending rank #902.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/denim",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180084/large/logo_DENIM.png?1793814593",
+      "published_at": "2026-11-06T21:50:53.669Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "denim"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: DENIM (DENIM)",
+      "summary_zh": "CoinGecko trending rank #902."
+    },
+    {
+      "id": "4a46941b7467adc9",
+      "title": "Trending Crypto: Pearl (PEARL)",
+      "summary": "CoinGecko trending rank #88.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
+      "published_at": "2026-11-06T21:50:53.669Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pearl"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Pearl (PEARL)",
+      "summary_zh": "CoinGecko trending rank #88."
+    },
+    {
+      "id": "d9aab1d2d135e2d5",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-06T16:26:43.671Z",
+      "published_at": "2026-11-06T21:50:53.669Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -509,74 +554,14 @@
       "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "206ceceb6d5d1eec",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #113.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-11-06T16:26:43.671Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pengu"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #113."
-    },
-    {
-      "id": "c597d4a9ce414423",
-      "title": "Trending Crypto: Zcash (ZEC)",
-      "summary": "CoinGecko trending rank #10.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/zcash",
-      "image_url": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558",
-      "published_at": "2026-11-06T16:26:43.671Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "zec"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Zcash (ZEC)",
-      "summary_zh": "CoinGecko trending rank #10."
-    },
-    {
-      "id": "05fa420b37de2d8f",
-      "title": "Trending Crypto: Hyperliquid (HYPE)",
-      "summary": "CoinGecko trending rank #11.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
-      "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-11-06T16:26:43.671Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "hype"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Hyperliquid (HYPE)",
-      "summary_zh": "CoinGecko trending rank #11."
-    },
-    {
-      "id": "97fb2574884ef3bd",
-      "title": "A thousand fewer paths to root",
-      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "id": "de7e1af55b945775",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
       "category": "AI",
       "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source_url": "https://openai.com/index/partnering-with-hacktron",
       "image_url": null,
-      "published_at": "2026-11-04T08:00:00.000Z",
+      "published_at": "2026-11-06T08:00:00.000Z",
       "importance_score": 52,
       "sentiment": 0,
       "tags": [
@@ -584,8 +569,8 @@
         "openai"
       ],
       "region": "global",
-      "title_zh": "A thousand fewer paths to root",
-      "summary_zh": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
+      "title_zh": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary_zh": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
     },
     {
       "id": "75433585528b1de6",
@@ -673,22 +658,6 @@
       "summary_zh": "Bitcoin bounced from around $75,200 after Thursday’s AI-led selloff, which drove more than $1 billion in liquidations, as traders await the U.S. jobs report."
     },
     {
-      "id": "852edb67c7710be8",
-      "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
-      "summary": "NU7 cuts the target time between blocks to 25 seconds, reduces the work wallets must do to find private payments and sets aside fees for future miners.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
-      "image_url": null,
-      "published_at": "2026-11-06T05:14:48.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
-      "summary_zh": "NU7 cuts the target time between blocks to 25 seconds, reduces the work wallets must do to find private payments and sets aside fees for future miners."
-    },
-    {
       "id": "f136bf353b0f71be",
       "title": "Strive’s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
       "summary": "Strive’s bitcoin stash reached 43,124 BTC as its shares continued to slide despite a profitable third quarter.",
@@ -706,43 +675,6 @@
       "region": "global",
       "title_zh": "Strive’s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
       "summary_zh": "Strive’s bitcoin stash reached 43,124 BTC as its shares continued to slide despite a profitable third quarter."
-    },
-    {
-      "id": "f2e2691e396d429a",
-      "title": "Zcash’s major network upgrade NU7 goes live on mainnet, cutting block time by threefold",
-      "summary": "NU7 also activates the Network Sustainability Mechanism, which removes 60% of each block's transaction fees from circulation.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807",
-      "image_url": null,
-      "published_at": "2026-11-06T07:36:42.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Zcash’s major network upgrade NU7 goes live on mainnet, cutting block time by threefold",
-      "summary_zh": "NU7 also activates the Network Sustainability Mechanism, which removes 60% of each block's transaction fees from circulation."
-    },
-    {
-      "id": "a6df9b83f676ae19",
-      "title": "IREN’s bitcoin mining revenue drops 58% as firm plans full exit by year-end",
-      "summary": "IREN has been shifting its focus to the AI infrastructure business, and its AI cloud revenue rose 182% in the past quarter to $200 million.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783",
-      "image_url": null,
-      "published_at": "2026-11-06T04:29:14.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "IREN’s bitcoin mining revenue drops 58% as firm plans full exit by year-end",
-      "summary_zh": "IREN has been shifting its focus to the AI infrastructure business, and its AI cloud revenue rose 182% in the past quarter to $200 million."
     },
     {
       "id": "ac30d95ed2e60b3e",
@@ -973,6 +905,24 @@
       "summary_zh": "Five MIT faculty members and two additional alumni are honored with fellowships to advance research on beneficial AI."
     },
     {
+      "id": "596f81946d8d8472",
+      "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
+      "summary": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "image_url": null,
+      "published_at": "2026-11-06T17:09:53.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
+      "summary_zh": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next."
+    },
+    {
       "id": "8e74dbd50ca24a4f",
       "title": "Nasdaq drops into correction territory — here’s what typically happens next",
       "summary": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
@@ -980,7 +930,7 @@
       "source_name": "CNBC Finance",
       "source_url": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
       "image_url": null,
-      "published_at": "2026-11-06T13:47:43.000Z",
+      "published_at": "2026-11-06T20:42:28.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1100,7 +1050,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-06T16:23:16.000Z",
+      "published_at": "2026-11-06T21:06:25.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1112,36 +1062,20 @@
       "summary_zh": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
     },
     {
-      "id": "5ac9470f88bf314f",
-      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-      "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
+      "id": "e07a852a4bd39ef8",
+      "title": "Four midterms takeaways for 2028 White House race",
+      "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-06T02:08:57.000Z",
+      "published_at": "2026-11-06T16:12:22.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-      "summary_zh": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run."
-    },
-    {
-      "id": "0a84f24940e0c7df",
-      "title": "Trump signs order to preserve Oval Office as national monument",
-      "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-06T09:19:57.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Trump signs order to preserve Oval Office as national monument",
-      "summary_zh": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing."
+      "title_zh": "Four midterms takeaways for 2028 White House race",
+      "summary_zh": "The buzz about the presidential election is already under way - here's what we learned this week."
     },
     {
       "id": "39ae3b1cb11ca81c",
@@ -1158,22 +1092,6 @@
       "region": "global",
       "title_zh": "Two dead after bus crashes in France, officials say",
       "summary_zh": "One child and one young adult were killed in the crash, local authorities say, with more injured."
-    },
-    {
-      "id": "8ccd1ffc8409ada5",
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-06T14:46:03.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "summary_zh": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
     },
     {
       "id": "351efd8e4ad02e1d",
@@ -1194,6 +1112,22 @@
       "summary_zh": "No link has been established between the threats against the airlines and those against the media outlets."
     },
     {
+      "id": "8ccd1ffc8409ada5",
+      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-06T14:46:03.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "summary_zh": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
+    },
+    {
       "id": "369423cbef4f6a78",
       "title": "Russian extremist group denies sending hoax bomb threats",
       "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
@@ -1208,6 +1142,24 @@
       "region": "global",
       "title_zh": "Russian extremist group denies sending hoax bomb threats",
       "summary_zh": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far."
+    },
+    {
+      "id": "3450e42f6d66cdbe",
+      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+      "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-06T16:51:01.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+      "summary_zh": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff."
     },
     {
       "id": "c76966f0c257d547",
@@ -1228,50 +1180,62 @@
       "summary_zh": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated."
     },
     {
-      "id": "dcc546ebef92bec4",
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+      "id": "ed2cea23c10fb458",
+      "title": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
+      "summary": "President Isaac Herzog is set to task a candidate with trying to form a government, following two days of talks with party leaders and officials after an inconclusive election.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
       "image_url": null,
-      "published_at": "2026-11-06T09:57:04.000Z",
+      "published_at": "2026-11-06T18:36:57.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "summary_zh": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver."
+      "title_zh": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
+      "summary_zh": "President Isaac Herzog is set to task a candidate with trying to form a government, following two days of talks with party leaders and officials after an inconclusive election."
+    },
+    {
+      "id": "caab55c9ba8436e0",
+      "title": "Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?",
+      "summary": "In the lead-up to an election in which economic concerns dominate, there was no clear front-runner. Minor parties will most likely determine who governs.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-polls.html",
+      "image_url": null,
+      "published_at": "2026-11-06T20:51:39.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?",
+      "summary_zh": "In the lead-up to an election in which economic concerns dominate, there was no clear front-runner. Minor parties will most likely determine who governs."
     },
     {
       "id": "50f23daad57ea0b8",
       "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
-      "summary": "The attack in October cast a spotlight on civilian casualties in the Saudi-led and U.S.-assisted bombing campaign against the Houthis.",
+      "summary": "A 500-pound bomb supplied by the United States appears to have been used in the Oct. 18 strike, according to video footage examined by The New York Times.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
       "image_url": null,
-      "published_at": "2026-11-06T16:24:28.000Z",
+      "published_at": "2026-11-06T16:59:43.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
       "title_zh": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
-      "summary_zh": "The attack in October cast a spotlight on civilian casualties in the Saudi-led and U.S.-assisted bombing campaign against the Houthis."
+      "summary_zh": "A 500-pound bomb supplied by the United States appears to have been used in the Oct. 18 strike, according to video footage examined by The New York Times."
     },
     {
       "id": "9a03d64f7ca3af2b",
       "title": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says",
-      "summary": "Multiple flights in Europe were disrupted and several newsrooms in Ireland were evacuated after bomb threats, the latest of a series of security incidents.",
+      "summary": "Multiple flights in Europe were disrupted and several newsrooms in Ireland were evacuated after false bomb threats, the latest of a series of security incidents.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
       "image_url": null,
-      "published_at": "2026-11-06T15:46:34.000Z",
+      "published_at": "2026-11-06T20:07:47.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1279,60 +1243,57 @@
       ],
       "region": "global",
       "title_zh": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says",
-      "summary_zh": "Multiple flights in Europe were disrupted and several newsrooms in Ireland were evacuated after bomb threats, the latest of a series of security incidents."
+      "summary_zh": "Multiple flights in Europe were disrupted and several newsrooms in Ireland were evacuated after false bomb threats, the latest of a series of security incidents."
+    },
+    {
+      "id": "ee30985704e115c4",
+      "title": "Tanzania’s Opposition Leader Gets a Four-Year Sentence",
+      "summary": "Tundu Lissu was found guilty of incitement for statements he had made ahead of a presidential election in October 2025.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html",
+      "image_url": null,
+      "published_at": "2026-11-06T17:36:38.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Tanzania’s Opposition Leader Gets a Four-Year Sentence",
+      "summary_zh": "Tundu Lissu was found guilty of incitement for statements he had made ahead of a presidential election in October 2025."
     },
     {
       "id": "3bbcc85a05fe9480",
       "title": "Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder",
-      "summary": "Paul Nthenge Mackenzie forced followers to starve themselves to meet Jesus and told parents to make sure their children fasted in the sun and died first.",
+      "summary": "Paul Nthenge Mackenzie told followers to starve themselves in order to meet Jesus, an edict that was violently enforced, a court heard during his trial.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html",
       "image_url": null,
-      "published_at": "2026-11-06T13:53:33.000Z",
+      "published_at": "2026-11-06T21:13:25.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
       "title_zh": "Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder",
-      "summary_zh": "Paul Nthenge Mackenzie forced followers to starve themselves to meet Jesus and told parents to make sure their children fasted in the sun and died first."
+      "summary_zh": "Paul Nthenge Mackenzie told followers to starve themselves in order to meet Jesus, an edict that was violently enforced, a court heard during his trial."
     },
     {
-      "id": "2f9a7113e64fb1c6",
-      "title": "Europe Still Sees Trump As Powerful, Especially in Foreign Policy",
-      "summary": "The commanding victory of the Democrats has brought private relief to some Europeans but no official glee, with Ukraine, Iran and NATO all hanging in the balance.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html",
+      "id": "2f366bd21c783530",
+      "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+      "summary": "The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
       "image_url": null,
-      "published_at": "2026-11-06T10:00:19.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "policy"
-      ],
-      "region": "global",
-      "title_zh": "Europe Still Sees Trump As Powerful, Especially in Foreign Policy",
-      "summary_zh": "The commanding victory of the Democrats has brought private relief to some Europeans but no official glee, with Ukraine, Iran and NATO all hanging in the balance."
-    },
-    {
-      "id": "fdf9af87fc932fb4",
-      "title": "European Countries Push, Again, To Deport Migrants to Rwanda",
-      "summary": "Five European nations are closing in on a plan to send rejected migrants to Rwanda following a failed U.K. deal with the country.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/06/world/europe/europe-migrants-rwanda.html",
-      "image_url": null,
-      "published_at": "2026-11-06T10:00:58.000Z",
-      "importance_score": 46,
+      "published_at": "2026-11-06T17:42:28.000Z",
+      "importance_score": 44,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "European Countries Push, Again, To Deport Migrants to Rwanda",
-      "summary_zh": "Five European nations are closing in on a plan to send rejected migrants to Rwanda following a failed U.K. deal with the country."
+      "title_zh": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+      "summary_zh": "The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so."
     },
     {
       "id": "92ebdbd3eab575fc",
@@ -1373,38 +1334,91 @@
       "summary_zh": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps."
     },
     {
-      "id": "b095ba40f824ccf4",
-      "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
-      "summary": "The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance.",
+      "id": "4c6efbc18302740c",
+      "title": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
+      "summary": "Treasury says it has severed MEXC Global from the U.S. after it allegedly supported $16 billion in transactions connected to Iran.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957",
       "image_url": null,
-      "published_at": "2026-11-06T08:04:52.000Z",
+      "published_at": "2026-11-06T21:02:30.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
+      "summary_zh": "Treasury says it has severed MEXC Global from the U.S. after it allegedly supported $16 billion in transactions connected to Iran."
+    },
+    {
+      "id": "de9fb218e91ca0bc",
+      "title": "US Treasury walks back crypto surveillance ‘travel rule’ proposal",
+      "summary": "The Treasury Department has withdrawn a controversial proposal that would have expanded requirements for cryptocurrency transactions.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951",
+      "image_url": null,
+      "published_at": "2026-11-06T20:37:34.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
         "crypto"
       ],
       "region": "global",
-      "title_zh": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
-      "summary_zh": "The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance."
+      "title_zh": "US Treasury walks back crypto surveillance ‘travel rule’ proposal",
+      "summary_zh": "The Treasury Department has withdrawn a controversial proposal that would have expanded requirements for cryptocurrency transactions."
     },
     {
-      "id": "77dafc4da9e91208",
-      "title": "Ark Invest buys more Coinbase as shares plunge 10% in wider market rout",
-      "summary": "Cathie Wood's Ark Invest bought $2.44 million worth of Coinbase on Thursday as the stock plunged 9.69% amid a broader sell-off.",
+      "id": "a7de68ba198a65db",
+      "title": "Gnosis Pay data breach exposes customer info; funds unaffected",
+      "summary": "Gnosis Pay disclosed a data breach after unauthorized access to its legacy debit card system on Nov. 3. Customer funds were not affected.",
       "category": "CRYPTO",
       "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-11-05-ark-invest-buys-coinbase-trims-bullish-bitmine-435769",
+      "source_url": "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934",
       "image_url": null,
-      "published_at": "2026-11-06T03:56:28.000Z",
+      "published_at": "2026-11-06T18:58:58.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Ark Invest buys more Coinbase as shares plunge 10% in wider market rout",
-      "summary_zh": "Cathie Wood's Ark Invest bought $2.44 million worth of Coinbase on Thursday as the stock plunged 9.69% amid a broader sell-off."
+      "title_zh": "Gnosis Pay data breach exposes customer info; funds unaffected",
+      "summary_zh": "Gnosis Pay disclosed a data breach after unauthorized access to its legacy debit card system on Nov. 3. Customer funds were not affected."
+    },
+    {
+      "id": "3792dee95275b9c8",
+      "title": "Trump administration moves closer to allowing crypto in 401(k) retirement plans",
+      "summary": "A rule that would open up 401(k) retirement accounts to alternative assets, including cryptocurrencies, has landed at the White House.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939",
+      "image_url": null,
+      "published_at": "2026-11-06T18:29:36.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Trump administration moves closer to allowing crypto in 401(k) retirement plans",
+      "summary_zh": "A rule that would open up 401(k) retirement accounts to alternative assets, including cryptocurrencies, has landed at the White House."
+    },
+    {
+      "id": "7841f9c24dd80f37",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "image_url": null,
+      "published_at": "2026-11-06T00:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global",
+      "title_zh": "Measuring how AI agents handle everyday wet-lab science",
+      "summary_zh": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
     },
     {
       "id": "3b531782f0bca12e",
@@ -1496,24 +1510,6 @@
       "region": "global",
       "title_zh": "OpenAI to acquire Pierre Computer Company, Inc.",
       "summary_zh": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
-    },
-    {
-      "id": "5aba511fd3efae4b",
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "image_url": null,
-      "published_at": "2026-11-04T07:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "summary_zh": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
     },
     {
       "id": "fff4ac9d12e20976",
@@ -1703,6 +1699,24 @@
       "summary_zh": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network."
     },
     {
+      "id": "b5069a3a8e404091",
+      "title": "How to predict the behavior of molecules from scant data",
+      "summary": "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+      "image_url": null,
+      "published_at": "2026-11-06T19:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "How to predict the behavior of molecules from scant data",
+      "summary_zh": "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation."
+    },
+    {
       "id": "dfdf24bfd76e6c9f",
       "title": "Clearing up a robot’s fuzzy memory",
       "summary": "A new system identifies and corrects unreliable object descriptions stored in a robot’s memory, improving the robot’s ability to interact with its environment.",
@@ -1770,22 +1784,6 @@
       "region": "global",
       "title_zh": "Making machines that can listen",
       "summary_zh": "Professor Paris Smaragdis develops computers with superhuman hearing for applications like speech recognition, music understanding, and environmental monitoring."
-    },
-    {
-      "id": "9f4c929548b19201",
-      "title": "At New York Climate Week 2026, MIT connects with a global network",
-      "summary": "A cross-section of the MIT community convened discussions on topics ranging from data centers and super pollutants to agriculture and education.",
-      "category": "AI",
-      "source_name": "MIT News AI",
-      "source_url": "https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026",
-      "image_url": null,
-      "published_at": "2026-10-26T19:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "At New York Climate Week 2026, MIT connects with a global network",
-      "summary_zh": "A cross-section of the MIT community convened discussions on topics ranging from data centers and super pollutants to agriculture and education."
     },
     {
       "id": "d68d12ad8e895c22",
