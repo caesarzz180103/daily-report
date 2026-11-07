@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T19:10:27.594Z",
+  "generated_at": "2026-11-07T23:13:41.510Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says；【AI】Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery；【FINANCE】Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline。",
   "meta": {
     "sources_count": 11,
@@ -188,44 +188,6 @@
       "summary_zh": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen."
     },
     {
-      "id": "7cc1135c42a597ca",
-      "title": "TeraWulf’s bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
-      "summary": "TeraWulf reported $63 million in artificial intelligence-related quarterly HPC lease revenue, up 774% year over year.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885",
-      "image_url": null,
-      "published_at": "2026-11-06T13:40:22.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "anthropic",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "TeraWulf’s bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
-      "summary_zh": "TeraWulf reported $63 million in artificial intelligence-related quarterly HPC lease revenue, up 774% year over year."
-    },
-    {
-      "id": "fa3974e91d63b54d",
-      "title": "Hypercall to launch first Anthropic-linked pre-IPO options market",
-      "summary": "Trading is expected to begin Monday, with calls, puts and more complex strategies available in select non-US jurisdictions.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-11-06-hypercall-anthropic-linked-pre-ipo-options-market-435453",
-      "image_url": null,
-      "published_at": "2026-11-06T13:00:00.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "anthropic"
-      ],
-      "region": "global",
-      "title_zh": "Hypercall to launch first Anthropic-linked pre-IPO options market",
-      "summary_zh": "Trading is expected to begin Monday, with calls, puts and more complex strategies available in select non-US jurisdictions."
-    },
-    {
       "id": "b28e57a7dbf053ea",
       "title": "Powering up for a pivotal moment",
       "summary": "From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs.",
@@ -261,19 +223,19 @@
       "summary_zh": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities."
     },
     {
-      "id": "26e28209c9d450d1",
-      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "id": "a2bbd2de20477d50",
+      "title": "Paraguay's former president charged after bank collapse",
       "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-07T07:20:00.000Z",
+      "published_at": "2026-11-07T19:17:22.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Paraguay's president impeached and under house arrest after bank collapse",
+      "title_zh": "Paraguay's former president charged after bank collapse",
       "summary_zh": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money."
     },
     {
@@ -329,6 +291,22 @@
       "summary_zh": "Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price."
     },
     {
+      "id": "a300791283c08b36",
+      "title": "Prosecutors Charge Paraguay’s Former President With Corruption",
+      "summary": "Santiago Peña was impeached, removed from office, placed under house arrest and charged with using his office to enrich himself after a bank with close ties to his administration went under.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+      "image_url": null,
+      "published_at": "2026-11-07T20:17:15.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Prosecutors Charge Paraguay’s Former President With Corruption",
+      "summary_zh": "Santiago Peña was impeached, removed from office, placed under house arrest and charged with using his office to enrich himself after a bank with close ties to his administration went under."
+    },
+    {
       "id": "7296f7db2ddbea18",
       "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
       "summary": "After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.",
@@ -355,7 +333,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
       "image_url": null,
-      "published_at": "2026-11-07T10:32:52.000Z",
+      "published_at": "2026-11-07T22:05:57.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -364,22 +342,6 @@
       "region": "global",
       "title_zh": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
       "summary_zh": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling."
-    },
-    {
-      "id": "715925fd3ce14235",
-      "title": "Why Are There Protests in France?",
-      "summary": "For a fourth consecutive Saturday, tens of thousands of people are expected to demonstrate. The authorities hope a large security presence will deter riots.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/article/france-student-protests-why.html",
-      "image_url": null,
-      "published_at": "2026-11-07T10:13:41.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Why Are There Protests in France?",
-      "summary_zh": "For a fourth consecutive Saturday, tens of thousands of people are expected to demonstrate. The authorities hope a large security presence will deter riots."
     },
     {
       "id": "62407d99b47ae5d1",
@@ -471,6 +433,24 @@
       "summary_zh": "The Nasdaq gained just 1.1%, while the S&P 500 only edged higher, and the DJIA lost more ground."
     },
     {
+      "id": "30ad4d9786b4ff61",
+      "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
+      "summary": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
+      "image_url": null,
+      "published_at": "2026-11-07T21:57:58.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
+      "summary_zh": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months."
+    },
+    {
       "id": "8cf8e9972a828835",
       "title": "Aave Labs buys Avon team in fixed-rate lending push",
       "summary": "Aave Labs acquired the team and technology of Avon, an onchain fixed-rate and floating-rate lending protocol.",
@@ -489,14 +469,14 @@
       "summary_zh": "Aave Labs acquired the team and technology of Avon, an onchain fixed-rate and floating-rate lending protocol."
     },
     {
-      "id": "0a382813b1f4b65b",
+      "id": "2820f05abf752f8d",
       "title": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary": "CoinGecko trending rank #890.",
+      "summary": "CoinGecko trending rank #872.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/dacity-coin-4",
       "image_url": "https://coin-images.coingecko.com/coins/images/102180086/large/logo.png?1793830170",
-      "published_at": "2026-11-07T19:09:12.945Z",
+      "published_at": "2026-11-07T23:12:27.790Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -506,87 +486,87 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary_zh": "CoinGecko trending rank #890."
+      "summary_zh": "CoinGecko trending rank #872."
     },
     {
-      "id": "4ce212e28594c1f2",
-      "title": "Trending Crypto: Reboot (REBOOT)",
-      "summary": "CoinGecko trending rank #885.",
+      "id": "880f280662aa5281",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #114.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/reboot-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180085/large/logo.png?1793822340",
-      "published_at": "2026-11-07T19:09:12.945Z",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-11-07T23:12:27.790Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "reboot"
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Reboot (REBOOT)",
-      "summary_zh": "CoinGecko trending rank #885."
+      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary_zh": "CoinGecko trending rank #114."
     },
     {
-      "id": "060ab2f4d1a08ebd",
-      "title": "Trending Crypto: Harmony (ONE)",
-      "summary": "CoinGecko trending rank #588.",
+      "id": "0394698d9fbc1569",
+      "title": "Trending Crypto: Pearl (PEARL)",
+      "summary": "CoinGecko trending rank #89.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/harmony",
-      "image_url": "https://coin-images.coingecko.com/coins/images/4344/large/Y88JAze.png?1696504947",
-      "published_at": "2026-11-07T19:09:12.945Z",
+      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
+      "published_at": "2026-11-07T23:12:27.790Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "one"
+        "pearl"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Harmony (ONE)",
-      "summary_zh": "CoinGecko trending rank #588."
+      "title_zh": "Trending Crypto: Pearl (PEARL)",
+      "summary_zh": "CoinGecko trending rank #89."
     },
     {
-      "id": "960435c22496086a",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
+      "id": "35e5e452f5dc6a5b",
+      "title": "Trending Crypto: Monad (MON)",
+      "summary": "CoinGecko trending rank #165.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-07T19:09:12.945Z",
+      "source_url": "https://www.coingecko.com/en/coins/monad",
+      "image_url": "https://coin-images.coingecko.com/coins/images/38927/large/mon.png?1766029057",
+      "published_at": "2026-11-07T23:12:27.790Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "btc"
+        "mon"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Bitcoin (BTC)",
-      "summary_zh": "CoinGecko trending rank #1."
+      "title_zh": "Trending Crypto: Monad (MON)",
+      "summary_zh": "CoinGecko trending rank #165."
     },
     {
-      "id": "b30ebe7062f73ca6",
-      "title": "Trending Crypto: Kinetiq (KNTQ)",
-      "summary": "CoinGecko trending rank #199.",
+      "id": "327f51274272f74e",
+      "title": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary": "CoinGecko trending rank #21.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/kinetiq",
-      "image_url": "https://coin-images.coingecko.com/coins/images/70252/large/kntq.png?1761279547",
-      "published_at": "2026-11-07T19:09:12.945Z",
+      "source_url": "https://www.coingecko.com/en/coins/near",
+      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
+      "published_at": "2026-11-07T23:12:27.790Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "kntq"
+        "near"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Kinetiq (KNTQ)",
-      "summary_zh": "CoinGecko trending rank #199."
+      "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary_zh": "CoinGecko trending rank #21."
     },
     {
       "id": "de7e1af55b945775",
@@ -672,25 +652,6 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/18/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 10/18/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Less Wrong [Quantitativo] The biggest risk is that you have a losing strategy when you think you have a winning one. Jeff Y"
-    },
-    {
-      "id": "e3d07cf1e5d71527",
-      "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
-      "summary": "Bitcoin bounced from around $75,200 after Thursday’s AI-led selloff, which drove more than $1 billion in liquidations, as traders await the U.S. jobs report.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
-      "image_url": null,
-      "published_at": "2026-11-06T11:49:35.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
-      "summary_zh": "Bitcoin bounced from around $75,200 after Thursday’s AI-led selloff, which drove more than $1 billion in liquidations, as traders await the U.S. jobs report."
     },
     {
       "id": "f136bf353b0f71be",
@@ -1063,20 +1024,38 @@
       "summary_zh": "Blackstone President Jon Gray says AI infrastructure needs more equity as debt investors face concentration risks amid massive spending plans."
     },
     {
-      "id": "5726c4bc30391ce5",
-      "title": "What we know about Krakow mass shooting so far",
-      "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+      "id": "3808733bc1e2249c",
+      "title": "What we know so far after Krakow gun attack",
+      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-07T18:22:11.000Z",
+      "published_at": "2026-11-07T22:58:49.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "What we know so far after Krakow gun attack",
+      "summary_zh": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home."
+    },
+    {
+      "id": "53f9fe385df28e1b",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-07T22:19:59.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "What we know about Krakow mass shooting so far",
-      "summary_zh": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city."
+      "title_zh": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "summary_zh": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
     },
     {
       "id": "d320757af7974e35",
@@ -1145,22 +1124,36 @@
       "summary_zh": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress."
     },
     {
-      "id": "36c5765a770150cb",
-      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "id": "29940c85d141a4f3",
+      "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
+      "summary": "Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
       "image_url": null,
-      "published_at": "2026-11-07T12:49:36.000Z",
+      "published_at": "2026-11-07T23:03:29.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-      "summary_zh": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
+      "title_zh": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
+      "summary_zh": "Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election."
+    },
+    {
+      "id": "88965c5312a6d4cb",
+      "title": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
+      "summary": "Gadi Eisenkot gets the chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
+      "image_url": null,
+      "published_at": "2026-11-07T21:52:03.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
+      "summary_zh": "Gadi Eisenkot gets the chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable."
     },
     {
       "id": "690d54dd67a306dd",
@@ -1170,7 +1163,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
       "image_url": null,
-      "published_at": "2026-11-07T19:02:02.000Z",
+      "published_at": "2026-11-07T19:21:41.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1179,22 +1172,6 @@
       "region": "global",
       "title_zh": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
       "summary_zh": "The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital."
-    },
-    {
-      "id": "6e652ca25d8a1a75",
-      "title": "This Israeli Vows to Oust Netanyahu. Here’s How.",
-      "summary": "Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
-      "image_url": null,
-      "published_at": "2026-11-07T12:42:56.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "This Israeli Vows to Oust Netanyahu. Here’s How.",
-      "summary_zh": "Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable."
     },
     {
       "id": "7f221f8141e162e2",
@@ -1249,22 +1226,23 @@
       "summary_zh": "At least 48 people were killed in a brutal assault by a group loyal to the Islamic State, officials said. The area is a hot spot of the growing Ebola outbreak."
     },
     {
-      "id": "463b0bb63d119a13",
-      "title": "Another Day of France’s Protests Unfurl During an Autumn of Discontent",
-      "summary": "Two days after a general strike and huge demonstrations, students and workers took to the streets again on Saturday.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
+      "id": "183b9ac018744abe",
+      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "summary": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
       "image_url": null,
-      "published_at": "2026-11-07T17:06:40.000Z",
-      "importance_score": 46,
+      "published_at": "2026-11-07T19:13:16.000Z",
+      "importance_score": 44,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "ai",
+        "crypto"
       ],
       "region": "global",
-      "title_zh": "Another Day of France’s Protests Unfurl During an Autumn of Discontent",
-      "summary_zh": "Two days after a general strike and huge demonstrations, students and workers took to the streets again on Saturday."
+      "title_zh": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "summary_zh": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices."
     },
     {
       "id": "33c64c4e1e2316a7",
@@ -1340,6 +1318,24 @@
       "region": "global",
       "title_zh": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
       "summary_zh": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025."
+    },
+    {
+      "id": "e110fb46f627d3dc",
+      "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
+      "summary": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988",
+      "image_url": null,
+      "published_at": "2026-11-07T20:59:47.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
+      "summary_zh": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story."
     },
     {
       "id": "4c6efbc18302740c",
