@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T21:52:03.538Z",
+  "generated_at": "2026-11-07T01:25:33.346Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says；【AI】Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery；【FINANCE】Barkin sees interest rate hikes ahead, but at a gradual pace。",
   "meta": {
     "sources_count": 11,
@@ -454,14 +454,14 @@
       "summary_zh": "U.S. spot crypto ETFs slumped back to net outflows on Thursday, with more than $540 million in withdrawals across major products."
     },
     {
-      "id": "16d8138d46b1dba6",
+      "id": "c31983a4b17db490",
       "title": "Trending Crypto: Pudgy Penguins (PENGU)",
       "summary": "CoinGecko trending rank #114.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
       "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-11-06T21:50:53.669Z",
+      "published_at": "2026-11-07T01:24:22.296Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -474,54 +474,14 @@
       "summary_zh": "CoinGecko trending rank #114."
     },
     {
-      "id": "c9b204c1ac119ed4",
-      "title": "Trending Crypto: Reboot (REBOOT)",
-      "summary": "CoinGecko trending rank #874.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/reboot-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180085/large/logo.png?1793822340",
-      "published_at": "2026-11-06T21:50:53.669Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "reboot"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Reboot (REBOOT)",
-      "summary_zh": "CoinGecko trending rank #874."
-    },
-    {
-      "id": "2ecae44cae820a10",
-      "title": "Trending Crypto: DENIM (DENIM)",
-      "summary": "CoinGecko trending rank #902.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/denim",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180084/large/logo_DENIM.png?1793814593",
-      "published_at": "2026-11-06T21:50:53.669Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "denim"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: DENIM (DENIM)",
-      "summary_zh": "CoinGecko trending rank #902."
-    },
-    {
-      "id": "4a46941b7467adc9",
+      "id": "9729c198bf35bd39",
       "title": "Trending Crypto: Pearl (PEARL)",
       "summary": "CoinGecko trending rank #88.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pearl-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-11-06T21:50:53.669Z",
+      "published_at": "2026-11-07T01:24:22.296Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -534,14 +494,14 @@
       "summary_zh": "CoinGecko trending rank #88."
     },
     {
-      "id": "d9aab1d2d135e2d5",
+      "id": "7d742723035086b2",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-06T21:50:53.669Z",
+      "published_at": "2026-11-07T01:24:22.296Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -552,6 +512,46 @@
       "region": "global",
       "title_zh": "Trending Crypto: Bitcoin (BTC)",
       "summary_zh": "CoinGecko trending rank #1."
+    },
+    {
+      "id": "7d332547fa9a2826",
+      "title": "Trending Crypto: Zcash (ZEC)",
+      "summary": "CoinGecko trending rank #10.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/zcash",
+      "image_url": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558",
+      "published_at": "2026-11-07T01:24:22.296Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "zec"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Zcash (ZEC)",
+      "summary_zh": "CoinGecko trending rank #10."
+    },
+    {
+      "id": "ce1d9ae3687e9260",
+      "title": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary": "CoinGecko trending rank #21.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/near",
+      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
+      "published_at": "2026-11-07T01:24:22.296Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "near"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary_zh": "CoinGecko trending rank #21."
     },
     {
       "id": "de7e1af55b945775",
@@ -1128,6 +1128,24 @@
       "summary_zh": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
     },
     {
+      "id": "0f92c9ef6b9d4872",
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-06T17:44:02.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "summary_zh": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people."
+    },
+    {
       "id": "369423cbef4f6a78",
       "title": "Russian extremist group denies sending hoax bomb threats",
       "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
@@ -1162,24 +1180,6 @@
       "summary_zh": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff."
     },
     {
-      "id": "c76966f0c257d547",
-      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-06T14:57:08.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "summary_zh": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated."
-    },
-    {
       "id": "ed2cea23c10fb458",
       "title": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
       "summary": "President Isaac Herzog is set to task a candidate with trying to form a government, following two days of talks with party leaders and officials after an inconclusive election.",
@@ -1187,7 +1187,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
       "image_url": null,
-      "published_at": "2026-11-06T18:36:57.000Z",
+      "published_at": "2026-11-06T22:36:15.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1196,14 +1196,14 @@
       "summary_zh": "President Isaac Herzog is set to task a candidate with trying to form a government, following two days of talks with party leaders and officials after an inconclusive election."
     },
     {
-      "id": "caab55c9ba8436e0",
+      "id": "8634f4ef92051dc3",
       "title": "Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?",
       "summary": "In the lead-up to an election in which economic concerns dominate, there was no clear front-runner. Minor parties will most likely determine who governs.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-polls.html",
+      "source_url": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
       "image_url": null,
-      "published_at": "2026-11-06T20:51:39.000Z",
+      "published_at": "2026-11-06T23:05:42.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
