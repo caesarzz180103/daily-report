@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T14:33:01.427Z",
+  "generated_at": "2026-11-07T19:10:27.594Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says；【AI】Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery；【FINANCE】Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline。",
   "meta": {
     "sources_count": 11,
@@ -64,7 +64,7 @@
       "source_name": "CNBC Finance",
       "source_url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
       "image_url": null,
-      "published_at": "2026-11-07T14:02:49.000Z",
+      "published_at": "2026-11-07T15:23:46.000Z",
       "importance_score": 70,
       "sentiment": 0,
       "tags": [
@@ -93,24 +93,6 @@
       "region": "global",
       "title_zh": "Barkin sees interest rate hikes ahead, but at a gradual pace",
       "summary_zh": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust."
-    },
-    {
-      "id": "217011ae20377d9d",
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-06T15:30:42.000Z",
-      "importance_score": 70,
-      "sentiment": 0,
-      "tags": [
-        "fed"
-      ],
-      "region": "global",
-      "title_zh": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "summary_zh": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week."
     },
     {
       "id": "51e76bce019cc959",
@@ -167,14 +149,14 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/24/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Shorting Leveraged ETFs: Role of Borrowing Costs and Rebalancing in Volatility-Decay Strategies [Quantpedia] Leveraged ET"
     },
     {
-      "id": "7edc656e00bf4b77",
-      "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
-      "summary": "Bitcoin recovered above $76,000 Friday after dropping below that level during Thursday's tech-driven market rout.",
+      "id": "fb02315817a7de23",
+      "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+      "summary": "BlackRock's IBIT accounted for 98% of Friday's outflows, with $403 million leaving the industry-leading fund.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
       "image_url": null,
-      "published_at": "2026-11-06T09:53:27.000Z",
+      "published_at": "2026-11-07T16:46:02.000Z",
       "importance_score": 62,
       "sentiment": 0,
       "tags": [
@@ -182,8 +164,8 @@
         "etf"
       ],
       "region": "global",
-      "title_zh": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
-      "summary_zh": "Bitcoin recovered above $76,000 Friday after dropping below that level during Thursday's tech-driven market rout."
+      "title_zh": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+      "summary_zh": "BlackRock's IBIT accounted for 98% of Friday's outflows, with $403 million leaving the industry-leading fund."
     },
     {
       "id": "dd4ec42963c73cf9",
@@ -260,6 +242,25 @@
       "summary_zh": "From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs."
     },
     {
+      "id": "747d398f3d115465",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-07T18:14:38.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "US offers $20m reward for information about Iran's nuclear programme",
+      "summary_zh": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities."
+    },
+    {
       "id": "26e28209c9d450d1",
       "title": "Paraguay's president impeached and under house arrest after bank collapse",
       "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
@@ -292,6 +293,42 @@
       "summary_zh": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer."
     },
     {
+      "id": "2e1114d274341e1b",
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-07T16:50:06.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Italian foreign minister says hackers leaked his personal data",
+      "summary_zh": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online."
+    },
+    {
+      "id": "a002aa1ef9008d18",
+      "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
+      "summary": "Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
+      "image_url": null,
+      "published_at": "2026-11-07T16:39:31.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
+      "summary_zh": "Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price."
+    },
+    {
       "id": "7296f7db2ddbea18",
       "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
       "summary": "After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.",
@@ -299,7 +336,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
       "image_url": null,
-      "published_at": "2026-11-07T10:01:41.000Z",
+      "published_at": "2026-11-07T18:17:34.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -343,41 +380,6 @@
       "region": "global",
       "title_zh": "Why Are There Protests in France?",
       "summary_zh": "For a fourth consecutive Saturday, tens of thousands of people are expected to demonstrate. The authorities hope a large security presence will deter riots."
-    },
-    {
-      "id": "30b77808a095c581",
-      "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
-      "summary": "Santiago Peña was impeached, removed from office and placed under house arrest after a bank with close ties to his administration went under.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
-      "image_url": null,
-      "published_at": "2026-11-07T01:29:30.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Paraguay’s President Removed and Arrested Over Financial Crisis",
-      "summary_zh": "Santiago Peña was impeached, removed from office and placed under house arrest after a bank with close ties to his administration went under."
-    },
-    {
-      "id": "e17b499a28441127",
-      "title": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
-      "summary": "Victory for Democrats could alter the course of peace negotiations and a war nearing its fifth year.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html",
-      "image_url": null,
-      "published_at": "2026-11-06T10:22:24.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
-      "summary_zh": "Victory for Democrats could alter the course of peace negotiations and a war nearing its fifth year."
     },
     {
       "id": "62407d99b47ae5d1",
@@ -487,53 +489,14 @@
       "summary_zh": "Aave Labs acquired the team and technology of Avon, an onchain fixed-rate and floating-rate lending protocol."
     },
     {
-      "id": "a6d3177e3d8ed26e",
-      "title": "Crypto ETFs see over half a billion dollars in outflows amid post-midterm market slide",
-      "summary": "U.S. spot crypto ETFs slumped back to net outflows on Thursday, with more than $540 million in withdrawals across major products.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-11-06-crypto-etfs-see-over-half-a-billion-dollars-in-outflows-amid-post-midterm-market-slide-435873",
-      "image_url": null,
-      "published_at": "2026-11-06T12:33:31.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "etf"
-      ],
-      "region": "global",
-      "title_zh": "Crypto ETFs see over half a billion dollars in outflows amid post-midterm market slide",
-      "summary_zh": "U.S. spot crypto ETFs slumped back to net outflows on Thursday, with more than $540 million in withdrawals across major products."
-    },
-    {
-      "id": "8fb36eb8d1901d8e",
-      "title": "Trending Crypto: Reboot (REBOOT)",
-      "summary": "CoinGecko trending rank #857.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/reboot-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180085/large/logo.png?1793822340",
-      "published_at": "2026-11-07T14:31:48.479Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "reboot"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Reboot (REBOOT)",
-      "summary_zh": "CoinGecko trending rank #857."
-    },
-    {
-      "id": "bda373a93c7ce27a",
+      "id": "0a382813b1f4b65b",
       "title": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary": "CoinGecko trending rank #850.",
+      "summary": "CoinGecko trending rank #890.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/dacity-coin-4",
       "image_url": "https://coin-images.coingecko.com/coins/images/102180086/large/logo.png?1793830170",
-      "published_at": "2026-11-07T14:31:48.479Z",
+      "published_at": "2026-11-07T19:09:12.945Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -543,57 +506,37 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary_zh": "CoinGecko trending rank #850."
+      "summary_zh": "CoinGecko trending rank #890."
     },
     {
-      "id": "c93189db055eff68",
-      "title": "Trending Crypto: Pearl (PEARL)",
-      "summary": "CoinGecko trending rank #90.",
+      "id": "4ce212e28594c1f2",
+      "title": "Trending Crypto: Reboot (REBOOT)",
+      "summary": "CoinGecko trending rank #885.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-11-07T14:31:48.479Z",
+      "source_url": "https://www.coingecko.com/en/coins/reboot-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180085/large/logo.png?1793822340",
+      "published_at": "2026-11-07T19:09:12.945Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pearl"
+        "reboot"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pearl (PEARL)",
-      "summary_zh": "CoinGecko trending rank #90."
+      "title_zh": "Trending Crypto: Reboot (REBOOT)",
+      "summary_zh": "CoinGecko trending rank #885."
     },
     {
-      "id": "e0e34c71ea8b67e1",
-      "title": "Trending Crypto: Solana (SOL)",
-      "summary": "CoinGecko trending rank #7.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/solana",
-      "image_url": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
-      "published_at": "2026-11-07T14:31:48.479Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "sol"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Solana (SOL)",
-      "summary_zh": "CoinGecko trending rank #7."
-    },
-    {
-      "id": "cc1835b04a21763d",
+      "id": "060ab2f4d1a08ebd",
       "title": "Trending Crypto: Harmony (ONE)",
-      "summary": "CoinGecko trending rank #645.",
+      "summary": "CoinGecko trending rank #588.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/harmony",
       "image_url": "https://coin-images.coingecko.com/coins/images/4344/large/Y88JAze.png?1696504947",
-      "published_at": "2026-11-07T14:31:48.479Z",
+      "published_at": "2026-11-07T19:09:12.945Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -603,7 +546,47 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Harmony (ONE)",
-      "summary_zh": "CoinGecko trending rank #645."
+      "summary_zh": "CoinGecko trending rank #588."
+    },
+    {
+      "id": "960435c22496086a",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-11-07T19:09:12.945Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "btc"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Bitcoin (BTC)",
+      "summary_zh": "CoinGecko trending rank #1."
+    },
+    {
+      "id": "b30ebe7062f73ca6",
+      "title": "Trending Crypto: Kinetiq (KNTQ)",
+      "summary": "CoinGecko trending rank #199.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/kinetiq",
+      "image_url": "https://coin-images.coingecko.com/coins/images/70252/large/kntq.png?1761279547",
+      "published_at": "2026-11-07T19:09:12.945Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "kntq"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Kinetiq (KNTQ)",
+      "summary_zh": "CoinGecko trending rank #199."
     },
     {
       "id": "de7e1af55b945775",
@@ -957,6 +940,25 @@
       "summary_zh": "Five MIT faculty members and two additional alumni are honored with fellowships to advance research on beneficial AI."
     },
     {
+      "id": "280701088a2bd099",
+      "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+      "summary": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+      "image_url": null,
+      "published_at": "2026-11-07T16:02:33.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "stocks"
+      ],
+      "region": "global",
+      "title_zh": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+      "summary_zh": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress."
+    },
+    {
       "id": "596f81946d8d8472",
       "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
       "summary": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
@@ -1061,22 +1063,70 @@
       "summary_zh": "Blackstone President Jon Gray says AI infrastructure needs more equity as debt investors face concentration risks amid massive spending plans."
     },
     {
-      "id": "0246b0bffc7474b7",
-      "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-      "summary": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+      "id": "5726c4bc30391ce5",
+      "title": "What we know about Krakow mass shooting so far",
+      "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-03T13:33:11.000Z",
+      "published_at": "2026-11-07T18:22:11.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "What we know about Krakow mass shooting so far",
+      "summary_zh": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city."
+    },
+    {
+      "id": "d320757af7974e35",
+      "title": "No clear winner after tight New Zealand general election",
+      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-07T15:56:28.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "No clear winner after tight New Zealand general election",
+      "summary_zh": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament."
+    },
+    {
+      "id": "c6cfef0be5634b87",
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-07T17:09:24.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-      "summary_zh": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks."
+      "title_zh": "Houthis say at least 25 killed in Saudi air strike",
+      "summary_zh": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
+    },
+    {
+      "id": "fdf616e7af2b24bc",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-07T15:19:35.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "summary_zh": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
     },
     {
       "id": "9d1cb8bf69111e35",
@@ -1113,91 +1163,22 @@
       "summary_zh": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
     },
     {
-      "id": "3a0a0140950ccd39",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "id": "690d54dd67a306dd",
+      "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
+      "summary": "The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
       "image_url": null,
-      "published_at": "2026-11-06T21:06:25.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "stocks"
-      ],
-      "region": "global",
-      "title_zh": "AI stocks climb after trillions wiped from market values",
-      "summary_zh": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
-    },
-    {
-      "id": "351efd8e4ad02e1d",
-      "title": "New wave of bomb threats hit European airlines",
-      "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-06T15:25:35.000Z",
+      "published_at": "2026-11-07T19:02:02.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "New wave of bomb threats hit European airlines",
-      "summary_zh": "No link has been established between the threats against the airlines and those against the media outlets."
-    },
-    {
-      "id": "0f92c9ef6b9d4872",
-      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-06T17:44:02.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "summary_zh": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people."
-    },
-    {
-      "id": "8ccd1ffc8409ada5",
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-06T14:46:03.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "summary_zh": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
-    },
-    {
-      "id": "39ae3b1cb11ca81c",
-      "title": "Two dead after bus crashes in France, officials say",
-      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-06T15:33:52.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Two dead after bus crashes in France, officials say",
-      "summary_zh": "One child and one young adult were killed in the crash, local authorities say, with more injured."
+      "title_zh": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
+      "summary_zh": "The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital."
     },
     {
       "id": "6e652ca25d8a1a75",
@@ -1234,14 +1215,30 @@
       "summary_zh": "In his twilight years, the British monarch is embracing his role as a global statesman, even when that involves heavy rain and difficult questions about his nation’s history."
     },
     {
+      "id": "185d3468923c4c8e",
+      "title": "A ‘Chaotic Race’ for the World’s Top Diplomat",
+      "summary": "The contest to replace António Guterres as U.N. secretary general has been jolted by last-minute entrants and deep divisions among members of the Security Council.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
+      "image_url": null,
+      "published_at": "2026-11-07T17:26:52.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "A ‘Chaotic Race’ for the World’s Top Diplomat",
+      "summary_zh": "The contest to replace António Guterres as U.N. secretary general has been jolted by last-minute entrants and deep divisions among members of the Security Council."
+    },
+    {
       "id": "6a86b89f9307ab7c",
       "title": "Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo",
-      "summary": "At least 44 people were killed in a brutal assault by a group loyal to the Islamic State, officials said. The area is a hot spot of the growing Ebola outbreak.",
+      "summary": "At least 48 people were killed in a brutal assault by a group loyal to the Islamic State, officials said. The area is a hot spot of the growing Ebola outbreak.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html",
       "image_url": null,
-      "published_at": "2026-11-07T12:06:57.000Z",
+      "published_at": "2026-11-07T18:49:32.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1249,41 +1246,63 @@
       ],
       "region": "global",
       "title_zh": "Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo",
-      "summary_zh": "At least 44 people were killed in a brutal assault by a group loyal to the Islamic State, officials said. The area is a hot spot of the growing Ebola outbreak."
+      "summary_zh": "At least 48 people were killed in a brutal assault by a group loyal to the Islamic State, officials said. The area is a hot spot of the growing Ebola outbreak."
     },
     {
-      "id": "be6bb85d3a22c6e2",
-      "title": "Another Day of Protests Is Planned in France’s Autumn of Discontent",
-      "summary": "Two days after a general strike and huge demonstrations, students and workers aim to take to the streets again on Saturday.",
+      "id": "463b0bb63d119a13",
+      "title": "Another Day of France’s Protests Unfurl During an Autumn of Discontent",
+      "summary": "Two days after a general strike and huge demonstrations, students and workers took to the streets again on Saturday.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
       "image_url": null,
-      "published_at": "2026-11-07T05:01:04.000Z",
+      "published_at": "2026-11-07T17:06:40.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Another Day of Protests Is Planned in France’s Autumn of Discontent",
-      "summary_zh": "Two days after a general strike and huge demonstrations, students and workers aim to take to the streets again on Saturday."
+      "title_zh": "Another Day of France’s Protests Unfurl During an Autumn of Discontent",
+      "summary_zh": "Two days after a general strike and huge demonstrations, students and workers took to the streets again on Saturday."
     },
     {
-      "id": "4f9ef313f32e935b",
-      "title": "New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties",
-      "summary": "Preliminary results showed the right-wing bloc slightly ahead but no clear winner after an election that was dominated by economic concerns.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
+      "id": "33c64c4e1e2316a7",
+      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "summary": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
       "image_url": null,
-      "published_at": "2026-11-07T13:13:40.000Z",
-      "importance_score": 46,
+      "published_at": "2026-11-07T17:36:46.000Z",
+      "importance_score": 44,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai",
+        "crypto"
+      ],
       "region": "global",
-      "title_zh": "New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties",
-      "summary_zh": "Preliminary results showed the right-wing bloc slightly ahead but no clear winner after an election that was dominated by economic concerns."
+      "title_zh": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "summary_zh": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance."
+    },
+    {
+      "id": "7fc1063ecbd07b07",
+      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "summary": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+      "image_url": null,
+      "published_at": "2026-11-07T16:51:00.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "summary_zh": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams."
     },
     {
       "id": "2f366bd21c783530",
@@ -1321,25 +1340,6 @@
       "region": "global",
       "title_zh": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
       "summary_zh": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025."
-    },
-    {
-      "id": "20dccb3092749dc6",
-      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-      "summary": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-      "image_url": null,
-      "published_at": "2026-11-06T08:47:42.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-      "summary_zh": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps."
     },
     {
       "id": "4c6efbc18302740c",
