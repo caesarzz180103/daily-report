@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T07:57:29.763Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says；【AI】Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery；【FINANCE】Barkin sees interest rate hikes ahead, but at a gradual pace。",
+  "generated_at": "2026-11-07T14:33:01.427Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says；【AI】Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery；【FINANCE】Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -57,6 +57,24 @@
       "summary_zh": "The MIT professors collaborated to identify the first AI-discovered antibiotic, a scientific breakthrough that is widely recognized as a milestone in AI-driven drug discovery."
     },
     {
+      "id": "a94e85f40f66ae1d",
+      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+      "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+      "image_url": null,
+      "published_at": "2026-11-07T14:02:49.000Z",
+      "importance_score": 70,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+      "summary_zh": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit."
+    },
+    {
       "id": "d4a028a2247af295",
       "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
       "summary": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust.",
@@ -93,25 +111,6 @@
       "region": "global",
       "title_zh": "Judge blocks construction of Trump's massive arch after federal agency approval",
       "summary_zh": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week."
-    },
-    {
-      "id": "6810f54eb3af628d",
-      "title": "Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated",
-      "summary": "Bomb threats have disrupted dozens of flights in Europe over the past week. At airports in Rome, Madrid and Warsaw, travelers were more frustrated than fearful.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html",
-      "image_url": null,
-      "published_at": "2026-11-06T16:21:25.000Z",
-      "importance_score": 70,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated",
-      "summary_zh": "Bomb threats have disrupted dozens of flights in Europe over the past week. At airports in Rome, Madrid and Warsaw, travelers were more frustrated than fearful."
     },
     {
       "id": "51e76bce019cc959",
@@ -293,6 +292,75 @@
       "summary_zh": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer."
     },
     {
+      "id": "7296f7db2ddbea18",
+      "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
+      "summary": "After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
+      "image_url": null,
+      "published_at": "2026-11-07T10:01:41.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
+      "summary_zh": "After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains."
+    },
+    {
+      "id": "7289050ccca58bd4",
+      "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
+      "summary": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
+      "image_url": null,
+      "published_at": "2026-11-07T10:32:52.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
+      "summary_zh": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling."
+    },
+    {
+      "id": "715925fd3ce14235",
+      "title": "Why Are There Protests in France?",
+      "summary": "For a fourth consecutive Saturday, tens of thousands of people are expected to demonstrate. The authorities hope a large security presence will deter riots.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/article/france-student-protests-why.html",
+      "image_url": null,
+      "published_at": "2026-11-07T10:13:41.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Why Are There Protests in France?",
+      "summary_zh": "For a fourth consecutive Saturday, tens of thousands of people are expected to demonstrate. The authorities hope a large security presence will deter riots."
+    },
+    {
+      "id": "30b77808a095c581",
+      "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
+      "summary": "Santiago Peña was impeached, removed from office and placed under house arrest after a bank with close ties to his administration went under.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+      "image_url": null,
+      "published_at": "2026-11-07T01:29:30.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Paraguay’s President Removed and Arrested Over Financial Crisis",
+      "summary_zh": "Santiago Peña was impeached, removed from office and placed under house arrest after a bank with close ties to his administration went under."
+    },
+    {
       "id": "e17b499a28441127",
       "title": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
       "summary": "Victory for Democrats could alter the course of peace negotiations and a war nearing its fifth year.",
@@ -310,38 +378,6 @@
       "region": "global",
       "title_zh": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
       "summary_zh": "Victory for Democrats could alter the course of peace negotiations and a war nearing its fifth year."
-    },
-    {
-      "id": "6c191d28ab99dbec",
-      "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
-      "summary": "Pope Leo XIV’s tour of Uruguay, Argentina and Peru is his first major trip since an operation on his lung last month.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
-      "image_url": null,
-      "published_at": "2026-11-06T19:24:09.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
-      "summary_zh": "Pope Leo XIV’s tour of Uruguay, Argentina and Peru is his first major trip since an operation on his lung last month."
-    },
-    {
-      "id": "9de53c17fdf9c9fb",
-      "title": "Pope Leo’s Trip to Latin America: What to Know",
-      "summary": "Less than a month after lung surgery, Pope Leo XIV is landing in Uruguay on Friday, the first stop of a 12-day voyage across South America.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
-      "image_url": null,
-      "published_at": "2026-11-06T05:01:17.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Pope Leo’s Trip to Latin America: What to Know",
-      "summary_zh": "Less than a month after lung surgery, Pope Leo XIV is landing in Uruguay on Friday, the first stop of a 12-day voyage across South America."
     },
     {
       "id": "62407d99b47ae5d1",
@@ -470,34 +506,54 @@
       "summary_zh": "U.S. spot crypto ETFs slumped back to net outflows on Thursday, with more than $540 million in withdrawals across major products."
     },
     {
-      "id": "e0e4182fb66a4065",
-      "title": "Trending Crypto: COGE COIN (COGE)",
-      "summary": "CoinGecko trending rank #946.",
+      "id": "8fb36eb8d1901d8e",
+      "title": "Trending Crypto: Reboot (REBOOT)",
+      "summary": "CoinGecko trending rank #857.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/coge-coin-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180112/large/logo.png?1793932089",
-      "published_at": "2026-11-07T07:56:21.051Z",
+      "source_url": "https://www.coingecko.com/en/coins/reboot-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180085/large/logo.png?1793822340",
+      "published_at": "2026-11-07T14:31:48.479Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "coge"
+        "reboot"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: COGE COIN (COGE)",
-      "summary_zh": "CoinGecko trending rank #946."
+      "title_zh": "Trending Crypto: Reboot (REBOOT)",
+      "summary_zh": "CoinGecko trending rank #857."
     },
     {
-      "id": "7b37ef9614149d2f",
+      "id": "bda373a93c7ce27a",
+      "title": "Trending Crypto: Dacity Coin (DACITY)",
+      "summary": "CoinGecko trending rank #850.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/dacity-coin-4",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180086/large/logo.png?1793830170",
+      "published_at": "2026-11-07T14:31:48.479Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "dacity"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Dacity Coin (DACITY)",
+      "summary_zh": "CoinGecko trending rank #850."
+    },
+    {
+      "id": "c93189db055eff68",
       "title": "Trending Crypto: Pearl (PEARL)",
       "summary": "CoinGecko trending rank #90.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pearl-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-11-07T07:56:21.051Z",
+      "published_at": "2026-11-07T14:31:48.479Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -510,54 +566,14 @@
       "summary_zh": "CoinGecko trending rank #90."
     },
     {
-      "id": "dfe7f9ea39541671",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-07T07:56:21.051Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "btc"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Bitcoin (BTC)",
-      "summary_zh": "CoinGecko trending rank #1."
-    },
-    {
-      "id": "11266af8d8b5a8d5",
-      "title": "Trending Crypto: Harmony (ONE)",
-      "summary": "CoinGecko trending rank #670.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/harmony",
-      "image_url": "https://coin-images.coingecko.com/coins/images/4344/large/Y88JAze.png?1696504947",
-      "published_at": "2026-11-07T07:56:21.051Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "one"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Harmony (ONE)",
-      "summary_zh": "CoinGecko trending rank #670."
-    },
-    {
-      "id": "80ebd4e3728fd183",
+      "id": "e0e34c71ea8b67e1",
       "title": "Trending Crypto: Solana (SOL)",
       "summary": "CoinGecko trending rank #7.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/solana",
       "image_url": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
-      "published_at": "2026-11-07T07:56:21.051Z",
+      "published_at": "2026-11-07T14:31:48.479Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -568,6 +584,26 @@
       "region": "global",
       "title_zh": "Trending Crypto: Solana (SOL)",
       "summary_zh": "CoinGecko trending rank #7."
+    },
+    {
+      "id": "cc1835b04a21763d",
+      "title": "Trending Crypto: Harmony (ONE)",
+      "summary": "CoinGecko trending rank #645.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/harmony",
+      "image_url": "https://coin-images.coingecko.com/coins/images/4344/large/Y88JAze.png?1696504947",
+      "published_at": "2026-11-07T14:31:48.479Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "one"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Harmony (ONE)",
+      "summary_zh": "CoinGecko trending rank #645."
     },
     {
       "id": "de7e1af55b945775",
@@ -1043,20 +1079,38 @@
       "summary_zh": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks."
     },
     {
-      "id": "228397d45c53faa7",
-      "title": "Stock market after midterm elections: What S&P 500 history shows",
-      "summary": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+      "id": "9d1cb8bf69111e35",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-03T18:21:05.000Z",
+      "published_at": "2026-11-06T23:24:15.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Stock market after midterm elections: What S&P 500 history shows",
-      "summary_zh": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress"
+      "title_zh": "With Stephen Miller pick, Trump readies for a battle",
+      "summary_zh": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress."
+    },
+    {
+      "id": "36c5765a770150cb",
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-07T12:49:36.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "summary_zh": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
     },
     {
       "id": "3a0a0140950ccd39",
@@ -1078,22 +1132,6 @@
       "summary_zh": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
     },
     {
-      "id": "e07a852a4bd39ef8",
-      "title": "Four midterms takeaways for 2028 White House race",
-      "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-06T16:12:22.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Four midterms takeaways for 2028 White House race",
-      "summary_zh": "The buzz about the presidential election is already under way - here's what we learned this week."
-    },
-    {
       "id": "351efd8e4ad02e1d",
       "title": "New wave of bomb threats hit European airlines",
       "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
@@ -1110,22 +1148,6 @@
       "region": "global",
       "title_zh": "New wave of bomb threats hit European airlines",
       "summary_zh": "No link has been established between the threats against the airlines and those against the media outlets."
-    },
-    {
-      "id": "8ccd1ffc8409ada5",
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-06T14:46:03.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "summary_zh": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
     },
     {
       "id": "0f92c9ef6b9d4872",
@@ -1146,6 +1168,22 @@
       "summary_zh": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people."
     },
     {
+      "id": "8ccd1ffc8409ada5",
+      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-06T14:46:03.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "summary_zh": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
+    },
+    {
       "id": "39ae3b1cb11ca81c",
       "title": "Two dead after bus crashes in France, officials say",
       "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
@@ -1162,118 +1200,90 @@
       "summary_zh": "One child and one young adult were killed in the crash, local authorities say, with more injured."
     },
     {
-      "id": "ed7d9907d4a42434",
-      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-      "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
+      "id": "6e652ca25d8a1a75",
+      "title": "This Israeli Vows to Oust Netanyahu. Here’s How.",
+      "summary": "Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
       "image_url": null,
-      "published_at": "2026-11-06T23:46:08.000Z",
+      "published_at": "2026-11-07T12:42:56.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-      "summary_zh": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university."
+      "title_zh": "This Israeli Vows to Oust Netanyahu. Here’s How.",
+      "summary_zh": "Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable."
     },
     {
-      "id": "ed2cea23c10fb458",
-      "title": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
-      "summary": "President Isaac Herzog is set to task a candidate with trying to form a government, following two days of talks with party leaders and officials after an inconclusive election.",
+      "id": "7f221f8141e162e2",
+      "title": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
+      "summary": "In his twilight years, the British monarch is embracing his role as a global statesman, even when that involves heavy rain and difficult questions about his nation’s history.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+      "source_url": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
       "image_url": null,
-      "published_at": "2026-11-06T22:36:16.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
-      "summary_zh": "President Isaac Herzog is set to task a candidate with trying to form a government, following two days of talks with party leaders and officials after an inconclusive election."
-    },
-    {
-      "id": "8634f4ef92051dc3",
-      "title": "Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?",
-      "summary": "Economic concerns dominated in the lead-up to the election on Saturday, in which there was no clear front-runner and smaller parties were expected to wield greater influence.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
-      "image_url": null,
-      "published_at": "2026-11-07T06:45:04.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?",
-      "summary_zh": "Economic concerns dominated in the lead-up to the election on Saturday, in which there was no clear front-runner and smaller parties were expected to wield greater influence."
-    },
-    {
-      "id": "50f23daad57ea0b8",
-      "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
-      "summary": "A 500-pound bomb supplied by the United States appears to have been used in the Oct. 18 strike, according to video footage examined by The New York Times.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
-      "image_url": null,
-      "published_at": "2026-11-06T16:59:44.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
-      "summary_zh": "A 500-pound bomb supplied by the United States appears to have been used in the Oct. 18 strike, according to video footage examined by The New York Times."
-    },
-    {
-      "id": "9a03d64f7ca3af2b",
-      "title": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says",
-      "summary": "Multiple flights in Europe were disrupted and several newsrooms in Ireland were evacuated after false bomb threats, the latest of a series of security incidents.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
-      "image_url": null,
-      "published_at": "2026-11-06T20:07:48.000Z",
+      "published_at": "2026-11-07T09:57:14.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says",
-      "summary_zh": "Multiple flights in Europe were disrupted and several newsrooms in Ireland were evacuated after false bomb threats, the latest of a series of security incidents."
+      "title_zh": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
+      "summary_zh": "In his twilight years, the British monarch is embracing his role as a global statesman, even when that involves heavy rain and difficult questions about his nation’s history."
     },
     {
-      "id": "ee30985704e115c4",
-      "title": "Tanzania’s Opposition Leader Gets a Four-Year Sentence",
-      "summary": "Tundu Lissu was found guilty of incitement for statements he had made ahead of a presidential election in October 2025.",
+      "id": "6a86b89f9307ab7c",
+      "title": "Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo",
+      "summary": "At least 44 people were killed in a brutal assault by a group loyal to the Islamic State, officials said. The area is a hot spot of the growing Ebola outbreak.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html",
+      "source_url": "https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html",
       "image_url": null,
-      "published_at": "2026-11-06T17:36:38.000Z",
+      "published_at": "2026-11-07T12:06:57.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo",
+      "summary_zh": "At least 44 people were killed in a brutal assault by a group loyal to the Islamic State, officials said. The area is a hot spot of the growing Ebola outbreak."
+    },
+    {
+      "id": "be6bb85d3a22c6e2",
+      "title": "Another Day of Protests Is Planned in France’s Autumn of Discontent",
+      "summary": "Two days after a general strike and huge demonstrations, students and workers aim to take to the streets again on Saturday.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
+      "image_url": null,
+      "published_at": "2026-11-07T05:01:04.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Another Day of Protests Is Planned in France’s Autumn of Discontent",
+      "summary_zh": "Two days after a general strike and huge demonstrations, students and workers aim to take to the streets again on Saturday."
+    },
+    {
+      "id": "4f9ef313f32e935b",
+      "title": "New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties",
+      "summary": "Preliminary results showed the right-wing bloc slightly ahead but no clear winner after an election that was dominated by economic concerns.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
+      "image_url": null,
+      "published_at": "2026-11-07T13:13:40.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Tanzania’s Opposition Leader Gets a Four-Year Sentence",
-      "summary_zh": "Tundu Lissu was found guilty of incitement for statements he had made ahead of a presidential election in October 2025."
-    },
-    {
-      "id": "3bbcc85a05fe9480",
-      "title": "Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder",
-      "summary": "Paul Nthenge Mackenzie told followers to starve themselves in order to meet Jesus, an edict that was violently enforced, a court heard during his trial.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html",
-      "image_url": null,
-      "published_at": "2026-11-06T21:13:25.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder",
-      "summary_zh": "Paul Nthenge Mackenzie told followers to starve themselves in order to meet Jesus, an edict that was violently enforced, a court heard during his trial."
+      "title_zh": "New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties",
+      "summary_zh": "Preliminary results showed the right-wing bloc slightly ahead but no clear winner after an election that was dominated by economic concerns."
     },
     {
       "id": "2f366bd21c783530",
