@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T03:07:05.886Z",
+  "generated_at": "2026-11-08T10:51:52.818Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says；【AI】Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery；【FINANCE】Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline。",
   "meta": {
     "sources_count": 11,
@@ -307,43 +307,6 @@
       "summary_zh": "Santiago Peña was impeached, removed from office, placed under house arrest and charged with using his office to enrich himself after a bank with close ties to his administration went under."
     },
     {
-      "id": "7296f7db2ddbea18",
-      "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
-      "summary": "After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
-      "image_url": null,
-      "published_at": "2026-11-07T18:17:34.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
-      "summary_zh": "After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains."
-    },
-    {
-      "id": "7289050ccca58bd4",
-      "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
-      "summary": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
-      "image_url": null,
-      "published_at": "2026-11-07T22:05:57.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
-      "summary_zh": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling."
-    },
-    {
       "id": "62407d99b47ae5d1",
       "title": "Recent Quant Links from Quantocracy as of 10/12/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools",
@@ -469,14 +432,54 @@
       "summary_zh": "Aave Labs acquired the team and technology of Avon, an onchain fixed-rate and floating-rate lending protocol."
     },
     {
-      "id": "1abb596ccd710c62",
+      "id": "6323b67c25f339bf",
+      "title": "Trending Crypto: WASTED (WASTED)",
+      "summary": "CoinGecko trending rank #803.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/wasted-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180146/large/logo.png?1794035155",
+      "published_at": "2026-11-08T10:50:43.570Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "wasted"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: WASTED (WASTED)",
+      "summary_zh": "CoinGecko trending rank #803."
+    },
+    {
+      "id": "2f5f7b2c7bff709d",
+      "title": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary": "CoinGecko trending rank #11.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
+      "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
+      "published_at": "2026-11-08T10:50:43.570Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "hype"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary_zh": "CoinGecko trending rank #11."
+    },
+    {
+      "id": "0f0ca9b8753fbe90",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-08T03:05:52.801Z",
+      "published_at": "2026-11-08T10:50:43.570Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -489,84 +492,44 @@
       "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "64df041fbf519184",
-      "title": "Trending Crypto: Worldcoin (WLD)",
-      "summary": "CoinGecko trending rank #67.",
+      "id": "1ee59135846b175e",
+      "title": "Trending Crypto: Kinetiq (KNTQ)",
+      "summary": "CoinGecko trending rank #193.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/worldcoin-wld",
-      "image_url": "https://coin-images.coingecko.com/coins/images/31069/large/worldcoin.jpeg?1696529903",
-      "published_at": "2026-11-08T03:05:52.801Z",
+      "source_url": "https://www.coingecko.com/en/coins/kinetiq",
+      "image_url": "https://coin-images.coingecko.com/coins/images/70252/large/kntq.png?1761279547",
+      "published_at": "2026-11-08T10:50:43.570Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "wld"
+        "kntq"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Worldcoin (WLD)",
-      "summary_zh": "CoinGecko trending rank #67."
+      "title_zh": "Trending Crypto: Kinetiq (KNTQ)",
+      "summary_zh": "CoinGecko trending rank #193."
     },
     {
-      "id": "76f77f4d535361e2",
-      "title": "Trending Crypto: Grass (GRASS)",
-      "summary": "CoinGecko trending rank #120.",
+      "id": "dce35500fd12d210",
+      "title": "Trending Crypto: STONK (STONK)",
+      "summary": "CoinGecko trending rank #414.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/grass",
-      "image_url": "https://coin-images.coingecko.com/coins/images/40094/large/Grass.jpg?1725697048",
-      "published_at": "2026-11-08T03:05:52.801Z",
+      "source_url": "https://www.coingecko.com/en/coins/stonk-3",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102175239/large/tscmgapqpfx5j4hu8gbs3aj85s7a.?1785895603",
+      "published_at": "2026-11-08T10:50:43.570Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "grass"
+        "stonk"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Grass (GRASS)",
-      "summary_zh": "CoinGecko trending rank #120."
-    },
-    {
-      "id": "21a2b9e93839f3c2",
-      "title": "Trending Crypto: NEAR Protocol (NEAR)",
-      "summary": "CoinGecko trending rank #21.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/near",
-      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
-      "published_at": "2026-11-08T03:05:52.801Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "near"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
-      "summary_zh": "CoinGecko trending rank #21."
-    },
-    {
-      "id": "f3718fa7373f4100",
-      "title": "Trending Crypto: Geodnet (GEOD)",
-      "summary": "CoinGecko trending rank #183.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/geodnet",
-      "image_url": "https://coin-images.coingecko.com/coins/images/31608/large/Circular_White.png?1696530424",
-      "published_at": "2026-11-08T03:05:52.801Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "geod"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Geodnet (GEOD)",
-      "summary_zh": "CoinGecko trending rank #183."
+      "title_zh": "Trending Crypto: STONK (STONK)",
+      "summary_zh": "CoinGecko trending rank #414."
     },
     {
       "id": "de7e1af55b945775",
@@ -1026,12 +989,12 @@
     {
       "id": "3808733bc1e2249c",
       "title": "What we know so far after Krakow gun attack",
-      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
+      "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-08T01:47:41.000Z",
+      "published_at": "2026-11-08T07:52:33.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1039,7 +1002,43 @@
       ],
       "region": "global",
       "title_zh": "What we know so far after Krakow gun attack",
-      "summary_zh": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker."
+      "summary_zh": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker."
+    },
+    {
+      "id": "09254afc0d4e4917",
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-08T04:03:12.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Houthis say at least 33 killed in Saudi air strike",
+      "summary_zh": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
+    },
+    {
+      "id": "0dedcdbc566fe12f",
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-07T21:36:16.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "summary_zh": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls."
     },
     {
       "id": "53f9fe385df28e1b",
@@ -1058,40 +1057,6 @@
       "summary_zh": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
     },
     {
-      "id": "d320757af7974e35",
-      "title": "No clear winner after tight New Zealand general election",
-      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-07T15:56:28.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "No clear winner after tight New Zealand general election",
-      "summary_zh": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament."
-    },
-    {
-      "id": "c6cfef0be5634b87",
-      "title": "Houthis say at least 25 killed in Saudi air strike",
-      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-07T17:09:24.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Houthis say at least 25 killed in Saudi air strike",
-      "summary_zh": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
-    },
-    {
       "id": "fdf616e7af2b24bc",
       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
       "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
@@ -1108,20 +1073,74 @@
       "summary_zh": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
     },
     {
-      "id": "9d1cb8bf69111e35",
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "id": "36c5765a770150cb",
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-06T23:24:15.000Z",
+      "published_at": "2026-11-07T12:49:36.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "summary_zh": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
+    },
+    {
+      "id": "d36bf47aafcfd2bf",
+      "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
+      "summary": "India’s top court decreed that only more environmentally friendly fireworks could be set off this weekend, citing air quality concerns. But environmental activists call it a “green wash.”",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
+      "image_url": null,
+      "published_at": "2026-11-08T05:01:18.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
+      "summary_zh": "India’s top court decreed that only more environmentally friendly fireworks could be set off this weekend, citing air quality concerns. But environmental activists call it a “green wash.”"
+    },
+    {
+      "id": "e7795bd7d676e077",
+      "title": "In Argentina, Pope Leo to Meet Church at Odds With President Milei",
+      "summary": "The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
+      "image_url": null,
+      "published_at": "2026-11-08T10:00:57.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "With Stephen Miller pick, Trump readies for a battle",
-      "summary_zh": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress."
+      "title_zh": "In Argentina, Pope Leo to Meet Church at Odds With President Milei",
+      "summary_zh": "The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice."
+    },
+    {
+      "id": "6908bcd0f6df97a0",
+      "title": "South Africa’s Politics May Never Be the Same Again",
+      "summary": "The African National Congress lost big in local elections, turning a once-dominant force credited with overturning apartheid into “any other political party.”",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
+      "image_url": null,
+      "published_at": "2026-11-08T05:01:23.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "South Africa’s Politics May Never Be the Same Again",
+      "summary_zh": "The African National Congress lost big in local elections, turning a once-dominant force credited with overturning apartheid into “any other political party.”"
     },
     {
       "id": "29940c85d141a4f3",
@@ -1131,7 +1150,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
       "image_url": null,
-      "published_at": "2026-11-07T23:03:29.000Z",
+      "published_at": "2026-11-08T09:41:55.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1140,20 +1159,20 @@
       "summary_zh": "Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election."
     },
     {
-      "id": "88965c5312a6d4cb",
-      "title": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
-      "summary": "Gadi Eisenkot gets the chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.",
+      "id": "ff5ee165d4a3d21a",
+      "title": "Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene",
+      "summary": "Food was at the heart of Henry Onesemo’s South Pacific island upbringing. Now, he’s bringing flavors of home to his Michelin-starred restaurant in New Zealand.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
+      "source_url": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
       "image_url": null,
-      "published_at": "2026-11-07T21:52:03.000Z",
+      "published_at": "2026-11-08T05:01:15.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
-      "summary_zh": "Gadi Eisenkot gets the chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable."
+      "title_zh": "Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene",
+      "summary_zh": "Food was at the heart of Henry Onesemo’s South Pacific island upbringing. Now, he’s bringing flavors of home to his Michelin-starred restaurant in New Zealand."
     },
     {
       "id": "690d54dd67a306dd",
@@ -1163,7 +1182,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
       "image_url": null,
-      "published_at": "2026-11-07T23:36:17.000Z",
+      "published_at": "2026-11-07T23:36:18.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1181,7 +1200,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
       "image_url": null,
-      "published_at": "2026-11-07T09:57:14.000Z",
+      "published_at": "2026-11-08T05:55:55.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1206,24 +1225,6 @@
       "region": "global",
       "title_zh": "A ‘Chaotic Race’ for the World’s Top Diplomat",
       "summary_zh": "The contest to replace António Guterres as U.N. secretary general has been jolted by last-minute entrants and deep divisions among members of the Security Council."
-    },
-    {
-      "id": "6a86b89f9307ab7c",
-      "title": "Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo",
-      "summary": "At least 48 people were killed in a brutal assault by a group loyal to the Islamic State, officials said. The area is a hot spot of the growing Ebola outbreak.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html",
-      "image_url": null,
-      "published_at": "2026-11-07T18:49:32.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo",
-      "summary_zh": "At least 48 people were killed in a brutal assault by a group loyal to the Islamic State, officials said. The area is a hot spot of the growing Ebola outbreak."
     },
     {
       "id": "183b9ac018744abe",
