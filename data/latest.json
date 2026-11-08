@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T10:51:52.818Z",
+  "generated_at": "2026-11-08T22:50:31.271Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says；【AI】Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery；【FINANCE】Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline。",
   "meta": {
     "sources_count": 11,
@@ -95,22 +95,38 @@
       "summary_zh": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust."
     },
     {
-      "id": "51e76bce019cc959",
-      "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
-      "summary": "The unemployment rate unexpectedly fell to 4.1%. The strong showing surely puts a December rate hike in play, but next week's inflation numbers and the fate of the stock market could prove more important.",
+      "id": "7236e7210d5d1725",
+      "title": "Stablecoin growth has stalled. The payments boom hasn't",
+      "summary": "Stablecoin supply has barely grown this year, even as payments using the tokens surge. Circle's latest earnings offer another example of the divergence between dollars outstanding and activity on blockchain networks.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
+      "source_url": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
       "image_url": null,
-      "published_at": "2026-11-06T13:31:54.000Z",
+      "published_at": "2026-11-08T19:16:42.000Z",
       "importance_score": 68,
       "sentiment": 0,
       "tags": [
-        "inflation"
+        "ai"
       ],
       "region": "global",
-      "title_zh": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
-      "summary_zh": "The unemployment rate unexpectedly fell to 4.1%. The strong showing surely puts a December rate hike in play, but next week's inflation numbers and the fate of the stock market could prove more important."
+      "title_zh": "Stablecoin growth has stalled. The payments boom hasn't",
+      "summary_zh": "Stablecoin supply has barely grown this year, even as payments using the tokens surge. Circle's latest earnings offer another example of the divergence between dollars outstanding and activity on blockchain networks."
+    },
+    {
+      "id": "286ce6c604daa74f",
+      "title": "Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets",
+      "summary": "Web3Auth's communications also referred to an \"original attacker,\" suggesting some funds were stolen, but did not elaborate.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029",
+      "image_url": null,
+      "published_at": "2026-11-08T18:32:11.000Z",
+      "importance_score": 68,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets",
+      "summary_zh": "Web3Auth's communications also referred to an \"original attacker,\" suggesting some funds were stolen, but did not elaborate."
     },
     {
       "id": "d9adeb1054d16d36",
@@ -204,23 +220,40 @@
       "summary_zh": "From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs."
     },
     {
-      "id": "747d398f3d115465",
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
+      "id": "5970f6da14529ec3",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-07T18:14:38.000Z",
+      "published_at": "2026-11-08T18:22:53.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
-        "ai",
-        "war"
+        "ai"
       ],
       "region": "global",
-      "title_zh": "US offers $20m reward for information about Iran's nuclear programme",
-      "summary_zh": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities."
+      "title_zh": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "summary_zh": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more."
+    },
+    {
+      "id": "b53378d3a38c1700",
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-08T13:37:50.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Iran executes three men for 'armed unrest' after January protests",
+      "summary_zh": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year."
     },
     {
       "id": "a2bbd2de20477d50",
@@ -280,7 +313,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
       "image_url": null,
-      "published_at": "2026-11-07T16:39:31.000Z",
+      "published_at": "2026-11-08T21:45:25.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -289,22 +322,6 @@
       "region": "global",
       "title_zh": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
       "summary_zh": "Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price."
-    },
-    {
-      "id": "a300791283c08b36",
-      "title": "Prosecutors Charge Paraguay’s Former President With Corruption",
-      "summary": "Santiago Peña was impeached, removed from office, placed under house arrest and charged with using his office to enrich himself after a bank with close ties to his administration went under.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
-      "image_url": null,
-      "published_at": "2026-11-07T20:17:15.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Prosecutors Charge Paraguay’s Former President With Corruption",
-      "summary_zh": "Santiago Peña was impeached, removed from office, placed under house arrest and charged with using his office to enrich himself after a bank with close ties to his administration went under."
     },
     {
       "id": "62407d99b47ae5d1",
@@ -359,41 +376,22 @@
       "summary_zh": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their latest earnings show how hard it is to escape crypto's boom-and-bust cycles."
     },
     {
-      "id": "f26dcc7d23d1412e",
-      "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
-      "summary": "Your day-ahead look for Nov. 6, 2026",
+      "id": "6acf2528ddd7b79b",
+      "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
+      "summary": "A recent controversial proposal to burn a rising share of validator rewards as more ETH is staked was withdrawn last month after facing pushback.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
       "image_url": null,
-      "published_at": "2026-11-06T12:30:00.000Z",
+      "published_at": "2026-11-08T15:52:17.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
-        "etf"
+        "war"
       ],
       "region": "global",
-      "title_zh": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
-      "summary_zh": "Your day-ahead look for Nov. 6, 2026"
-    },
-    {
-      "id": "d88295de6fb683bb",
-      "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
-      "summary": "The Nasdaq gained just 1.1%, while the S&P 500 only edged higher, and the DJIA lost more ground.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
-      "image_url": null,
-      "published_at": "2026-11-06T11:58:40.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
-      "summary_zh": "The Nasdaq gained just 1.1%, while the S&P 500 only edged higher, and the DJIA lost more ground."
+      "title_zh": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
+      "summary_zh": "A recent controversial proposal to burn a rising share of validator rewards as more ETH is staked was withdrawn last month after facing pushback."
     },
     {
       "id": "30ad4d9786b4ff61",
@@ -414,32 +412,14 @@
       "summary_zh": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months."
     },
     {
-      "id": "8cf8e9972a828835",
-      "title": "Aave Labs buys Avon team in fixed-rate lending push",
-      "summary": "Aave Labs acquired the team and technology of Avon, an onchain fixed-rate and floating-rate lending protocol.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901",
-      "image_url": null,
-      "published_at": "2026-11-06T15:00:00.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Aave Labs buys Avon team in fixed-rate lending push",
-      "summary_zh": "Aave Labs acquired the team and technology of Avon, an onchain fixed-rate and floating-rate lending protocol."
-    },
-    {
-      "id": "6323b67c25f339bf",
+      "id": "f17823ddca240f20",
       "title": "Trending Crypto: WASTED (WASTED)",
-      "summary": "CoinGecko trending rank #803.",
+      "summary": "CoinGecko trending rank #868.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/wasted-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102180146/large/logo.png?1794035155",
-      "published_at": "2026-11-08T10:50:43.570Z",
+      "published_at": "2026-11-08T22:49:20.537Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -449,37 +429,17 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: WASTED (WASTED)",
-      "summary_zh": "CoinGecko trending rank #803."
+      "summary_zh": "CoinGecko trending rank #868."
     },
     {
-      "id": "2f5f7b2c7bff709d",
-      "title": "Trending Crypto: Hyperliquid (HYPE)",
-      "summary": "CoinGecko trending rank #11.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
-      "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-11-08T10:50:43.570Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "hype"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Hyperliquid (HYPE)",
-      "summary_zh": "CoinGecko trending rank #11."
-    },
-    {
-      "id": "0f0ca9b8753fbe90",
+      "id": "b08e1a05e4ad0493",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-08T10:50:43.570Z",
+      "published_at": "2026-11-08T22:49:20.537Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -492,14 +452,54 @@
       "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "1ee59135846b175e",
+      "id": "daab5e214121752d",
+      "title": "Trending Crypto: Janction (JCT)",
+      "summary": "CoinGecko trending rank #198.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/janction",
+      "image_url": "https://coin-images.coingecko.com/coins/images/70608/large/janction.png?1762738430",
+      "published_at": "2026-11-08T22:49:20.537Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "jct"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Janction (JCT)",
+      "summary_zh": "CoinGecko trending rank #198."
+    },
+    {
+      "id": "88956885f04e1f1f",
+      "title": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary": "CoinGecko trending rank #11.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
+      "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
+      "published_at": "2026-11-08T22:49:20.537Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "hype"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary_zh": "CoinGecko trending rank #11."
+    },
+    {
+      "id": "53170d3fc95ad5d6",
       "title": "Trending Crypto: Kinetiq (KNTQ)",
-      "summary": "CoinGecko trending rank #193.",
+      "summary": "CoinGecko trending rank #217.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/kinetiq",
       "image_url": "https://coin-images.coingecko.com/coins/images/70252/large/kntq.png?1761279547",
-      "published_at": "2026-11-08T10:50:43.570Z",
+      "published_at": "2026-11-08T22:49:20.537Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -509,27 +509,7 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Kinetiq (KNTQ)",
-      "summary_zh": "CoinGecko trending rank #193."
-    },
-    {
-      "id": "dce35500fd12d210",
-      "title": "Trending Crypto: STONK (STONK)",
-      "summary": "CoinGecko trending rank #414.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/stonk-3",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102175239/large/tscmgapqpfx5j4hu8gbs3aj85s7a.?1785895603",
-      "published_at": "2026-11-08T10:50:43.570Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "stonk"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: STONK (STONK)",
-      "summary_zh": "CoinGecko trending rank #414."
+      "summary_zh": "CoinGecko trending rank #217."
     },
     {
       "id": "de7e1af55b945775",
@@ -617,23 +597,22 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 10/18/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Less Wrong [Quantitativo] The biggest risk is that you have a losing strategy when you think you have a winning one. Jeff Y"
     },
     {
-      "id": "f136bf353b0f71be",
-      "title": "Strive’s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
-      "summary": "Strive’s bitcoin stash reached 43,124 BTC as its shares continued to slide despite a profitable third quarter.",
+      "id": "d3e0db3d3d82a714",
+      "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+      "summary": "A Finnish startup has 30 bitcoin mining systems working as central heating, and at today’s prices each one earns slightly more than the electricity it burns.",
       "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
       "image_url": null,
-      "published_at": "2026-11-06T16:07:24.000Z",
+      "published_at": "2026-11-08T12:55:59.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
-        "ai",
         "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Strive’s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
-      "summary_zh": "Strive’s bitcoin stash reached 43,124 BTC as its shares continued to slide despite a profitable third quarter."
+      "title_zh": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+      "summary_zh": "A Finnish startup has 30 bitcoin mining systems working as central heating, and at today’s prices each one earns slightly more than the electricity it burns."
     },
     {
       "id": "ac30d95ed2e60b3e",
@@ -987,22 +966,38 @@
       "summary_zh": "Blackstone President Jon Gray says AI infrastructure needs more equity as debt investors face concentration risks amid massive spending plans."
     },
     {
-      "id": "3808733bc1e2249c",
-      "title": "What we know so far after Krakow gun attack",
-      "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+      "id": "313847694a08fe5f",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-08T07:52:33.000Z",
+      "published_at": "2026-11-08T19:58:02.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "What we know so far after Krakow gun attack",
-      "summary_zh": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker."
+      "title_zh": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "summary_zh": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza."
+    },
+    {
+      "id": "fec5bda85baf7bfa",
+      "title": "Homes and temples glow across India to mark Diwali",
+      "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-08T14:42:09.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Homes and temples glow across India to mark Diwali",
+      "summary_zh": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets."
     },
     {
       "id": "09254afc0d4e4917",
@@ -1041,38 +1036,6 @@
       "summary_zh": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls."
     },
     {
-      "id": "53f9fe385df28e1b",
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-07T22:19:59.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "summary_zh": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
-    },
-    {
-      "id": "fdf616e7af2b24bc",
-      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-07T15:19:35.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "summary_zh": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
-    },
-    {
       "id": "36c5765a770150cb",
       "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
       "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
@@ -1091,24 +1054,6 @@
       "summary_zh": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
     },
     {
-      "id": "d36bf47aafcfd2bf",
-      "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
-      "summary": "India’s top court decreed that only more environmentally friendly fireworks could be set off this weekend, citing air quality concerns. But environmental activists call it a “green wash.”",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
-      "image_url": null,
-      "published_at": "2026-11-08T05:01:18.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
-      "summary_zh": "India’s top court decreed that only more environmentally friendly fireworks could be set off this weekend, citing air quality concerns. But environmental activists call it a “green wash.”"
-    },
-    {
       "id": "e7795bd7d676e077",
       "title": "In Argentina, Pope Leo to Meet Church at Odds With President Milei",
       "summary": "The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice.",
@@ -1116,13 +1061,99 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
       "image_url": null,
-      "published_at": "2026-11-08T10:00:57.000Z",
+      "published_at": "2026-11-08T18:26:49.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
       "title_zh": "In Argentina, Pope Leo to Meet Church at Odds With President Milei",
       "summary_zh": "The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice."
+    },
+    {
+      "id": "50bb41bedae134ca",
+      "title": "Trains Collide Near Cairo, Killing 4",
+      "summary": "The crash between two passenger trains was the latest in a history of deadly rail accidents in Egypt, despite billions spent modernizing the network.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
+      "image_url": null,
+      "published_at": "2026-11-08T21:59:09.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Trains Collide Near Cairo, Killing 4",
+      "summary_zh": "The crash between two passenger trains was the latest in a history of deadly rail accidents in Egypt, despite billions spent modernizing the network."
+    },
+    {
+      "id": "6ba329f302a22f40",
+      "title": "What to Know About the Mass Shooting in Krakow, Poland",
+      "summary": "At least nine people were dead and at least 16 injured after shootings in Krakow and another town, the police said. The motive remains unclear.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
+      "image_url": null,
+      "published_at": "2026-11-08T13:09:09.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "What to Know About the Mass Shooting in Krakow, Poland",
+      "summary_zh": "At least nine people were dead and at least 16 injured after shootings in Krakow and another town, the police said. The motive remains unclear."
+    },
+    {
+      "id": "a8580f1af38187dc",
+      "title": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
+      "summary": "The Saudi authorities said no one was hurt after “falling shrapnel” hit the building in Riyadh’s financial district — one of the highest-profile areas targeted by the Houthis.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
+      "image_url": null,
+      "published_at": "2026-11-08T16:52:42.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
+      "summary_zh": "The Saudi authorities said no one was hurt after “falling shrapnel” hit the building in Riyadh’s financial district — one of the highest-profile areas targeted by the Houthis."
+    },
+    {
+      "id": "1e6641409eb2e652",
+      "title": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
+      "summary": "Gadi Eisenkot, the leading rival of Prime Minister Benjamin Netanyahu, now has a chance to form Israel’s governing coalition. Here are three routes he could try.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+      "image_url": null,
+      "published_at": "2026-11-08T17:31:14.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
+      "summary_zh": "Gadi Eisenkot, the leading rival of Prime Minister Benjamin Netanyahu, now has a chance to form Israel’s governing coalition. Here are three routes he could try."
+    },
+    {
+      "id": "55b83f54ea8ced0e",
+      "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
+      "summary": "Mr. Eisenkot, a career general and the leading rival of Prime Minister Benjamin Netanyahu of Israel, will now have up to six weeks to form a coalition.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
+      "image_url": null,
+      "published_at": "2026-11-08T21:48:21.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
+      "summary_zh": "Mr. Eisenkot, a career general and the leading rival of Prime Minister Benjamin Netanyahu of Israel, will now have up to six weeks to form a coalition."
     },
     {
       "id": "6908bcd0f6df97a0",
@@ -1132,7 +1163,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
       "image_url": null,
-      "published_at": "2026-11-08T05:01:23.000Z",
+      "published_at": "2026-11-08T05:01:24.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1143,20 +1174,22 @@
       "summary_zh": "The African National Congress lost big in local elections, turning a once-dominant force credited with overturning apartheid into “any other political party.”"
     },
     {
-      "id": "29940c85d141a4f3",
-      "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
-      "summary": "Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election.",
+      "id": "d36bf47aafcfd2bf",
+      "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
+      "summary": "India’s top court decreed that only more environmentally friendly fireworks could be set off this weekend, citing air quality concerns. But environmental activists call it a “green wash.”",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+      "source_url": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
       "image_url": null,
-      "published_at": "2026-11-08T09:41:55.000Z",
+      "published_at": "2026-11-08T16:16:51.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai"
+      ],
       "region": "global",
-      "title_zh": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
-      "summary_zh": "Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election."
+      "title_zh": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
+      "summary_zh": "India’s top court decreed that only more environmentally friendly fireworks could be set off this weekend, citing air quality concerns. But environmental activists call it a “green wash.”"
     },
     {
       "id": "ff5ee165d4a3d21a",
@@ -1166,7 +1199,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
       "image_url": null,
-      "published_at": "2026-11-08T05:01:15.000Z",
+      "published_at": "2026-11-08T13:14:09.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1175,56 +1208,22 @@
       "summary_zh": "Food was at the heart of Henry Onesemo’s South Pacific island upbringing. Now, he’s bringing flavors of home to his Michelin-starred restaurant in New Zealand."
     },
     {
-      "id": "690d54dd67a306dd",
-      "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
-      "summary": "The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
+      "id": "6140b3da0c5e9cfa",
+      "title": "What the election results mean for crypto: State of Crypto",
+      "summary": "Democrats had an astoundingly good night, smashing all expectations. Is that actually bad news for the industry?",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
       "image_url": null,
-      "published_at": "2026-11-07T23:36:18.000Z",
-      "importance_score": 46,
+      "published_at": "2026-11-08T19:30:00.000Z",
+      "importance_score": 44,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "crypto"
       ],
       "region": "global",
-      "title_zh": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
-      "summary_zh": "The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital."
-    },
-    {
-      "id": "7f221f8141e162e2",
-      "title": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
-      "summary": "In his twilight years, the British monarch is embracing his role as a global statesman, even when that involves heavy rain and difficult questions about his nation’s history.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
-      "image_url": null,
-      "published_at": "2026-11-08T05:55:55.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
-      "summary_zh": "In his twilight years, the British monarch is embracing his role as a global statesman, even when that involves heavy rain and difficult questions about his nation’s history."
-    },
-    {
-      "id": "185d3468923c4c8e",
-      "title": "A ‘Chaotic Race’ for the World’s Top Diplomat",
-      "summary": "The contest to replace António Guterres as U.N. secretary general has been jolted by last-minute entrants and deep divisions among members of the Security Council.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
-      "image_url": null,
-      "published_at": "2026-11-07T17:26:52.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "A ‘Chaotic Race’ for the World’s Top Diplomat",
-      "summary_zh": "The contest to replace António Guterres as U.N. secretary general has been jolted by last-minute entrants and deep divisions among members of the Security Council."
+      "title_zh": "What the election results mean for crypto: State of Crypto",
+      "summary_zh": "Democrats had an astoundingly good night, smashing all expectations. Is that actually bad news for the industry?"
     },
     {
       "id": "183b9ac018744abe",
