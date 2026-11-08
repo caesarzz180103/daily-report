@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T23:13:41.510Z",
+  "generated_at": "2026-11-08T03:07:05.886Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says；【AI】Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery；【FINANCE】Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline。",
   "meta": {
     "sources_count": 11,
@@ -206,7 +206,7 @@
     {
       "id": "747d398f3d115465",
       "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
@@ -220,7 +220,7 @@
       ],
       "region": "global",
       "title_zh": "US offers $20m reward for information about Iran's nuclear programme",
-      "summary_zh": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities."
+      "summary_zh": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities."
     },
     {
       "id": "a2bbd2de20477d50",
@@ -469,94 +469,74 @@
       "summary_zh": "Aave Labs acquired the team and technology of Avon, an onchain fixed-rate and floating-rate lending protocol."
     },
     {
-      "id": "2820f05abf752f8d",
-      "title": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary": "CoinGecko trending rank #872.",
+      "id": "1abb596ccd710c62",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/dacity-coin-4",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180086/large/logo.png?1793830170",
-      "published_at": "2026-11-07T23:12:27.790Z",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-11-08T03:05:52.801Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "dacity"
+        "btc"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary_zh": "CoinGecko trending rank #872."
+      "title_zh": "Trending Crypto: Bitcoin (BTC)",
+      "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "880f280662aa5281",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #114.",
+      "id": "64df041fbf519184",
+      "title": "Trending Crypto: Worldcoin (WLD)",
+      "summary": "CoinGecko trending rank #67.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-11-07T23:12:27.790Z",
+      "source_url": "https://www.coingecko.com/en/coins/worldcoin-wld",
+      "image_url": "https://coin-images.coingecko.com/coins/images/31069/large/worldcoin.jpeg?1696529903",
+      "published_at": "2026-11-08T03:05:52.801Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pengu"
+        "wld"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #114."
+      "title_zh": "Trending Crypto: Worldcoin (WLD)",
+      "summary_zh": "CoinGecko trending rank #67."
     },
     {
-      "id": "0394698d9fbc1569",
-      "title": "Trending Crypto: Pearl (PEARL)",
-      "summary": "CoinGecko trending rank #89.",
+      "id": "76f77f4d535361e2",
+      "title": "Trending Crypto: Grass (GRASS)",
+      "summary": "CoinGecko trending rank #120.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-11-07T23:12:27.790Z",
+      "source_url": "https://www.coingecko.com/en/coins/grass",
+      "image_url": "https://coin-images.coingecko.com/coins/images/40094/large/Grass.jpg?1725697048",
+      "published_at": "2026-11-08T03:05:52.801Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pearl"
+        "grass"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pearl (PEARL)",
-      "summary_zh": "CoinGecko trending rank #89."
+      "title_zh": "Trending Crypto: Grass (GRASS)",
+      "summary_zh": "CoinGecko trending rank #120."
     },
     {
-      "id": "35e5e452f5dc6a5b",
-      "title": "Trending Crypto: Monad (MON)",
-      "summary": "CoinGecko trending rank #165.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/monad",
-      "image_url": "https://coin-images.coingecko.com/coins/images/38927/large/mon.png?1766029057",
-      "published_at": "2026-11-07T23:12:27.790Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "mon"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Monad (MON)",
-      "summary_zh": "CoinGecko trending rank #165."
-    },
-    {
-      "id": "327f51274272f74e",
+      "id": "21a2b9e93839f3c2",
       "title": "Trending Crypto: NEAR Protocol (NEAR)",
       "summary": "CoinGecko trending rank #21.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/near",
       "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
-      "published_at": "2026-11-07T23:12:27.790Z",
+      "published_at": "2026-11-08T03:05:52.801Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -567,6 +547,26 @@
       "region": "global",
       "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
       "summary_zh": "CoinGecko trending rank #21."
+    },
+    {
+      "id": "f3718fa7373f4100",
+      "title": "Trending Crypto: Geodnet (GEOD)",
+      "summary": "CoinGecko trending rank #183.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/geodnet",
+      "image_url": "https://coin-images.coingecko.com/coins/images/31608/large/Circular_White.png?1696530424",
+      "published_at": "2026-11-08T03:05:52.801Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "geod"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Geodnet (GEOD)",
+      "summary_zh": "CoinGecko trending rank #183."
     },
     {
       "id": "de7e1af55b945775",
@@ -1026,12 +1026,12 @@
     {
       "id": "3808733bc1e2249c",
       "title": "What we know so far after Krakow gun attack",
-      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-07T22:58:49.000Z",
+      "published_at": "2026-11-08T01:47:41.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1039,7 +1039,7 @@
       ],
       "region": "global",
       "title_zh": "What we know so far after Krakow gun attack",
-      "summary_zh": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home."
+      "summary_zh": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker."
     },
     {
       "id": "53f9fe385df28e1b",
@@ -1163,7 +1163,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
       "image_url": null,
-      "published_at": "2026-11-07T19:21:41.000Z",
+      "published_at": "2026-11-07T23:36:17.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
