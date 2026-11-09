@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T00:15:43.615Z",
+  "generated_at": "2026-11-09T07:24:08.470Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says；【AI】Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery；【FINANCE】Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline。",
   "meta": {
     "sources_count": 11,
@@ -236,106 +236,20 @@
       "summary_zh": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year."
     },
     {
-      "id": "a2bbd2de20477d50",
-      "title": "Paraguay's former president charged after bank collapse",
-      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-07T19:17:22.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Paraguay's former president charged after bank collapse",
-      "summary_zh": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money."
-    },
-    {
-      "id": "69c330bef4a60272",
-      "title": "Pope in 'pretty good health' as he starts Latin America tour",
-      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-07T06:59:48.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Pope in 'pretty good health' as he starts Latin America tour",
-      "summary_zh": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer."
-    },
-    {
-      "id": "2e1114d274341e1b",
-      "title": "Italian foreign minister says hackers leaked his personal data",
-      "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-07T16:50:06.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Italian foreign minister says hackers leaked his personal data",
-      "summary_zh": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online."
-    },
-    {
-      "id": "62407d99b47ae5d1",
-      "title": "Recent Quant Links from Quantocracy as of 10/12/2026",
-      "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools",
-      "category": "STRATEGY",
-      "source_name": "Quantocracy",
-      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-10122026/",
-      "image_url": null,
-      "published_at": "2026-10-13T05:15:04.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Recent Quant Links from Quantocracy as of 10/12/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 10/12/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Quant Observer: A curated directory of quant tools, data, research, etc. quant.observer collects useful quant trading tools"
-    },
-    {
-      "id": "4cfbcd76498ac591",
-      "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-      "summary": "Strategy, Coinbase, Circle and Robinhood are among six companies from the venture’s initial selection with no disclosed objection, after 90% of issuers opted out.",
+      "id": "9f7b82bb0bb65af0",
+      "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
+      "summary": "A draft proposal would end the 'durable nonces' feature no earlier than May 5, 2027, forcing custodians that sign offline to rebuild how they move coins.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
+      "source_url": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
       "image_url": null,
-      "published_at": "2026-11-06T20:09:18.000Z",
+      "published_at": "2026-11-09T06:36:45.000Z",
       "importance_score": 56,
       "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-      "summary_zh": "Strategy, Coinbase, Circle and Robinhood are among six companies from the venture’s initial selection with no disclosed objection, after 90% of issuers opted out."
-    },
-    {
-      "id": "3c8d8b71eccbda0f",
-      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
-      "summary": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their latest earnings show how hard it is to escape crypto's boom-and-bust cycles.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
-      "image_url": null,
-      "published_at": "2026-11-06T15:26:38.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "The crypto industry has found new ways to grow. Making money from them is another story",
-      "summary_zh": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their latest earnings show how hard it is to escape crypto's boom-and-bust cycles."
+      "title_zh": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
+      "summary_zh": "A draft proposal would end the 'durable nonces' feature no earlier than May 5, 2027, forcing custodians that sign offline to rebuild how they move coins."
     },
     {
       "id": "6acf2528ddd7b79b",
@@ -374,34 +288,14 @@
       "summary_zh": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months."
     },
     {
-      "id": "6fb5737d894bd8d9",
-      "title": "Trending Crypto: Be Like José (JOSÉ)",
-      "summary": "CoinGecko trending rank #910.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/be-like-jose",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180174/large/Untitled-2.png?1794128091",
-      "published_at": "2026-11-09T00:14:29.250Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "josé"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Be Like José (JOSÉ)",
-      "summary_zh": "CoinGecko trending rank #910."
-    },
-    {
-      "id": "e98c844d4128bdfa",
+      "id": "6a5c9f15dc2305a3",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-09T00:14:29.250Z",
+      "published_at": "2026-11-09T07:22:56.453Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -414,34 +308,54 @@
       "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "9a6effbb1d37b93a",
-      "title": "Trending Crypto: Hyperliquid (HYPE)",
-      "summary": "CoinGecko trending rank #11.",
+      "id": "5b1ad0b0ca3312fe",
+      "title": "Trending Crypto: Janction (JCT)",
+      "summary": "CoinGecko trending rank #278.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
-      "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-11-09T00:14:29.250Z",
+      "source_url": "https://www.coingecko.com/en/coins/janction",
+      "image_url": "https://coin-images.coingecko.com/coins/images/70608/large/janction.png?1762738430",
+      "published_at": "2026-11-09T07:22:56.453Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "hype"
+        "jct"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Hyperliquid (HYPE)",
-      "summary_zh": "CoinGecko trending rank #11."
+      "title_zh": "Trending Crypto: Janction (JCT)",
+      "summary_zh": "CoinGecko trending rank #278."
     },
     {
-      "id": "f77ccab6a1bb6733",
+      "id": "32aef15762387909",
+      "title": "Trending Crypto: Ethereum (ETH)",
+      "summary": "CoinGecko trending rank #2.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum",
+      "image_url": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+      "published_at": "2026-11-09T07:22:56.453Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "eth"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Ethereum (ETH)",
+      "summary_zh": "CoinGecko trending rank #2."
+    },
+    {
+      "id": "ca5c3d4fcad4ffa1",
       "title": "Trending Crypto: NEAR Protocol (NEAR)",
       "summary": "CoinGecko trending rank #22.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/near",
       "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
-      "published_at": "2026-11-09T00:14:29.250Z",
+      "published_at": "2026-11-09T07:22:56.453Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -454,24 +368,24 @@
       "summary_zh": "CoinGecko trending rank #22."
     },
     {
-      "id": "581fda990a6dff11",
-      "title": "Trending Crypto: Bittensor (TAO)",
-      "summary": "CoinGecko trending rank #39.",
+      "id": "918db418333ccd40",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #116.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bittensor",
-      "image_url": "https://coin-images.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg?1696527447",
-      "published_at": "2026-11-09T00:14:29.250Z",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-11-09T07:22:56.453Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "tao"
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Bittensor (TAO)",
-      "summary_zh": "CoinGecko trending rank #39."
+      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary_zh": "CoinGecko trending rank #116."
     },
     {
       "id": "de7e1af55b945775",
@@ -493,24 +407,6 @@
       "summary_zh": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
     },
     {
-      "id": "75433585528b1de6",
-      "title": "Learner collaborates with MIT peers to develop book of AI insights",
-      "summary": "Prabha Jha used her experience with MIT Open Learning’s program for senior executives to develop AI solutions for her employer, Verizon, and to write a book.",
-      "category": "AI",
-      "source_name": "MIT News AI",
-      "source_url": "https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027",
-      "image_url": null,
-      "published_at": "2026-10-27T20:55:00.000Z",
-      "importance_score": 52,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Learner collaborates with MIT peers to develop book of AI insights",
-      "summary_zh": "Prabha Jha used her experience with MIT Open Learning’s program for senior executives to develop AI solutions for her employer, Verizon, and to write a book."
-    },
-    {
       "id": "de968b200d8c1de6",
       "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
       "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
@@ -525,6 +421,24 @@
       "region": "global",
       "title_zh": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
       "summary_zh": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district."
+    },
+    {
+      "id": "70a399c1ffe113c2",
+      "title": "Recent Quant Links from Quantocracy as of 11/08/2026",
+      "summary": "This is a summary of links recently featured on Quantocracy as of Sunday, 11/08/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Correlation Acceleration: Detecting Market Stress Through Rising ETF Correlations [Quantpedia] During periods of market str",
+      "category": "STRATEGY",
+      "source_name": "Quantocracy",
+      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-11082026/",
+      "image_url": null,
+      "published_at": "2026-11-09T06:15:06.000Z",
+      "importance_score": 52,
+      "sentiment": 0,
+      "tags": [
+        "etf"
+      ],
+      "region": "global",
+      "title_zh": "Recent Quant Links from Quantocracy as of 11/08/2026",
+      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 11/08/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Correlation Acceleration: Detecting Market Stress Through Rising ETF Correlations [Quantpedia] During periods of market str"
     },
     {
       "id": "980f18449c2e8538",
@@ -575,6 +489,81 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 10/18/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Less Wrong [Quantitativo] The biggest risk is that you have a losing strategy when you think you have a winning one. Jeff Y"
     },
     {
+      "id": "4af26fe3fda43db4",
+      "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
+      "summary": "The $24 billion project, which includes an AI supercomputer in Texas with its own gas-fired power plant, is about 17 times the value of SpaceX's bitcoin holdings.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
+      "image_url": null,
+      "published_at": "2026-11-09T06:54:41.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
+      "summary_zh": "The $24 billion project, which includes an AI supercomputer in Texas with its own gas-fired power plant, is about 17 times the value of SpaceX's bitcoin holdings."
+    },
+    {
+      "id": "beb4094d74c5238a",
+      "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+      "summary": "The proposals aim to keep Ethereum’s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+      "image_url": null,
+      "published_at": "2026-11-09T05:16:54.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "ethereum"
+      ],
+      "region": "global",
+      "title_zh": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+      "summary_zh": "The proposals aim to keep Ethereum’s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay."
+    },
+    {
+      "id": "0ba0233e92b23662",
+      "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+      "summary": "The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+      "image_url": null,
+      "published_at": "2026-11-09T04:54:39.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+      "summary_zh": "The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure."
+    },
+    {
+      "id": "66c226ffa2057fa7",
+      "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+      "summary": "Volatile price action has once again liquidated leveraged bullish plays worth millions.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+      "image_url": null,
+      "published_at": "2026-11-09T03:21:49.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+      "summary_zh": "Volatile price action has once again liquidated leveraged bullish plays worth millions."
+    },
+    {
       "id": "d3e0db3d3d82a714",
       "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
       "summary": "A Finnish startup has 30 bitcoin mining systems working as central heating, and at today’s prices each one earns slightly more than the electricity it burns.",
@@ -591,6 +580,24 @@
       "region": "global",
       "title_zh": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
       "summary_zh": "A Finnish startup has 30 bitcoin mining systems working as central heating, and at today’s prices each one earns slightly more than the electricity it burns."
+    },
+    {
+      "id": "86360b445bb44c32",
+      "title": "What is Zcash (ZEC)? How shielded transactions work",
+      "summary": "Zcash (ZEC) is a privacy coin and blockchain launched in 2016. It allows users to make both public and private transactions. The latter — called “shielded transactions” on the network — make use of zero-knowledge proofs called zk-SNARKs to verify payments without revealing the se",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
+      "image_url": null,
+      "published_at": "2026-11-09T02:36:01.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "What is Zcash (ZEC)? How shielded transactions work",
+      "summary_zh": "Zcash (ZEC) is a privacy coin and blockchain launched in 2016. It allows users to make both public and private transactions. The latter — called “shielded transactions” on the network — make use of zero-knowledge proofs called zk-SNARKs to verify payments without revealing the se"
     },
     {
       "id": "ac30d95ed2e60b3e",
@@ -787,6 +794,24 @@
       "summary_zh": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers."
     },
     {
+      "id": "ec43b8307c554bb6",
+      "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+      "summary": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+      "image_url": null,
+      "published_at": "2026-11-09T05:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+      "summary_zh": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more."
+    },
+    {
       "id": "df848d6d445a4e5e",
       "title": "Building connections across the research infrastructure",
       "summary": "MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected.",
@@ -944,6 +969,38 @@
       "summary_zh": "Blackstone President Jon Gray says AI infrastructure needs more equity as debt investors face concentration risks amid massive spending plans."
     },
     {
+      "id": "002aa35afa2d613a",
+      "title": "Krakow shooting suspect has died in hospital, police say",
+      "summary": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-09T07:06:58.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Krakow shooting suspect has died in hospital, police say",
+      "summary_zh": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home."
+    },
+    {
+      "id": "135090c1b734549c",
+      "title": "Inside the French drug gangs recruiting children to kill",
+      "summary": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-09T06:00:26.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Inside the French drug gangs recruiting children to kill",
+      "summary_zh": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited."
+    },
+    {
       "id": "313847694a08fe5f",
       "title": "Seven dead and more than 100 injured after trains collide in Egypt",
       "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
@@ -960,6 +1017,38 @@
       "region": "global",
       "title_zh": "Seven dead and more than 100 injured after trains collide in Egypt",
       "summary_zh": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza."
+    },
+    {
+      "id": "c1674c7072cd9e17",
+      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "summary": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-09T05:30:37.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "summary_zh": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour."
+    },
+    {
+      "id": "cbabeb36da696aad",
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-09T02:50:13.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "summary_zh": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast."
     },
     {
       "id": "fec5bda85baf7bfa",
@@ -996,24 +1085,6 @@
       "summary_zh": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls."
     },
     {
-      "id": "36c5765a770150cb",
-      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-07T12:49:36.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-      "summary_zh": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
-    },
-    {
       "id": "4bed98f98712131a",
       "title": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
       "summary": "The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice.",
@@ -1037,7 +1108,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html",
       "image_url": null,
-      "published_at": "2026-11-08T23:11:30.000Z",
+      "published_at": "2026-11-09T05:45:34.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1123,7 +1194,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
       "image_url": null,
-      "published_at": "2026-11-08T21:48:21.000Z",
+      "published_at": "2026-11-08T21:48:22.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1175,7 +1246,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
       "image_url": null,
-      "published_at": "2026-11-08T16:16:51.000Z",
+      "published_at": "2026-11-09T01:38:48.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1242,60 +1313,22 @@
       "summary_zh": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance."
     },
     {
-      "id": "7fc1063ecbd07b07",
-      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-      "summary": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams.",
+      "id": "62fdad90c12269a0",
+      "title": "Nvidia perps slide as market reacts to CEO Jensen Huang’s Chinese spy scandal",
+      "summary": "Nvidia said its board of directors is investigating Huang's relationship with a woman identified by intelligence officials as a Chinese spy.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047",
       "image_url": null,
-      "published_at": "2026-11-07T16:51:00.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-      "summary_zh": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams."
-    },
-    {
-      "id": "2f366bd21c783530",
-      "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
-      "summary": "The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
-      "image_url": null,
-      "published_at": "2026-11-06T17:42:28.000Z",
+      "published_at": "2026-11-09T03:36:16.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "U.S. prediction markets regulator issues demand that clashes directly with courts",
-      "summary_zh": "The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so."
-    },
-    {
-      "id": "92ebdbd3eab575fc",
-      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
-      "summary": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
-      "image_url": null,
-      "published_at": "2026-11-06T14:33:49.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
-      "summary_zh": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025."
+      "title_zh": "Nvidia perps slide as market reacts to CEO Jensen Huang’s Chinese spy scandal",
+      "summary_zh": "Nvidia said its board of directors is investigating Huang's relationship with a woman identified by intelligence officials as a Chinese spy."
     },
     {
       "id": "e5f03badaf005bce",
@@ -1366,40 +1399,6 @@
       "region": "global",
       "title_zh": "US Treasury walks back crypto surveillance ‘travel rule’ proposal",
       "summary_zh": "The Treasury Department has withdrawn a controversial proposal that would have expanded requirements for cryptocurrency transactions."
-    },
-    {
-      "id": "a7de68ba198a65db",
-      "title": "Gnosis Pay data breach exposes customer info; funds unaffected",
-      "summary": "Gnosis Pay disclosed a data breach after unauthorized access to its legacy debit card system on Nov. 3. Customer funds were not affected.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934",
-      "image_url": null,
-      "published_at": "2026-11-06T18:58:58.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Gnosis Pay data breach exposes customer info; funds unaffected",
-      "summary_zh": "Gnosis Pay disclosed a data breach after unauthorized access to its legacy debit card system on Nov. 3. Customer funds were not affected."
-    },
-    {
-      "id": "3792dee95275b9c8",
-      "title": "Trump administration moves closer to allowing crypto in 401(k) retirement plans",
-      "summary": "A rule that would open up 401(k) retirement accounts to alternative assets, including cryptocurrencies, has landed at the White House.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939",
-      "image_url": null,
-      "published_at": "2026-11-06T18:29:36.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Trump administration moves closer to allowing crypto in 401(k) retirement plans",
-      "summary_zh": "A rule that would open up 401(k) retirement accounts to alternative assets, including cryptocurrencies, has landed at the White House."
     },
     {
       "id": "7841f9c24dd80f37",
@@ -1699,6 +1698,24 @@
       "summary_zh": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network."
     },
     {
+      "id": "a9dff69bb8f54641",
+      "title": "AI-assisted learning platform helps robots reason beyond literal commands",
+      "summary": "The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+      "image_url": null,
+      "published_at": "2026-11-09T05:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "AI-assisted learning platform helps robots reason beyond literal commands",
+      "summary_zh": "The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots."
+    },
+    {
       "id": "b5069a3a8e404091",
       "title": "How to predict the behavior of molecules from scant data",
       "summary": "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation.",
@@ -1768,22 +1785,6 @@
       "region": "global",
       "title_zh": "3 Questions: Why infrastructure is entering a defining era",
       "summary_zh": "Professor Ali Jadbabaie describes how AI, digital transformation, climate change, and complex geopolitics are forcing engineers and policymakers to rethink how infrastructure is designed, built, and managed."
-    },
-    {
-      "id": "ef70eb12c2a43798",
-      "title": "Making machines that can listen",
-      "summary": "Professor Paris Smaragdis develops computers with superhuman hearing for applications like speech recognition, music understanding, and environmental monitoring.",
-      "category": "AI",
-      "source_name": "MIT News AI",
-      "source_url": "https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028",
-      "image_url": null,
-      "published_at": "2026-10-28T04:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Making machines that can listen",
-      "summary_zh": "Professor Paris Smaragdis develops computers with superhuman hearing for applications like speech recognition, music understanding, and environmental monitoring."
     },
     {
       "id": "d68d12ad8e895c22",
