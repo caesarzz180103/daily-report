@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T22:50:31.271Z",
+  "generated_at": "2026-11-09T00:15:43.615Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says；【AI】Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery；【FINANCE】Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline。",
   "meta": {
     "sources_count": 11,
@@ -184,26 +184,6 @@
       "summary_zh": "BlackRock's IBIT accounted for 98% of Friday's outflows, with $403 million leaving the industry-leading fund."
     },
     {
-      "id": "dd4ec42963c73cf9",
-      "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
-      "summary": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
-      "image_url": null,
-      "published_at": "2026-11-06T18:06:59.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
-      "summary_zh": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen."
-    },
-    {
       "id": "b28e57a7dbf053ea",
       "title": "Powering up for a pivotal moment",
       "summary": "From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs.",
@@ -227,7 +207,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-08T18:22:53.000Z",
+      "published_at": "2026-11-08T23:34:18.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -304,24 +284,6 @@
       "region": "global",
       "title_zh": "Italian foreign minister says hackers leaked his personal data",
       "summary_zh": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online."
-    },
-    {
-      "id": "a002aa1ef9008d18",
-      "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
-      "summary": "Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
-      "image_url": null,
-      "published_at": "2026-11-08T21:45:25.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
-      "summary_zh": "Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price."
     },
     {
       "id": "62407d99b47ae5d1",
@@ -412,34 +374,34 @@
       "summary_zh": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months."
     },
     {
-      "id": "f17823ddca240f20",
-      "title": "Trending Crypto: WASTED (WASTED)",
-      "summary": "CoinGecko trending rank #868.",
+      "id": "6fb5737d894bd8d9",
+      "title": "Trending Crypto: Be Like José (JOSÉ)",
+      "summary": "CoinGecko trending rank #910.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/wasted-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180146/large/logo.png?1794035155",
-      "published_at": "2026-11-08T22:49:20.537Z",
+      "source_url": "https://www.coingecko.com/en/coins/be-like-jose",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180174/large/Untitled-2.png?1794128091",
+      "published_at": "2026-11-09T00:14:29.250Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "wasted"
+        "josé"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: WASTED (WASTED)",
-      "summary_zh": "CoinGecko trending rank #868."
+      "title_zh": "Trending Crypto: Be Like José (JOSÉ)",
+      "summary_zh": "CoinGecko trending rank #910."
     },
     {
-      "id": "b08e1a05e4ad0493",
+      "id": "e98c844d4128bdfa",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-08T22:49:20.537Z",
+      "published_at": "2026-11-09T00:14:29.250Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -452,34 +414,14 @@
       "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "daab5e214121752d",
-      "title": "Trending Crypto: Janction (JCT)",
-      "summary": "CoinGecko trending rank #198.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/janction",
-      "image_url": "https://coin-images.coingecko.com/coins/images/70608/large/janction.png?1762738430",
-      "published_at": "2026-11-08T22:49:20.537Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "jct"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Janction (JCT)",
-      "summary_zh": "CoinGecko trending rank #198."
-    },
-    {
-      "id": "88956885f04e1f1f",
+      "id": "9a6effbb1d37b93a",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
       "summary": "CoinGecko trending rank #11.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
       "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-11-08T22:49:20.537Z",
+      "published_at": "2026-11-09T00:14:29.250Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -492,24 +434,44 @@
       "summary_zh": "CoinGecko trending rank #11."
     },
     {
-      "id": "53170d3fc95ad5d6",
-      "title": "Trending Crypto: Kinetiq (KNTQ)",
-      "summary": "CoinGecko trending rank #217.",
+      "id": "f77ccab6a1bb6733",
+      "title": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary": "CoinGecko trending rank #22.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/kinetiq",
-      "image_url": "https://coin-images.coingecko.com/coins/images/70252/large/kntq.png?1761279547",
-      "published_at": "2026-11-08T22:49:20.537Z",
+      "source_url": "https://www.coingecko.com/en/coins/near",
+      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
+      "published_at": "2026-11-09T00:14:29.250Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "kntq"
+        "near"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Kinetiq (KNTQ)",
-      "summary_zh": "CoinGecko trending rank #217."
+      "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary_zh": "CoinGecko trending rank #22."
+    },
+    {
+      "id": "581fda990a6dff11",
+      "title": "Trending Crypto: Bittensor (TAO)",
+      "summary": "CoinGecko trending rank #39.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/bittensor",
+      "image_url": "https://coin-images.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg?1696527447",
+      "published_at": "2026-11-09T00:14:29.250Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "tao"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Bittensor (TAO)",
+      "summary_zh": "CoinGecko trending rank #39."
     },
     {
       "id": "de7e1af55b945775",
@@ -547,6 +509,22 @@
       "region": "global",
       "title_zh": "Learner collaborates with MIT peers to develop book of AI insights",
       "summary_zh": "Prabha Jha used her experience with MIT Open Learning’s program for senior executives to develop AI solutions for her employer, Verizon, and to write a book."
+    },
+    {
+      "id": "de968b200d8c1de6",
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-08T21:37:36.000Z",
+      "importance_score": 52,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "summary_zh": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district."
     },
     {
       "id": "980f18449c2e8538",
@@ -1000,24 +978,6 @@
       "summary_zh": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets."
     },
     {
-      "id": "09254afc0d4e4917",
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-08T04:03:12.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Houthis say at least 33 killed in Saudi air strike",
-      "summary_zh": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
-    },
-    {
       "id": "0dedcdbc566fe12f",
       "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
       "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
@@ -1054,20 +1014,38 @@
       "summary_zh": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
     },
     {
-      "id": "e7795bd7d676e077",
-      "title": "In Argentina, Pope Leo to Meet Church at Odds With President Milei",
+      "id": "4bed98f98712131a",
+      "title": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
       "summary": "The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
       "image_url": null,
-      "published_at": "2026-11-08T18:26:49.000Z",
+      "published_at": "2026-11-08T23:36:32.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "In Argentina, Pope Leo to Meet Church at Odds With President Milei",
+      "title_zh": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
       "summary_zh": "The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice."
+    },
+    {
+      "id": "91b461ac2bd282ac",
+      "title": "Targeted by U.S., Armed Group Strikes Back in Colombia",
+      "summary": "American forces are helping Colombia and Venezuela hunt the ELN. This weekend, the group attacked a Colombian military base with drones, officials said.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html",
+      "image_url": null,
+      "published_at": "2026-11-08T23:11:30.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Targeted by U.S., Armed Group Strikes Back in Colombia",
+      "summary_zh": "American forces are helping Colombia and Venezuela hunt the ELN. This weekend, the group attacked a Colombian military base with drones, officials said."
     },
     {
       "id": "50bb41bedae134ca",
@@ -1077,7 +1055,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
       "image_url": null,
-      "published_at": "2026-11-08T21:59:09.000Z",
+      "published_at": "2026-11-08T23:03:01.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1088,22 +1066,20 @@
       "summary_zh": "The crash between two passenger trains was the latest in a history of deadly rail accidents in Egypt, despite billions spent modernizing the network."
     },
     {
-      "id": "6ba329f302a22f40",
-      "title": "What to Know About the Mass Shooting in Krakow, Poland",
-      "summary": "At least nine people were dead and at least 16 injured after shootings in Krakow and another town, the police said. The motive remains unclear.",
+      "id": "1c27b77e9795cb9d",
+      "title": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
+      "summary": "Officials say that a 24-year-old killed his family and then six people during a rampage in Krakow. Now they are trying to determine the motive.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
+      "source_url": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-suspect-family.html",
       "image_url": null,
-      "published_at": "2026-11-08T13:09:09.000Z",
+      "published_at": "2026-11-08T22:48:25.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "What to Know About the Mass Shooting in Krakow, Poland",
-      "summary_zh": "At least nine people were dead and at least 16 injured after shootings in Krakow and another town, the police said. The motive remains unclear."
+      "title_zh": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
+      "summary_zh": "Officials say that a 24-year-old killed his family and then six people during a rampage in Krakow. Now they are trying to determine the motive."
     },
     {
       "id": "a8580f1af38187dc",
@@ -1156,6 +1132,24 @@
       "summary_zh": "Mr. Eisenkot, a career general and the leading rival of Prime Minister Benjamin Netanyahu of Israel, will now have up to six weeks to form a coalition."
     },
     {
+      "id": "6ba329f302a22f40",
+      "title": "What to Know About the Mass Shooting in Krakow, Poland",
+      "summary": "At least nine people were dead and at least 16 injured after shootings in Krakow and another town, the police said. The motive remains unclear.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
+      "image_url": null,
+      "published_at": "2026-11-08T13:09:09.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "What to Know About the Mass Shooting in Krakow, Poland",
+      "summary_zh": "At least nine people were dead and at least 16 injured after shootings in Krakow and another town, the police said. The motive remains unclear."
+    },
+    {
       "id": "6908bcd0f6df97a0",
       "title": "South Africa’s Politics May Never Be the Same Again",
       "summary": "The African National Congress lost big in local elections, turning a once-dominant force credited with overturning apartheid into “any other political party.”",
@@ -1190,22 +1184,6 @@
       "region": "global",
       "title_zh": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
       "summary_zh": "India’s top court decreed that only more environmentally friendly fireworks could be set off this weekend, citing air quality concerns. But environmental activists call it a “green wash.”"
-    },
-    {
-      "id": "ff5ee165d4a3d21a",
-      "title": "Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene",
-      "summary": "Food was at the heart of Henry Onesemo’s South Pacific island upbringing. Now, he’s bringing flavors of home to his Michelin-starred restaurant in New Zealand.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
-      "image_url": null,
-      "published_at": "2026-11-08T13:14:09.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene",
-      "summary_zh": "Food was at the heart of Henry Onesemo’s South Pacific island upbringing. Now, he’s bringing flavors of home to his Michelin-starred restaurant in New Zealand."
     },
     {
       "id": "6140b3da0c5e9cfa",
@@ -1318,6 +1296,24 @@
       "region": "global",
       "title_zh": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
       "summary_zh": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025."
+    },
+    {
+      "id": "e5f03badaf005bce",
+      "title": "Onchain data casts doubt on insider-trading theory in NYT’s ‘suspicious’ election betting story",
+      "summary": "The New York Times reported on 'suspicious' bets, but two experts who reviewed The Block's findings said the evidence doesn't strongly suggest foul play.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034",
+      "image_url": null,
+      "published_at": "2026-11-08T23:07:02.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Onchain data casts doubt on insider-trading theory in NYT’s ‘suspicious’ election betting story",
+      "summary_zh": "The New York Times reported on 'suspicious' bets, but two experts who reviewed The Block's findings said the evidence doesn't strongly suggest foul play."
     },
     {
       "id": "e110fb46f627d3dc",
