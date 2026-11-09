@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T07:24:08.470Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says；【AI】Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery；【FINANCE】Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline。",
+  "generated_at": "2026-11-09T17:56:56.939Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says；【CRYPTO】Coinbase and PNC Bank expand partnership with USDC payments for corporate clients；【CRYPTO】Formation notifies SEC to operate first tokenized securities venue on Solana。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -37,6 +37,40 @@
       "region": "global",
       "title_zh": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
       "summary_zh": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances"
+    },
+    {
+      "id": "9afa673b6aebeb8e",
+      "title": "Coinbase and PNC Bank expand partnership with USDC payments for corporate clients",
+      "summary": "PNC Bank is piloting USDC payment acceptance for corporate and institutional clients through its expanded partnership with Coinbase.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466",
+      "image_url": null,
+      "published_at": "2026-11-09T16:01:28.000Z",
+      "importance_score": 74,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Coinbase and PNC Bank expand partnership with USDC payments for corporate clients",
+      "summary_zh": "PNC Bank is piloting USDC payment acceptance for corporate and institutional clients through its expanded partnership with Coinbase."
+    },
+    {
+      "id": "9d2a8009a6cdca8a",
+      "title": "Formation notifies SEC to operate first tokenized securities venue on Solana",
+      "summary": "Launch is expected in early 2027, with tokenized shares of Exodus Movement, Forward Industries, and Galaxy Digital among initial offerings.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060",
+      "image_url": null,
+      "published_at": "2026-11-09T12:30:00.000Z",
+      "importance_score": 74,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Formation notifies SEC to operate first tokenized securities venue on Solana",
+      "summary_zh": "Launch is expected in early 2027, with tokenized shares of Exodus Movement, Forward Industries, and Galaxy Digital among initial offerings."
     },
     {
       "id": "9afad00644facdb8",
@@ -95,40 +129,6 @@
       "summary_zh": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust."
     },
     {
-      "id": "7236e7210d5d1725",
-      "title": "Stablecoin growth has stalled. The payments boom hasn't",
-      "summary": "Stablecoin supply has barely grown this year, even as payments using the tokens surge. Circle's latest earnings offer another example of the divergence between dollars outstanding and activity on blockchain networks.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
-      "image_url": null,
-      "published_at": "2026-11-08T19:16:42.000Z",
-      "importance_score": 68,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Stablecoin growth has stalled. The payments boom hasn't",
-      "summary_zh": "Stablecoin supply has barely grown this year, even as payments using the tokens surge. Circle's latest earnings offer another example of the divergence between dollars outstanding and activity on blockchain networks."
-    },
-    {
-      "id": "286ce6c604daa74f",
-      "title": "Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets",
-      "summary": "Web3Auth's communications also referred to an \"original attacker,\" suggesting some funds were stolen, but did not elaborate.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029",
-      "image_url": null,
-      "published_at": "2026-11-08T18:32:11.000Z",
-      "importance_score": 68,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets",
-      "summary_zh": "Web3Auth's communications also referred to an \"original attacker,\" suggesting some funds were stolen, but did not elaborate."
-    },
-    {
       "id": "d9adeb1054d16d36",
       "title": "Granite Switch 4.1.1 — Update models like you update software",
       "summary": "",
@@ -165,14 +165,33 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/24/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Shorting Leveraged ETFs: Role of Borrowing Costs and Rebalancing in Volatility-Decay Strategies [Quantpedia] Leveraged ET"
     },
     {
-      "id": "fb02315817a7de23",
-      "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
-      "summary": "BlackRock's IBIT accounted for 98% of Friday's outflows, with $403 million leaving the industry-leading fund.",
+      "id": "b0fd7b7a685d3475",
+      "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
+      "summary": "Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading.",
       "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
       "image_url": null,
-      "published_at": "2026-11-07T16:46:02.000Z",
+      "published_at": "2026-11-09T12:41:35.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
+      "summary_zh": "Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading."
+    },
+    {
+      "id": "cfd1c4e321dffcd2",
+      "title": "Bitcoin bulls can't rely on ETF flows",
+      "summary": "Your day-ahead look for Nov. 9, 2026",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
+      "image_url": null,
+      "published_at": "2026-11-09T12:30:00.000Z",
       "importance_score": 62,
       "sentiment": 0,
       "tags": [
@@ -180,8 +199,61 @@
         "etf"
       ],
       "region": "global",
-      "title_zh": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
-      "summary_zh": "BlackRock's IBIT accounted for 98% of Friday's outflows, with $403 million leaving the industry-leading fund."
+      "title_zh": "Bitcoin bulls can't rely on ETF flows",
+      "summary_zh": "Your day-ahead look for Nov. 9, 2026"
+    },
+    {
+      "id": "6c9a95cfea656de8",
+      "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
+      "summary": "Early data shows Zcash's orphan-block rate holding close to pre-upgrade levels despite blocks arriving three times faster, encouraging developers to push for another reduction.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade",
+      "image_url": null,
+      "published_at": "2026-11-09T10:52:49.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Zcash developers want 20-second blocks just days after major speed upgrade",
+      "summary_zh": "Early data shows Zcash's orphan-block rate holding close to pre-upgrade levels despite blocks arriving three times faster, encouraging developers to push for another reduction."
+    },
+    {
+      "id": "e2e03f2c0d16aaa4",
+      "title": "Live news: Bitcoin narrows loss as Nasdaq surges more than 2%",
+      "summary": "The Nasdaq and S&P 500 are both sharply higher even as Nvidia declines following CEO Jensen Huang's issues.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
+      "image_url": null,
+      "published_at": "2026-11-09T10:51:48.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "Live news: Bitcoin narrows loss as Nasdaq surges more than 2%",
+      "summary_zh": "The Nasdaq and S&P 500 are both sharply higher even as Nvidia declines following CEO Jensen Huang's issues."
+    },
+    {
+      "id": "2ee352a7329d7722",
+      "title": "‘Connecting the dots’: Michael Saylor’s Strategy buys another 1,036 bitcoin for $82 million as holdings top 850,000 BTC",
+      "summary": "Strategy's total holdings account for more than 4% of bitcoin's supply cap, with $500 million in paper gains.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-09-connecting-the-dots-michael-saylor-strategy-bitcoin-436094",
+      "image_url": null,
+      "published_at": "2026-11-09T13:10:42.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "‘Connecting the dots’: Michael Saylor’s Strategy buys another 1,036 bitcoin for $82 million as holdings top 850,000 BTC",
+      "summary_zh": "Strategy's total holdings account for more than 4% of bitcoin's supply cap, with $500 million in paper gains."
     },
     {
       "id": "b28e57a7dbf053ea",
@@ -200,102 +272,176 @@
       "summary_zh": "From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs."
     },
     {
-      "id": "5970f6da14529ec3",
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "id": "9a537190c3ebd01b",
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "summary": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-08T23:34:18.000Z",
+      "published_at": "2026-11-09T16:55:07.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "France accuses Iran of supermarket fridge hacking",
+      "summary_zh": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up."
+    },
+    {
+      "id": "a68a971ecab4b66b",
+      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
+      "summary": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-09T10:41:57.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "summary_zh": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more."
+      "title_zh": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
+      "summary_zh": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza."
     },
     {
-      "id": "b53378d3a38c1700",
-      "title": "Iran executes three men for 'armed unrest' after January protests",
-      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "id": "3c60ca79fb792ed6",
+      "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+      "summary": "U.S.-led talks to end the war between Russia and Ukraine will resume this week in Abu Dhabi. A cease-fire won’t be on the table.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
       "image_url": null,
-      "published_at": "2026-11-08T13:37:50.000Z",
+      "published_at": "2026-11-09T15:08:54.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "ai",
+        "war"
       ],
       "region": "global",
-      "title_zh": "Iran executes three men for 'armed unrest' after January protests",
-      "summary_zh": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year."
+      "title_zh": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+      "summary_zh": "U.S.-led talks to end the war between Russia and Ukraine will resume this week in Abu Dhabi. A cease-fire won’t be on the table."
     },
     {
-      "id": "9f7b82bb0bb65af0",
-      "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
-      "summary": "A draft proposal would end the 'durable nonces' feature no earlier than May 5, 2027, forcing custodians that sign offline to rebuild how they move coins.",
+      "id": "eaca014fd06e6a79",
+      "title": "A Country’s President Led to a Bank’s Stunning Rise, and Its Fall",
+      "summary": "Prosecutors accused President Santiago Peña of Paraguay of funneling nearly a billion dollars of government funds to the Ueno bank as its executives made reckless insider loans.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
+      "image_url": null,
+      "published_at": "2026-11-09T14:43:11.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "A Country’s President Led to a Bank’s Stunning Rise, and Its Fall",
+      "summary_zh": "Prosecutors accused President Santiago Peña of Paraguay of funneling nearly a billion dollars of government funds to the Ueno bank as its executives made reckless insider loans."
+    },
+    {
+      "id": "428bf02812e492b8",
+      "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
+      "summary": "North Korean hackers used six homemade memecoins to launder 117,000 NEAR, worth about $430,000, from the $6.3 billion Binance hack, Elliptic says.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
+      "source_url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
       "image_url": null,
-      "published_at": "2026-11-09T06:36:45.000Z",
+      "published_at": "2026-11-09T15:00:44.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
-      "summary_zh": "A draft proposal would end the 'durable nonces' feature no earlier than May 5, 2027, forcing custodians that sign offline to rebuild how they move coins."
+      "title_zh": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
+      "summary_zh": "North Korean hackers used six homemade memecoins to launder 117,000 NEAR, worth about $430,000, from the $6.3 billion Binance hack, Elliptic says."
     },
     {
-      "id": "6acf2528ddd7b79b",
-      "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
-      "summary": "A recent controversial proposal to burn a rising share of validator rewards as more ETH is staked was withdrawn last month after facing pushback.",
+      "id": "6382450908ceef90",
+      "title": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
+      "summary": "Trump confirmed he co-owns World Liberty, whose UAE ownership could derail Justin Sun’s federal lawsuit over frozen WLFI tokens",
       "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
       "image_url": null,
-      "published_at": "2026-11-08T15:52:17.000Z",
+      "published_at": "2026-11-09T12:37:13.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
-        "war"
+        "ai",
+        "fed"
       ],
       "region": "global",
-      "title_zh": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
-      "summary_zh": "A recent controversial proposal to burn a rising share of validator rewards as more ETH is staked was withdrawn last month after facing pushback."
+      "title_zh": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
+      "summary_zh": "Trump confirmed he co-owns World Liberty, whose UAE ownership could derail Justin Sun’s federal lawsuit over frozen WLFI tokens"
     },
     {
-      "id": "30ad4d9786b4ff61",
-      "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
-      "summary": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months.",
+      "id": "b005baf2c8d62a10",
+      "title": "Binance hack launderers mint homemade Elon Musk, animal memecoins to move stolen funds: Elliptic",
+      "summary": "Elliptic says the extra swaps slow investigators down, but the stolen funds remain traceable onchain.",
       "category": "CRYPTO",
       "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
+      "source_url": "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440",
       "image_url": null,
-      "published_at": "2026-11-07T21:57:58.000Z",
+      "published_at": "2026-11-09T15:54:16.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
-      "summary_zh": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months."
+      "title_zh": "Binance hack launderers mint homemade Elon Musk, animal memecoins to move stolen funds: Elliptic",
+      "summary_zh": "Elliptic says the extra swaps slow investigators down, but the stolen funds remain traceable onchain."
     },
     {
-      "id": "6a5c9f15dc2305a3",
+      "id": "8a4f577774d84256",
+      "title": "Trending Crypto: Dacity Coin (DACITY)",
+      "summary": "CoinGecko trending rank #815.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/dacity-coin-4",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180086/large/logo.png?1793830170",
+      "published_at": "2026-11-09T17:55:44.464Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "dacity"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Dacity Coin (DACITY)",
+      "summary_zh": "CoinGecko trending rank #815."
+    },
+    {
+      "id": "42696c1075526364",
+      "title": "Trending Crypto: Avalanche (AVAX)",
+      "summary": "CoinGecko trending rank #26.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/avalanche-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/12559/large/Avalanche_Circle_RedWhite_Trans.png?1696512369",
+      "published_at": "2026-11-09T17:55:44.464Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "avax"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Avalanche (AVAX)",
+      "summary_zh": "CoinGecko trending rank #26."
+    },
+    {
+      "id": "29c3bf63507f8a07",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-09T07:22:56.453Z",
+      "published_at": "2026-11-09T17:55:44.464Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -308,84 +454,44 @@
       "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "5b1ad0b0ca3312fe",
-      "title": "Trending Crypto: Janction (JCT)",
-      "summary": "CoinGecko trending rank #278.",
+      "id": "71e0df7f62c25dba",
+      "title": "Trending Crypto: Kinetiq (KNTQ)",
+      "summary": "CoinGecko trending rank #239.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/janction",
-      "image_url": "https://coin-images.coingecko.com/coins/images/70608/large/janction.png?1762738430",
-      "published_at": "2026-11-09T07:22:56.453Z",
+      "source_url": "https://www.coingecko.com/en/coins/kinetiq",
+      "image_url": "https://coin-images.coingecko.com/coins/images/70252/large/kntq.png?1761279547",
+      "published_at": "2026-11-09T17:55:44.464Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "jct"
+        "kntq"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Janction (JCT)",
-      "summary_zh": "CoinGecko trending rank #278."
+      "title_zh": "Trending Crypto: Kinetiq (KNTQ)",
+      "summary_zh": "CoinGecko trending rank #239."
     },
     {
-      "id": "32aef15762387909",
-      "title": "Trending Crypto: Ethereum (ETH)",
-      "summary": "CoinGecko trending rank #2.",
+      "id": "c9c67b133105cb21",
+      "title": "Trending Crypto: Ondo (ONDO)",
+      "summary": "CoinGecko trending rank #50.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/ethereum",
-      "image_url": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "published_at": "2026-11-09T07:22:56.453Z",
+      "source_url": "https://www.coingecko.com/en/coins/ondo-finance",
+      "image_url": "https://coin-images.coingecko.com/coins/images/26580/large/ONDO.png?1696525656",
+      "published_at": "2026-11-09T17:55:44.464Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "eth"
+        "ondo"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Ethereum (ETH)",
-      "summary_zh": "CoinGecko trending rank #2."
-    },
-    {
-      "id": "ca5c3d4fcad4ffa1",
-      "title": "Trending Crypto: NEAR Protocol (NEAR)",
-      "summary": "CoinGecko trending rank #22.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/near",
-      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
-      "published_at": "2026-11-09T07:22:56.453Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "near"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
-      "summary_zh": "CoinGecko trending rank #22."
-    },
-    {
-      "id": "918db418333ccd40",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #116.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-11-09T07:22:56.453Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pengu"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #116."
+      "title_zh": "Trending Crypto: Ondo (ONDO)",
+      "summary_zh": "CoinGecko trending rank #50."
     },
     {
       "id": "de7e1af55b945775",
@@ -405,22 +511,6 @@
       "region": "global",
       "title_zh": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
       "summary_zh": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
-    },
-    {
-      "id": "de968b200d8c1de6",
-      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-      "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-08T21:37:36.000Z",
-      "importance_score": 52,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-      "summary_zh": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district."
     },
     {
       "id": "70a399c1ffe113c2",
@@ -489,14 +579,14 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 10/18/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Less Wrong [Quantitativo] The biggest risk is that you have a losing strategy when you think you have a winning one. Jeff Y"
     },
     {
-      "id": "4af26fe3fda43db4",
-      "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
-      "summary": "The $24 billion project, which includes an AI supercomputer in Texas with its own gas-fired power plant, is about 17 times the value of SpaceX's bitcoin holdings.",
+      "id": "5f21e74675774800",
+      "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
+      "summary": "The AntPool block came within 984 transactions of Bitcoin’s 2015 record, even as fees made up less than 0.1% of the miner’s payout.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
+      "source_url": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
       "image_url": null,
-      "published_at": "2026-11-09T06:54:41.000Z",
+      "published_at": "2026-11-09T16:19:45.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
@@ -504,18 +594,18 @@
         "bitcoin"
       ],
       "region": "global",
-      "title_zh": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
-      "summary_zh": "The $24 billion project, which includes an AI supercomputer in Texas with its own gas-fired power plant, is about 17 times the value of SpaceX's bitcoin holdings."
+      "title_zh": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
+      "summary_zh": "The AntPool block came within 984 transactions of Bitcoin’s 2015 record, even as fees made up less than 0.1% of the miner’s payout."
     },
     {
-      "id": "beb4094d74c5238a",
-      "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
-      "summary": "The proposals aim to keep Ethereum’s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay.",
+      "id": "e169e8c561820c9f",
+      "title": "Ethereum treasury Sharplink’s Q3 net income hits $751 million on unrealized ether gains",
+      "summary": "Sharplink posted Q3 revenue of $13.5 million and net income of $751.4 million, driven by unrealized ETH gains.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-09-sharplink-q3-2026-earnings-net-income-eth-holdings-436459",
       "image_url": null,
-      "published_at": "2026-11-09T05:16:54.000Z",
+      "published_at": "2026-11-09T15:40:30.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
@@ -523,81 +613,46 @@
         "ethereum"
       ],
       "region": "global",
-      "title_zh": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
-      "summary_zh": "The proposals aim to keep Ethereum’s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay."
+      "title_zh": "Ethereum treasury Sharplink’s Q3 net income hits $751 million on unrealized ether gains",
+      "summary_zh": "Sharplink posted Q3 revenue of $13.5 million and net income of $751.4 million, driven by unrealized ETH gains."
     },
     {
-      "id": "0ba0233e92b23662",
-      "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
-      "summary": "The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure.",
+      "id": "a7c94ca88c2664b1",
+      "title": "Tom Lee’s Bitmine nears 5% Ethereum supply target with $20 million ETH buy as he predicts tokenization and AI ‘supercycle’",
+      "summary": "Bitmine bought another 9,587 ETH last week, closing in on its target of 5% of Ethereum's circulating supply.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-09-tom-lee-bitmine-nears-ethereum-supply-target-20-million-eth-tokenization-ai-supercycle-436219",
       "image_url": null,
-      "published_at": "2026-11-09T04:54:39.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
-      "summary_zh": "The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure."
-    },
-    {
-      "id": "66c226ffa2057fa7",
-      "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
-      "summary": "Volatile price action has once again liquidated leveraged bullish plays worth millions.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
-      "image_url": null,
-      "published_at": "2026-11-09T03:21:49.000Z",
+      "published_at": "2026-11-09T14:32:40.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
         "ai",
-        "bitcoin"
+        "ethereum"
       ],
       "region": "global",
-      "title_zh": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
-      "summary_zh": "Volatile price action has once again liquidated leveraged bullish plays worth millions."
+      "title_zh": "Tom Lee’s Bitmine nears 5% Ethereum supply target with $20 million ETH buy as he predicts tokenization and AI ‘supercycle’",
+      "summary_zh": "Bitmine bought another 9,587 ETH last week, closing in on its target of 5% of Ethereum's circulating supply."
     },
     {
-      "id": "d3e0db3d3d82a714",
-      "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-      "summary": "A Finnish startup has 30 bitcoin mining systems working as central heating, and at today’s prices each one earns slightly more than the electricity it burns.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
-      "image_url": null,
-      "published_at": "2026-11-08T12:55:59.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-      "summary_zh": "A Finnish startup has 30 bitcoin mining systems working as central heating, and at today’s prices each one earns slightly more than the electricity it burns."
-    },
-    {
-      "id": "86360b445bb44c32",
-      "title": "What is Zcash (ZEC)? How shielded transactions work",
-      "summary": "Zcash (ZEC) is a privacy coin and blockchain launched in 2016. It allows users to make both public and private transactions. The latter — called “shielded transactions” on the network — make use of zero-knowledge proofs called zk-SNARKs to verify payments without revealing the se",
+      "id": "9bed17b899d09738",
+      "title": "Bitcoin loses 50-week moving average as 24-hour crypto long liquidations top $1 billion",
+      "summary": "Bitcoin closed below its 50-week moving average as more than $1 billion in crypto long positions were liquidated.",
       "category": "CRYPTO",
       "source_name": "The Block",
-      "source_url": "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-09-bitcoin-loses-50-week-moving-average-as-24-hour-crypto-long-liquidations-top-1-billion-436102",
       "image_url": null,
-      "published_at": "2026-11-09T02:36:01.000Z",
+      "published_at": "2026-11-09T13:04:21.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "crypto",
+        "bitcoin"
       ],
       "region": "global",
-      "title_zh": "What is Zcash (ZEC)? How shielded transactions work",
-      "summary_zh": "Zcash (ZEC) is a privacy coin and blockchain launched in 2016. It allows users to make both public and private transactions. The latter — called “shielded transactions” on the network — make use of zero-knowledge proofs called zk-SNARKs to verify payments without revealing the se"
+      "title_zh": "Bitcoin loses 50-week moving average as 24-hour crypto long liquidations top $1 billion",
+      "summary_zh": "Bitcoin closed below its 50-week moving average as more than $1 billion in crypto long positions were liquidated."
     },
     {
       "id": "ac30d95ed2e60b3e",
@@ -655,22 +710,6 @@
       "region": "global",
       "title_zh": "Franklin Templeton uses OpenAI to support investment research",
       "summary_zh": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
-    },
-    {
-      "id": "1c1d519b3870b31a",
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "image_url": null,
-      "published_at": "2026-11-05T19:35:16.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "summary_zh": ""
     },
     {
       "id": "70111b13ada212b9",
@@ -971,18 +1010,18 @@
     {
       "id": "002aa35afa2d613a",
       "title": "Krakow shooting suspect has died in hospital, police say",
-      "summary": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
+      "summary": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-09T07:06:58.000Z",
+      "published_at": "2026-11-09T11:56:25.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
       "title_zh": "Krakow shooting suspect has died in hospital, police say",
-      "summary_zh": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home."
+      "summary_zh": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home."
     },
     {
       "id": "135090c1b734549c",
@@ -1001,22 +1040,90 @@
       "summary_zh": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited."
     },
     {
-      "id": "313847694a08fe5f",
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "id": "cbabeb36da696aad",
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-08T19:58:02.000Z",
+      "published_at": "2026-11-09T02:50:13.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "summary_zh": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast."
+    },
+    {
+      "id": "b01249c124972945",
+      "title": "Trump questions midterm elections integrity after previously accepting results",
+      "summary": "Trump made the claims, without evidence, on Truth Social on Monday.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-09T17:47:29.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "summary_zh": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza."
+      "title_zh": "Trump questions midterm elections integrity after previously accepting results",
+      "summary_zh": "Trump made the claims, without evidence, on Truth Social on Monday."
+    },
+    {
+      "id": "438258516b1f0c3a",
+      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+      "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-09T17:06:18.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+      "summary_zh": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine."
+    },
+    {
+      "id": "1ba4201281242b0b",
+      "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
+      "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-09T16:33:55.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
+      "summary_zh": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life"
+    },
+    {
+      "id": "8ad49d2162f52cbf",
+      "title": "Thirteen migrants die after boat sinks off Crete",
+      "summary": "The Greek coastguard says it has rescued 18 people, all of whom were Sudanese nationals.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-09T13:50:01.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Thirteen migrants die after boat sinks off Crete",
+      "summary_zh": "The Greek coastguard says it has rescued 18 people, all of whom were Sudanese nationals."
     },
     {
       "id": "c1674c7072cd9e17",
@@ -1035,54 +1142,54 @@
       "summary_zh": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour."
     },
     {
-      "id": "cbabeb36da696aad",
-      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-      "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+      "id": "b6d31cf626b99ce2",
+      "title": "Mass Killing in Poland Becomes Cause for a Political Fight",
+      "summary": "The government blames the far right for inspiring the gunman, while the opposition accuses the government of lax security.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
       "image_url": null,
-      "published_at": "2026-11-09T02:50:13.000Z",
+      "published_at": "2026-11-09T17:44:37.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-      "summary_zh": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast."
+      "title_zh": "Mass Killing in Poland Becomes Cause for a Political Fight",
+      "summary_zh": "The government blames the far right for inspiring the gunman, while the opposition accuses the government of lax security."
     },
     {
-      "id": "fec5bda85baf7bfa",
-      "title": "Homes and temples glow across India to mark Diwali",
-      "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+      "id": "f0720903b8db2e6d",
+      "title": "Immigrants Are Being Systematically Returned Home Despite Court Orders",
+      "summary": "Working with the Trump administration, foreign partners accept deportees, then ship them to nations where the U.S. itself would be prohibited from sending them.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
       "image_url": null,
-      "published_at": "2026-11-08T14:42:09.000Z",
+      "published_at": "2026-11-09T12:04:29.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Homes and temples glow across India to mark Diwali",
-      "summary_zh": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets."
+      "title_zh": "Immigrants Are Being Systematically Returned Home Despite Court Orders",
+      "summary_zh": "Working with the Trump administration, foreign partners accept deportees, then ship them to nations where the U.S. itself would be prohibited from sending them."
     },
     {
-      "id": "0dedcdbc566fe12f",
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+      "id": "9655bf82ed477dfc",
+      "title": "Germans Miss Merkel, Their Old Chancellor, Though They Dislike Her Policies",
+      "summary": "Crowds have flocked to the stern, but reassuring, face of Angela Merkel in her official portrait, even as a backlash to her legacy roils German politics.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/09/world/europe/germans-angela-merkel-portrait.html",
       "image_url": null,
-      "published_at": "2026-11-07T21:36:16.000Z",
+      "published_at": "2026-11-09T05:01:06.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "summary_zh": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls."
+      "title_zh": "Germans Miss Merkel, Their Old Chancellor, Though They Dislike Her Policies",
+      "summary_zh": "Crowds have flocked to the stern, but reassuring, face of Angela Merkel in her official portrait, even as a backlash to her legacy roils German politics."
     },
     {
       "id": "4bed98f98712131a",
@@ -1099,6 +1206,40 @@
       "region": "global",
       "title_zh": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
       "summary_zh": "The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice."
+    },
+    {
+      "id": "1c27b77e9795cb9d",
+      "title": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
+      "summary": "Officials say that a 24-year-old killed his family and then six people during a rampage in Krakow. Now they are trying to determine the motive.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-suspect-family.html",
+      "image_url": null,
+      "published_at": "2026-11-08T22:48:25.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
+      "summary_zh": "Officials say that a 24-year-old killed his family and then six people during a rampage in Krakow. Now they are trying to determine the motive."
+    },
+    {
+      "id": "9a9b53f81f43bf5f",
+      "title": "Suspect in Mass Shooting in Krakow, Poland, Dies in Hospital. Here’s What to Know.",
+      "summary": "At least nine people were dead after shootings in Krakow and another town. The suspected gunman died in the hospital and his motive remains unclear.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
+      "image_url": null,
+      "published_at": "2026-11-09T14:05:21.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Suspect in Mass Shooting in Krakow, Poland, Dies in Hospital. Here’s What to Know.",
+      "summary_zh": "At least nine people were dead after shootings in Krakow and another town. The suspected gunman died in the hospital and his motive remains unclear."
     },
     {
       "id": "91b461ac2bd282ac",
@@ -1137,268 +1278,110 @@
       "summary_zh": "The crash between two passenger trains was the latest in a history of deadly rail accidents in Egypt, despite billions spent modernizing the network."
     },
     {
-      "id": "1c27b77e9795cb9d",
-      "title": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
-      "summary": "Officials say that a 24-year-old killed his family and then six people during a rampage in Krakow. Now they are trying to determine the motive.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-suspect-family.html",
-      "image_url": null,
-      "published_at": "2026-11-08T22:48:25.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
-      "summary_zh": "Officials say that a 24-year-old killed his family and then six people during a rampage in Krakow. Now they are trying to determine the motive."
-    },
-    {
-      "id": "a8580f1af38187dc",
-      "title": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
-      "summary": "The Saudi authorities said no one was hurt after “falling shrapnel” hit the building in Riyadh’s financial district — one of the highest-profile areas targeted by the Houthis.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
-      "image_url": null,
-      "published_at": "2026-11-08T16:52:42.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
-      "summary_zh": "The Saudi authorities said no one was hurt after “falling shrapnel” hit the building in Riyadh’s financial district — one of the highest-profile areas targeted by the Houthis."
-    },
-    {
-      "id": "1e6641409eb2e652",
-      "title": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
-      "summary": "Gadi Eisenkot, the leading rival of Prime Minister Benjamin Netanyahu, now has a chance to form Israel’s governing coalition. Here are three routes he could try.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
-      "image_url": null,
-      "published_at": "2026-11-08T17:31:14.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
-      "summary_zh": "Gadi Eisenkot, the leading rival of Prime Minister Benjamin Netanyahu, now has a chance to form Israel’s governing coalition. Here are three routes he could try."
-    },
-    {
-      "id": "55b83f54ea8ced0e",
-      "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
-      "summary": "Mr. Eisenkot, a career general and the leading rival of Prime Minister Benjamin Netanyahu of Israel, will now have up to six weeks to form a coalition.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
-      "image_url": null,
-      "published_at": "2026-11-08T21:48:22.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
-      "summary_zh": "Mr. Eisenkot, a career general and the leading rival of Prime Minister Benjamin Netanyahu of Israel, will now have up to six weeks to form a coalition."
-    },
-    {
-      "id": "6ba329f302a22f40",
-      "title": "What to Know About the Mass Shooting in Krakow, Poland",
-      "summary": "At least nine people were dead and at least 16 injured after shootings in Krakow and another town, the police said. The motive remains unclear.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
-      "image_url": null,
-      "published_at": "2026-11-08T13:09:09.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "What to Know About the Mass Shooting in Krakow, Poland",
-      "summary_zh": "At least nine people were dead and at least 16 injured after shootings in Krakow and another town, the police said. The motive remains unclear."
-    },
-    {
-      "id": "6908bcd0f6df97a0",
-      "title": "South Africa’s Politics May Never Be the Same Again",
-      "summary": "The African National Congress lost big in local elections, turning a once-dominant force credited with overturning apartheid into “any other political party.”",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
-      "image_url": null,
-      "published_at": "2026-11-08T05:01:24.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "South Africa’s Politics May Never Be the Same Again",
-      "summary_zh": "The African National Congress lost big in local elections, turning a once-dominant force credited with overturning apartheid into “any other political party.”"
-    },
-    {
-      "id": "d36bf47aafcfd2bf",
-      "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
-      "summary": "India’s top court decreed that only more environmentally friendly fireworks could be set off this weekend, citing air quality concerns. But environmental activists call it a “green wash.”",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
-      "image_url": null,
-      "published_at": "2026-11-09T01:38:48.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
-      "summary_zh": "India’s top court decreed that only more environmentally friendly fireworks could be set off this weekend, citing air quality concerns. But environmental activists call it a “green wash.”"
-    },
-    {
-      "id": "6140b3da0c5e9cfa",
-      "title": "What the election results mean for crypto: State of Crypto",
-      "summary": "Democrats had an astoundingly good night, smashing all expectations. Is that actually bad news for the industry?",
+      "id": "104e2ccea1d973dc",
+      "title": "Google’s AI chip push adds more pressure on Nvidia",
+      "summary": "Google’s specialised AI chips threaten greater competition as Nvidia faces a leadership investigation.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
+      "source_url": "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia",
       "image_url": null,
-      "published_at": "2026-11-08T19:30:00.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "What the election results mean for crypto: State of Crypto",
-      "summary_zh": "Democrats had an astoundingly good night, smashing all expectations. Is that actually bad news for the industry?"
-    },
-    {
-      "id": "183b9ac018744abe",
-      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
-      "summary": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
-      "image_url": null,
-      "published_at": "2026-11-07T19:13:16.000Z",
+      "published_at": "2026-11-09T15:20:05.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
         "ai",
-        "crypto"
+        "google"
       ],
       "region": "global",
-      "title_zh": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
-      "summary_zh": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices."
+      "title_zh": "Google’s AI chip push adds more pressure on Nvidia",
+      "summary_zh": "Google’s specialised AI chips threaten greater competition as Nvidia faces a leadership investigation."
     },
     {
-      "id": "33c64c4e1e2316a7",
-      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-      "summary": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance.",
+      "id": "d0454c95c73ea48b",
+      "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
+      "summary": "Avalanche will serve as the core settlement ledger for the exchange's planned blockchain stock market",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+      "source_url": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
       "image_url": null,
-      "published_at": "2026-11-07T17:36:46.000Z",
+      "published_at": "2026-11-09T13:40:06.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
         "ai",
-        "crypto"
+        "stocks"
       ],
       "region": "global",
-      "title_zh": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-      "summary_zh": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance."
+      "title_zh": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
+      "summary_zh": "Avalanche will serve as the core settlement ledger for the exchange's planned blockchain stock market"
     },
     {
-      "id": "62fdad90c12269a0",
-      "title": "Nvidia perps slide as market reacts to CEO Jensen Huang’s Chinese spy scandal",
-      "summary": "Nvidia said its board of directors is investigating Huang's relationship with a woman identified by intelligence officials as a Chinese spy.",
+      "id": "3f4bada17cbcf9bf",
+      "title": "Nvidia-led tech selloff weighs on crypto majors",
+      "summary": "Only five of the top 100 cryptocurrencies by market value are up 1% or more over the past 24 hours. That is the state of the market today.",
       "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors",
       "image_url": null,
-      "published_at": "2026-11-09T03:36:16.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Nvidia perps slide as market reacts to CEO Jensen Huang’s Chinese spy scandal",
-      "summary_zh": "Nvidia said its board of directors is investigating Huang's relationship with a woman identified by intelligence officials as a Chinese spy."
-    },
-    {
-      "id": "e5f03badaf005bce",
-      "title": "Onchain data casts doubt on insider-trading theory in NYT’s ‘suspicious’ election betting story",
-      "summary": "The New York Times reported on 'suspicious' bets, but two experts who reviewed The Block's findings said the evidence doesn't strongly suggest foul play.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034",
-      "image_url": null,
-      "published_at": "2026-11-08T23:07:02.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Onchain data casts doubt on insider-trading theory in NYT’s ‘suspicious’ election betting story",
-      "summary_zh": "The New York Times reported on 'suspicious' bets, but two experts who reviewed The Block's findings said the evidence doesn't strongly suggest foul play."
-    },
-    {
-      "id": "e110fb46f627d3dc",
-      "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
-      "summary": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988",
-      "image_url": null,
-      "published_at": "2026-11-07T20:59:47.000Z",
+      "published_at": "2026-11-09T11:42:04.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
         "crypto"
       ],
       "region": "global",
-      "title_zh": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
-      "summary_zh": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story."
+      "title_zh": "Nvidia-led tech selloff weighs on crypto majors",
+      "summary_zh": "Only five of the top 100 cryptocurrencies by market value are up 1% or more over the past 24 hours. That is the state of the market today."
     },
     {
-      "id": "4c6efbc18302740c",
-      "title": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
-      "summary": "Treasury says it has severed MEXC Global from the U.S. after it allegedly supported $16 billion in transactions connected to Iran.",
+      "id": "d3a0f4dfe3647780",
+      "title": "StoneX sees 97% upside for Bullish as $4.2 billion Equiniti deal opens tokenization market",
+      "summary": "StoneX initiated coverage of Bullish with a Buy rating and a $42 price target, implying roughly 97% upside from its current levels.",
       "category": "CRYPTO",
       "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-09-stonex-sees-upside-bullish-equiniti-deal-opens-tokenization-market-436464",
       "image_url": null,
-      "published_at": "2026-11-06T21:02:30.000Z",
+      "published_at": "2026-11-09T16:07:05.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
-      "summary_zh": "Treasury says it has severed MEXC Global from the U.S. after it allegedly supported $16 billion in transactions connected to Iran."
+      "title_zh": "StoneX sees 97% upside for Bullish as $4.2 billion Equiniti deal opens tokenization market",
+      "summary_zh": "StoneX initiated coverage of Bullish with a Buy rating and a $42 price target, implying roughly 97% upside from its current levels."
     },
     {
-      "id": "de9fb218e91ca0bc",
-      "title": "US Treasury walks back crypto surveillance ‘travel rule’ proposal",
-      "summary": "The Treasury Department has withdrawn a controversial proposal that would have expanded requirements for cryptocurrency transactions.",
+      "id": "6552d70a0577b9fb",
+      "title": "Prediction market broker River Markets registers affiliate as CFTC futures commission merchant",
+      "summary": "River Markets' affiliate registered with CFTC as an FCM as it builds a prime brokerage for institutional prediction market traders.",
       "category": "CRYPTO",
       "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-09-river-markets-prediction-market-prime-brokerage-cftc-fcm-registration-436266",
       "image_url": null,
-      "published_at": "2026-11-06T20:37:34.000Z",
+      "published_at": "2026-11-09T15:05:02.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Prediction market broker River Markets registers affiliate as CFTC futures commission merchant",
+      "summary_zh": "River Markets' affiliate registered with CFTC as an FCM as it builds a prime brokerage for institutional prediction market traders."
+    },
+    {
+      "id": "1726622a2f5ea1eb",
+      "title": "NYSE to settle tokenized stocks on Avalanche in planned 24/7 market",
+      "summary": "NYSE picked Avalanche to supply the core ledger technology for the clearing firm of its affiliated tokenized-securities platform.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208",
+      "image_url": null,
+      "published_at": "2026-11-09T14:07:27.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
-        "crypto"
+        "stocks"
       ],
       "region": "global",
-      "title_zh": "US Treasury walks back crypto surveillance ‘travel rule’ proposal",
-      "summary_zh": "The Treasury Department has withdrawn a controversial proposal that would have expanded requirements for cryptocurrency transactions."
+      "title_zh": "NYSE to settle tokenized stocks on Avalanche in planned 24/7 market",
+      "summary_zh": "NYSE picked Avalanche to supply the core ledger technology for the clearing firm of its affiliated tokenized-securities platform."
     },
     {
       "id": "7841f9c24dd80f37",
@@ -1511,6 +1494,38 @@
       "summary_zh": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
     },
     {
+      "id": "d33db9fb88aed3c3",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "image_url": null,
+      "published_at": "2026-11-09T15:05:57.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "summary_zh": ""
+    },
+    {
+      "id": "1067e5f1c267af23",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "image_url": null,
+      "published_at": "2026-11-09T12:34:29.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "summary_zh": ""
+    },
+    {
       "id": "fff4ac9d12e20976",
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
       "summary": "",
@@ -1572,24 +1587,6 @@
       "tags": [],
       "region": "global",
       "title_zh": "CWE-bench v2: More coverage, quality, and transparency",
-      "summary_zh": ""
-    },
-    {
-      "id": "7ed3a7aab5ce9dac",
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/announcing-project-protostar",
-      "image_url": null,
-      "published_at": "2026-10-29T00:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "summary_zh": ""
     },
     {
