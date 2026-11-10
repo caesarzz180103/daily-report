@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T16:04:39.522Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed Governor Waller sees December hike likely, opens door to possible half-point increase；【CRYPTO】Bitcoin slips before U.S. inflation report as traders price in Fed rate increase；【CRYPTO】Live news: Bitcoin falls to nearly three-month low after disappointing inflation data。",
+  "generated_at": "2026-11-10T22:01:25.958Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed Governor Waller sees December hike likely, opens door to possible half-point increase；【FINANCE】Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says；【CRYPTO】Bitcoin lags stock rebound in advance of U.S. inflation report。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -27,7 +27,7 @@
       "source_name": "CNBC Finance",
       "source_url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
       "image_url": null,
-      "published_at": "2026-11-10T09:00:01.000Z",
+      "published_at": "2026-11-10T17:13:44.000Z",
       "importance_score": 94,
       "sentiment": 0,
       "tags": [
@@ -40,48 +40,6 @@
       "region": "global",
       "title_zh": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
       "summary_zh": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data."
-    },
-    {
-      "id": "18475aec3f575d8e",
-      "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
-      "summary": "Fed Governor Waller backs December tightening even if inflation cools, while falling oil prices offer some relief and Anthropic withdraws IPO pricing details.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
-      "image_url": null,
-      "published_at": "2026-11-10T10:48:37.000Z",
-      "importance_score": 86,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "anthropic",
-        "bitcoin",
-        "fed",
-        "inflation"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
-      "summary_zh": "Fed Governor Waller backs December tightening even if inflation cools, while falling oil prices offer some relief and Anthropic withdraws IPO pricing details."
-    },
-    {
-      "id": "e80f0cdc3ebba9b6",
-      "title": "Live news: Bitcoin falls to nearly three-month low after disappointing inflation data",
-      "summary": "A rate hike in December appears totally assured now, with Fed Governor Chris Waller suggesting even a 50-basis-point move could be appropriate.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
-      "image_url": null,
-      "published_at": "2026-11-10T10:41:45.000Z",
-      "importance_score": 86,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin",
-        "fed",
-        "inflation"
-      ],
-      "region": "global",
-      "title_zh": "Live news: Bitcoin falls to nearly three-month low after disappointing inflation data",
-      "summary_zh": "A rate hike in December appears totally assured now, with Fed Governor Chris Waller suggesting even a 50-basis-point move could be appropriate."
     },
     {
       "id": "2e01b31d954fdbff",
@@ -181,6 +139,24 @@
       "summary_zh": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit."
     },
     {
+      "id": "d1f2ff934bb8434d",
+      "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+      "summary": "The venture, known as Project Faro, plans to issue a dollar-denominated stablecoin and is expected to be incorporated in the U.S.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
+      "image_url": null,
+      "published_at": "2026-11-10T17:32:22.000Z",
+      "importance_score": 68,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+      "summary_zh": "The venture, known as Project Faro, plans to issue a dollar-denominated stablecoin and is expected to be incorporated in the U.S."
+    },
+    {
       "id": "0a758ab96ef0dce1",
       "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
       "summary": "A December rate hike appears completely assured, with Fed Governor Chris Waller suggesting even a 50-basis-point move could be appropriate.",
@@ -237,6 +213,25 @@
       "summary_zh": "Your day-ahead look for Nov. 10, 2026"
     },
     {
+      "id": "767db5b2ec86f667",
+      "title": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
+      "summary": "BTC slipped under $74,000 after October CPI beat forecasts. Analysts flag $73,000 support and a possible drop toward $69,000.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301",
+      "image_url": null,
+      "published_at": "2026-11-10T19:38:18.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
+      "summary_zh": "BTC slipped under $74,000 after October CPI beat forecasts. Analysts flag $73,000 support and a possible drop toward $69,000."
+    },
+    {
       "id": "dd8eefeed868d707",
       "title": "Canaan’s Q3 revenue plunges 90% to $14.5 million as bitcoin mining hardware sales slump",
       "summary": "Canaan's Q3 revenue fell 90% to $14.5 million, though cryptocurrency and derivatives gains supported an $8 million profit.",
@@ -274,25 +269,6 @@
       "region": "global",
       "title_zh": "Bitdeer reports record Q3 revenue as net loss widens to $125.5 million",
       "summary_zh": "Bitdeer reported record third-quarter revenue of $320.7 million as bitcoin production surged 248% to 3,855 BTC."
-    },
-    {
-      "id": "5ead73684e57ee7e",
-      "title": "Ark Invest trims Block, Bullish and its own bitcoin ETF holdings while buying Nvidia, SoFi",
-      "summary": "Cathie Wood's Ark Invest sold $6.1 million worth of Block shares and $1.13 million worth of Bullish shares through its ETFs on Monday.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-10-ark-invest-trims-block-bullish-holdings-437003",
-      "image_url": null,
-      "published_at": "2026-11-10T10:36:53.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin",
-        "etf"
-      ],
-      "region": "global",
-      "title_zh": "Ark Invest trims Block, Bullish and its own bitcoin ETF holdings while buying Nvidia, SoFi",
-      "summary_zh": "Cathie Wood's Ark Invest sold $6.1 million worth of Block shares and $1.13 million worth of Bullish shares through its ETFs on Monday."
     },
     {
       "id": "3c5d72107454ab0f",
@@ -345,32 +321,48 @@
       "summary_zh": "Amid growth of its U.S. exchange, the prediction market platform’s current annual run-rate is $1.8 billion."
     },
     {
-      "id": "826027a13c51b376",
-      "title": "First day of Ukraine peace talks 'very productive', US says",
+      "id": "7e970df8b5b6f6c7",
+      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+      "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-10T19:26:42.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+      "summary_zh": "Supporters of Sheikh Hasina want her to return from exile in India."
+    },
+    {
+      "id": "425b6e0618babd7a",
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
       "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-10T14:36:57.000Z",
+      "published_at": "2026-11-10T21:21:55.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "First day of Ukraine peace talks 'very productive', US says",
+      "title_zh": "First day of Ukraine peace talks constructive, Zelensky says",
       "summary_zh": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February."
     },
     {
-      "id": "86223446f27e3014",
-      "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
-      "summary": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
+      "id": "36c3eee0a8725d40",
+      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
+      "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-10T08:39:05.000Z",
+      "published_at": "2026-11-10T13:23:54.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -378,44 +370,8 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "DR Congo sentences 66 soldiers to death for being 'cowards'",
-      "summary_zh": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks."
-    },
-    {
-      "id": "688826e6ca9e3bda",
-      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
-      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-10T13:45:13.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Iran rejects French claims it was behind supermarket fridge hacking",
-      "summary_zh": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up."
-    },
-    {
-      "id": "772cdb16fc91da06",
-      "title": "Police officer dies and another injured after backpack explosion in northern Spain",
-      "summary": "Officers attended the scene in connection with a separate incident at a residential building in the Spanish city.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-10T11:25:46.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Police officer dies and another injured after backpack explosion in northern Spain",
-      "summary_zh": "Officers attended the scene in connection with a separate incident at a residential building in the Spanish city."
+      "title_zh": "French wartime resistance heroine Solange Alexandre dies aged 104",
+      "summary_zh": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces."
     },
     {
       "id": "701cf9435884ea4d",
@@ -425,13 +381,48 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
       "image_url": null,
-      "published_at": "2026-11-10T13:43:10.000Z",
+      "published_at": "2026-11-10T16:23:18.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
       "region": "global",
       "title_zh": "U.S. Received $12 Billion From Venezuela’s Oil, Report Shows",
       "summary_zh": "The workings of a U.S.-controlled bank account shed light on how Washington manages Venezuelan revenue after capturing the country’s president."
+    },
+    {
+      "id": "00d7aad307097dda",
+      "title": "In Interview, Sonia Gandhi Recalls Love and Loss in India",
+      "summary": "In a new memoir and interview, the Italian-born woman who married into the Nehru-Gandhi dynasty recalls her political battles and the assassinations of her husband and mother-in-law.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html",
+      "image_url": null,
+      "published_at": "2026-11-10T18:59:34.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "In Interview, Sonia Gandhi Recalls Love and Loss in India",
+      "summary_zh": "In a new memoir and interview, the Italian-born woman who married into the Nehru-Gandhi dynasty recalls her political battles and the assassinations of her husband and mother-in-law."
+    },
+    {
+      "id": "fb820514c2a829ff",
+      "title": "Syria Weighs Sending Troops to Aid Saudi War With Houthis",
+      "summary": "Syrian reconnaissance teams have visited Saudi Arabia and Yemen ahead of a potential deployment, but a final decision has not been made, officials said.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html",
+      "image_url": null,
+      "published_at": "2026-11-10T16:43:59.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Syria Weighs Sending Troops to Aid Saudi War With Houthis",
+      "summary_zh": "Syrian reconnaissance teams have visited Saudi Arabia and Yemen ahead of a potential deployment, but a final decision has not been made, officials said."
     },
     {
       "id": "cd5ccb1892a163e2",
@@ -448,6 +439,24 @@
       "region": "global",
       "title_zh": "The Man Who Helped the C.I.A. Secretly Operate in Mexico",
       "summary_zh": "President Claudia Sheinbaum drew a firm line barring U.S. forces from operating on Mexican soil. But in a northern border state, one local partner quietly helped the agency build a foothold."
+    },
+    {
+      "id": "e577cdaae26a0a69",
+      "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
+      "summary": "U.S. Senator Elizabeth Warren argued the administration is not doing enough about staff insider trading, questioning whether CFTC enforcement action was sufficient.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
+      "image_url": null,
+      "published_at": "2026-11-10T20:36:33.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
+      "summary_zh": "U.S. Senator Elizabeth Warren argued the administration is not doing enough about staff insider trading, questioning whether CFTC enforcement action was sufficient."
     },
     {
       "id": "a68b819ee41946e6",
@@ -487,89 +496,84 @@
       "summary_zh": "As crypto firms and banks converge, it is fair to ask what lasting advantage stablecoins have, argues Alessandro Hatami, founder of Pacemakers and former COO of Digital Banking at Lloyds Banking Group."
     },
     {
-      "id": "688ee20839702db6",
-      "title": "The crypto wallet that grew up inside Telegram is striking out on its own",
-      "summary": "The app will offer crypto trading, tokenized U.S. stocks and ETFs, and perpetual futures, all already available through Telegram.",
+      "id": "6e51950edd8d5233",
+      "title": "Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month low",
+      "summary": "Forward adds a $50 million credit line and housing-linked investment to support further SOL accumulation.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/10/the-crypto-wallet-that-grew-up-inside-telegram-is-striking-out-on-its-own",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330",
       "image_url": null,
-      "published_at": "2026-11-10T09:59:17.000Z",
+      "published_at": "2026-11-10T21:51:19.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
-        "ai",
-        "crypto",
-        "etf",
-        "stocks"
+        "war"
       ],
       "region": "global",
-      "title_zh": "The crypto wallet that grew up inside Telegram is striking out on its own",
-      "summary_zh": "The app will offer crypto trading, tokenized U.S. stocks and ETFs, and perpetual futures, all already available through Telegram."
+      "title_zh": "Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month low",
+      "summary_zh": "Forward adds a $50 million credit line and housing-linked investment to support further SOL accumulation."
     },
     {
-      "id": "c39355b23f11863c",
-      "title": "eToro’s Q3 profit plunges 74% as weaker crypto trading weighs on earnings",
-      "summary": "eToro reported a 74% decline in Q3 profit to $15 million, with weaker crypto activity weighing on earnings.",
+      "id": "60aa778124861119",
+      "title": "Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12%",
+      "summary": "Grayscale’s Zcash push comes as its ETF faces continued withdrawals, extending October’s net outflows.",
       "category": "CRYPTO",
       "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-10-etoros-q3-profit-plunges-74-as-weaker-crypto-trading-weighs-on-earnings-437192",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277",
       "image_url": null,
-      "published_at": "2026-11-10T13:44:35.000Z",
+      "published_at": "2026-11-10T17:52:14.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
-        "crypto"
+        "etf"
       ],
       "region": "global",
-      "title_zh": "eToro’s Q3 profit plunges 74% as weaker crypto trading weighs on earnings",
-      "summary_zh": "eToro reported a 74% decline in Q3 profit to $15 million, with weaker crypto activity weighing on earnings."
+      "title_zh": "Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12%",
+      "summary_zh": "Grayscale’s Zcash push comes as its ETF faces continued withdrawals, extending October’s net outflows."
     },
     {
-      "id": "e56c872525789568",
-      "title": "Exodus shares rise 10% ahead of Q3 earnings showing 7% revenue growth, $8.3 million loss",
-      "summary": "Exodus shares rose 10% as the company reported third-quarter revenue of $32.5 million and a net loss of $8.3 million.",
+      "id": "3dd2fe42f546a8c6",
+      "title": "TON Strategy earns $13.1 million from GRAM staking in Q3 as Telegram rolls out native wallet",
+      "summary": "TON Strategy reported $13.1M in Q3 revenue, mostly from GRAM staking, and a $24M net loss as Telegram rolled out its native Gram Wallet.",
       "category": "CRYPTO",
       "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-10-exodus-shares-rise-10-ahead-of-q3-earnings-showing-7-revenue-growth-8-3-million-loss-437012",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278",
       "image_url": null,
-      "published_at": "2026-11-10T10:53:57.000Z",
+      "published_at": "2026-11-10T17:24:44.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Exodus shares rise 10% ahead of Q3 earnings showing 7% revenue growth, $8.3 million loss",
-      "summary_zh": "Exodus shares rose 10% as the company reported third-quarter revenue of $32.5 million and a net loss of $8.3 million."
+      "title_zh": "TON Strategy earns $13.1 million from GRAM staking in Q3 as Telegram rolls out native wallet",
+      "summary_zh": "TON Strategy reported $13.1M in Q3 revenue, mostly from GRAM staking, and a $24M net loss as Telegram rolled out its native Gram Wallet."
     },
     {
-      "id": "0ee152698cb15a7c",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
+      "id": "29b7a99498bb0fbf",
+      "title": "Alta raises $47.5 million Series A to build a blockchain for financial institutions",
+      "summary": "Alta’s blockchain will combine privacy and compliance controls for banks and other financial firms.",
       "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-10T16:03:29.708Z",
-      "importance_score": 55,
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244",
+      "image_url": null,
+      "published_at": "2026-11-10T16:19:16.000Z",
+      "importance_score": 56,
       "sentiment": 0,
       "tags": [
-        "crypto",
-        "trending",
-        "btc"
+        "ai"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Bitcoin (BTC)",
-      "summary_zh": "CoinGecko trending rank #1."
+      "title_zh": "Alta raises $47.5 million Series A to build a blockchain for financial institutions",
+      "summary_zh": "Alta’s blockchain will combine privacy and compliance controls for banks and other financial firms."
     },
     {
-      "id": "0cf44d25eaac8683",
+      "id": "958d84a8baf8839b",
       "title": "Trending Crypto: Super Inu (SI)",
-      "summary": "CoinGecko trending rank #929.",
+      "summary": "CoinGecko trending rank #882.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/super-inu-3",
       "image_url": "https://coin-images.coingecko.com/coins/images/102179869/large/logo.png?1793260809",
-      "published_at": "2026-11-10T16:03:29.708Z",
+      "published_at": "2026-11-10T22:00:11.286Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -579,17 +583,57 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Super Inu (SI)",
-      "summary_zh": "CoinGecko trending rank #929."
+      "summary_zh": "CoinGecko trending rank #882."
     },
     {
-      "id": "31affbde16e143d1",
+      "id": "7dbd62bb6bb49e91",
+      "title": "Trending Crypto: Dacity Coin (DACITY)",
+      "summary": "CoinGecko trending rank #891.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/dacity-coin-4",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180086/large/logo.png?1793830170",
+      "published_at": "2026-11-10T22:00:11.286Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "dacity"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Dacity Coin (DACITY)",
+      "summary_zh": "CoinGecko trending rank #891."
+    },
+    {
+      "id": "9e9ea153680b31e5",
+      "title": "Trending Crypto: Zcash (ZEC)",
+      "summary": "CoinGecko trending rank #10.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/zcash",
+      "image_url": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558",
+      "published_at": "2026-11-10T22:00:11.286Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "zec"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Zcash (ZEC)",
+      "summary_zh": "CoinGecko trending rank #10."
+    },
+    {
+      "id": "d4ef4eb23ba07234",
       "title": "Trending Crypto: Initia (INIT)",
-      "summary": "CoinGecko trending rank #384.",
+      "summary": "CoinGecko trending rank #371.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/initia",
       "image_url": "https://coin-images.coingecko.com/coins/images/40138/large/initia_symbol_white.png?1745511525",
-      "published_at": "2026-11-10T16:03:29.708Z",
+      "published_at": "2026-11-10T22:00:11.286Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -599,47 +643,27 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Initia (INIT)",
-      "summary_zh": "CoinGecko trending rank #384."
+      "summary_zh": "CoinGecko trending rank #371."
     },
     {
-      "id": "a2c51837bba6b70b",
-      "title": "Trending Crypto: Pepe (PEPE)",
-      "summary": "CoinGecko trending rank #42.",
+      "id": "9de1d014b5f73e1b",
+      "title": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary": "CoinGecko trending rank #11.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pepe",
-      "image_url": "https://coin-images.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1696528776",
-      "published_at": "2026-11-10T16:03:29.708Z",
+      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
+      "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
+      "published_at": "2026-11-10T22:00:11.286Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pepe"
+        "hype"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pepe (PEPE)",
-      "summary_zh": "CoinGecko trending rank #42."
-    },
-    {
-      "id": "ae3bca2c2a83f2e5",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #116.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-11-10T16:03:29.708Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pengu"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #116."
+      "title_zh": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary_zh": "CoinGecko trending rank #11."
     },
     {
       "id": "b65608ffda727598",
@@ -765,25 +789,6 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 10/18/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Less Wrong [Quantitativo] The biggest risk is that you have a losing strategy when you think you have a winning one. Jeff Y"
     },
     {
-      "id": "e3a331090c2ecde6",
-      "title": "HIVE reports $79 million quarterly net loss as bitcoin mining revenue falls and AI business grows",
-      "summary": "HIVE reported a $78.7 million quarterly net loss and $84.9 million in revenue, including $8.8 million from its AI business.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-10-hive-reports-79-million-quarterly-net-loss-as-bitcoin-mining-revenue-falls-and-ai-business-grows-437177",
-      "image_url": null,
-      "published_at": "2026-11-10T11:52:16.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "HIVE reports $79 million quarterly net loss as bitcoin mining revenue falls and AI business grows",
-      "summary_zh": "HIVE reported a $78.7 million quarterly net loss and $84.9 million in revenue, including $8.8 million from its AI business."
-    },
-    {
       "id": "6904d842f73ffaff",
       "title": "Work at the Frontier: AI’s effect on freelance work",
       "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
@@ -848,22 +853,6 @@
       "tags": [],
       "region": "global",
       "title_zh": "Palette: teaching a small model to build decks in your design language",
-      "summary_zh": ""
-    },
-    {
-      "id": "cb61a9250ca5bdf2",
-      "title": "Transformers Model Integration Contracts",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/transformers-mic",
-      "image_url": null,
-      "published_at": "2026-11-03T00:00:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Transformers Model Integration Contracts",
       "summary_zh": ""
     },
     {
@@ -1010,6 +999,22 @@
       "summary_zh": "Five MIT faculty members and two additional alumni are honored with fellowships to advance research on beneficial AI."
     },
     {
+      "id": "4baea1d950d90e3c",
+      "title": "U.S. gas prices fall below $4 for the first time since July",
+      "summary": "Americans may finally find some relief at the pump.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
+      "image_url": null,
+      "published_at": "2026-11-10T16:29:09.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "U.S. gas prices fall below $4 for the first time since July",
+      "summary_zh": "Americans may finally find some relief at the pump."
+    },
+    {
       "id": "b1a75f5cd031ba61",
       "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
       "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
@@ -1098,72 +1103,40 @@
       "summary_zh": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows."
     },
     {
-      "id": "a069fda0a4e8b826",
-      "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
-      "summary": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
+      "id": "1e3973f7fdf5c7d6",
+      "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-05T20:17:16.000Z",
+      "published_at": "2026-11-10T21:23:00.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
-      "summary_zh": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections."
+      "title_zh": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+      "summary_zh": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material."
     },
     {
-      "id": "f321a0de61eb8961",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "id": "e238942de8d4cfa6",
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-10T08:23:21.000Z",
+      "published_at": "2026-11-10T18:33:51.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "summary_zh": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
-    },
-    {
-      "id": "c58e3a504bd2abc3",
-      "title": "'Cruise for life' ship seized in Singapore",
-      "summary": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-10T01:49:06.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "'Cruise for life' ship seized in Singapore",
-      "summary_zh": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money."
-    },
-    {
-      "id": "46b322b1b93b388f",
-      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-      "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-10T14:29:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Arrests made in Mohamed Al Fayed probe in France, police say",
-      "summary_zh": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police."
+      "title_zh": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "summary_zh": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund."
     },
     {
       "id": "093ab772a1c50cd1",
@@ -1173,7 +1146,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-10T15:51:09.000Z",
+      "published_at": "2026-11-10T17:03:16.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1184,39 +1157,124 @@
       "summary_zh": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister."
     },
     {
-      "id": "d06b722b16840506",
-      "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
-      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+      "id": "5a1d5068a8fa3c4e",
+      "title": "Spain's king and queen attend memorial service for rail crash victims",
+      "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-10T14:46:50.000Z",
+      "published_at": "2026-11-10T20:46:40.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
-        "ai",
-        "anthropic"
+        "ai"
       ],
       "region": "global",
-      "title_zh": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
-      "summary_zh": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78."
+      "title_zh": "Spain's king and queen attend memorial service for rail crash victims",
+      "summary_zh": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital."
     },
     {
-      "id": "63f4786172b5b928",
-      "title": "California police investigate after 27 fall ill at half-marathon running event",
-      "summary": "A local hospital says runners had \"unusual\" symptoms after racing on an atypically hot day.",
+      "id": "f1edbe324669ef60",
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-10T13:22:12.000Z",
+      "published_at": "2026-11-10T18:04:18.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "California police investigate after 27 fall ill at half-marathon running event",
-      "summary_zh": "A local hospital says runners had \"unusual\" symptoms after racing on an atypically hot day."
+      "title_zh": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "summary_zh": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones."
+    },
+    {
+      "id": "2bd1fa349fa138c4",
+      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-10T15:21:18.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "summary_zh": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza."
+    },
+    {
+      "id": "f532d90ddc842a0b",
+      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-10T21:06:04.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+      "summary_zh": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China."
+    },
+    {
+      "id": "b06dc988de407eb4",
+      "title": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
+      "summary": "The 41-year-old man, who was not named, was in custody pending possible charges after a joint investigation with the F.B.I. and U.S. military intelligence.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
+      "image_url": null,
+      "published_at": "2026-11-10T21:26:19.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
+      "summary_zh": "The 41-year-old man, who was not named, was in custody pending possible charges after a joint investigation with the F.B.I. and U.S. military intelligence."
+    },
+    {
+      "id": "1d9f0d4c392c96b9",
+      "title": "Novaya Gazeta, Russia’s Bravest Newspaper, Closes",
+      "summary": "For more than 30 years, the paper covered an increasingly repressive Russia. “The process of silencing us started many years ago,” one of its journalists said.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
+      "image_url": null,
+      "published_at": "2026-11-10T20:53:41.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Novaya Gazeta, Russia’s Bravest Newspaper, Closes",
+      "summary_zh": "For more than 30 years, the paper covered an increasingly repressive Russia. “The process of silencing us started many years ago,” one of its journalists said."
+    },
+    {
+      "id": "3281b2c6e83e5861",
+      "title": "Gaza Floods Kill 4",
+      "summary": "At least four people from one family died and thousands lost their shelters when a storm battered overcrowded tent camps. Israel says Gaza will not be rebuilt until Hamas disarms.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
+      "image_url": null,
+      "published_at": "2026-11-10T19:24:50.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Gaza Floods Kill 4",
+      "summary_zh": "At least four people from one family died and thousands lost their shelters when a storm battered overcrowded tent camps. Israel says Gaza will not be rebuilt until Hamas disarms."
     },
     {
       "id": "2e0c71f99dbd8789",
@@ -1269,90 +1327,6 @@
       "summary_zh": "Najib Razak, who was brought down in the multibillion-dollar 1MDB scandal, was released from prison to serve the rest of his sentence in his mansion."
     },
     {
-      "id": "394970a883203018",
-      "title": "Why U.S. Business Deals Are Unlikely to Get Putin to Give Any Ground",
-      "summary": "President Vladimir V. Putin of Russia has shown a willingness to endure a high price to get what he wants in Ukraine, and he sees little reason to stop fighting now, analysts say.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/10/world/europe/putin-trump-abu-dhabi-talks.html",
-      "image_url": null,
-      "published_at": "2026-11-10T12:51:02.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Why U.S. Business Deals Are Unlikely to Get Putin to Give Any Ground",
-      "summary_zh": "President Vladimir V. Putin of Russia has shown a willingness to endure a high price to get what he wants in Ukraine, and he sees little reason to stop fighting now, analysts say."
-    },
-    {
-      "id": "f20cd8513c9099c2",
-      "title": "David Walliams, UK Celebrity, Is Accused of Sexual Misconduct",
-      "summary": "The Guardian and ITV News published allegations from multiple women against the comedian and writer, who had fought a weekslong court battle to keep the claims private. He denies the accusations.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/10/world/europe/david-walliams-allegations-guardian-itv-uk.html",
-      "image_url": null,
-      "published_at": "2026-11-10T12:39:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "David Walliams, UK Celebrity, Is Accused of Sexual Misconduct",
-      "summary_zh": "The Guardian and ITV News published allegations from multiple women against the comedian and writer, who had fought a weekslong court battle to keep the claims private. He denies the accusations."
-    },
-    {
-      "id": "d632dfc61a9d227e",
-      "title": "Israel’s New Parliament Gathers With No Government in Sight",
-      "summary": "Dozens of first-time lawmakers are heading to the Knesset, where the opposition, led by Gadi Eisenkot, has a majority and is expected to begin pulling some levers of power.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
-      "image_url": null,
-      "published_at": "2026-11-10T14:59:10.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Israel’s New Parliament Gathers With No Government in Sight",
-      "summary_zh": "Dozens of first-time lawmakers are heading to the Knesset, where the opposition, led by Gadi Eisenkot, has a majority and is expected to begin pulling some levers of power."
-    },
-    {
-      "id": "8ee4c4971a3d9333",
-      "title": "In Argentina, Pope Leo Walks in the Giant Shadow of Francis",
-      "summary": "Francis never returned to his home country after becoming pope, but the new pontiff will still be confronted with the overwhelming presence of his predecessor.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/10/world/americas/pope-leo-argentina-visit-francis.html",
-      "image_url": null,
-      "published_at": "2026-11-10T10:02:53.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "In Argentina, Pope Leo Walks in the Giant Shadow of Francis",
-      "summary_zh": "Francis never returned to his home country after becoming pope, but the new pontiff will still be confronted with the overwhelming presence of his predecessor."
-    },
-    {
-      "id": "d264c7addfe5e8b7",
-      "title": "Turkey Promotes Itself as a Climate Champion. Not Everyone Agrees.",
-      "summary": "Critics say some of the country’s environmental policies run counter to the image it is offering as host of a United Nations climate summit.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
-      "image_url": null,
-      "published_at": "2026-11-10T10:01:42.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Turkey Promotes Itself as a Climate Champion. Not Everyone Agrees.",
-      "summary_zh": "Critics say some of the country’s environmental policies run counter to the image it is offering as host of a United Nations climate summit."
-    },
-    {
       "id": "1ab783650e2d74ea",
       "title": "Recent Quant Links from Quantocracy as of 11/09/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a ",
@@ -1371,6 +1345,40 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a"
     },
     {
+      "id": "05956c6f54da1095",
+      "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
+      "summary": "Stacey Cunningham, who recently joined digital asset platform Bullish as President, sees the company’s planned Equiniti acquisition and focus on stock issuers as key to its tokenization ambitions.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
+      "image_url": null,
+      "published_at": "2026-11-10T20:15:08.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
+      "summary_zh": "Stacey Cunningham, who recently joined digital asset platform Bullish as President, sees the company’s planned Equiniti acquisition and focus on stock issuers as key to its tokenization ambitions."
+    },
+    {
+      "id": "ea0e63157b754159",
+      "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
+      "summary": "Twice now, crypto firms have found themselves on the side of the U.S. Commodity Futures Trading Commission in holding that perpetual futures aren't swaps.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
+      "image_url": null,
+      "published_at": "2026-11-10T17:07:22.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Crypto is now teamed up with U.S. government in two legal battles over perps",
+      "summary_zh": "Twice now, crypto firms have found themselves on the side of the U.S. Commodity Futures Trading Commission in holding that perpetual futures aren't swaps."
+    },
+    {
       "id": "3d00e5c03f956008",
       "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
       "summary": "Asch is stepping down as head of the institutional prime brokerage.",
@@ -1385,22 +1393,6 @@
       "region": "global",
       "title_zh": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
       "summary_zh": "Asch is stepping down as head of the institutional prime brokerage."
-    },
-    {
-      "id": "a5f32f421a104b03",
-      "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
-      "summary": "The Capital Markets Alliance argues that the products fall under the Securities and Exchange Commission’s jurisdiction.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
-      "image_url": null,
-      "published_at": "2026-11-10T09:14:30.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
-      "summary_zh": "The Capital Markets Alliance argues that the products fall under the Securities and Exchange Commission’s jurisdiction."
     },
     {
       "id": "aa8427f9284b1b9d",
@@ -1457,24 +1449,6 @@
       "summary_zh": "Visa has added Monad as a stablecoin settlement option for participating issuers and acquirers, the Monad Foundation said."
     },
     {
-      "id": "ba2df8c1718b2b33",
-      "title": "NEAR AI says SGLang vulnerability exposed user account details in security breach",
-      "summary": "NEAR AI explained that it found no indication that stored Private Chat conversations or uploaded files were accessed.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/defi/2026-11-10-near-ai-security-breach-437002",
-      "image_url": null,
-      "published_at": "2026-11-10T10:17:13.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "NEAR AI says SGLang vulnerability exposed user account details in security breach",
-      "summary_zh": "NEAR AI explained that it found no indication that stored Private Chat conversations or uploaded files were accessed."
-    },
-    {
       "id": "3e4eedfb1953d3fe",
       "title": "Helping caregivers use AI in everyday life",
       "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
@@ -1492,6 +1466,22 @@
       "region": "global",
       "title_zh": "Helping caregivers use AI in everyday life",
       "summary_zh": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+    },
+    {
+      "id": "6d2a69bc26b1ba80",
+      "title": "Introducing Businesses in ChatGPT",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "image_url": null,
+      "published_at": "2026-11-10T10:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Introducing Businesses in ChatGPT",
+      "summary_zh": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
     },
     {
       "id": "dfddf7b5fe16a741",
@@ -1550,22 +1540,22 @@
       "summary_zh": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
     },
     {
-      "id": "3b531782f0bca12e",
-      "title": "Australian universities are creating AI-native graduates",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "id": "5910575156f31cf2",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "summary": "",
       "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/hub-gcp-marketplace",
       "image_url": null,
-      "published_at": "2026-11-05T17:00:00.000Z",
+      "published_at": "2026-11-10T00:00:00.000Z",
       "importance_score": 40,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "google"
       ],
       "region": "global",
-      "title_zh": "Australian universities are creating AI-native graduates",
-      "summary_zh": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
+      "title_zh": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "summary_zh": ""
     },
     {
       "id": "d33db9fb88aed3c3",
@@ -1664,6 +1654,22 @@
       "summary_zh": ""
     },
     {
+      "id": "73f8cc043892c514",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+      "category": "AI",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp",
+      "published_at": "2026-11-10T19:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Gemini Intelligence: New features, on more devices",
+      "summary_zh": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more."
+    },
+    {
       "id": "8cda689ec9010c56",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
@@ -1731,24 +1737,6 @@
       "region": "global",
       "title_zh": "Introducing Playground: Create and play custom games",
       "summary_zh": "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
-    },
-    {
-      "id": "67521a1c829f3743",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "category": "AI",
-      "source_name": "Google AI Blog",
-      "source_url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp",
-      "published_at": "2026-09-28T19:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "summary_zh": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
     },
     {
       "id": "a9dff69bb8f54641",
