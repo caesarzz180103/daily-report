@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-10T00:59:11.694Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says；【CRYPTO】Coinbase and PNC Bank expand partnership with USDC payments for corporate clients；【AI】CodeRabbit scales agentic software development and ships 20x more。",
+  "generated_at": "2026-11-10T07:59:28.309Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough；【FINANCE】Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says；【CRYPTO】Coinbase and PNC Bank expand partnership with USDC payments for corporate clients。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
     "feed_failed": 0,
     "failed_sources": [],
-    "translated_items": 0,
+    "translated_items": 1,
     "translation_target": "zh-CN",
     "version": "1.3.0"
   },
@@ -19,6 +19,28 @@
     "FINANCE": 10
   },
   "items": [
+    {
+      "id": "2997000ec5a8fc68",
+      "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+      "summary": "Bitcoin trades below $75,000 ahead of the October inflation data. Analysts warning that sustainable recovery depends on improving liquidity and spot ETF demand rather than temporary macro relief.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+      "image_url": null,
+      "published_at": "2026-11-10T03:22:26.000Z",
+      "importance_score": 86,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin",
+        "etf",
+        "inflation",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+      "summary_zh": "Bitcoin trades below $75,000 ahead of the October inflation data. Analysts warning that sustainable recovery depends on improving liquidity and spot ETF demand rather than temporary macro relief."
+    },
     {
       "id": "2e01b31d954fdbff",
       "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
@@ -206,42 +228,22 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/24/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Shorting Leveraged ETFs: Role of Borrowing Costs and Rebalancing in Volatility-Decay Strategies [Quantpedia] Leveraged ET"
     },
     {
-      "id": "b0fd7b7a685d3475",
-      "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-      "summary": "Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
+      "id": "3c5d72107454ab0f",
+      "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
+      "summary": "With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides that reduce dependence on imports and improve the security of the U.S. food supply.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
       "image_url": null,
-      "published_at": "2026-11-09T12:41:35.000Z",
-      "importance_score": 62,
+      "published_at": "2026-11-10T05:00:00.000Z",
+      "importance_score": 58,
       "sentiment": 0,
       "tags": [
-        "ai",
-        "war"
+        "ai"
       ],
       "region": "global",
-      "title_zh": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-      "summary_zh": "Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading."
-    },
-    {
-      "id": "cfd1c4e321dffcd2",
-      "title": "Bitcoin bulls can't rely on ETF flows",
-      "summary": "Your day-ahead look for Nov. 9, 2026",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
-      "image_url": null,
-      "published_at": "2026-11-09T12:30:00.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin",
-        "etf"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin bulls can't rely on ETF flows",
-      "summary_zh": "Your day-ahead look for Nov. 9, 2026"
+      "title_zh": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
+      "summary_zh": "With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides that reduce dependence on imports and improve the security of the U.S. food supply."
     },
     {
       "id": "b28e57a7dbf053ea",
@@ -260,6 +262,25 @@
       "summary_zh": "From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs."
     },
     {
+      "id": "5b592e2efbbd3165",
+      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+      "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-10T05:22:39.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global",
+      "title_zh": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+      "summary_zh": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites."
+    },
+    {
       "id": "9a537190c3ebd01b",
       "title": "France accuses Iran of supermarket fridge hacking",
       "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
@@ -276,24 +297,6 @@
       "summary_zh": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up."
     },
     {
-      "id": "7fa9843afc6c7d73",
-      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-      "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-09T23:28:53.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-      "summary_zh": "The ruling means the case can move forward, possibly with reduced charges in a new trial."
-    },
-    {
       "id": "3c60ca79fb792ed6",
       "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
       "summary": "U.S.-led talks to end the war between Russia and Ukraine will resume this week in Abu Dhabi. A cease-fire won’t be on the table.",
@@ -301,7 +304,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
       "image_url": null,
-      "published_at": "2026-11-09T15:08:54.000Z",
+      "published_at": "2026-11-10T03:39:35.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -327,6 +330,24 @@
       "region": "global",
       "title_zh": "A Country’s President Led to a Bank’s Stunning Rise, and Its Fall",
       "summary_zh": "Prosecutors accused President Santiago Peña of Paraguay of funneling nearly a billion dollars of government funds to the Ueno bank as its executives made reckless insider loans."
+    },
+    {
+      "id": "19950c1b6da8c524",
+      "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+      "summary": "Bots spotted a wallet from Ethereum’s 2015 launch the moment it stirred and planted lookalike addresses in its history, but the owner sent the money to the right place anyway.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
+      "image_url": null,
+      "published_at": "2026-11-10T07:01:06.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ethereum"
+      ],
+      "region": "global",
+      "title_zh": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+      "summary_zh": "Bots spotted a wallet from Ethereum’s 2015 launch the moment it stirred and planted lookalike addresses in its history, but the owner sent the money to the right place anyway."
     },
     {
       "id": "27f8a1f2527313b8",
@@ -363,23 +384,39 @@
       "summary_zh": "North Korean hackers used six homemade memecoins to launder 117,000 NEAR, worth about $430,000, from the $6.3 billion Binance hack, Elliptic says."
     },
     {
-      "id": "6382450908ceef90",
-      "title": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
-      "summary": "Trump confirmed he co-owns World Liberty, whose UAE ownership could derail Justin Sun’s federal lawsuit over frozen WLFI tokens",
+      "id": "391d19b417d9094b",
+      "title": "Coinbase, Kalshi and Payward backs CFTC in lawsuit over single-stock perp futures",
+      "summary": "The crypto firms moved for leave to file an amicus brief defending the CFTC's authority to regulate single-stock perpetual futures in the US.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971",
       "image_url": null,
-      "published_at": "2026-11-09T12:37:13.000Z",
+      "published_at": "2026-11-10T06:19:10.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
-        "ai",
-        "fed"
+        "crypto",
+        "war"
       ],
       "region": "global",
-      "title_zh": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
-      "summary_zh": "Trump confirmed he co-owns World Liberty, whose UAE ownership could derail Justin Sun’s federal lawsuit over frozen WLFI tokens"
+      "title_zh": "Coinbase, Kalshi and Payward backs CFTC in lawsuit over single-stock perp futures",
+      "summary_zh": "The crypto firms moved for leave to file an amicus brief defending the CFTC's authority to regulate single-stock perpetual futures in the US."
+    },
+    {
+      "id": "66c4fdc2f575deec",
+      "title": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
+      "summary": "The acquisition is expected to add a new layer of financing to Securitize, enabling the platform to offer asset-backed lending.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955",
+      "image_url": null,
+      "published_at": "2026-11-10T02:13:07.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
+      "summary_zh": "The acquisition is expected to add a new layer of financing to Securitize, enabling the platform to offer asset-backed lending."
     },
     {
       "id": "b005baf2c8d62a10",
@@ -400,34 +437,94 @@
       "summary_zh": "Elliptic says the extra swaps slow investigators down, but the stolen funds remain traceable onchain."
     },
     {
-      "id": "6111b65a03757c13",
-      "title": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary": "CoinGecko trending rank #714.",
+      "id": "72c919acc0cb5e02",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #115.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/dacity-coin-4",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180086/large/logo.png?1793830170",
-      "published_at": "2026-11-10T00:58:01.462Z",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-11-10T07:58:17.025Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "dacity"
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary_zh": "CoinGecko trending rank #714."
+      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary_zh": "CoinGecko trending rank #115."
     },
     {
-      "id": "4a389d6758a7f4d8",
+      "id": "72cdb44bdd6d17db",
+      "title": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary": "CoinGecko trending rank #11.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
+      "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
+      "published_at": "2026-11-10T07:58:17.025Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "hype"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary_zh": "CoinGecko trending rank #11."
+    },
+    {
+      "id": "6f04134bd90e4bc4",
+      "title": "Trending Crypto: Kinetiq (KNTQ)",
+      "summary": "CoinGecko trending rank #218.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/kinetiq",
+      "image_url": "https://coin-images.coingecko.com/coins/images/70252/large/kntq.png?1761279547",
+      "published_at": "2026-11-10T07:58:17.025Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "kntq"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Kinetiq (KNTQ)",
+      "summary_zh": "CoinGecko trending rank #218."
+    },
+    {
+      "id": "628b32dd277c102b",
+      "title": "Trending Crypto: Injective (INJ)",
+      "summary": "CoinGecko trending rank #81.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/injective-protocol",
+      "image_url": "https://coin-images.coingecko.com/coins/images/12882/large/Other_200x200.png?1738782212",
+      "published_at": "2026-11-10T07:58:17.025Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "inj"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Injective (INJ)",
+      "summary_zh": "CoinGecko trending rank #81."
+    },
+    {
+      "id": "87bfc1ea459842b1",
       "title": "Trending Crypto: Avalanche (AVAX)",
       "summary": "CoinGecko trending rank #26.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/avalanche-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/12559/large/Avalanche_Circle_RedWhite_Trans.png?1696512369",
-      "published_at": "2026-11-10T00:58:01.462Z",
+      "published_at": "2026-11-10T07:58:17.025Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -438,66 +535,6 @@
       "region": "global",
       "title_zh": "Trending Crypto: Avalanche (AVAX)",
       "summary_zh": "CoinGecko trending rank #26."
-    },
-    {
-      "id": "2ef73d11cf083e65",
-      "title": "Trending Crypto: Kinetiq (KNTQ)",
-      "summary": "CoinGecko trending rank #227.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/kinetiq",
-      "image_url": "https://coin-images.coingecko.com/coins/images/70252/large/kntq.png?1761279547",
-      "published_at": "2026-11-10T00:58:01.462Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "kntq"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Kinetiq (KNTQ)",
-      "summary_zh": "CoinGecko trending rank #227."
-    },
-    {
-      "id": "e0a731b117886acf",
-      "title": "Trending Crypto: Chainlink (LINK)",
-      "summary": "CoinGecko trending rank #17.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/chainlink",
-      "image_url": "https://coin-images.coingecko.com/coins/images/877/large/Chainlink_Logo_500.png?1760023405",
-      "published_at": "2026-11-10T00:58:01.462Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "link"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Chainlink (LINK)",
-      "summary_zh": "CoinGecko trending rank #17."
-    },
-    {
-      "id": "1fb9cec5fa408cdc",
-      "title": "Trending Crypto: Zcash (ZEC)",
-      "summary": "CoinGecko trending rank #10.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/zcash",
-      "image_url": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558",
-      "published_at": "2026-11-10T00:58:01.462Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "zec"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Zcash (ZEC)",
-      "summary_zh": "CoinGecko trending rank #10."
     },
     {
       "id": "c0acf4ea346eb838",
@@ -561,7 +598,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-09T23:45:14.000Z",
+      "published_at": "2026-11-10T01:38:49.000Z",
       "importance_score": 52,
       "sentiment": 0,
       "tags": [
@@ -638,6 +675,25 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 10/18/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Less Wrong [Quantitativo] The biggest risk is that you have a losing strategy when you think you have a winning one. Jeff Y"
     },
     {
+      "id": "797e98f52a67090a",
+      "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+      "summary": "MARA paid off every loan backed by its bitcoin and says the rest of its coins can fund AI datacenters.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
+      "image_url": null,
+      "published_at": "2026-11-10T05:18:31.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+      "summary_zh": "MARA paid off every loan backed by its bitcoin and says the rest of its coins can fund AI datacenters."
+    },
+    {
       "id": "5f21e74675774800",
       "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
       "summary": "The AntPool block came within 984 transactions of Bitcoin’s 2015 record, even as fees made up less than 0.1% of the miner’s payout.",
@@ -712,25 +768,6 @@
       "region": "global",
       "title_zh": "Ethereum treasury Sharplink’s Q3 net income hits $751 million on unrealized ether gains",
       "summary_zh": "Sharplink posted Q3 revenue of $13.5 million and net income of $751.4 million, driven by unrealized ETH gains."
-    },
-    {
-      "id": "a7c94ca88c2664b1",
-      "title": "Tom Lee’s Bitmine nears 5% Ethereum supply target with $20 million ETH buy as he predicts tokenization and AI ‘supercycle’",
-      "summary": "Bitmine bought another 9,587 ETH last week, closing in on its target of 5% of Ethereum's circulating supply.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-09-tom-lee-bitmine-nears-ethereum-supply-target-20-million-eth-tokenization-ai-supercycle-436219",
-      "image_url": null,
-      "published_at": "2026-11-09T14:32:40.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "ethereum"
-      ],
-      "region": "global",
-      "title_zh": "Tom Lee’s Bitmine nears 5% Ethereum supply target with $20 million ETH buy as he predicts tokenization and AI ‘supercycle’",
-      "summary_zh": "Bitmine bought another 9,587 ETH last week, closing in on its target of 5% of Ethereum's circulating supply."
     },
     {
       "id": "ac30d95ed2e60b3e",
@@ -1075,7 +1112,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-10T00:34:53.000Z",
+      "published_at": "2026-11-10T03:58:13.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1086,22 +1123,56 @@
       "summary_zh": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
     },
     {
-      "id": "9f9f35f46ead390e",
-      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+      "id": "ee34c6208419ed88",
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-09T19:58:01.000Z",
+      "published_at": "2026-11-10T05:33:25.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "summary_zh": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia."
+      "title_zh": "Trump says more US attacks on Iran 'highly unlikely'",
+      "summary_zh": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change."
+    },
+    {
+      "id": "c58e3a504bd2abc3",
+      "title": "'Cruise for life' ship seized in Singapore",
+      "summary": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-10T01:49:06.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "'Cruise for life' ship seized in Singapore",
+      "summary_zh": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money."
+    },
+    {
+      "id": "7414795389d21704",
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-10T01:55:22.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "summary_zh": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI."
     },
     {
       "id": "4b876ebf3d1dd892",
@@ -1118,38 +1189,6 @@
       "region": "global",
       "title_zh": "Russia's leading independent newspaper closes after eviction",
       "summary_zh": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations."
-    },
-    {
-      "id": "4ba221a69fcb200b",
-      "title": "Turkey steel factory blast kills at least 17 people",
-      "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-09T20:42:04.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Turkey steel factory blast kills at least 17 people",
-      "summary_zh": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga."
-    },
-    {
-      "id": "9a49af5362d51d70",
-      "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
-      "summary": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-09T21:48:38.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Trial date of alleged Charlie Kirk killer set for June 2028",
-      "summary_zh": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist."
     },
     {
       "id": "fe3bc84fb9d33e85",
@@ -1211,7 +1250,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
       "image_url": null,
-      "published_at": "2026-11-09T21:54:45.000Z",
+      "published_at": "2026-11-09T21:54:46.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1288,6 +1327,40 @@
       "summary_zh": "At least nine people were dead after shootings in Krakow and another town. The suspected gunman died in the hospital and his motive remains unclear."
     },
     {
+      "id": "1ab783650e2d74ea",
+      "title": "Recent Quant Links from Quantocracy as of 11/09/2026",
+      "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a ",
+      "category": "STRATEGY",
+      "source_name": "Quantocracy",
+      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-11092026/",
+      "image_url": null,
+      "published_at": "2026-11-10T06:15:05.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Recent Quant Links from Quantocracy as of 11/09/2026",
+      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a"
+    },
+    {
+      "id": "56c3473b84440d98",
+      "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+      "summary": "The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on track for a full transition by 2028.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
+      "image_url": null,
+      "published_at": "2026-11-10T04:51:20.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+      "summary_zh": "The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on track for a full transition by 2028."
+    },
+    {
       "id": "df54ed258b8790ab",
       "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
       "summary": "The tokenization firm unveiled an acquisition and a $50 million stock buyback as quarterly revenue rose 13%. SECZ shares jumped 10% after hours.",
@@ -1342,22 +1415,23 @@
       "summary_zh": "Avalanche will serve as the core settlement ledger for the exchange's planned blockchain stock market"
     },
     {
-      "id": "3f4bada17cbcf9bf",
-      "title": "Nvidia-led tech selloff weighs on crypto majors",
-      "summary": "Only five of the top 100 cryptocurrencies by market value are up 1% or more over the past 24 hours. That is the state of the market today.",
+      "id": "2817c23a9ae98e69",
+      "title": "Trump Media swings to $410 million profit in Q3, driven by crypto gains",
+      "summary": "Trump Media and Technology Group reported a net income of $409.7 million in Q3, compared with a net loss of $54.8 million a year earlier.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964",
       "image_url": null,
-      "published_at": "2026-11-09T11:42:04.000Z",
+      "published_at": "2026-11-10T03:36:43.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
+        "ai",
         "crypto"
       ],
       "region": "global",
-      "title_zh": "Nvidia-led tech selloff weighs on crypto majors",
-      "summary_zh": "Only five of the top 100 cryptocurrencies by market value are up 1% or more over the past 24 hours. That is the state of the market today."
+      "title_zh": "Trump Media swings to $410 million profit in Q3, driven by crypto gains",
+      "summary_zh": "Trump Media and Technology Group reported a net income of $409.7 million in Q3, compared with a net loss of $54.8 million a year earlier."
     },
     {
       "id": "d3a0f4dfe3647780",
@@ -1374,40 +1448,6 @@
       "region": "global",
       "title_zh": "StoneX sees 97% upside for Bullish as $4.2 billion Equiniti deal opens tokenization market",
       "summary_zh": "StoneX initiated coverage of Bullish with a Buy rating and a $42 price target, implying roughly 97% upside from its current levels."
-    },
-    {
-      "id": "6552d70a0577b9fb",
-      "title": "Prediction market broker River Markets registers affiliate as CFTC futures commission merchant",
-      "summary": "River Markets' affiliate registered with CFTC as an FCM as it builds a prime brokerage for institutional prediction market traders.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-09-river-markets-prediction-market-prime-brokerage-cftc-fcm-registration-436266",
-      "image_url": null,
-      "published_at": "2026-11-09T15:05:02.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Prediction market broker River Markets registers affiliate as CFTC futures commission merchant",
-      "summary_zh": "River Markets' affiliate registered with CFTC as an FCM as it builds a prime brokerage for institutional prediction market traders."
-    },
-    {
-      "id": "1726622a2f5ea1eb",
-      "title": "NYSE to settle tokenized stocks on Avalanche in planned 24/7 market",
-      "summary": "NYSE picked Avalanche to supply the core ledger technology for the clearing firm of its affiliated tokenized-securities platform.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208",
-      "image_url": null,
-      "published_at": "2026-11-09T14:07:27.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "stocks"
-      ],
-      "region": "global",
-      "title_zh": "NYSE to settle tokenized stocks on Avalanche in planned 24/7 market",
-      "summary_zh": "NYSE picked Avalanche to supply the core ledger technology for the clearing firm of its affiliated tokenized-securities platform."
     },
     {
       "id": "dfddf7b5fe16a741",
@@ -1771,25 +1811,6 @@
       "summary_zh": "MIT professors Adam Berinsky and Chara Podimata discuss a new project to track how AI chatbots are responding to questions about the 2026 U.S. midterm elections."
     },
     {
-      "id": "5ea9c897b1b8c12e",
-      "title": "3 Questions: Why infrastructure is entering a defining era",
-      "summary": "Professor Ali Jadbabaie describes how AI, digital transformation, climate change, and complex geopolitics are forcing engineers and policymakers to rethink how infrastructure is designed, built, and managed.",
-      "category": "AI",
-      "source_name": "MIT News AI",
-      "source_url": "https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028",
-      "image_url": null,
-      "published_at": "2026-10-28T16:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "policy"
-      ],
-      "region": "global",
-      "title_zh": "3 Questions: Why infrastructure is entering a defining era",
-      "summary_zh": "Professor Ali Jadbabaie describes how AI, digital transformation, climate change, and complex geopolitics are forcing engineers and policymakers to rethink how infrastructure is designed, built, and managed."
-    },
-    {
       "id": "d68d12ad8e895c22",
       "title": "Recent Quant Links from Quantocracy as of 11/04/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Wednesday, 11/04/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Why optimising for the left tail of outcomes is like playing chess… [Investment Idiocy] A short one today. Suppose I off",
@@ -1854,22 +1875,6 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/15/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Thursday, 10/15/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Financial Mentor’s OptimumV [Allocate Smartly] This is a test of OptimumV from Todd Tresidder of Financial Mentor. Backte"
-    },
-    {
-      "id": "5f00c410ee01b8a5",
-      "title": "Recent Quant Links from Quantocracy as of 10/14/2026",
-      "summary": "This is a summary of links recently featured on Quantocracy as of Wednesday, 10/14/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Does More History Help? A Market-Regime HMM and the Trouble with Out-of-Sample Evaluation [Quantpedia] This paper invest",
-      "category": "STRATEGY",
-      "source_name": "Quantocracy",
-      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-10142026/",
-      "image_url": null,
-      "published_at": "2026-10-15T05:15:04.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Recent Quant Links from Quantocracy as of 10/14/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Wednesday, 10/14/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Does More History Help? A Market-Regime HMM and the Trouble with Out-of-Sample Evaluation [Quantpedia] This paper invest"
     }
   ]
 }
