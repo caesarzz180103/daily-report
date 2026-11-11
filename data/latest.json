@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T22:01:25.958Z",
+  "generated_at": "2026-11-11T01:45:49.969Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed Governor Waller sees December hike likely, opens door to possible half-point increase；【FINANCE】Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says；【CRYPTO】Bitcoin lags stock rebound in advance of U.S. inflation report。",
   "meta": {
     "sources_count": 11,
@@ -321,6 +321,43 @@
       "summary_zh": "Amid growth of its U.S. exchange, the prediction market platform’s current annual run-rate is $1.8 billion."
     },
     {
+      "id": "f47d40510bceb4d7",
+      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-10T22:17:45.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "fed"
+      ],
+      "region": "global",
+      "title_zh": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "summary_zh": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material."
+    },
+    {
+      "id": "109d1e48d97fe3d2",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-11T00:18:07.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "summary_zh": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya."
+    },
+    {
       "id": "7e970df8b5b6f6c7",
       "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
       "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
@@ -335,43 +372,6 @@
       "region": "global",
       "title_zh": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
       "summary_zh": "Supporters of Sheikh Hasina want her to return from exile in India."
-    },
-    {
-      "id": "425b6e0618babd7a",
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
-      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-10T21:21:55.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "First day of Ukraine peace talks constructive, Zelensky says",
-      "summary_zh": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February."
-    },
-    {
-      "id": "36c3eee0a8725d40",
-      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
-      "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-10T13:23:54.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "French wartime resistance heroine Solange Alexandre dies aged 104",
-      "summary_zh": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces."
     },
     {
       "id": "701cf9435884ea4d",
@@ -566,54 +566,34 @@
       "summary_zh": "Alta’s blockchain will combine privacy and compliance controls for banks and other financial firms."
     },
     {
-      "id": "958d84a8baf8839b",
-      "title": "Trending Crypto: Super Inu (SI)",
-      "summary": "CoinGecko trending rank #882.",
+      "id": "0b5a654b65a9c7dc",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #116.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/super-inu-3",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102179869/large/logo.png?1793260809",
-      "published_at": "2026-11-10T22:00:11.286Z",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-11-11T01:44:37.195Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "si"
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Super Inu (SI)",
-      "summary_zh": "CoinGecko trending rank #882."
+      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary_zh": "CoinGecko trending rank #116."
     },
     {
-      "id": "7dbd62bb6bb49e91",
-      "title": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary": "CoinGecko trending rank #891.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/dacity-coin-4",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180086/large/logo.png?1793830170",
-      "published_at": "2026-11-10T22:00:11.286Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "dacity"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Dacity Coin (DACITY)",
-      "summary_zh": "CoinGecko trending rank #891."
-    },
-    {
-      "id": "9e9ea153680b31e5",
+      "id": "bde8d47060900478",
       "title": "Trending Crypto: Zcash (ZEC)",
       "summary": "CoinGecko trending rank #10.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/zcash",
       "image_url": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558",
-      "published_at": "2026-11-10T22:00:11.286Z",
+      "published_at": "2026-11-11T01:44:37.195Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -626,34 +606,54 @@
       "summary_zh": "CoinGecko trending rank #10."
     },
     {
-      "id": "d4ef4eb23ba07234",
-      "title": "Trending Crypto: Initia (INIT)",
-      "summary": "CoinGecko trending rank #371.",
+      "id": "4aa0cebb03aeca45",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/initia",
-      "image_url": "https://coin-images.coingecko.com/coins/images/40138/large/initia_symbol_white.png?1745511525",
-      "published_at": "2026-11-10T22:00:11.286Z",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-11-11T01:44:37.195Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "init"
+        "btc"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Initia (INIT)",
-      "summary_zh": "CoinGecko trending rank #371."
+      "title_zh": "Trending Crypto: Bitcoin (BTC)",
+      "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "9de1d014b5f73e1b",
+      "id": "e7f8933388f4db26",
+      "title": "Trending Crypto: XRP (XRP)",
+      "summary": "CoinGecko trending rank #6.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/ripple",
+      "image_url": "https://coin-images.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1696501442",
+      "published_at": "2026-11-11T01:44:37.195Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "xrp"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: XRP (XRP)",
+      "summary_zh": "CoinGecko trending rank #6."
+    },
+    {
+      "id": "83bd9fc11bb19ed5",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
       "summary": "CoinGecko trending rank #11.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
       "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-11-10T22:00:11.286Z",
+      "published_at": "2026-11-11T01:44:37.195Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -1103,40 +1103,72 @@
       "summary_zh": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows."
     },
     {
-      "id": "1e3973f7fdf5c7d6",
-      "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
-      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+      "id": "0aa98a74f172134d",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-10T21:23:00.000Z",
+      "published_at": "2026-11-11T01:01:20.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
-      "summary_zh": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material."
+      "title_zh": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "summary_zh": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces."
     },
     {
-      "id": "e238942de8d4cfa6",
-      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+      "id": "c965baaf0c28cd87",
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-10T18:33:51.000Z",
+      "published_at": "2026-11-10T20:20:04.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "US Army soldier suspected of spying for Russia arrested in UK",
+      "summary_zh": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London."
+    },
+    {
+      "id": "e028a2aee1ecad3d",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-11T01:14:40.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-      "summary_zh": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund."
+      "title_zh": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "summary_zh": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year."
+    },
+    {
+      "id": "f1edbe324669ef60",
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-10T18:04:18.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "summary_zh": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones."
     },
     {
       "id": "093ab772a1c50cd1",
@@ -1175,56 +1207,22 @@
       "summary_zh": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital."
     },
     {
-      "id": "f1edbe324669ef60",
-      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
-      "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+      "id": "e238942de8d4cfa6",
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-10T18:04:18.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Anti-homosexuality laws in Trinidad and Tobago overturned",
-      "summary_zh": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones."
-    },
-    {
-      "id": "2bd1fa349fa138c4",
-      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-      "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-10T15:21:18.000Z",
+      "published_at": "2026-11-10T18:33:51.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-      "summary_zh": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza."
-    },
-    {
-      "id": "f532d90ddc842a0b",
-      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-10T21:06:04.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-      "summary_zh": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China."
+      "title_zh": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "summary_zh": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund."
     },
     {
       "id": "b06dc988de407eb4",
@@ -1234,7 +1232,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
       "image_url": null,
-      "published_at": "2026-11-10T21:26:19.000Z",
+      "published_at": "2026-11-10T22:24:05.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1449,6 +1447,24 @@
       "summary_zh": "Visa has added Monad as a stablecoin settlement option for participating issuers and acquirers, the Monad Foundation said."
     },
     {
+      "id": "b8c7b87989cfba12",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "image_url": null,
+      "published_at": "2026-11-12T00:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary_zh": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+    },
+    {
       "id": "3e4eedfb1953d3fe",
       "title": "Helping caregivers use AI in everyday life",
       "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
@@ -1519,25 +1535,6 @@
       "region": "global",
       "title_zh": "Kuken Industries searches 70 years of drawings in minutes",
       "summary_zh": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
-    },
-    {
-      "id": "7841f9c24dd80f37",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "image_url": null,
-      "published_at": "2026-11-06T00:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "Measuring how AI agents handle everyday wet-lab science",
-      "summary_zh": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
     },
     {
       "id": "5910575156f31cf2",
