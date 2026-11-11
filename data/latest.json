@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T01:45:49.969Z",
+  "generated_at": "2026-11-11T08:35:46.053Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed Governor Waller sees December hike likely, opens door to possible half-point increase；【FINANCE】Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says；【CRYPTO】Bitcoin lags stock rebound in advance of U.S. inflation report。",
   "meta": {
     "sources_count": 11,
@@ -81,26 +81,6 @@
       "region": "global",
       "title_zh": "Bitcoin lags stock rebound in advance of U.S. inflation report",
       "summary_zh": "Bitcoin slipped despite a Monday rebound in U.S. stocks, with spot ETFs losing $201 million as traders await October inflation data later today."
-    },
-    {
-      "id": "8967dd0d89e7d3b8",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "image_url": null,
-      "published_at": "2026-11-09T08:00:00.000Z",
-      "importance_score": 70,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "CodeRabbit scales agentic software development and ships 20x more",
-      "summary_zh": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team."
     },
     {
       "id": "9afad00644facdb8",
@@ -253,24 +233,6 @@
       "summary_zh": "Canaan's Q3 revenue fell 90% to $14.5 million, though cryptocurrency and derivatives gains supported an $8 million profit."
     },
     {
-      "id": "35478181a54770e5",
-      "title": "Bitdeer reports record Q3 revenue as net loss widens to $125.5 million",
-      "summary": "Bitdeer reported record third-quarter revenue of $320.7 million as bitcoin production surged 248% to 3,855 BTC.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-10-bitdeer-reports-record-q3-revenue-as-net-loss-widens-to-125-5-million-437217",
-      "image_url": null,
-      "published_at": "2026-11-10T14:26:02.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Bitdeer reports record Q3 revenue as net loss widens to $125.5 million",
-      "summary_zh": "Bitdeer reported record third-quarter revenue of $320.7 million as bitcoin production surged 248% to 3,855 BTC."
-    },
-    {
       "id": "3c5d72107454ab0f",
       "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
       "summary": "With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides that reduce dependence on imports and improve the security of the U.S. food supply.",
@@ -328,7 +290,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-10T22:17:45.000Z",
+      "published_at": "2026-11-11T02:41:16.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -339,14 +301,14 @@
       "summary_zh": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material."
     },
     {
-      "id": "109d1e48d97fe3d2",
-      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-      "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+      "id": "e1ac603916c3fefc",
+      "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+      "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-11T00:18:07.000Z",
+      "published_at": "2026-11-11T00:19:42.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -354,8 +316,8 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-      "summary_zh": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya."
+      "title_zh": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+      "summary_zh": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again."
     },
     {
       "id": "7e970df8b5b6f6c7",
@@ -566,34 +528,14 @@
       "summary_zh": "Alta’s blockchain will combine privacy and compliance controls for banks and other financial firms."
     },
     {
-      "id": "0b5a654b65a9c7dc",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #116.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-11-11T01:44:37.195Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pengu"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #116."
-    },
-    {
-      "id": "bde8d47060900478",
+      "id": "f322b778a829869b",
       "title": "Trending Crypto: Zcash (ZEC)",
-      "summary": "CoinGecko trending rank #10.",
+      "summary": "CoinGecko trending rank #11.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/zcash",
       "image_url": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558",
-      "published_at": "2026-11-11T01:44:37.195Z",
+      "published_at": "2026-11-11T08:34:33.608Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -603,67 +545,87 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Zcash (ZEC)",
-      "summary_zh": "CoinGecko trending rank #10."
-    },
-    {
-      "id": "4aa0cebb03aeca45",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-11T01:44:37.195Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "btc"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Bitcoin (BTC)",
-      "summary_zh": "CoinGecko trending rank #1."
-    },
-    {
-      "id": "e7f8933388f4db26",
-      "title": "Trending Crypto: XRP (XRP)",
-      "summary": "CoinGecko trending rank #6.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/ripple",
-      "image_url": "https://coin-images.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1696501442",
-      "published_at": "2026-11-11T01:44:37.195Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "xrp"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: XRP (XRP)",
-      "summary_zh": "CoinGecko trending rank #6."
-    },
-    {
-      "id": "83bd9fc11bb19ed5",
-      "title": "Trending Crypto: Hyperliquid (HYPE)",
-      "summary": "CoinGecko trending rank #11.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
-      "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-11-11T01:44:37.195Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "hype"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Hyperliquid (HYPE)",
       "summary_zh": "CoinGecko trending rank #11."
+    },
+    {
+      "id": "9972c31438c7db27",
+      "title": "Trending Crypto: Quantus (QTC)",
+      "summary": "CoinGecko trending rank #827.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/quantus",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102171910/large/Token_Icon.png?1791345433",
+      "published_at": "2026-11-11T08:34:33.608Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "qtc"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Quantus (QTC)",
+      "summary_zh": "CoinGecko trending rank #827."
+    },
+    {
+      "id": "f04aea32aadef187",
+      "title": "Trending Crypto: Lighter (LIT)",
+      "summary": "CoinGecko trending rank #77.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/lighter",
+      "image_url": "https://coin-images.coingecko.com/coins/images/71121/large/lighter.png?1765888098",
+      "published_at": "2026-11-11T08:34:33.608Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "lit"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Lighter (LIT)",
+      "summary_zh": "CoinGecko trending rank #77."
+    },
+    {
+      "id": "436830e1221506e7",
+      "title": "Trending Crypto: Pi Network (PI)",
+      "summary": "CoinGecko trending rank #80.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pi-network",
+      "image_url": "https://coin-images.coingecko.com/coins/images/54342/large/pi_network.jpg?1739347576",
+      "published_at": "2026-11-11T08:34:33.608Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pi"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Pi Network (PI)",
+      "summary_zh": "CoinGecko trending rank #80."
+    },
+    {
+      "id": "200cebdae89d5994",
+      "title": "Trending Crypto: Ethereum (ETH)",
+      "summary": "CoinGecko trending rank #2.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum",
+      "image_url": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+      "published_at": "2026-11-11T08:34:33.608Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "eth"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Ethereum (ETH)",
+      "summary_zh": "CoinGecko trending rank #2."
     },
     {
       "id": "b65608ffda727598",
@@ -702,25 +664,6 @@
       "region": "global",
       "title_zh": "Control Room: A central system to track and stop model workloads across our research infrastructure",
       "summary_zh": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
-    },
-    {
-      "id": "de7e1af55b945775",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/partnering-with-hacktron",
-      "image_url": null,
-      "published_at": "2026-11-06T08:00:00.000Z",
-      "importance_score": 52,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "summary_zh": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
     },
     {
       "id": "70a399c1ffe113c2",
@@ -789,6 +732,25 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 10/18/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Less Wrong [Quantitativo] The biggest risk is that you have a losing strategy when you think you have a winning one. Jeff Y"
     },
     {
+      "id": "bec2e573c04c2276",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/singapore-airlines-travel-work",
+      "image_url": null,
+      "published_at": "2026-11-10T08:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global",
+      "title_zh": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "summary_zh": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot."
+    },
+    {
       "id": "6904d842f73ffaff",
       "title": "Work at the Frontier: AI’s effect on freelance work",
       "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
@@ -806,6 +768,41 @@
       "region": "global",
       "title_zh": "Work at the Frontier: AI’s effect on freelance work",
       "summary_zh": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
+    },
+    {
+      "id": "c2fb73f6f43e0d92",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/cogent-security",
+      "image_url": null,
+      "published_at": "2026-11-10T00:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global",
+      "title_zh": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "summary_zh": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents."
+    },
+    {
+      "id": "dacf620fee4abf57",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/qvac/botpsy",
+      "image_url": null,
+      "published_at": "2026-11-11T05:01:16.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "summary_zh": ""
     },
     {
       "id": "61e8e23fdbd77f38",
@@ -999,6 +996,22 @@
       "summary_zh": "Five MIT faculty members and two additional alumni are honored with fellowships to advance research on beneficial AI."
     },
     {
+      "id": "2d22f143ab818b6d",
+      "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+      "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+      "image_url": null,
+      "published_at": "2026-11-11T07:47:54.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+      "summary_zh": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange."
+    },
+    {
       "id": "4baea1d950d90e3c",
       "title": "U.S. gas prices fall below $4 for the first time since July",
       "summary": "Americans may finally find some relief at the pump.",
@@ -1087,22 +1100,6 @@
       "summary_zh": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next."
     },
     {
-      "id": "8e74dbd50ca24a4f",
-      "title": "Nasdaq drops into correction territory — here’s what typically happens next",
-      "summary": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
-      "image_url": null,
-      "published_at": "2026-11-06T20:42:28.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Nasdaq drops into correction territory — here’s what typically happens next",
-      "summary_zh": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows."
-    },
-    {
       "id": "0aa98a74f172134d",
       "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
       "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
@@ -1144,7 +1141,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-11T01:14:40.000Z",
+      "published_at": "2026-11-11T03:26:42.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1153,6 +1150,40 @@
       "region": "global",
       "title_zh": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
       "summary_zh": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year."
+    },
+    {
+      "id": "63bd6fea4970868e",
+      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "summary": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-11T02:47:59.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "summary_zh": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis."
+    },
+    {
+      "id": "b8829889ea806b14",
+      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+      "summary": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-11T03:44:06.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+      "summary_zh": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites."
     },
     {
       "id": "f1edbe324669ef60",
@@ -1171,24 +1202,6 @@
       "summary_zh": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones."
     },
     {
-      "id": "093ab772a1c50cd1",
-      "title": "Israel's new parliament sworn in as leaders compete to form government",
-      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-10T17:03:16.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Israel's new parliament sworn in as leaders compete to form government",
-      "summary_zh": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister."
-    },
-    {
       "id": "5a1d5068a8fa3c4e",
       "title": "Spain's king and queen attend memorial service for rail crash victims",
       "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
@@ -1205,24 +1218,6 @@
       "region": "global",
       "title_zh": "Spain's king and queen attend memorial service for rail crash victims",
       "summary_zh": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital."
-    },
-    {
-      "id": "e238942de8d4cfa6",
-      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-10T18:33:51.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-      "summary_zh": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund."
     },
     {
       "id": "b06dc988de407eb4",
@@ -1393,6 +1388,40 @@
       "summary_zh": "Asch is stepping down as head of the institutional prime brokerage."
     },
     {
+      "id": "f2e211f2aedf19f0",
+      "title": "Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
+      "summary": "According to its SEC filing, nearly $6.23 billion of the net losses came from unrealized fair value losses on digital asset holdings.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812",
+      "image_url": null,
+      "published_at": "2026-11-11T06:22:32.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
+      "summary_zh": "According to its SEC filing, nearly $6.23 billion of the net losses came from unrealized fair value losses on digital asset holdings."
+    },
+    {
+      "id": "484c0bc10ac3864f",
+      "title": "Tron Inc reports 22% rise in Q3 net income as unrealized staking revenue grows",
+      "summary": "The company reported Q3 2026 net income of $14.9 million, up 22% year-over-year, with a nine-month net income of $39.4 million, up 203%.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786",
+      "image_url": null,
+      "published_at": "2026-11-11T04:02:02.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Tron Inc reports 22% rise in Q3 net income as unrealized staking revenue grows",
+      "summary_zh": "The company reported Q3 2026 net income of $14.9 million, up 22% year-over-year, with a nine-month net income of $39.4 million, up 203%."
+    },
+    {
       "id": "aa8427f9284b1b9d",
       "title": "MEGA commits $30 million to new products, starting with AI inference",
       "summary": "The MegaETH Foundation has rebranded as MEGA and committed $30 million to new products, starting with AI inference.",
@@ -1429,24 +1458,6 @@
       "summary_zh": "Moody's Ratings and Chainlink ran a testnet pilot using CCIP to distribute credit ratings data across permissioned and public blockchains."
     },
     {
-      "id": "48bc2008c82fd1e0",
-      "title": "Visa adds Monad to stablecoin settlement network options",
-      "summary": "Visa has added Monad as a stablecoin settlement option for participating issuers and acquirers, the Monad Foundation said.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201",
-      "image_url": null,
-      "published_at": "2026-11-10T14:00:02.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Visa adds Monad to stablecoin settlement network options",
-      "summary_zh": "Visa has added Monad as a stablecoin settlement option for participating issuers and acquirers, the Monad Foundation said."
-    },
-    {
       "id": "b8c7b87989cfba12",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
@@ -1463,6 +1474,24 @@
       "region": "global",
       "title_zh": "Gilbert + Tobin rethinks the business of law with AI",
       "summary_zh": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+    },
+    {
+      "id": "a7a0a0dfc5a626ae",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "image_url": null,
+      "published_at": "2026-11-11T08:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "ChatGPT Plus for veterans and servicemembers",
+      "summary_zh": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
     },
     {
       "id": "3e4eedfb1953d3fe",
@@ -1516,25 +1545,6 @@
       "region": "global",
       "title_zh": "ChatGPT Enterprise now available in AWS Marketplace",
       "summary_zh": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
-    },
-    {
-      "id": "8dec68c2950c7542",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/kuken",
-      "image_url": null,
-      "published_at": "2026-11-09T08:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "Kuken Industries searches 70 years of drawings in minutes",
-      "summary_zh": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
     },
     {
       "id": "5910575156f31cf2",
@@ -1632,22 +1642,6 @@
       "tags": [],
       "region": "global",
       "title_zh": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "summary_zh": ""
-    },
-    {
-      "id": "cf1818e3f02380d9",
-      "title": "CWE-bench v2: More coverage, quality, and transparency",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/cwe-bench",
-      "image_url": null,
-      "published_at": "2026-11-03T00:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "CWE-bench v2: More coverage, quality, and transparency",
       "summary_zh": ""
     },
     {
