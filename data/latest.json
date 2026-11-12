@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T13:26:13.062Z",
+  "generated_at": "2026-11-12T21:14:11.824Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed Governor Waller sees December hike likely, opens door to possible half-point increase；【FINANCE】Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes；【AI】Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery。",
   "meta": {
     "sources_count": 11,
@@ -80,6 +80,25 @@
       "summary_zh": "The MIT professors collaborated to identify the first AI-discovered antibiotic, a scientific breakthrough that is widely recognized as a milestone in AI-driven drug discovery."
     },
     {
+      "id": "884db5dd43fd599a",
+      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+      "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+      "image_url": null,
+      "published_at": "2026-11-12T19:05:25.000Z",
+      "importance_score": 70,
+      "sentiment": 0,
+      "tags": [
+        "fed",
+        "policy"
+      ],
+      "region": "global",
+      "title_zh": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+      "summary_zh": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement."
+    },
+    {
       "id": "eb6d94fdba7c8118",
       "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
       "summary": "Seven Chinese tourists, a dozen villagers and a couple of journalists forded streams and bushwhacked to the downed plane of Isoroku Yamamoto, the Japanese admiral. Machetes proved handy.",
@@ -153,41 +172,23 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/24/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Shorting Leveraged ETFs: Role of Borrowing Costs and Rebalancing in Volatility-Decay Strategies [Quantpedia] Leveraged ET"
     },
     {
-      "id": "99f0ea970193c6f3",
-      "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
-      "summary": "Bitcoin slips 0.7% as Nvidia falls on reports its board may oust CEO Jensen Huang, while U.S. spot bitcoin ETFs lose another $299.9 million.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
-      "image_url": null,
-      "published_at": "2026-11-12T11:30:00.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin",
-        "etf"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin dips with Nvidia as ETF outflows reach day five",
-      "summary_zh": "Bitcoin slips 0.7% as Nvidia falls on reports its board may oust CEO Jensen Huang, while U.S. spot bitcoin ETFs lose another $299.9 million."
-    },
-    {
-      "id": "0488cf6a20b6dea9",
-      "title": "Sygnum launches ETH Alpha Fund targeting 8% to 10% annual returns in ETH",
-      "summary": "Sygnum's market-neutral fund pairs staking with options, arbitrage and carry strategies, targeting 8%–10% annual returns paid in ETH.",
+      "id": "d3d197b9f3274f60",
+      "title": "Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets",
+      "summary": "Bitcoin fell as low as $71,200 as Jensen Huang quit Nvidia and MSCI confirmed Strategy's removal, with $750M in crypto positions liquidated.",
       "category": "CRYPTO",
       "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992",
       "image_url": null,
-      "published_at": "2026-11-12T10:30:00.000Z",
+      "published_at": "2026-11-12T17:40:00.000Z",
       "importance_score": 62,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "crypto",
+        "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Sygnum launches ETH Alpha Fund targeting 8% to 10% annual returns in ETH",
-      "summary_zh": "Sygnum's market-neutral fund pairs staking with options, arbitrage and carry strategies, targeting 8%–10% annual returns paid in ETH."
+      "title_zh": "Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets",
+      "summary_zh": "Bitcoin fell as low as $71,200 as Jensen Huang quit Nvidia and MSCI confirmed Strategy's removal, with $750M in crypto positions liquidated."
     },
     {
       "id": "128a931249fba6f9",
@@ -259,6 +260,25 @@
       "summary_zh": "From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs."
     },
     {
+      "id": "3cd077f824935e43",
+      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "summary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+      "image_url": null,
+      "published_at": "2026-11-12T19:04:21.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "summary_zh": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight."
+    },
+    {
       "id": "ef9023d3a934534f",
       "title": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
       "summary": "Sens. Angela Alsobrooks and Ron Wyden are asking what steps the Department of Health and Human Services has taken to mitigate risks from the markets.",
@@ -291,14 +311,14 @@
       "summary_zh": "Amid growth of its U.S. exchange, the prediction market platform’s current annual run-rate is $1.8 billion."
     },
     {
-      "id": "1f23af3a2251ad7a",
-      "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
-      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+      "id": "ae30696222ca930f",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-12T13:02:37.000Z",
+      "published_at": "2026-11-12T20:09:16.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -306,7 +326,44 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
+      "title_zh": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "summary_zh": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
+    },
+    {
+      "id": "4f9252b9c7345feb",
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "summary": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-12T18:47:35.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "summary_zh": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident."
+    },
+    {
+      "id": "40161dc0f41b661d",
+      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-12T15:18:20.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
       "summary_zh": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns"
     },
     {
@@ -317,7 +374,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-12T12:26:01.000Z",
+      "published_at": "2026-11-12T16:54:12.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -329,22 +386,57 @@
       "summary_zh": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza."
     },
     {
-      "id": "c1210f0d1f333f45",
-      "title": "British woman missing from cruise ship in Atlantic",
-      "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+      "id": "187360ce6419b020",
+      "title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
+      "summary": "Trump Jr. joined Kalshi as a strategic adviser in January 2025, helping the prediction market expand its customer base and strengthen its market presence.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
       "image_url": null,
-      "published_at": "2026-11-12T10:13:35.000Z",
-      "importance_score": 58,
+      "published_at": "2026-11-12T21:07:49.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
+      "summary_zh": "Trump Jr. joined Kalshi as a strategic adviser in January 2025, helping the prediction market expand its customer base and strengthen its market presence."
+    },
+    {
+      "id": "af78704c6a2aca14",
+      "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+      "summary": "The securities infrastructure giant plans to bring tokenized stocks, ETFs and U.S. Treasuries to Solana as it expands next year's roadmap beyond Stellar and Arc.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+      "image_url": null,
+      "published_at": "2026-11-12T15:45:48.000Z",
+      "importance_score": 56,
       "sentiment": 0,
       "tags": [
-        "war"
+        "etf",
+        "stocks"
       ],
       "region": "global",
-      "title_zh": "British woman missing from cruise ship in Atlantic",
-      "summary_zh": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean."
+      "title_zh": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+      "summary_zh": "The securities infrastructure giant plans to bring tokenized stocks, ETFs and U.S. Treasuries to Solana as it expands next year's roadmap beyond Stellar and Arc."
+    },
+    {
+      "id": "c4d25707f2e296e3",
+      "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
+      "summary": "OSL offers a yield on USDGO only to professional investors, but Jupiter said its market lets other holders earn onchain at rates set by borrower demand.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
+      "image_url": null,
+      "published_at": "2026-11-12T14:45:00.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
+      "summary_zh": "OSL offers a yield on USDGO only to professional investors, but Jupiter said its market lets other holders earn onchain at rates set by borrower demand."
     },
     {
       "id": "e1a7d51077edda89",
@@ -365,30 +457,32 @@
       "summary_zh": "The Series B funding round, led by Octagon Partners valued the London-based company at more than $100 million."
     },
     {
-      "id": "76fbe9e8095e0981",
-      "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
-      "summary": "More than half of those affected were contractors, a source told Reuters. The cuts follow investor pressure on founder Shayne Coplan.",
+      "id": "74acbce405f920bc",
+      "title": "Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says",
+      "summary": "Payments generated $10.9 million in Q3, while Exodus cut staff and restarted U.S. payment card issuance.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988",
       "image_url": null,
-      "published_at": "2026-11-12T10:42:06.000Z",
+      "published_at": "2026-11-12T16:55:52.000Z",
       "importance_score": 56,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "crypto"
+      ],
       "region": "global",
-      "title_zh": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
-      "summary_zh": "More than half of those affected were contractors, a source told Reuters. The cuts follow investor pressure on founder Shayne Coplan."
+      "title_zh": "Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says",
+      "summary_zh": "Payments generated $10.9 million in Q3, while Exodus cut staff and restarted U.S. payment card issuance."
     },
     {
-      "id": "b37d5dd8c6602212",
-      "title": "India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
-      "summary": "The Enforcement Directorate alleged illegal cross-border flows that violated India's foreign exchange laws.",
+      "id": "b4ec9b819c702cdb",
+      "title": "Andreessen Horowitz, DeFi Education Fund push back against Illinois crypto tax",
+      "summary": "Crypto industry heavyweights are banding together to challenge Illinois over its controversial crypto tax.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-12-andreessen-horowitz-defi-education-fund-push-back-against-illinois-crypto-tax-438573",
       "image_url": null,
-      "published_at": "2026-11-12T10:10:48.000Z",
+      "published_at": "2026-11-12T15:01:02.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
@@ -396,149 +490,78 @@
         "crypto"
       ],
       "region": "global",
-      "title_zh": "India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
-      "summary_zh": "The Enforcement Directorate alleged illegal cross-border flows that violated India's foreign exchange laws."
+      "title_zh": "Andreessen Horowitz, DeFi Education Fund push back against Illinois crypto tax",
+      "summary_zh": "Crypto industry heavyweights are banding together to challenge Illinois over its controversial crypto tax."
     },
     {
-      "id": "4939b74ce6fdcd1a",
-      "title": "Live updates: Bitcoin slumps below $73,000 as Nvidia's Huang issues hit AI sector",
-      "summary": "Nasdaq 100 futures are down more than 1% on reports that Nvidia's board is considering firing Jensen Huang after allegations about an additional affair.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
-      "image_url": null,
-      "published_at": "2026-11-12T09:15:04.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Live updates: Bitcoin slumps below $73,000 as Nvidia's Huang issues hit AI sector",
-      "summary_zh": "Nasdaq 100 futures are down more than 1% on reports that Nvidia's board is considering firing Jensen Huang after allegations about an additional affair."
-    },
-    {
-      "id": "20fc6cdb8e03c904",
-      "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
-      "summary": "The Avalon maker has launched a $20 million repurchase program, while most of its bitcoin holdings were pledged or placed in a fixed-term product at September’s end.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
-      "image_url": null,
-      "published_at": "2026-11-12T07:41:18.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
-      "summary_zh": "The Avalon maker has launched a $20 million repurchase program, while most of its bitcoin holdings were pledged or placed in a fixed-term product at September’s end."
-    },
-    {
-      "id": "3507b8cce07db802",
-      "title": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
-      "summary": "The digital asset treasury firm posted $3.4 million in quarterly revenue, compared with $697,000 in the same period last year.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
-      "image_url": null,
-      "published_at": "2026-11-12T02:25:14.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
-      "summary_zh": "The digital asset treasury firm posted $3.4 million in quarterly revenue, compared with $697,000 in the same period last year."
-    },
-    {
-      "id": "5fb1af4071e083ef",
-      "title": "Strategy, Metaplanet lose MSCI index membership in November reshuffle",
-      "summary": "Strategy had opposed MSCI’s rules, arguing exclusion would harm its reputation as a neutral provider.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437",
-      "image_url": null,
-      "published_at": "2026-11-11T23:09:23.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Strategy, Metaplanet lose MSCI index membership in November reshuffle",
-      "summary_zh": "Strategy had opposed MSCI’s rules, arguing exclusion would harm its reputation as a neutral provider."
-    },
-    {
-      "id": "d18a5623c668ecc3",
-      "title": "Trending Crypto: ZIG Finance (ZIG)",
-      "summary": "CoinGecko trending rank #415.",
+      "id": "061e9a79d409f174",
+      "title": "Trending Crypto: ni hao cat (MIHAO)",
+      "summary": "CoinGecko trending rank #835.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/zignaly",
-      "image_url": "https://coin-images.coingecko.com/coins/images/14796/large/CoinMarketCap.png?1790219143",
-      "published_at": "2026-11-12T13:25:03.558Z",
+      "source_url": "https://www.coingecko.com/en/coins/ni-hao-cat",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180218/large/logo.jpg?1794391774",
+      "published_at": "2026-11-12T21:12:57.633Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "zig"
+        "mihao"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: ZIG Finance (ZIG)",
-      "summary_zh": "CoinGecko trending rank #415."
+      "title_zh": "Trending Crypto: ni hao cat (MIHAO)",
+      "summary_zh": "CoinGecko trending rank #835."
     },
     {
-      "id": "425c756f6d375af5",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
+      "id": "a7defbf15e836d95",
+      "title": "Trending Crypto: Seppuku (SEPPUKU)",
+      "summary": "CoinGecko trending rank #786.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-12T13:25:03.558Z",
+      "source_url": "https://www.coingecko.com/en/coins/seppuku",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180212/large/7391MuF0_400x400.jpg?1794324486",
+      "published_at": "2026-11-12T21:12:57.633Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "btc"
+        "seppuku"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Bitcoin (BTC)",
-      "summary_zh": "CoinGecko trending rank #1."
+      "title_zh": "Trending Crypto: Seppuku (SEPPUKU)",
+      "summary_zh": "CoinGecko trending rank #786."
     },
     {
-      "id": "fb8f512fd6001c88",
-      "title": "Trending Crypto: Zcash (ZEC)",
-      "summary": "CoinGecko trending rank #11.",
+      "id": "62777c0c10e73c94",
+      "title": "Trending Crypto: AudaCity (DACITYCOIN)",
+      "summary": "CoinGecko trending rank #795.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/zcash",
-      "image_url": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558",
-      "published_at": "2026-11-12T13:25:03.558Z",
+      "source_url": "https://www.coingecko.com/en/coins/audacity-4",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180213/large/5.png?1794332841",
+      "published_at": "2026-11-12T21:12:57.633Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "zec"
+        "dacitycoin"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Zcash (ZEC)",
-      "summary_zh": "CoinGecko trending rank #11."
+      "title_zh": "Trending Crypto: AudaCity (DACITYCOIN)",
+      "summary_zh": "CoinGecko trending rank #795."
     },
     {
-      "id": "03e781a40259d5b8",
+      "id": "a2a14f60bd485eb6",
       "title": "Trending Crypto: Rocco (ROCCO)",
-      "summary": "CoinGecko trending rank #871.",
+      "summary": "CoinGecko trending rank #924.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/rocco",
       "image_url": "https://coin-images.coingecko.com/coins/images/102180223/large/logo_Rocco.png?1794393940",
-      "published_at": "2026-11-12T13:25:03.558Z",
+      "published_at": "2026-11-12T21:12:57.633Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -548,27 +571,27 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Rocco (ROCCO)",
-      "summary_zh": "CoinGecko trending rank #871."
+      "summary_zh": "CoinGecko trending rank #924."
     },
     {
-      "id": "ae6dd73c39595dae",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #117.",
+      "id": "cbe5d4ae4296853f",
+      "title": "Trending Crypto: Pearl (PEARL)",
+      "summary": "CoinGecko trending rank #101.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-11-12T13:25:03.558Z",
+      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
+      "published_at": "2026-11-12T21:12:57.633Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pengu"
+        "pearl"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #117."
+      "title_zh": "Trending Crypto: Pearl (PEARL)",
+      "summary_zh": "CoinGecko trending rank #101."
     },
     {
       "id": "b65608ffda727598",
@@ -690,62 +713,58 @@
       "summary_zh": "Your day-ahead look for Nov. 12, 2026"
     },
     {
-      "id": "9767634f4b052231",
-      "title": "Tron, Tether and Chainalysis form new alliance to tackle AI-powered crypto crime",
-      "summary": "The trio launched a joint initiative called the \"Digital Crime Task Force\" to combat illicit crypto activities.",
+      "id": "5b966dfd080a5178",
+      "title": "Avalanche Owns Five Percent of Tokenized Stocks",
+      "summary": "One Venue, One Chain Over this past week, three U.S. tokenized stock venues picked three different blockchains to launch on. The WSJ reported Monday that NYSE chose Avalanche as the sole settlement chain for its planned 24/7 platform. On November 4, $CNTN became the first U.S. eq",
       "category": "CRYPTO",
       "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-12-tron-tether-chainalysis-new-alliance-438514",
+      "source_url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310",
       "image_url": null,
-      "published_at": "2026-11-12T11:00:00.000Z",
+      "published_at": "2026-11-12T20:02:00.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
         "ai",
-        "crypto"
+        "stocks"
       ],
       "region": "global",
-      "title_zh": "Tron, Tether and Chainalysis form new alliance to tackle AI-powered crypto crime",
-      "summary_zh": "The trio launched a joint initiative called the \"Digital Crime Task Force\" to combat illicit crypto activities."
+      "title_zh": "Avalanche Owns Five Percent of Tokenized Stocks",
+      "summary_zh": "One Venue, One Chain Over this past week, three U.S. tokenized stock venues picked three different blockchains to launch on. The WSJ reported Monday that NYSE chose Avalanche as the sole settlement chain for its planned 24/7 platform. On November 4, $CNTN became the first U.S. eq"
     },
     {
-      "id": "9e8d4ed7ffeaf6b9",
-      "title": "Ethlabs proposes advancing Ethereum’s post-quantum to 2027, citing AI acceleration",
-      "summary": "The group said it aims to make Ethereum post-AI by 2027 as well, resistant to cryptographic risks that AI development is bringing.",
+      "id": "13d78486a112253d",
+      "title": "Securitize and Ethena’s $100 million BlackRock BUIDL liquidity facility goes live",
+      "summary": "Securitize & Ethena Labs launch a $100M liquidity facility letting eligible BUIDL holders swap into USDC and other stablecoins 24/7.",
       "category": "CRYPTO",
       "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/defi/2026-11-12-ethlabs-proposes-ethereum-post-quantum-2027-438494",
+      "source_url": "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442",
       "image_url": null,
-      "published_at": "2026-11-12T07:27:24.000Z",
+      "published_at": "2026-11-12T14:00:00.000Z",
       "importance_score": 50,
       "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto",
-        "ethereum"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Ethlabs proposes advancing Ethereum’s post-quantum to 2027, citing AI acceleration",
-      "summary_zh": "The group said it aims to make Ethereum post-AI by 2027 as well, resistant to cryptographic risks that AI development is bringing."
+      "title_zh": "Securitize and Ethena’s $100 million BlackRock BUIDL liquidity facility goes live",
+      "summary_zh": "Securitize & Ethena Labs launch a $100M liquidity facility letting eligible BUIDL holders swap into USDC and other stablecoins 24/7."
     },
     {
-      "id": "5c25dfb9a6388438",
-      "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
-      "summary": "In today's newsletter, bitcoin 'ripe for a squeeze' as traders raise odds of sub-$70,000 Christmas; Bitmine reports $6.3 billion annual net loss as ether falls 44%; and more.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430",
+      "id": "7594a38ffa0e9d1d",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/amplitude",
       "image_url": null,
-      "published_at": "2026-11-12T04:55:00.000Z",
-      "importance_score": 50,
+      "published_at": "2026-11-12T20:00:00.000Z",
+      "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai",
-        "bitcoin"
+        "openai"
       ],
       "region": "global",
-      "title_zh": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
-      "summary_zh": "In today's newsletter, bitcoin 'ripe for a squeeze' as traders raise odds of sub-$70,000 Christmas; Bitmine reports $6.3 billion annual net loss as ether falls 44%; and more."
+      "title_zh": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary_zh": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
     },
     {
       "id": "9a256da6178cdc41",
@@ -786,23 +805,20 @@
       "summary_zh": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot."
     },
     {
-      "id": "6904d842f73ffaff",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "id": "3c3024610a39d2a1",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "summary": "",
       "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/3d-lora-finetuning",
       "image_url": null,
-      "published_at": "2026-11-10T07:00:00.000Z",
+      "published_at": "2026-11-12T00:00:00.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Work at the Frontier: AI’s effect on freelance work",
-      "summary_zh": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
+      "title_zh": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "summary_zh": ""
     },
     {
       "id": "dacf620fee4abf57",
@@ -837,20 +853,22 @@
       "summary_zh": ""
     },
     {
-      "id": "70111b13ada212b9",
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "summary": "",
+      "id": "6f321838468d1618",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
       "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/phonon-tts",
-      "image_url": null,
-      "published_at": "2026-11-05T00:00:00.000Z",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp",
+      "published_at": "2026-11-12T18:00:00.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "google"
+      ],
       "region": "global",
-      "title_zh": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "summary_zh": ""
+      "title_zh": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary_zh": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses."
     },
     {
       "id": "9590729f8ab42888",
@@ -1027,60 +1045,38 @@
       "summary_zh": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term."
     },
     {
-      "id": "f4213142546e1b69",
-      "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
-      "summary": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
-      "image_url": null,
-      "published_at": "2026-11-09T18:14:47.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "stocks"
-      ],
-      "region": "global",
-      "title_zh": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
-      "summary_zh": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers."
-    },
-    {
-      "id": "280701088a2bd099",
-      "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
-      "summary": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
-      "image_url": null,
-      "published_at": "2026-11-07T16:02:33.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "stocks"
-      ],
-      "region": "global",
-      "title_zh": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
-      "summary_zh": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress."
-    },
-    {
-      "id": "181c2c06c13e071d",
-      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-      "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+      "id": "886927b34d6d6592",
+      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-12T07:59:33.000Z",
+      "published_at": "2026-11-12T21:00:42.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-      "summary_zh": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll."
+      "title_zh": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "summary_zh": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks."
+    },
+    {
+      "id": "3c01b4ac4e327576",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-12T19:23:02.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "summary_zh": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
     },
     {
       "id": "3339fcbc9e963016",
@@ -1099,22 +1095,20 @@
       "summary_zh": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate."
     },
     {
-      "id": "1387f2deaeb672a5",
-      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+      "id": "b246e19efbc985f6",
+      "title": "Five new miniature frog species found in eastern Himalayas",
+      "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-12T12:14:51.000Z",
+      "published_at": "2026-11-12T11:07:19.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-      "summary_zh": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky."
+      "title_zh": "Five new miniature frog species found in eastern Himalayas",
+      "summary_zh": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape."
     },
     {
       "id": "9ed261c0eb5a3627",
@@ -1133,56 +1127,38 @@
       "summary_zh": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from."
     },
     {
-      "id": "7a0938329809592a",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+      "id": "27553890bff0dda2",
+      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+      "summary": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-11T22:07:37.000Z",
+      "published_at": "2026-11-12T13:58:49.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "summary_zh": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living."
+      "title_zh": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+      "summary_zh": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says."
     },
     {
-      "id": "067d450cd41f1415",
-      "title": "Australian teen missing in bush for six days rescued alive",
-      "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
+      "id": "fab541270f98e38a",
+      "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+      "summary": "The Kremlin, taking a hard line, is pushing to widen negotiations to overhaul European security structures.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
       "image_url": null,
-      "published_at": "2026-11-12T02:40:18.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Australian teen missing in bush for six days rescued alive",
-      "summary_zh": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\"."
-    },
-    {
-      "id": "70276469b3992855",
-      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-      "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-12T08:46:57.000Z",
+      "published_at": "2026-11-12T20:30:48.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-      "summary_zh": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo."
+      "title_zh": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+      "summary_zh": "The Kremlin, taking a hard line, is pushing to widen negotiations to overhaul European security structures."
     },
     {
       "id": "efa5ceb3a1a6cdcb",
@@ -1244,7 +1220,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html",
       "image_url": null,
-      "published_at": "2026-11-12T09:31:34.000Z",
+      "published_at": "2026-11-12T14:39:47.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1262,7 +1238,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
       "image_url": null,
-      "published_at": "2026-11-12T10:59:13.000Z",
+      "published_at": "2026-11-12T14:43:08.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1309,24 +1285,6 @@
       "summary_zh": "As a round of negotiations ended in Abu Dhabi, President Trump’s envoys said they would go to Moscow as the Kremlin demands discussions on European security structures."
     },
     {
-      "id": "337055d1c5dc6a73",
-      "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
-      "summary": "Workers in a wide range of industries walked off the job to protest rising rents and stagnant wages, which have become central issues in the campaign.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
-      "image_url": null,
-      "published_at": "2026-11-12T07:30:40.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
-      "summary_zh": "Workers in a wide range of industries walked off the job to protest rising rents and stagnant wages, which have become central issues in the campaign."
-    },
-    {
       "id": "1ab783650e2d74ea",
       "title": "Recent Quant Links from Quantocracy as of 11/09/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a ",
@@ -1345,108 +1303,160 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a"
     },
     {
-      "id": "1fe871571f7f9c75",
-      "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
-      "summary": "The Japanese brokerage has held talks with potential buyers, including Marex, as its European business posts more losses.",
+      "id": "388b3256c36d7a12",
+      "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
+      "summary": "The legal battle to head off the crypto transaction tax in Illinois has drawn up a hefty roster of industry opposition, and they're saying the tax won't work.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/12/nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight-quarters-bloomberg",
+      "source_url": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
       "image_url": null,
-      "published_at": "2026-11-12T10:32:35.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
-      "summary_zh": "The Japanese brokerage has held talks with potential buyers, including Marex, as its European business posts more losses."
-    },
-    {
-      "id": "fcdc57d3b1c1d7d9",
-      "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
-      "summary": "The sale follows the Winklevoss-founded crypto exchange’s retreat from several overseas markets as it restructures its business.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
-      "image_url": null,
-      "published_at": "2026-11-12T09:07:00.000Z",
+      "published_at": "2026-11-12T16:45:52.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
         "crypto"
       ],
       "region": "global",
-      "title_zh": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
-      "summary_zh": "The sale follows the Winklevoss-founded crypto exchange’s retreat from several overseas markets as it restructures its business."
+      "title_zh": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
+      "summary_zh": "The legal battle to head off the crypto transaction tax in Illinois has drawn up a hefty roster of industry opposition, and they're saying the tax won't work."
     },
     {
-      "id": "d5a48b7c74074026",
-      "title": "BNY taps Figment to support staking on its digital asset custody platform",
-      "summary": "Figment will provide validator infrastructure for institutional staking through BNY's existing Digital Asset Custody service.",
+      "id": "176ef73ef3336bc3",
+      "title": "Crypto for Advisors: The blockchain built to run financial markets",
+      "summary": "",
       "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-12-bny-taps-figment-to-support-staking-on-its-digital-asset-custody-platform-438538",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
       "image_url": null,
-      "published_at": "2026-11-12T13:05:02.000Z",
+      "published_at": "2026-11-12T15:34:29.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Crypto for Advisors: The blockchain built to run financial markets",
+      "summary_zh": ""
+    },
+    {
+      "id": "ecafbc2f2c3b24bf",
+      "title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
+      "summary": "The best thing industry leaders can do is to invest the time to ensure this country’s policymakers can experience the technology they’re regulating up close, writes Allie Page, executive director of American Innovation Project.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
+      "image_url": null,
+      "published_at": "2026-11-12T14:24:51.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "policy"
+      ],
+      "region": "global",
+      "title_zh": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
+      "summary_zh": "The best thing industry leaders can do is to invest the time to ensure this country’s policymakers can experience the technology they’re regulating up close, writes Allie Page, executive director of American Innovation Project."
+    },
+    {
+      "id": "ee8b1454618acfff",
+      "title": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
+      "summary": "CFO Colette Kress takes over as interim CEO after Huang steps down immediately as president, chief executive and board member, as shares tumble.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
+      "image_url": null,
+      "published_at": "2026-11-12T13:57:53.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "BNY taps Figment to support staking on its digital asset custody platform",
-      "summary_zh": "Figment will provide validator infrastructure for institutional staking through BNY's existing Digital Asset Custody service."
+      "title_zh": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
+      "summary_zh": "CFO Colette Kress takes over as interim CEO after Huang steps down immediately as president, chief executive and board member, as shares tumble."
     },
     {
-      "id": "1805670f34e21fc3",
-      "title": "BitGo expands institutional stablecoin minting and redemption platform with USDC",
-      "summary": "BitGo's institutional clients can now mint and redeem USDC through Go Accounts, with orders handled through its Circle Mint account.",
+      "id": "32d987157386a3a7",
+      "title": "NYDFS sets fresh advertising standards for crypto firms",
+      "summary": "NYDFS issued guidance outlining expectations for crypto firms to establish policies and procedures governing advertising and marketing.",
       "category": "CRYPTO",
       "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-12-bitgo-expands-institutional-stablecoin-minting-and-redemption-platform-with-usdc-438525",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014",
       "image_url": null,
-      "published_at": "2026-11-12T12:35:02.000Z",
+      "published_at": "2026-11-12T18:03:57.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "NYDFS sets fresh advertising standards for crypto firms",
+      "summary_zh": "NYDFS issued guidance outlining expectations for crypto firms to establish policies and procedures governing advertising and marketing."
+    },
+    {
+      "id": "69a61ef3dfe4bae3",
+      "title": "Visa adds Western Union’s USDPT stablecoin to its settlement network in Anchorage tie-up",
+      "summary": "Anchorage Digital and Visa will support select Anchorage-issued stablecoins as settlement assets on VisaNet, starting with USDPT.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520",
+      "image_url": null,
+      "published_at": "2026-11-12T16:00:00.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "BitGo expands institutional stablecoin minting and redemption platform with USDC",
-      "summary_zh": "BitGo's institutional clients can now mint and redeem USDC through Go Accounts, with orders handled through its Circle Mint account."
+      "title_zh": "Visa adds Western Union’s USDPT stablecoin to its settlement network in Anchorage tie-up",
+      "summary_zh": "Anchorage Digital and Visa will support select Anchorage-issued stablecoins as settlement assets on VisaNet, starting with USDPT."
     },
     {
-      "id": "c60e2d01dd509737",
-      "title": "Chainstack says AI-powered security breach exposed customer data; threat now contained",
-      "summary": "The team is treating node credentials as exposed and asking customers to rotate them and change passwords.",
+      "id": "e9873ccfbbd69c85",
+      "title": "Unocoin ‘login suspension’ continues as exchange flags outgoing BitGo ETH transactions",
+      "summary": "Indian crypto exchange Unocoin flagged outgoing BitGo ether transactions as a multi-day login suspension continues.",
       "category": "CRYPTO",
       "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/ecosystems/2026-11-12-chainstack-security-breach-438509",
+      "source_url": "https://www.theblock.co/news/ecosystems/2026-11-12-unocoin-login-suspension-continues-as-exchange-flags-outgoing-bitgo-eth-transactions-438654",
       "image_url": null,
-      "published_at": "2026-11-12T08:39:57.000Z",
+      "published_at": "2026-11-12T15:36:17.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "crypto"
       ],
       "region": "global",
-      "title_zh": "Chainstack says AI-powered security breach exposed customer data; threat now contained",
-      "summary_zh": "The team is treating node credentials as exposed and asking customers to rotate them and change passwords."
+      "title_zh": "Unocoin ‘login suspension’ continues as exchange flags outgoing BitGo ETH transactions",
+      "summary_zh": "Indian crypto exchange Unocoin flagged outgoing BitGo ether transactions as a multi-day login suspension continues."
     },
     {
-      "id": "bbad45582be10f4d",
-      "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
-      "summary": "The Wall Street Journal reported that Nvidia's board is preparing to oust CEO Jensen Huang over two extramarital affairs.",
+      "id": "939a0b1e032c2e75",
+      "title": "Tether Gold issuer follows USDT to complete Big Four audit",
+      "summary": "KPMG U.S. gave Tether Gold issuer TG Commodities an unqualified, or \"clean,\" opinion on its 2025 financial accounts.",
       "category": "CRYPTO",
       "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
+      "source_url": "https://www.theblock.co/news/business/2026-11-12-tether-gold-issuer-follows-usdt-to-complete-big-four-audit-438849",
       "image_url": null,
-      "published_at": "2026-11-12T02:23:45.000Z",
+      "published_at": "2026-11-12T15:23:26.000Z",
       "importance_score": 44,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
-      "summary_zh": "The Wall Street Journal reported that Nvidia's board is preparing to oust CEO Jensen Huang over two extramarital affairs."
+      "title_zh": "Tether Gold issuer follows USDT to complete Big Four audit",
+      "summary_zh": "KPMG U.S. gave Tether Gold issuer TG Commodities an unqualified, or \"clean,\" opinion on its 2025 financial accounts."
+    },
+    {
+      "id": "fcf46fb8a25b5709",
+      "title": "DTCC plans to bring tokenized securities to Solana in second half of 2027",
+      "summary": "DTCC plans to add Solana to its tokenization service in the second half of 2027, alongside Canton and Besu.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-12-dtcc-plans-bring-tokenized-securities-solana-second-half-of-2027-438559",
+      "image_url": null,
+      "published_at": "2026-11-12T14:23:11.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "DTCC plans to bring tokenized securities to Solana in second half of 2027",
+      "summary_zh": "DTCC plans to add Solana to its tokenization service in the second half of 2027, alongside Canton and Besu."
     },
     {
       "id": "9dceeef1dc712af0",
@@ -1554,6 +1564,24 @@
       "summary_zh": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
     },
     {
+      "id": "4dcb381ccb332a39",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "image_url": null,
+      "published_at": "2026-11-12T19:07:35.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "llm"
+      ],
+      "region": "global",
+      "title_zh": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "summary_zh": ""
+    },
+    {
       "id": "5910575156f31cf2",
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
       "summary": "",
@@ -1633,22 +1661,6 @@
       "tags": [],
       "region": "global",
       "title_zh": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "summary_zh": ""
-    },
-    {
-      "id": "8b0418a89d0e593d",
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "image_url": null,
-      "published_at": "2026-11-04T17:50:10.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
       "summary_zh": ""
     },
     {
@@ -1738,24 +1750,6 @@
       "region": "global",
       "title_zh": "Our newest AI Quest: Mapping the human brain",
       "summary_zh": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
-    },
-    {
-      "id": "aec88acb7ddd0e59",
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
-      "category": "AI",
-      "source_name": "Google AI Blog",
-      "source_url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp",
-      "published_at": "2026-10-21T04:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Southeast Asia’s digital economy to hit $368 billion",
-      "summary_zh": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
     },
     {
       "id": "a9dff69bb8f54641",
