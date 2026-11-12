@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T23:12:56.173Z",
+  "generated_at": "2026-11-12T04:45:19.584Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed Governor Waller sees December hike likely, opens door to possible half-point increase；【CRYPTO】Bitcoin sits out stock rebound as ETF outflows extend to fourth day；【FINANCE】Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes。",
   "meta": {
     "sources_count": 11,
@@ -355,38 +355,20 @@
       "summary_zh": "Amid growth of its U.S. exchange, the prediction market platform’s current annual run-rate is $1.8 billion."
     },
     {
-      "id": "1b078263917a1797",
-      "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
-      "summary": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
+      "id": "35638eea44b76349",
+      "title": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+      "summary": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-11T18:10:57.000Z",
+      "published_at": "2026-11-12T03:32:54.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
-      "summary_zh": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital."
-    },
-    {
-      "id": "03e152ce736b157b",
-      "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-      "summary": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-11T12:53:11.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-      "summary_zh": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded."
+      "title_zh": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+      "summary_zh": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says."
     },
     {
       "id": "fa34af2d005d7c62",
@@ -414,7 +396,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
       "image_url": null,
-      "published_at": "2026-11-11T21:24:12.000Z",
+      "published_at": "2026-11-12T03:22:36.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -481,6 +463,24 @@
       "summary_zh": "U.S. Senator Elizabeth Warren argued the administration is not doing enough about staff insider trading, questioning whether CFTC enforcement action was sufficient."
     },
     {
+      "id": "3507b8cce07db802",
+      "title": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
+      "summary": "The digital asset treasury firm posted $3.4 million in quarterly revenue, compared with $697,000 in the same period last year.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
+      "image_url": null,
+      "published_at": "2026-11-12T02:25:14.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
+      "summary_zh": "The digital asset treasury firm posted $3.4 million in quarterly revenue, compared with $697,000 in the same period last year."
+    },
+    {
       "id": "5fb1af4071e083ef",
       "title": "Strategy, Metaplanet lose MSCI index membership in November reshuffle",
       "summary": "Strategy had opposed MSCI’s rules, arguing exclusion would harm its reputation as a neutral provider.",
@@ -534,14 +534,14 @@
       "summary_zh": "Pyth Network has added real-time stock and ETF data from the New York Stock Exchange to its data marketplace."
     },
     {
-      "id": "6b7b45e801ba0075",
+      "id": "87cf365c12c3f872",
       "title": "Trending Crypto: ZIG Finance (ZIG)",
-      "summary": "CoinGecko trending rank #418.",
+      "summary": "CoinGecko trending rank #410.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/zignaly",
       "image_url": "https://coin-images.coingecko.com/coins/images/14796/large/CoinMarketCap.png?1790219143",
-      "published_at": "2026-11-11T23:11:43.845Z",
+      "published_at": "2026-11-12T04:44:07.272Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -551,17 +551,17 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: ZIG Finance (ZIG)",
-      "summary_zh": "CoinGecko trending rank #418."
+      "summary_zh": "CoinGecko trending rank #410."
     },
     {
-      "id": "7fcb1d9622a0caeb",
+      "id": "5b57d2c01aa957a2",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-11T23:11:43.845Z",
+      "published_at": "2026-11-12T04:44:07.272Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -574,64 +574,64 @@
       "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "d288ae839b597ade",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #116.",
+      "id": "8577742261f2a6bf",
+      "title": "Trending Crypto: Zcash (ZEC)",
+      "summary": "CoinGecko trending rank #11.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-11-11T23:11:43.845Z",
+      "source_url": "https://www.coingecko.com/en/coins/zcash",
+      "image_url": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558",
+      "published_at": "2026-11-12T04:44:07.272Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pengu"
+        "zec"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #116."
+      "title_zh": "Trending Crypto: Zcash (ZEC)",
+      "summary_zh": "CoinGecko trending rank #11."
     },
     {
-      "id": "4c23c24f3f0dd4a2",
-      "title": "Trending Crypto: Dogecoin (DOGE)",
-      "summary": "CoinGecko trending rank #13.",
+      "id": "6251510b0a28686c",
+      "title": "Trending Crypto: Solana (SOL)",
+      "summary": "CoinGecko trending rank #7.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/dogecoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/5/large/dogecoin.png?1696501409",
-      "published_at": "2026-11-11T23:11:43.845Z",
+      "source_url": "https://www.coingecko.com/en/coins/solana",
+      "image_url": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
+      "published_at": "2026-11-12T04:44:07.272Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "doge"
+        "sol"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Dogecoin (DOGE)",
-      "summary_zh": "CoinGecko trending rank #13."
+      "title_zh": "Trending Crypto: Solana (SOL)",
+      "summary_zh": "CoinGecko trending rank #7."
     },
     {
-      "id": "6a3119cd118d9704",
-      "title": "Trending Crypto: Gram (prev. Toncoin) (GRAM)",
-      "summary": "CoinGecko trending rank #29.",
+      "id": "9059d7f572d1e7d8",
+      "title": "Trending Crypto: Kinetiq (KNTQ)",
+      "summary": "CoinGecko trending rank #257.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/the-open-network",
-      "image_url": "https://coin-images.coingecko.com/coins/images/17980/large/Gram_Circular_Badge.png?1781524778",
-      "published_at": "2026-11-11T23:11:43.845Z",
+      "source_url": "https://www.coingecko.com/en/coins/kinetiq",
+      "image_url": "https://coin-images.coingecko.com/coins/images/70252/large/kntq.png?1761279547",
+      "published_at": "2026-11-12T04:44:07.272Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "gram"
+        "kntq"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Gram (prev. Toncoin) (GRAM)",
-      "summary_zh": "CoinGecko trending rank #29."
+      "title_zh": "Trending Crypto: Kinetiq (KNTQ)",
+      "summary_zh": "CoinGecko trending rank #257."
     },
     {
       "id": "b65608ffda727598",
@@ -719,6 +719,24 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 10/18/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Less Wrong [Quantitativo] The biggest risk is that you have a losing strategy when you think you have a winning one. Jeff Y"
     },
     {
+      "id": "0415291433ced0bb",
+      "title": "Bitcoin listless, Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+      "summary": "Nvidia perps are down 7% on Hyperliquid as traders react to reports that CEO Jensen Huang may be removed. Bitcoin continues to trade in a familiar price range.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
+      "image_url": null,
+      "published_at": "2026-11-12T04:03:47.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin listless, Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+      "summary_zh": "Nvidia perps are down 7% on Hyperliquid as traders react to reports that CEO Jensen Huang may be removed. Bitcoin continues to trade in a familiar price range."
+    },
+    {
       "id": "eabbdfe49857f76f",
       "title": "DogeOS ‘very, very close’ to launching DeFi features, app layer for Dogecoin: CEO",
       "summary": "DogeOS aims to give DOGE holders more ways to use the token through games, apps and financial services.",
@@ -735,43 +753,6 @@
       "region": "global",
       "title_zh": "DogeOS ‘very, very close’ to launching DeFi features, app layer for Dogecoin: CEO",
       "summary_zh": "DogeOS aims to give DOGE holders more ways to use the token through games, apps and financial services."
-    },
-    {
-      "id": "f13c6e14258cb874",
-      "title": "Bitcoin ‘ripe for a squeeze’ as options traders raise odds of sub-$70,000 Christmas",
-      "summary": "Bitcoin trades below $74,000 on Wednesday after five weekly losses, with Derive pricing 31% odds of a sub-$70,000 Christmas.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-11-11-bitcoin-ripe-for-squeeze-options-traders-raise-odds-sub-70000-christmas-437897",
-      "image_url": null,
-      "published_at": "2026-11-11T14:44:31.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin ‘ripe for a squeeze’ as options traders raise odds of sub-$70,000 Christmas",
-      "summary_zh": "Bitcoin trades below $74,000 on Wednesday after five weekly losses, with Derive pricing 31% odds of a sub-$70,000 Christmas."
-    },
-    {
-      "id": "0d8a6aa5d61b0f99",
-      "title": "Nomura’s Laser Digital helps launch Saudi SME credit vault targeting $100 million on BNB Chain",
-      "summary": "Nomura's Laser Digital is advising ZIG Finance on a tokenized Saudi SME private credit vault targeting a $100 million raise on BNB Chain.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-11-11-nomuras-laser-digital-helps-launch-saudi-sme-credit-vault-targeting-100-million-on-bnb-chain-437824",
-      "image_url": null,
-      "published_at": "2026-11-11T13:35:02.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Nomura’s Laser Digital helps launch Saudi SME credit vault targeting $100 million on BNB Chain",
-      "summary_zh": "Nomura's Laser Digital is advising ZIG Finance on a tokenized Saudi SME private credit vault targeting a $100 million raise on BNB Chain."
     },
     {
       "id": "bec2e573c04c2276",
@@ -1073,6 +1054,22 @@
       "summary_zh": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress."
     },
     {
+      "id": "94eaefdb6b9a97a2",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-12T04:00:30.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "summary_zh": "Colom is the first black person from the southern state elected to the US Senate in over 140 years."
+    },
+    {
       "id": "7a0938329809592a",
       "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
       "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
@@ -1091,52 +1088,38 @@
       "summary_zh": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living."
     },
     {
-      "id": "483266a12600057d",
-      "title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
-      "summary": "Colom's victory makes him the first black person from Mississippi to be elected to the US Senate in more than 140 years.",
+      "id": "97b412a08ab203d8",
+      "title": "Survivor pulled from rubble of deadly building collapse in New York",
+      "summary": "Two people are dead and several others injured as rescuers scour the debris in Brooklyn.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-11T23:09:07.000Z",
+      "published_at": "2026-11-12T02:33:12.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
-      "summary_zh": "Colom's victory makes him the first black person from Mississippi to be elected to the US Senate in more than 140 years."
+      "title_zh": "Survivor pulled from rubble of deadly building collapse in New York",
+      "summary_zh": "Two people are dead and several others injured as rescuers scour the debris in Brooklyn."
     },
     {
-      "id": "324d6e262867b455",
-      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
+      "id": "067d450cd41f1415",
+      "title": "Australian teen missing in bush for six days rescued alive",
+      "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-11T18:38:45.000Z",
+      "published_at": "2026-11-12T02:40:18.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai"
+      ],
       "region": "global",
-      "title_zh": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "summary_zh": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public."
-    },
-    {
-      "id": "572a421e90905e93",
-      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-      "summary": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-11T16:38:07.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-      "summary_zh": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo."
+      "title_zh": "Australian teen missing in bush for six days rescued alive",
+      "summary_zh": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\"."
     },
     {
       "id": "f9b82e3006c88666",
@@ -1155,36 +1138,52 @@
       "summary_zh": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy."
     },
     {
-      "id": "d25288ffa7aec2fb",
-      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+      "id": "572a421e90905e93",
+      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+      "summary": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-11T16:45:11.000Z",
+      "published_at": "2026-11-11T16:38:07.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "summary_zh": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns."
+      "title_zh": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+      "summary_zh": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo."
     },
     {
-      "id": "ed4b2089a37b2b13",
-      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-      "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
+      "id": "0a33f23d3ecff675",
+      "title": "Famed ship SS United States sunk off coast of Florida",
+      "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-11T13:24:29.000Z",
+      "published_at": "2026-11-12T04:03:13.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-      "summary_zh": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month."
+      "title_zh": "Famed ship SS United States sunk off coast of Florida",
+      "summary_zh": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef."
+    },
+    {
+      "id": "324d6e262867b455",
+      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+      "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-11T18:38:45.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+      "summary_zh": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public."
     },
     {
       "id": "a10d7501bbb6a4b9",
@@ -1342,20 +1341,22 @@
       "summary_zh": "The firm’s flagship Spiko Amundi Overnight Swap Fund (SAFO) held $2.39 billion in assets under management as of late last month."
     },
     {
-      "id": "05956c6f54da1095",
-      "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
-      "summary": "Stacey Cunningham, who recently joined digital asset platform Bullish as President, sees the company’s planned Equiniti acquisition and focus on stock issuers as key to its tokenization ambitions.",
+      "id": "bbad45582be10f4d",
+      "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
+      "summary": "The Wall Street Journal reported that Nvidia's board is preparing to oust CEO Jensen Huang over two extramarital affairs.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
       "image_url": null,
-      "published_at": "2026-11-10T20:15:08.000Z",
+      "published_at": "2026-11-12T02:23:45.000Z",
       "importance_score": 44,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai"
+      ],
       "region": "global",
-      "title_zh": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
-      "summary_zh": "Stacey Cunningham, who recently joined digital asset platform Bullish as President, sees the company’s planned Equiniti acquisition and focus on stock issuers as key to its tokenization ambitions."
+      "title_zh": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
+      "summary_zh": "The Wall Street Journal reported that Nvidia's board is preparing to oust CEO Jensen Huang over two extramarital affairs."
     },
     {
       "id": "3e1184d42f3afe80",
