@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T02:15:15.688Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed Governor Waller sees December hike likely, opens door to possible half-point increase；【FINANCE】Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes；【AI】Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery。",
+  "generated_at": "2026-11-13T10:16:37.377Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed Governor Waller sees December hike likely, opens door to possible half-point increase；【FINANCE】Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes；【CRYPTO】JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -62,22 +62,23 @@
       "summary_zh": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials."
     },
     {
-      "id": "9afad00644facdb8",
-      "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery",
-      "summary": "The MIT professors collaborated to identify the first AI-discovered antibiotic, a scientific breakthrough that is widely recognized as a milestone in AI-driven drug discovery.",
-      "category": "AI",
-      "source_name": "MIT News AI",
-      "source_url": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
+      "id": "bffd15ac1ddbba46",
+      "title": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF",
+      "summary": "JPMorgan reported 224,545 more Strategy shares in the third quarter as its BlackRock bitcoin ETF holdings climbed to 11.4 million shares.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671",
       "image_url": null,
-      "published_at": "2026-11-02T05:35:00.000Z",
-      "importance_score": 70,
+      "published_at": "2026-11-13T09:59:16.000Z",
+      "importance_score": 74,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "bitcoin",
+        "etf"
       ],
       "region": "global",
-      "title_zh": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery",
-      "summary_zh": "The MIT professors collaborated to identify the first AI-discovered antibiotic, a scientific breakthrough that is widely recognized as a milestone in AI-driven drug discovery."
+      "title_zh": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF",
+      "summary_zh": "JPMorgan reported 224,545 more Strategy shares in the third quarter as its BlackRock bitcoin ETF holdings climbed to 11.4 million shares."
     },
     {
       "id": "884db5dd43fd599a",
@@ -97,24 +98,6 @@
       "region": "global",
       "title_zh": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
       "summary_zh": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement."
-    },
-    {
-      "id": "eb6d94fdba7c8118",
-      "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
-      "summary": "Seven Chinese tourists, a dozen villagers and a couple of journalists forded streams and bushwhacked to the downed plane of Isoroku Yamamoto, the Japanese admiral. Machetes proved handy.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html",
-      "image_url": null,
-      "published_at": "2026-11-13T02:08:44.000Z",
-      "importance_score": 70,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
-      "summary_zh": "Seven Chinese tourists, a dozen villagers and a couple of journalists forded streams and bushwhacked to the downed plane of Isoroku Yamamoto, the Japanese admiral. Machetes proved handy."
     },
     {
       "id": "25c737f7dd7f6cdf",
@@ -154,6 +137,25 @@
       "summary_zh": "DOJ got court approval to seize $1.2B stolen from Binance by North Korea's TraderTraitor & took down the FaceStealer deepfake scam."
     },
     {
+      "id": "32517f59fd87b56c",
+      "title": "Helping robots fit into the human workplace",
+      "summary": "Founded by Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks, Robust AI’s robots are designed to collaborate with humans in factories and warehouses.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
+      "image_url": null,
+      "published_at": "2026-11-13T05:00:00.000Z",
+      "importance_score": 64,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Helping robots fit into the human workplace",
+      "summary_zh": "Founded by Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks, Robust AI’s robots are designed to collaborate with humans in factories and warehouses."
+    },
+    {
       "id": "c52310276b972822",
       "title": "New research could lead to faster, trustworthy AI models for climate prediction",
       "summary": "MIT scientists developed a training method to generate models that simulate the effects of human activities on climate much more quickly than other approaches.",
@@ -190,23 +192,62 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/24/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Shorting Leveraged ETFs: Role of Borrowing Costs and Rebalancing in Volatility-Decay Strategies [Quantpedia] Leveraged ET"
     },
     {
-      "id": "d3d197b9f3274f60",
-      "title": "Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets",
-      "summary": "Bitcoin fell as low as $71,200 as Jensen Huang quit Nvidia and MSCI confirmed Strategy's removal, with $750M in crypto positions liquidated.",
+      "id": "54a88cb770c6d3df",
+      "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+      "summary": "Recent rapid redemptions explain the market swoon. Bitcoin's spot price fell below $70,000 on Friday, the lowest since August.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
+      "image_url": null,
+      "published_at": "2026-11-13T05:45:26.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin",
+        "etf"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+      "summary_zh": "Recent rapid redemptions explain the market swoon. Bitcoin's spot price fell below $70,000 on Friday, the lowest since August."
+    },
+    {
+      "id": "90b3e1edcb113201",
+      "title": "Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters",
+      "summary": "A total of $798 million in crypto positions has been liquidated over the past four hours, including $718.5 million in long positions.",
       "category": "CRYPTO",
       "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643",
       "image_url": null,
-      "published_at": "2026-11-12T17:40:00.000Z",
+      "published_at": "2026-11-13T06:23:43.000Z",
       "importance_score": 62,
       "sentiment": 0,
       "tags": [
         "crypto",
+        "bitcoin",
+        "fed"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters",
+      "summary_zh": "A total of $798 million in crypto positions has been liquidated over the past four hours, including $718.5 million in long positions."
+    },
+    {
+      "id": "be56fd9a411bec10",
+      "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
+      "summary": "In today's newsletter, bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets; Strategy, Metaplanet to lose MSCI index membership on Nov. 30; and more.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049",
+      "image_url": null,
+      "published_at": "2026-11-13T04:20:00.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
         "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets",
-      "summary_zh": "Bitcoin fell as low as $71,200 as Jensen Huang quit Nvidia and MSCI confirmed Strategy's removal, with $750M in crypto positions liquidated."
+      "title_zh": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
+      "summary_zh": "In today's newsletter, bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets; Strategy, Metaplanet to lose MSCI index membership on Nov. 30; and more."
     },
     {
       "id": "128a931249fba6f9",
@@ -262,22 +303,6 @@
       "summary_zh": "With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides that reduce dependence on imports and improve the security of the U.S. food supply."
     },
     {
-      "id": "b28e57a7dbf053ea",
-      "title": "Powering up for a pivotal moment",
-      "summary": "From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs.",
-      "category": "AI",
-      "source_name": "MIT News AI",
-      "source_url": "https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102",
-      "image_url": null,
-      "published_at": "2026-11-02T19:55:00.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Powering up for a pivotal moment",
-      "summary_zh": "From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs."
-    },
-    {
       "id": "3cd077f824935e43",
       "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
       "summary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
@@ -329,14 +354,14 @@
       "summary_zh": "Amid growth of its U.S. exchange, the prediction market platform’s current annual run-rate is $1.8 billion."
     },
     {
-      "id": "6e7bce1e5b9cdbcd",
-      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-      "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+      "id": "24b03553575f7fd2",
+      "title": "Watch: How Microsoft services went down around the world",
+      "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-13T00:20:24.000Z",
+      "published_at": "2026-11-13T07:18:17.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -344,8 +369,44 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-      "summary_zh": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back."
+      "title_zh": "Watch: How Microsoft services went down around the world",
+      "summary_zh": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\"."
+    },
+    {
+      "id": "4a460a5bd95a42aa",
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-13T02:48:29.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "summary_zh": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months."
+    },
+    {
+      "id": "4f9252b9c7345feb",
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-12T18:47:35.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "summary_zh": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier."
     },
     {
       "id": "ae30696222ca930f",
@@ -367,32 +428,14 @@
       "summary_zh": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
     },
     {
-      "id": "4f9252b9c7345feb",
-      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-      "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
+      "id": "5506f57c8d7db5a4",
+      "title": "After Xi Purges China’s Generals, a Military Inquisitor Rises",
+      "summary": "The rise of Zhang Shengmin suggests that China’s top brass remains embroiled in investigations, potentially complicating preparations for war over Taiwan.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/13/world/asia/china-military-purge-zhang-shengmin-taiwan.html",
       "image_url": null,
-      "published_at": "2026-11-12T18:47:35.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-      "summary_zh": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier."
-    },
-    {
-      "id": "40161dc0f41b661d",
-      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-12T15:18:20.000Z",
+      "published_at": "2026-11-13T10:02:17.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -400,27 +443,40 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-      "summary_zh": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns"
+      "title_zh": "After Xi Purges China’s Generals, a Military Inquisitor Rises",
+      "summary_zh": "The rise of Zhang Shengmin suggests that China’s top brass remains embroiled in investigations, potentially complicating preparations for war over Taiwan."
     },
     {
-      "id": "733cc5c00bd068b8",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "id": "fdb7c4a59f958a3b",
+      "title": "MEXICO CITY",
+      "summary": "Mexico has cooperated to significantly slow the flow of migrants. The new White House chief of staff insists it is not enough.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/13/world/americas/stephen-miller-mexico-immigration.html",
       "image_url": null,
-      "published_at": "2026-11-12T16:54:12.000Z",
+      "published_at": "2026-11-13T10:00:19.000Z",
       "importance_score": 58,
       "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "summary_zh": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza."
+      "title_zh": "MEXICO CITY",
+      "summary_zh": "Mexico has cooperated to significantly slow the flow of migrants. The new White House chief of staff insists it is not enough."
+    },
+    {
+      "id": "44c0437f3150f6e4",
+      "title": "In French Election, Centrists Eye a Judo Star and a Central Banker",
+      "summary": "Some voters want alternatives to a matchup between the far right and far left in the 2027 presidential election. Teddy Riner, the judo champion, is in, while Christine Lagarde is less likely.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html",
+      "image_url": null,
+      "published_at": "2026-11-13T09:22:48.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "In French Election, Centrists Eye a Judo Star and a Central Banker",
+      "summary_zh": "Some voters want alternatives to a matchup between the far right and far left in the 2027 presidential election. Teddy Riner, the judo champion, is in, while Christine Lagarde is less likely."
     },
     {
       "id": "187360ce6419b020",
@@ -439,41 +495,22 @@
       "summary_zh": "Trump Jr. joined Kalshi as a strategic adviser in January 2025, helping the prediction market expand its customer base and strengthen its market presence."
     },
     {
-      "id": "af78704c6a2aca14",
-      "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
-      "summary": "The securities infrastructure giant plans to bring tokenized stocks, ETFs and U.S. Treasuries to Solana as it expands next year's roadmap beyond Stellar and Arc.",
+      "id": "eca45650a7e1b35a",
+      "title": "DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi",
+      "summary": "Arkansas previously sued Kalshi on Nov. 4, alleging that it operated an illegal gambling platform in the state.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669",
       "image_url": null,
-      "published_at": "2026-11-12T15:45:48.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "etf",
-        "stocks"
-      ],
-      "region": "global",
-      "title_zh": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
-      "summary_zh": "The securities infrastructure giant plans to bring tokenized stocks, ETFs and U.S. Treasuries to Solana as it expands next year's roadmap beyond Stellar and Arc."
-    },
-    {
-      "id": "c4d25707f2e296e3",
-      "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
-      "summary": "OSL offers a yield on USDGO only to professional investors, but Jupiter said its market lets other holders earn onchain at rates set by borrower demand.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
-      "image_url": null,
-      "published_at": "2026-11-12T14:45:00.000Z",
+      "published_at": "2026-11-13T09:32:39.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
-      "summary_zh": "OSL offers a yield on USDGO only to professional investors, but Jupiter said its market lets other holders earn onchain at rates set by borrower demand."
+      "title_zh": "DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi",
+      "summary_zh": "Arkansas previously sued Kalshi on Nov. 4, alleging that it operated an illegal gambling platform in the state."
     },
     {
       "id": "efdeb56463b6d2cf",
@@ -494,52 +531,74 @@
       "summary_zh": "Louisiana is the latest state to take on prediction market platforms, joining a legal battle between states and the federal government."
     },
     {
-      "id": "74acbce405f920bc",
-      "title": "Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says",
-      "summary": "Payments generated $10.9 million in Q3, while Exodus cut staff and restarted U.S. payment card issuance.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988",
-      "image_url": null,
-      "published_at": "2026-11-12T16:55:52.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says",
-      "summary_zh": "Payments generated $10.9 million in Q3, while Exodus cut staff and restarted U.S. payment card issuance."
-    },
-    {
-      "id": "b4993c717acc2fe7",
-      "title": "Trending Crypto: ni hao cat (MIHAO)",
-      "summary": "CoinGecko trending rank #1009.",
+      "id": "c055e5e2d554de6e",
+      "title": "Trending Crypto: Akedo (AKE)",
+      "summary": "CoinGecko trending rank #199.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/ni-hao-cat-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180225/large/g1i6vgqt2s0oe4tclnb3j8zbg8jz.?1794394690",
-      "published_at": "2026-11-13T02:14:04.572Z",
+      "source_url": "https://www.coingecko.com/en/coins/akedo",
+      "image_url": "https://coin-images.coingecko.com/coins/images/68410/large/akedo.png?1755678461",
+      "published_at": "2026-11-13T10:15:24.719Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "mihao"
+        "ake"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: ni hao cat (MIHAO)",
-      "summary_zh": "CoinGecko trending rank #1009."
+      "title_zh": "Trending Crypto: Akedo (AKE)",
+      "summary_zh": "CoinGecko trending rank #199."
     },
     {
-      "id": "d3cf6757eb4736d8",
+      "id": "3723fffe8c0fecbd",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-11-13T10:15:24.719Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "btc"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Bitcoin (BTC)",
+      "summary_zh": "CoinGecko trending rank #1."
+    },
+    {
+      "id": "674b206e06d891fe",
+      "title": "Trending Crypto: XRP (XRP)",
+      "summary": "CoinGecko trending rank #6.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/ripple",
+      "image_url": "https://coin-images.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1696501442",
+      "published_at": "2026-11-13T10:15:24.719Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "xrp"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: XRP (XRP)",
+      "summary_zh": "CoinGecko trending rank #6."
+    },
+    {
+      "id": "0cb3bbc90515e05a",
       "title": "Trending Crypto: Pudgy Penguins (PENGU)",
       "summary": "CoinGecko trending rank #115.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
       "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-11-13T02:14:04.572Z",
+      "published_at": "2026-11-13T10:15:24.719Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -552,64 +611,24 @@
       "summary_zh": "CoinGecko trending rank #115."
     },
     {
-      "id": "e87ab7d2c498faae",
-      "title": "Trending Crypto: Janction (JCT)",
-      "summary": "CoinGecko trending rank #694.",
+      "id": "40e783854d364ae7",
+      "title": "Trending Crypto: Solana (SOL)",
+      "summary": "CoinGecko trending rank #7.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/janction",
-      "image_url": "https://coin-images.coingecko.com/coins/images/70608/large/janction.png?1762738430",
-      "published_at": "2026-11-13T02:14:04.572Z",
+      "source_url": "https://www.coingecko.com/en/coins/solana",
+      "image_url": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
+      "published_at": "2026-11-13T10:15:24.719Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "jct"
+        "sol"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Janction (JCT)",
-      "summary_zh": "CoinGecko trending rank #694."
-    },
-    {
-      "id": "0f4e4a9eac3ae399",
-      "title": "Trending Crypto: Uniswap (UNI)",
-      "summary": "CoinGecko trending rank #26.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/uniswap",
-      "image_url": "https://coin-images.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669",
-      "published_at": "2026-11-13T02:14:04.572Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "uni"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Uniswap (UNI)",
-      "summary_zh": "CoinGecko trending rank #26."
-    },
-    {
-      "id": "dd016bcf9f91b5ba",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-13T02:14:04.572Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "btc"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Bitcoin (BTC)",
-      "summary_zh": "CoinGecko trending rank #1."
+      "title_zh": "Trending Crypto: Solana (SOL)",
+      "summary_zh": "CoinGecko trending rank #7."
     },
     {
       "id": "b65608ffda727598",
@@ -631,6 +650,24 @@
       "summary_zh": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
     },
     {
+      "id": "ef304e3d5b4c8e02",
+      "title": "New AI “copilot” helps engineers design better structures",
+      "summary": "The system asks humans for feedback to increase trust in machine-generated designs for buildings and bridges.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+      "image_url": null,
+      "published_at": "2026-11-13T05:00:00.000Z",
+      "importance_score": 52,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "New AI “copilot” helps engineers design better structures",
+      "summary_zh": "The system asks humans for feedback to increase trust in machine-generated designs for buildings and bridges."
+    },
+    {
       "id": "fa03e0d7279fdb6e",
       "title": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
       "summary": "A secure operating system, a quantum microsystem platform, and a 5G interference-canceling algorithm are named among the year's most significant innovations.",
@@ -647,22 +684,6 @@
       "region": "global",
       "title_zh": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
       "summary_zh": "A secure operating system, a quantum microsystem platform, and a 5G interference-canceling algorithm are named among the year's most significant innovations."
-    },
-    {
-      "id": "18d66bef7b7a09db",
-      "title": "Indonesia’s Vice President, Gibran, Resigns",
-      "summary": "Gibran Rakabuming Raka, who is stepping down amid a scandal over his academic credentials, was a symbol of the partnership that elevated President Prabowo Subianto into office.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
-      "image_url": null,
-      "published_at": "2026-11-12T23:40:14.000Z",
-      "importance_score": 52,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Indonesia’s Vice President, Gibran, Resigns",
-      "summary_zh": "Gibran Rakabuming Raka, who is stepping down amid a scandal over his academic credentials, was a symbol of the partnership that elevated President Prabowo Subianto into office."
     },
     {
       "id": "70a399c1ffe113c2",
@@ -731,22 +752,113 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 10/18/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Less Wrong [Quantitativo] The biggest risk is that you have a losing strategy when you think you have a winning one. Jeff Y"
     },
     {
-      "id": "a52fae992b6d9044",
-      "title": "Bitcoin weakness erases September's bullish signal",
-      "summary": "Your day-ahead look for Nov. 12, 2026",
+      "id": "dde6b4beb75c9d03",
+      "title": "Live news: Bitcoin drops below 200-week moving average as dollar strength pressures risk assets",
+      "summary": "Bitcoin fell below its 200-week moving average as the Dollar Index held above 103, while gold struggled to recover and oil prices rebounded.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
+      "source_url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
       "image_url": null,
-      "published_at": "2026-11-12T12:15:00.000Z",
+      "published_at": "2026-11-13T09:16:58.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
         "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Bitcoin weakness erases September's bullish signal",
-      "summary_zh": "Your day-ahead look for Nov. 12, 2026"
+      "title_zh": "Live news: Bitcoin drops below 200-week moving average as dollar strength pressures risk assets",
+      "summary_zh": "Bitcoin fell below its 200-week moving average as the Dollar Index held above 103, while gold struggled to recover and oil prices rebounded."
+    },
+    {
+      "id": "03275205613c3e84",
+      "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+      "summary": "The Nasdaq-listed company has 46,676 ETH backing its borrowings, and the loan could become eligible for liquidation if ether slides to around $1,700.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
+      "image_url": null,
+      "published_at": "2026-11-13T07:05:29.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ethereum"
+      ],
+      "region": "global",
+      "title_zh": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+      "summary_zh": "The Nasdaq-listed company has 46,676 ETH backing its borrowings, and the loan could become eligible for liquidation if ether slides to around $1,700."
+    },
+    {
+      "id": "da9477aa5d8abea3",
+      "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+      "summary": "About 70% of the bitcoin treasury firm’s coins are pledged to the exchange, bought at roughly $118,000 each, and bitcoin now trades under $69,000.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
+      "image_url": null,
+      "published_at": "2026-11-13T06:03:41.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+      "summary_zh": "About 70% of the bitcoin treasury firm’s coins are pledged to the exchange, bought at roughly $118,000 each, and bitcoin now trades under $69,000."
+    },
+    {
+      "id": "f3bf18c6af304729",
+      "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
+      "summary": "A deal could be announced as soon as December, putting $2.1 billion of bitcoin under one roof, a sliver of what the combined group would be worth.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
+      "image_url": null,
+      "published_at": "2026-11-13T05:08:59.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
+      "summary_zh": "A deal could be announced as soon as December, putting $2.1 billion of bitcoin under one roof, a sliver of what the combined group would be worth."
+    },
+    {
+      "id": "c11fe61f78353005",
+      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+      "summary": "The crypto market selloff gathered pace early Friday. Bitcoin dropped below $70,000 and ether traded below $2,000, triggering large liquidations in futures market.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+      "image_url": null,
+      "published_at": "2026-11-13T03:37:00.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+      "summary_zh": "The crypto market selloff gathered pace early Friday. Bitcoin dropped below $70,000 and ether traded below $2,000, triggering large liquidations in futures market."
+    },
+    {
+      "id": "226959d562aa3721",
+      "title": "TRM Labs launches new service to help police seize stolen crypto in minutes",
+      "summary": "The new service is built on the Beacon Network, which has more than 200 members covering 80% of crypto trading volume.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609",
+      "image_url": null,
+      "published_at": "2026-11-13T05:08:25.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "TRM Labs launches new service to help police seize stolen crypto in minutes",
+      "summary_zh": "The new service is built on the Beacon Network, which has more than 200 members covering 80% of crypto trading volume."
     },
     {
       "id": "5b966dfd080a5178",
@@ -962,6 +1074,24 @@
       "summary_zh": "MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected."
     },
     {
+      "id": "546e192d5f32a034",
+      "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+      "summary": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+      "image_url": null,
+      "published_at": "2026-11-13T02:56:35.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+      "summary_zh": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September."
+    },
+    {
       "id": "85b576c6327dc620",
       "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
       "summary": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
@@ -1012,38 +1142,40 @@
       "summary_zh": "Americans may finally find some relief at the pump."
     },
     {
-      "id": "b1a75f5cd031ba61",
-      "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-      "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
-      "image_url": null,
-      "published_at": "2026-11-09T18:46:01.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-      "summary_zh": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term."
-    },
-    {
-      "id": "f4c80e193b5b18be",
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+      "id": "3e0ab94bc90a3720",
+      "title": "What we know about the global Microsoft outage",
+      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-12T23:34:05.000Z",
+      "published_at": "2026-11-13T09:59:20.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "summary_zh": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
+      "title_zh": "What we know about the global Microsoft outage",
+      "summary_zh": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful."
+    },
+    {
+      "id": "ac4decf52a0eb519",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-13T03:57:01.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "summary_zh": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs."
     },
     {
       "id": "857467689490a295",
@@ -1064,6 +1196,38 @@
       "summary_zh": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU."
     },
     {
+      "id": "4c4a9fe9c1514b1e",
+      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-13T07:01:43.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "summary_zh": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles."
+    },
+    {
+      "id": "61f288a38dfc0b6d",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-13T03:02:54.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Australian footballers will not be charged after hotel incident, police say",
+      "summary_zh": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne."
+    },
+    {
       "id": "3c01b4ac4e327576",
       "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
       "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
@@ -1080,36 +1244,54 @@
       "summary_zh": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
     },
     {
-      "id": "61f288a38dfc0b6d",
-      "title": "Australian footballers will not be charged after hotel incident, police say",
-      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "id": "9c651f4b6e53de57",
+      "title": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
+      "summary": "The new epicenter of Congo’s fast-spreading outbreak is a region scarred by rebel violence. Responders are struggling to help it.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html",
       "image_url": null,
-      "published_at": "2026-11-13T01:03:59.000Z",
+      "published_at": "2026-11-13T10:02:05.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Australian footballers will not be charged after hotel incident, police say",
-      "summary_zh": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne."
+      "title_zh": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
+      "summary_zh": "The new epicenter of Congo’s fast-spreading outbreak is a region scarred by rebel violence. Responders are struggling to help it."
     },
     {
-      "id": "3339fcbc9e963016",
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+      "id": "a166abdf83e6c3c7",
+      "title": "The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It.",
+      "summary": "Former Israeli and U.S. ambassadors, lawmakers and analysts largely agree on steps Gadi Eisenkot could take if he becomes prime minister. But they are risky.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/13/world/middleeast/the-us-israel-relationship-is-broken-heres-how-eisenkot-could-fix-it.html",
       "image_url": null,
-      "published_at": "2026-11-12T12:56:55.000Z",
+      "published_at": "2026-11-13T09:45:37.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "summary_zh": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate."
+      "title_zh": "The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It.",
+      "summary_zh": "Former Israeli and U.S. ambassadors, lawmakers and analysts largely agree on steps Gadi Eisenkot could take if he becomes prime minister. But they are risky."
+    },
+    {
+      "id": "448bd9259422202c",
+      "title": "Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be.",
+      "summary": "From India to France, the implicit meritocratic bargain that underwrote stable societies by providing advancement to new generations is breaking down.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html",
+      "image_url": null,
+      "published_at": "2026-11-13T10:01:42.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be.",
+      "summary_zh": "From India to France, the implicit meritocratic bargain that underwrote stable societies by providing advancement to new generations is breaking down."
     },
     {
       "id": "fab541270f98e38a",
@@ -1119,7 +1301,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
       "image_url": null,
-      "published_at": "2026-11-12T23:15:18.000Z",
+      "published_at": "2026-11-13T07:58:38.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1182,78 +1364,6 @@
       "summary_zh": "The Iranian authorities are pursuing diaspora dissidents and journalists, extending the government’s repressive apparatus far beyond its borders."
     },
     {
-      "id": "29ca58d06eadbe24",
-      "title": "In China’s Spy Operations, Romance Can Be a Long Game",
-      "summary": "Jensen Huang’s affair with a woman U.S. officials say is a Chinese spy has drawn attention to the role of intimate relationships in espionage.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html",
-      "image_url": null,
-      "published_at": "2026-11-12T14:39:47.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "In China’s Spy Operations, Romance Can Be a Long Game",
-      "summary_zh": "Jensen Huang’s affair with a woman U.S. officials say is a Chinese spy has drawn attention to the role of intimate relationships in espionage."
-    },
-    {
-      "id": "ccc9fd53e127dfd7",
-      "title": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
-      "summary": "Abed Abu Shehadeh, a Palestinian citizen of Israel, was detained without being charged with a crime, raising concerns that the domestic security service is overstepping its authority.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
-      "image_url": null,
-      "published_at": "2026-11-12T14:43:08.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
-      "summary_zh": "Abed Abu Shehadeh, a Palestinian citizen of Israel, was detained without being charged with a crime, raising concerns that the domestic security service is overstepping its authority."
-    },
-    {
-      "id": "a10d7501bbb6a4b9",
-      "title": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
-      "summary": "Washington wants to intensify its economic pressure campaign on Iran by closing its land borders. Neighboring states, fearing economic fallout, are pushing back.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
-      "image_url": null,
-      "published_at": "2026-11-11T18:02:52.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
-      "summary_zh": "Washington wants to intensify its economic pressure campaign on Iran by closing its land borders. Neighboring states, fearing economic fallout, are pushing back."
-    },
-    {
-      "id": "ccdd589b3eb41554",
-      "title": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
-      "summary": "As a round of negotiations ended in Abu Dhabi, President Trump’s envoys said they would go to Moscow as the Kremlin demands discussions on European security structures.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
-      "image_url": null,
-      "published_at": "2026-11-11T17:40:41.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
-      "summary_zh": "As a round of negotiations ended in Abu Dhabi, President Trump’s envoys said they would go to Moscow as the Kremlin demands discussions on European security structures."
-    },
-    {
       "id": "1ab783650e2d74ea",
       "title": "Recent Quant Links from Quantocracy as of 11/09/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a ",
@@ -1306,14 +1416,14 @@
       "summary_zh": "The legal battle to head off the crypto transaction tax in Illinois has drawn up a hefty roster of industry opposition, and they're saying the tax won't work."
     },
     {
-      "id": "176ef73ef3336bc3",
-      "title": "Crypto for Advisors: The blockchain built to run financial markets",
-      "summary": "",
+      "id": "5ba1d4412f3568ec",
+      "title": "White House sends crypto-relevant picks to fill SEC and CFTC seats",
+      "summary": "Crypto Council for Innovation's Ji Kim said this bipartisan lineup could develop durable rules that safeguard markets and support innovation.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175",
       "image_url": null,
-      "published_at": "2026-11-12T15:34:29.000Z",
+      "published_at": "2026-11-13T04:56:47.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
@@ -1321,43 +1431,8 @@
         "crypto"
       ],
       "region": "global",
-      "title_zh": "Crypto for Advisors: The blockchain built to run financial markets",
-      "summary_zh": ""
-    },
-    {
-      "id": "ecafbc2f2c3b24bf",
-      "title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
-      "summary": "The best thing industry leaders can do is to invest the time to ensure this country’s policymakers can experience the technology they’re regulating up close, writes Allie Page, executive director of American Innovation Project.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
-      "image_url": null,
-      "published_at": "2026-11-12T14:24:51.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "policy"
-      ],
-      "region": "global",
-      "title_zh": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
-      "summary_zh": "The best thing industry leaders can do is to invest the time to ensure this country’s policymakers can experience the technology they’re regulating up close, writes Allie Page, executive director of American Innovation Project."
-    },
-    {
-      "id": "ee8b1454618acfff",
-      "title": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
-      "summary": "CFO Colette Kress takes over as interim CEO after Huang steps down immediately as president, chief executive and board member, as shares tumble.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
-      "image_url": null,
-      "published_at": "2026-11-12T13:57:53.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
-      "summary_zh": "CFO Colette Kress takes over as interim CEO after Huang steps down immediately as president, chief executive and board member, as shares tumble."
+      "title_zh": "White House sends crypto-relevant picks to fill SEC and CFTC seats",
+      "summary_zh": "Crypto Council for Innovation's Ji Kim said this bipartisan lineup could develop durable rules that safeguard markets and support innovation."
     },
     {
       "id": "ca1ff6edf9a5e874",
@@ -1376,74 +1451,6 @@
       "region": "global",
       "title_zh": "Gemini trading volume drops 73% as Q3 revenue falls to $41 million",
       "summary_zh": "Gemini shares rose more than 6% after hours, though the stock remains down around 75% since the year began."
-    },
-    {
-      "id": "32d987157386a3a7",
-      "title": "NYDFS sets fresh advertising standards for crypto firms",
-      "summary": "NYDFS issued guidance outlining expectations for crypto firms to establish policies and procedures governing advertising and marketing.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014",
-      "image_url": null,
-      "published_at": "2026-11-12T18:03:57.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "NYDFS sets fresh advertising standards for crypto firms",
-      "summary_zh": "NYDFS issued guidance outlining expectations for crypto firms to establish policies and procedures governing advertising and marketing."
-    },
-    {
-      "id": "69a61ef3dfe4bae3",
-      "title": "Visa adds Western Union’s USDPT stablecoin to its settlement network in Anchorage tie-up",
-      "summary": "Anchorage Digital and Visa will support select Anchorage-issued stablecoins as settlement assets on VisaNet, starting with USDPT.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520",
-      "image_url": null,
-      "published_at": "2026-11-12T16:00:00.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Visa adds Western Union’s USDPT stablecoin to its settlement network in Anchorage tie-up",
-      "summary_zh": "Anchorage Digital and Visa will support select Anchorage-issued stablecoins as settlement assets on VisaNet, starting with USDPT."
-    },
-    {
-      "id": "e9873ccfbbd69c85",
-      "title": "Unocoin ‘login suspension’ continues as exchange flags outgoing BitGo ETH transactions",
-      "summary": "Indian crypto exchange Unocoin flagged outgoing BitGo ether transactions as a multi-day login suspension continues.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/ecosystems/2026-11-12-unocoin-login-suspension-continues-as-exchange-flags-outgoing-bitgo-eth-transactions-438654",
-      "image_url": null,
-      "published_at": "2026-11-12T15:36:17.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Unocoin ‘login suspension’ continues as exchange flags outgoing BitGo ETH transactions",
-      "summary_zh": "Indian crypto exchange Unocoin flagged outgoing BitGo ether transactions as a multi-day login suspension continues."
-    },
-    {
-      "id": "939a0b1e032c2e75",
-      "title": "Tether Gold issuer follows USDT to complete Big Four audit",
-      "summary": "KPMG U.S. gave Tether Gold issuer TG Commodities an unqualified, or \"clean,\" opinion on its 2025 financial accounts.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-12-tether-gold-issuer-follows-usdt-to-complete-big-four-audit-438849",
-      "image_url": null,
-      "published_at": "2026-11-12T15:23:26.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Tether Gold issuer follows USDT to complete Big Four audit",
-      "summary_zh": "KPMG U.S. gave Tether Gold issuer TG Commodities an unqualified, or \"clean,\" opinion on its 2025 financial accounts."
     },
     {
       "id": "37e273298a4eb7f7",
