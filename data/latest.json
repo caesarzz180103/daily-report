@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T00:00:56.183Z",
+  "generated_at": "2026-11-14T05:20:52.574Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation；【FINANCE】Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes；【CRYPTO】Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out。",
   "meta": {
     "sources_count": 11,
@@ -551,54 +551,14 @@
       "summary_zh": "Three central banks published findings from a cross-border FX settlement trial using Partior's synchronization prototype."
     },
     {
-      "id": "3fbb8fcd14d43e3a",
-      "title": "Trending Crypto: ni hao cat (MIHAO)",
-      "summary": "CoinGecko trending rank #974.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/ni-hao-cat",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180218/large/logo.jpg?1794391774",
-      "published_at": "2026-11-13T23:59:45.377Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "mihao"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: ni hao cat (MIHAO)",
-      "summary_zh": "CoinGecko trending rank #974."
-    },
-    {
-      "id": "d3363022625755fb",
-      "title": "Trending Crypto: Seppuku (SEPPUKU)",
-      "summary": "CoinGecko trending rank #865.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/seppuku",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180212/large/7391MuF0_400x400.jpg?1794324486",
-      "published_at": "2026-11-13T23:59:45.377Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "seppuku"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Seppuku (SEPPUKU)",
-      "summary_zh": "CoinGecko trending rank #865."
-    },
-    {
-      "id": "aac6be0bc71098e1",
+      "id": "dc94ed0c8aa68a86",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-13T23:59:45.377Z",
+      "published_at": "2026-11-14T05:19:41.229Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -611,44 +571,84 @@
       "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "1f67cc04ab2ccacc",
-      "title": "Trending Crypto: Chainlink (LINK)",
-      "summary": "CoinGecko trending rank #17.",
+      "id": "b454c53b3ee8a535",
+      "title": "Trending Crypto: Pearl (PEARL)",
+      "summary": "CoinGecko trending rank #92.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/chainlink",
-      "image_url": "https://coin-images.coingecko.com/coins/images/877/large/Chainlink_Logo_500.png?1760023405",
-      "published_at": "2026-11-13T23:59:45.377Z",
+      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
+      "published_at": "2026-11-14T05:19:41.229Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "link"
+        "pearl"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Chainlink (LINK)",
-      "summary_zh": "CoinGecko trending rank #17."
+      "title_zh": "Trending Crypto: Pearl (PEARL)",
+      "summary_zh": "CoinGecko trending rank #92."
     },
     {
-      "id": "8da4f099f16abaff",
-      "title": "Trending Crypto: Solana (SOL)",
-      "summary": "CoinGecko trending rank #7.",
+      "id": "3a42d7816f3eff47",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #115.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/solana",
-      "image_url": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
-      "published_at": "2026-11-13T23:59:45.377Z",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-11-14T05:19:41.229Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "sol"
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Solana (SOL)",
-      "summary_zh": "CoinGecko trending rank #7."
+      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary_zh": "CoinGecko trending rank #115."
+    },
+    {
+      "id": "abf44269a524fc99",
+      "title": "Trending Crypto: Aero (AERO)",
+      "summary": "CoinGecko trending rank #119.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/aero",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102179737/large/aero-token.png?1792751076",
+      "published_at": "2026-11-14T05:19:41.229Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "aero"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Aero (AERO)",
+      "summary_zh": "CoinGecko trending rank #119."
+    },
+    {
+      "id": "8ab608ec6e7263bb",
+      "title": "Trending Crypto: Pepe (PEPE)",
+      "summary": "CoinGecko trending rank #46.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pepe",
+      "image_url": "https://coin-images.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1696528776",
+      "published_at": "2026-11-14T05:19:41.229Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pepe"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Pepe (PEPE)",
+      "summary_zh": "CoinGecko trending rank #46."
     },
     {
       "id": "46970244571adedd",
@@ -841,24 +841,6 @@
       "region": "global",
       "title_zh": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
       "summary_zh": "The Nasdaq-listed company has 46,676 ETH backing its borrowings, and the loan could become eligible for liquidation if ether slides to around $1,700."
-    },
-    {
-      "id": "da9477aa5d8abea3",
-      "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
-      "summary": "About 70% of the bitcoin treasury firm’s coins are pledged to the exchange, bought at roughly $118,000 each, and bitcoin now trades under $69,000.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
-      "image_url": null,
-      "published_at": "2026-11-13T06:03:41.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
-      "summary_zh": "About 70% of the bitcoin treasury firm’s coins are pledged to the exchange, bought at roughly $118,000 each, and bitcoin now trades under $69,000."
     },
     {
       "id": "896a925203359ab6",
@@ -1160,8 +1142,24 @@
       "summary_zh": "Americans may finally find some relief at the pump."
     },
     {
-      "id": "b1132f2d34f84976",
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "id": "b9de77f52c52a957",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-13T23:40:45.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "summary_zh": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for."
+    },
+    {
+      "id": "c108deb01d9273a8",
+      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
       "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
       "category": "WORLD",
       "source_name": "BBC World",
@@ -1172,7 +1170,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "title_zh": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
       "summary_zh": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
     },
     {
@@ -1194,20 +1192,20 @@
       "summary_zh": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
     },
     {
-      "id": "b109a479b464a557",
-      "title": "SpaceX to attempt double catch of huge Starship rocket",
-      "summary": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
+      "id": "5798db8e8feb9a67",
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-13T20:12:02.000Z",
+      "published_at": "2026-11-14T00:01:01.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "SpaceX to attempt double catch of huge Starship rocket",
-      "summary_zh": "Elon Musk’s company will try to grab both parts of the rocket for the first time."
+      "title_zh": "Setback for SpaceX Starship rocket's double-catch test",
+      "summary_zh": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean."
     },
     {
       "id": "da0a57899c0372cc",
@@ -1258,24 +1256,6 @@
       "region": "global",
       "title_zh": "Democratic Senate leader Schumer set to face leadership challenge",
       "summary_zh": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes."
-    },
-    {
-      "id": "03c31845e1c765c5",
-      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-      "summary": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-13T13:11:23.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-      "summary_zh": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov."
     },
     {
       "id": "e37e145d2e2a56c5",
@@ -1400,6 +1380,22 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a"
     },
     {
+      "id": "851a710a30657d1b",
+      "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+      "summary": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+      "image_url": null,
+      "published_at": "2026-11-14T04:30:00.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+      "summary_zh": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May."
+    },
+    {
       "id": "08ab7dcdb19779d4",
       "title": "MEGA cuts 20% of workforce as former MegaETH Foundation restructures",
       "summary": "MEGA, formerly the MegaETH Foundation, laid off 20% of staff days after its rebrand and $30 million push into AI inference products.",
@@ -1450,6 +1446,25 @@
       "region": "global",
       "title_zh": "Hyperliquid leapfrogs Bybit, Kraken and OKX in open interest as Q3 positions grow 80%",
       "summary_zh": "Hyperliquid’s share of open interest reached 11.7% across the platform and eight major centralized rivals."
+    },
+    {
+      "id": "bfd4bfab66babff5",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/shield",
+      "image_url": null,
+      "published_at": "2026-11-13T08:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global",
+      "title_zh": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary_zh": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
     },
     {
       "id": "37e273298a4eb7f7",
@@ -1557,22 +1572,6 @@
       "region": "global",
       "title_zh": "Helping caregivers use AI in everyday life",
       "summary_zh": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
-    },
-    {
-      "id": "6d2a69bc26b1ba80",
-      "title": "Introducing Businesses in ChatGPT",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "image_url": null,
-      "published_at": "2026-11-10T10:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Introducing Businesses in ChatGPT",
-      "summary_zh": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
     },
     {
       "id": "765e03c9954cecb2",
