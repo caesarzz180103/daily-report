@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T18:35:32.208Z",
+  "generated_at": "2026-11-14T22:48:49.040Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation；【FINANCE】Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes；【FINANCE】In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates。",
   "meta": {
     "sources_count": 11,
@@ -316,25 +316,6 @@
       "summary_zh": "Sens. Angela Alsobrooks and Ron Wyden are asking what steps the Department of Health and Human Services has taken to mitigate risks from the markets."
     },
     {
-      "id": "9562fd1cc924db32",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-14T15:15:57.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary_zh": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
-    },
-    {
       "id": "cf0448fc1ee71476",
       "title": "South Sudan’s National Election, Its First, Will Be Delayed",
       "summary": "Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011.",
@@ -370,6 +351,24 @@
       "region": "global",
       "title_zh": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
       "summary_zh": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market."
+    },
+    {
+      "id": "15b0ec22229e321e",
+      "title": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
+      "summary": "The CFTC sued Louisiana Friday to block a state judge's order banning 31 prediction markets, including Kalshi and Polymarket, in the state.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
+      "image_url": null,
+      "published_at": "2026-11-14T19:06:59.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
+      "summary_zh": "The CFTC sued Louisiana Friday to block a state judge's order banning 31 prediction markets, including Kalshi and Polymarket, in the state."
     },
     {
       "id": "0d87d3eb68977ddd",
@@ -443,33 +442,14 @@
       "summary_zh": "Kraken parent Payward’s third-quarter adjusted EBITDA fell about two-thirds year over year to $60 million, while funded accounts grew 37%."
     },
     {
-      "id": "83e09f6547664ee9",
-      "title": "Ethereum and Layer 1s Explained",
-      "summary": "Ethereum 101 explains how Ethereum made blockchains programmable. It covers smart contracts, accounts and the EVM, ETH and gas fees, Proof of Stake, network upgrades, and how alternative Layer 1s trade off security, decentralization and scalability.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
-      "image_url": null,
-      "published_at": "2026-11-13T14:12:23.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "ethereum"
-      ],
-      "region": "global",
-      "title_zh": "Ethereum and Layer 1s Explained",
-      "summary_zh": "Ethereum 101 explains how Ethereum made blockchains programmable. It covers smart contracts, accounts and the EVM, ETH and gas fees, Proof of Stake, network upgrades, and how alternative Layer 1s trade off security, decentralization and scalability."
-    },
-    {
-      "id": "c492c94c677a622f",
+      "id": "df4a7b9b63f1f64a",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-14T18:34:19.274Z",
+      "published_at": "2026-11-14T22:47:38.140Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -482,34 +462,14 @@
       "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "1687371664c239ac",
-      "title": "Trending Crypto: Kava (KAVA)",
-      "summary": "CoinGecko trending rank #464.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/kava",
-      "image_url": "https://coin-images.coingecko.com/coins/images/9761/large/kava.png?1696509822",
-      "published_at": "2026-11-14T18:34:19.274Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "kava"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Kava (KAVA)",
-      "summary_zh": "CoinGecko trending rank #464."
-    },
-    {
-      "id": "0410e2133d8861ac",
+      "id": "514dd2325fd05961",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
       "summary": "CoinGecko trending rank #10.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
       "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-11-14T18:34:19.274Z",
+      "published_at": "2026-11-14T22:47:38.140Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -522,34 +482,34 @@
       "summary_zh": "CoinGecko trending rank #10."
     },
     {
-      "id": "672fc74a8f1acb2a",
-      "title": "Trending Crypto: Solana (SOL)",
-      "summary": "CoinGecko trending rank #7.",
+      "id": "049284c461f54540",
+      "title": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary": "CoinGecko trending rank #23.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/solana",
-      "image_url": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
-      "published_at": "2026-11-14T18:34:19.274Z",
+      "source_url": "https://www.coingecko.com/en/coins/near",
+      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
+      "published_at": "2026-11-14T22:47:38.140Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "sol"
+        "near"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Solana (SOL)",
-      "summary_zh": "CoinGecko trending rank #7."
+      "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary_zh": "CoinGecko trending rank #23."
     },
     {
-      "id": "94d9395f1dfa1e84",
+      "id": "28d2731389e87d55",
       "title": "Trending Crypto: Ethereum (ETH)",
       "summary": "CoinGecko trending rank #2.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/ethereum",
       "image_url": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "published_at": "2026-11-14T18:34:19.274Z",
+      "published_at": "2026-11-14T22:47:38.140Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -560,6 +520,26 @@
       "region": "global",
       "title_zh": "Trending Crypto: Ethereum (ETH)",
       "summary_zh": "CoinGecko trending rank #2."
+    },
+    {
+      "id": "c1ede54b8733727b",
+      "title": "Trending Crypto: Aster (ASTER)",
+      "summary": "CoinGecko trending rank #59.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/aster-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/69040/large/_ASTER.png?1757326782",
+      "published_at": "2026-11-14T22:47:38.140Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "aster"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Aster (ASTER)",
+      "summary_zh": "CoinGecko trending rank #59."
     },
     {
       "id": "46970244571adedd",
@@ -621,7 +601,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-14T17:16:36.000Z",
+      "published_at": "2026-11-14T19:12:25.000Z",
       "importance_score": 52,
       "sentiment": 0,
       "tags": [],
@@ -696,8 +676,8 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 10/18/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Less Wrong [Quantitativo] The biggest risk is that you have a losing strategy when you think you have a winning one. Jeff Y"
     },
     {
-      "id": "81f6df457fefcb67",
-      "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+      "id": "5035706425296d18",
+      "title": "Bitcoin slides to 3-month low below $64,000 as analyst flags fourth capitulation wave",
       "summary": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
@@ -710,7 +690,7 @@
         "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+      "title_zh": "Bitcoin slides to 3-month low below $64,000 as analyst flags fourth capitulation wave",
       "summary_zh": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check."
     },
     {
@@ -1074,20 +1054,22 @@
       "summary_zh": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy."
     },
     {
-      "id": "c36f4004bd1938b0",
-      "title": "What we know about the ground stop and what to do if you're affected",
-      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "id": "9562fd1cc924db32",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-14T14:20:57.000Z",
+      "published_at": "2026-11-14T22:37:25.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai"
+      ],
       "region": "global",
-      "title_zh": "What we know about the ground stop and what to do if you're affected",
-      "summary_zh": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
+      "title_zh": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary_zh": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\"."
     },
     {
       "id": "fbc07f8264175435",
@@ -1106,6 +1088,22 @@
       "summary_zh": "The social media giant is accused of not informing 20 million users it had access to their photos."
     },
     {
+      "id": "7661b54684f3652c",
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-14T22:09:40.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "summary_zh": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\"."
+    },
+    {
       "id": "8dfef9710e6d1923",
       "title": "Philippines wins first Eurovision Song Contest Asia",
       "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
@@ -1120,22 +1118,6 @@
       "region": "global",
       "title_zh": "Philippines wins first Eurovision Song Contest Asia",
       "summary_zh": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra."
-    },
-    {
-      "id": "8959535f9b30e11b",
-      "title": "Second catch attempt for SpaceX Starship rocket",
-      "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-14T14:18:41.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Second catch attempt for SpaceX Starship rocket",
-      "summary_zh": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean."
     },
     {
       "id": "a2dd887876e2d61f",
@@ -1170,6 +1152,22 @@
       "region": "global",
       "title_zh": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
       "summary_zh": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
+    },
+    {
+      "id": "4b1dc425153c4520",
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-14T00:03:52.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "summary_zh": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession."
     },
     {
       "id": "e9fe5324c0b1642e",
@@ -1213,7 +1211,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
       "image_url": null,
-      "published_at": "2026-11-14T17:26:50.000Z",
+      "published_at": "2026-11-14T18:39:59.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1229,7 +1227,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
       "image_url": null,
-      "published_at": "2026-11-13T20:10:37.000Z",
+      "published_at": "2026-11-14T19:23:20.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
