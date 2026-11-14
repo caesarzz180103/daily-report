@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T05:20:52.574Z",
+  "generated_at": "2026-11-14T12:40:33.534Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation；【FINANCE】Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes；【CRYPTO】Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out。",
   "meta": {
     "sources_count": 11,
@@ -135,6 +135,25 @@
       "region": "global",
       "title_zh": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
       "summary_zh": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China."
+    },
+    {
+      "id": "dc04086008e9314f",
+      "title": "Estonia bans Russian athletes as backlash intensifies",
+      "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-13T17:54:33.000Z",
+      "importance_score": 70,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Estonia bans Russian athletes as backlash intensifies",
+      "summary_zh": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine."
     },
     {
       "id": "034a51e226bb321f",
@@ -354,14 +373,14 @@
       "summary_zh": "Sens. Angela Alsobrooks and Ron Wyden are asking what steps the Department of Health and Human Services has taken to mitigate risks from the markets."
     },
     {
-      "id": "2af89efa6e9e74b6",
-      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-      "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+      "id": "9562fd1cc924db32",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-13T11:43:27.000Z",
+      "published_at": "2026-11-14T11:41:20.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -369,24 +388,8 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Watch: How a server outage took down Microsoft Teams and Outlook",
-      "summary_zh": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot."
-    },
-    {
-      "id": "c30ddfeb5d81b56f",
-      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-      "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-13T18:34:45.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "The Peruvian city that has embraced Pope Leo as one of its own",
-      "summary_zh": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer."
+      "title_zh": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary_zh": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
     },
     {
       "id": "a7d01f14cdebfcf3",
@@ -408,55 +411,20 @@
       "summary_zh": "After coveting a seat in the Ukraine war discussions, Europe is poised to get one. The continent wants to fill it with a six-member team."
     },
     {
-      "id": "5506f57c8d7db5a4",
-      "title": "After Xi Purges China’s Generals, a Military Inquisitor Rises",
-      "summary": "The rise of Zhang Shengmin suggests that China’s top brass remains embroiled in investigations, potentially complicating preparations for war over Taiwan.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/13/world/asia/china-military-purge-zhang-shengmin-taiwan.html",
+      "id": "0d87d3eb68977ddd",
+      "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+      "summary": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
       "image_url": null,
-      "published_at": "2026-11-13T10:02:17.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "After Xi Purges China’s Generals, a Military Inquisitor Rises",
-      "summary_zh": "The rise of Zhang Shengmin suggests that China’s top brass remains embroiled in investigations, potentially complicating preparations for war over Taiwan."
-    },
-    {
-      "id": "eb67c81a048c12d1",
-      "title": "Border Crossings Have Plummeted. Stephen Miller Isn’t Satisfied.",
-      "summary": "Mexico has cooperated to significantly slow the flow of migrants. The new White House chief of staff insists it is not enough.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/13/world/americas/stephen-miller-mexico-immigration.html",
-      "image_url": null,
-      "published_at": "2026-11-13T10:00:19.000Z",
-      "importance_score": 58,
+      "published_at": "2026-11-14T05:40:00.000Z",
+      "importance_score": 56,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Border Crossings Have Plummeted. Stephen Miller Isn’t Satisfied.",
-      "summary_zh": "Mexico has cooperated to significantly slow the flow of migrants. The new White House chief of staff insists it is not enough."
-    },
-    {
-      "id": "5007f446fb470870",
-      "title": "One of France’s Most Popular Athletes Is Running for President",
-      "summary": "Centrists want alternatives to a matchup between the far right and far left in the 2027 presidential race. Enter Christine Lagarde, a former central banker — and Teddy Riner, a judo star.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html",
-      "image_url": null,
-      "published_at": "2026-11-13T14:47:23.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "One of France’s Most Popular Athletes Is Running for President",
-      "summary_zh": "Centrists want alternatives to a matchup between the far right and far left in the 2027 presidential race. Enter Christine Lagarde, a former central banker — and Teddy Riner, a judo star."
+      "title_zh": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+      "summary_zh": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more."
     },
     {
       "id": "af9964b5e67710db",
@@ -533,32 +501,14 @@
       "summary_zh": "Ethereum 101 explains how Ethereum made blockchains programmable. It covers smart contracts, accounts and the EVM, ETH and gas fees, Proof of Stake, network upgrades, and how alternative Layer 1s trade off security, decentralization and scalability."
     },
     {
-      "id": "15be0f9f96d0240f",
-      "title": "UK, Singapore, and Thailand central banks complete foreign exchange settlement trial linking traditional and tokenized systems",
-      "summary": "Three central banks published findings from a cross-border FX settlement trial using Partior's synchronization prototype.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692",
-      "image_url": null,
-      "published_at": "2026-11-13T12:27:41.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "UK, Singapore, and Thailand central banks complete foreign exchange settlement trial linking traditional and tokenized systems",
-      "summary_zh": "Three central banks published findings from a cross-border FX settlement trial using Partior's synchronization prototype."
-    },
-    {
-      "id": "dc94ed0c8aa68a86",
+      "id": "a3a5ab2d1aa52150",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-14T05:19:41.229Z",
+      "published_at": "2026-11-14T12:39:25.841Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -571,84 +521,84 @@
       "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "b454c53b3ee8a535",
-      "title": "Trending Crypto: Pearl (PEARL)",
-      "summary": "CoinGecko trending rank #92.",
+      "id": "93ecc39fe823fcf8",
+      "title": "Trending Crypto: Solana (SOL)",
+      "summary": "CoinGecko trending rank #7.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-11-14T05:19:41.229Z",
+      "source_url": "https://www.coingecko.com/en/coins/solana",
+      "image_url": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
+      "published_at": "2026-11-14T12:39:25.841Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pearl"
+        "sol"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pearl (PEARL)",
-      "summary_zh": "CoinGecko trending rank #92."
+      "title_zh": "Trending Crypto: Solana (SOL)",
+      "summary_zh": "CoinGecko trending rank #7."
     },
     {
-      "id": "3a42d7816f3eff47",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #115.",
+      "id": "e1b1fbbfc8bd8cd7",
+      "title": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary": "CoinGecko trending rank #10.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-11-14T05:19:41.229Z",
+      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
+      "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
+      "published_at": "2026-11-14T12:39:25.841Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pengu"
+        "hype"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #115."
+      "title_zh": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary_zh": "CoinGecko trending rank #10."
     },
     {
-      "id": "abf44269a524fc99",
-      "title": "Trending Crypto: Aero (AERO)",
-      "summary": "CoinGecko trending rank #119.",
+      "id": "8bd12a0cf175a3a8",
+      "title": "Trending Crypto: Quant (QNT)",
+      "summary": "CoinGecko trending rank #41.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/aero",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102179737/large/aero-token.png?1792751076",
-      "published_at": "2026-11-14T05:19:41.229Z",
+      "source_url": "https://www.coingecko.com/en/coins/quant-network",
+      "image_url": "https://coin-images.coingecko.com/coins/images/3370/large/5ZOu7brX_400x400.jpg?1696504070",
+      "published_at": "2026-11-14T12:39:25.841Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "aero"
+        "qnt"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Aero (AERO)",
-      "summary_zh": "CoinGecko trending rank #119."
+      "title_zh": "Trending Crypto: Quant (QNT)",
+      "summary_zh": "CoinGecko trending rank #41."
     },
     {
-      "id": "8ab608ec6e7263bb",
-      "title": "Trending Crypto: Pepe (PEPE)",
-      "summary": "CoinGecko trending rank #46.",
+      "id": "95db5121193c68d1",
+      "title": "Trending Crypto: Kava (KAVA)",
+      "summary": "CoinGecko trending rank #472.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pepe",
-      "image_url": "https://coin-images.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1696528776",
-      "published_at": "2026-11-14T05:19:41.229Z",
+      "source_url": "https://www.coingecko.com/en/coins/kava",
+      "image_url": "https://coin-images.coingecko.com/coins/images/9761/large/kava.png?1696509822",
+      "published_at": "2026-11-14T12:39:25.841Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pepe"
+        "kava"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pepe (PEPE)",
-      "summary_zh": "CoinGecko trending rank #46."
+      "title_zh": "Trending Crypto: Kava (KAVA)",
+      "summary_zh": "CoinGecko trending rank #472."
     },
     {
       "id": "46970244571adedd",
@@ -1074,6 +1024,22 @@
       "summary_zh": "MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected."
     },
     {
+      "id": "98a7f8d118d686ef",
+      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+      "summary": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+      "image_url": null,
+      "published_at": "2026-11-14T12:00:01.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+      "summary_zh": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan."
+    },
+    {
       "id": "546e192d5f32a034",
       "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
       "summary": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September.",
@@ -1126,20 +1092,36 @@
       "summary_zh": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange."
     },
     {
-      "id": "4baea1d950d90e3c",
-      "title": "U.S. gas prices fall below $4 for the first time since July",
-      "summary": "Americans may finally find some relief at the pump.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
+      "id": "c36f4004bd1938b0",
+      "title": "What we know about the ground stop and what to do if you're affected",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-10T16:29:09.000Z",
+      "published_at": "2026-11-14T07:42:11.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "U.S. gas prices fall below $4 for the first time since July",
-      "summary_zh": "Americans may finally find some relief at the pump."
+      "title_zh": "What we know about the ground stop and what to do if you're affected",
+      "summary_zh": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
+    },
+    {
+      "id": "3bea631584bb61c9",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-14T05:52:31.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "summary_zh": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
     },
     {
       "id": "b9de77f52c52a957",
@@ -1158,40 +1140,6 @@
       "summary_zh": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for."
     },
     {
-      "id": "c108deb01d9273a8",
-      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-13T21:14:22.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-      "summary_zh": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
-    },
-    {
-      "id": "3608424eae7aa957",
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-13T18:36:57.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "summary_zh": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
-    },
-    {
       "id": "5798db8e8feb9a67",
       "title": "Setback for SpaceX Starship rocket's double-catch test",
       "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
@@ -1206,6 +1154,38 @@
       "region": "global",
       "title_zh": "Setback for SpaceX Starship rocket's double-catch test",
       "summary_zh": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean."
+    },
+    {
+      "id": "83a6d14726991858",
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-14T06:42:27.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Microsoft says services fully restored after day-long global outage",
+      "summary_zh": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
+    },
+    {
+      "id": "6a013b588c0a77f6",
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-14T10:42:20.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "summary_zh": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April."
     },
     {
       "id": "da0a57899c0372cc",
@@ -1226,36 +1206,92 @@
       "summary_zh": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says."
     },
     {
-      "id": "c1b4ca3b8365a3c7",
-      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+      "id": "d99879497ecf6c69",
+      "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
+      "summary": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those planned this weekend in France.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
       "image_url": null,
-      "published_at": "2026-11-13T15:42:52.000Z",
+      "published_at": "2026-11-14T05:01:06.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-      "summary_zh": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage."
+      "title_zh": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
+      "summary_zh": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those planned this weekend in France."
     },
     {
-      "id": "d1b26777f51476ad",
-      "title": "Democratic Senate leader Schumer set to face leadership challenge",
-      "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+      "id": "c5bd80e5d81e5fd8",
+      "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
+      "summary": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
       "image_url": null,
-      "published_at": "2026-11-13T19:03:10.000Z",
+      "published_at": "2026-11-13T20:10:37.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai"
+      ],
       "region": "global",
-      "title_zh": "Democratic Senate leader Schumer set to face leadership challenge",
-      "summary_zh": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes."
+      "title_zh": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
+      "summary_zh": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies."
+    },
+    {
+      "id": "aa0cab59aadedfa5",
+      "title": "Ukraine’s Starshield Access Is Being Restricted Again, Zelensky Says",
+      "summary": "President Volodymyr Zelensky said the system, which Ukraine uses to guide drones, was being throttled over Russian-occupied territory. SpaceX, its developer, has denied the claim.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
+      "image_url": null,
+      "published_at": "2026-11-14T12:24:35.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Ukraine’s Starshield Access Is Being Restricted Again, Zelensky Says",
+      "summary_zh": "President Volodymyr Zelensky said the system, which Ukraine uses to guide drones, was being throttled over Russian-occupied territory. SpaceX, its developer, has denied the claim."
+    },
+    {
+      "id": "42fcf3afc35e1496",
+      "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
+      "summary": "Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
+      "image_url": null,
+      "published_at": "2026-11-14T10:10:01.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
+      "summary_zh": "Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves."
+    },
+    {
+      "id": "52443273336735aa",
+      "title": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
+      "summary": "Russell Brand and the TV personality David Walliams both persuaded courts to suppress misconduct allegations against them. Some say the libel laws need to change.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
+      "image_url": null,
+      "published_at": "2026-11-14T05:01:06.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
+      "summary_zh": "Russell Brand and the TV personality David Walliams both persuaded courts to suppress misconduct allegations against them. Some say the libel laws need to change."
     },
     {
       "id": "e37e145d2e2a56c5",
@@ -1324,42 +1360,6 @@
       "region": "global",
       "title_zh": "Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be.",
       "summary_zh": "From India to France, the implicit meritocratic bargain that underwrote stable societies by providing advancement to new generations is breaking down."
-    },
-    {
-      "id": "fab541270f98e38a",
-      "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
-      "summary": "In Dublin, President Volodymyr Zelensky of Ukraine said Europeans would join the next round of talks. Russia has not confirmed that.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
-      "image_url": null,
-      "published_at": "2026-11-13T07:58:38.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
-      "summary_zh": "In Dublin, President Volodymyr Zelensky of Ukraine said Europeans would join the next round of talks. Russia has not confirmed that."
-    },
-    {
-      "id": "efa5ceb3a1a6cdcb",
-      "title": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
-      "summary": "The Ukrainian government has opened up a trove of five million battlefield videos to defense companies at home and abroad.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
-      "image_url": null,
-      "published_at": "2026-11-12T10:00:57.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
-      "summary_zh": "The Ukrainian government has opened up a trove of five million battlefield videos to defense companies at home and abroad."
     },
     {
       "id": "1ab783650e2d74ea",
