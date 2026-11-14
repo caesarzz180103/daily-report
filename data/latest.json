@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T12:40:33.534Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation；【FINANCE】Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes；【CRYPTO】Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out。",
+  "generated_at": "2026-11-14T18:35:32.208Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation；【FINANCE】Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes；【FINANCE】In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -60,45 +60,6 @@
       "summary_zh": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials."
     },
     {
-      "id": "dc3bbc96be1c29bf",
-      "title": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
-      "summary": "Equity markets are falling as well, with interest rates and the dollar surging amid an increasingly hawkish Federal Reserve.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
-      "image_url": null,
-      "published_at": "2026-11-13T09:16:58.000Z",
-      "importance_score": 80,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin",
-        "fed"
-      ],
-      "region": "global",
-      "title_zh": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
-      "summary_zh": "Equity markets are falling as well, with interest rates and the dollar surging amid an increasingly hawkish Federal Reserve."
-    },
-    {
-      "id": "18de71b39e2dae5e",
-      "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
-      "summary": "Bitcoin is down 21% this year as investors weigh Anthropic’s anticipated listing, Nvidia’s leadership upheaval and rising Fed rate hike expectations.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
-      "image_url": null,
-      "published_at": "2026-11-13T16:01:27.000Z",
-      "importance_score": 74,
-      "sentiment": 0,
-      "tags": [
-        "anthropic",
-        "bitcoin",
-        "fed"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
-      "summary_zh": "Bitcoin is down 21% this year as investors weigh Anthropic’s anticipated listing, Nvidia’s leadership upheaval and rising Fed rate hike expectations."
-    },
-    {
       "id": "884db5dd43fd599a",
       "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
       "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
@@ -118,42 +79,22 @@
       "summary_zh": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement."
     },
     {
-      "id": "e8c0353abb358240",
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "id": "b880f5bfc1e2d657",
+      "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+      "summary": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settlement systems and those built using blockchain technology.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
       "image_url": null,
-      "published_at": "2026-11-13T19:53:57.000Z",
-      "importance_score": 70,
+      "published_at": "2026-11-14T15:00:00.000Z",
+      "importance_score": 68,
       "sentiment": 0,
       "tags": [
-        "ai",
-        "war"
+        "ai"
       ],
       "region": "global",
-      "title_zh": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "summary_zh": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China."
-    },
-    {
-      "id": "dc04086008e9314f",
-      "title": "Estonia bans Russian athletes as backlash intensifies",
-      "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-13T17:54:33.000Z",
-      "importance_score": 70,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Estonia bans Russian athletes as backlash intensifies",
-      "summary_zh": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine."
+      "title_zh": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+      "summary_zh": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settlement systems and those built using blockchain technology."
     },
     {
       "id": "034a51e226bb321f",
@@ -172,26 +113,6 @@
       "region": "global",
       "title_zh": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
       "summary_zh": "The committee that needs to advance President Donald Trump's nominees responded quickly to set his SEC picks for review next week."
-    },
-    {
-      "id": "a36100a97c9fba4f",
-      "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
-      "summary": "While earnings and the company’s newly introduced financial performance measure remained below year-earlier levels, there are signs of improvement from the second quarter.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
-      "image_url": null,
-      "published_at": "2026-11-13T14:02:00.000Z",
-      "importance_score": 68,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
-      "summary_zh": "While earnings and the company’s newly introduced financial performance measure remained below year-earlier levels, there are signs of improvement from the second quarter."
     },
     {
       "id": "32517f59fd87b56c",
@@ -249,22 +170,24 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/24/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Shorting Leveraged ETFs: Role of Borrowing Costs and Rebalancing in Volatility-Decay Strategies [Quantpedia] Leveraged ET"
     },
     {
-      "id": "716236d248605035",
-      "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
-      "summary": "Bitcoin (BTC) fell below $70,000 for the first time since August and is down 3.5% since midnight UTC, as the dollar climbs and liquidations top $1.6 billion.",
+      "id": "b2b8701a640a584c",
+      "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+      "summary": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
       "image_url": null,
-      "published_at": "2026-11-13T11:52:25.000Z",
+      "published_at": "2026-11-14T17:50:41.000Z",
       "importance_score": 62,
       "sentiment": 0,
       "tags": [
-        "bitcoin"
+        "crypto",
+        "bitcoin",
+        "etf"
       ],
       "region": "global",
-      "title_zh": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
-      "summary_zh": "Bitcoin (BTC) fell below $70,000 for the first time since August and is down 3.5% since midnight UTC, as the dollar climbs and liquidations top $1.6 billion."
+      "title_zh": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+      "summary_zh": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks."
     },
     {
       "id": "128a931249fba6f9",
@@ -318,6 +241,26 @@
       "region": "global",
       "title_zh": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
       "summary_zh": "With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides that reduce dependence on imports and improve the security of the U.S. food supply."
+    },
+    {
+      "id": "191765d183f4782d",
+      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+      "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+      "image_url": null,
+      "published_at": "2026-11-14T15:50:43.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "etf",
+        "stocks"
+      ],
+      "region": "global",
+      "title_zh": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+      "summary_zh": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers."
     },
     {
       "id": "b539d50fad9e2063",
@@ -380,7 +323,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-14T11:41:20.000Z",
+      "published_at": "2026-11-14T15:15:57.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -392,14 +335,14 @@
       "summary_zh": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
     },
     {
-      "id": "a7d01f14cdebfcf3",
-      "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
-      "summary": "After coveting a seat in the Ukraine war discussions, Europe is poised to get one. The continent wants to fill it with a six-member team.",
+      "id": "cf0448fc1ee71476",
+      "title": "South Sudan’s National Election, Its First, Will Be Delayed",
+      "summary": "Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
+      "source_url": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
       "image_url": null,
-      "published_at": "2026-11-13T22:47:13.000Z",
+      "published_at": "2026-11-14T16:51:55.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -407,8 +350,26 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Europe Agrees on a Team to Represent It in Talks With Russia",
-      "summary_zh": "After coveting a seat in the Ukraine war discussions, Europe is poised to get one. The continent wants to fill it with a six-member team."
+      "title_zh": "South Sudan’s National Election, Its First, Will Be Delayed",
+      "summary_zh": "Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011."
+    },
+    {
+      "id": "33efe551a36fd205",
+      "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+      "summary": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
+      "image_url": null,
+      "published_at": "2026-11-14T15:38:27.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+      "summary_zh": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market."
     },
     {
       "id": "0d87d3eb68977ddd",
@@ -501,14 +462,14 @@
       "summary_zh": "Ethereum 101 explains how Ethereum made blockchains programmable. It covers smart contracts, accounts and the EVM, ETH and gas fees, Proof of Stake, network upgrades, and how alternative Layer 1s trade off security, decentralization and scalability."
     },
     {
-      "id": "a3a5ab2d1aa52150",
+      "id": "c492c94c677a622f",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-14T12:39:25.841Z",
+      "published_at": "2026-11-14T18:34:19.274Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -521,34 +482,34 @@
       "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "93ecc39fe823fcf8",
-      "title": "Trending Crypto: Solana (SOL)",
-      "summary": "CoinGecko trending rank #7.",
+      "id": "1687371664c239ac",
+      "title": "Trending Crypto: Kava (KAVA)",
+      "summary": "CoinGecko trending rank #464.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/solana",
-      "image_url": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
-      "published_at": "2026-11-14T12:39:25.841Z",
+      "source_url": "https://www.coingecko.com/en/coins/kava",
+      "image_url": "https://coin-images.coingecko.com/coins/images/9761/large/kava.png?1696509822",
+      "published_at": "2026-11-14T18:34:19.274Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "sol"
+        "kava"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Solana (SOL)",
-      "summary_zh": "CoinGecko trending rank #7."
+      "title_zh": "Trending Crypto: Kava (KAVA)",
+      "summary_zh": "CoinGecko trending rank #464."
     },
     {
-      "id": "e1b1fbbfc8bd8cd7",
+      "id": "0410e2133d8861ac",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
       "summary": "CoinGecko trending rank #10.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
       "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-11-14T12:39:25.841Z",
+      "published_at": "2026-11-14T18:34:19.274Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -561,44 +522,44 @@
       "summary_zh": "CoinGecko trending rank #10."
     },
     {
-      "id": "8bd12a0cf175a3a8",
-      "title": "Trending Crypto: Quant (QNT)",
-      "summary": "CoinGecko trending rank #41.",
+      "id": "672fc74a8f1acb2a",
+      "title": "Trending Crypto: Solana (SOL)",
+      "summary": "CoinGecko trending rank #7.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/quant-network",
-      "image_url": "https://coin-images.coingecko.com/coins/images/3370/large/5ZOu7brX_400x400.jpg?1696504070",
-      "published_at": "2026-11-14T12:39:25.841Z",
+      "source_url": "https://www.coingecko.com/en/coins/solana",
+      "image_url": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
+      "published_at": "2026-11-14T18:34:19.274Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "qnt"
+        "sol"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Quant (QNT)",
-      "summary_zh": "CoinGecko trending rank #41."
+      "title_zh": "Trending Crypto: Solana (SOL)",
+      "summary_zh": "CoinGecko trending rank #7."
     },
     {
-      "id": "95db5121193c68d1",
-      "title": "Trending Crypto: Kava (KAVA)",
-      "summary": "CoinGecko trending rank #472.",
+      "id": "94d9395f1dfa1e84",
+      "title": "Trending Crypto: Ethereum (ETH)",
+      "summary": "CoinGecko trending rank #2.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/kava",
-      "image_url": "https://coin-images.coingecko.com/coins/images/9761/large/kava.png?1696509822",
-      "published_at": "2026-11-14T12:39:25.841Z",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum",
+      "image_url": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+      "published_at": "2026-11-14T18:34:19.274Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "kava"
+        "eth"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Kava (KAVA)",
-      "summary_zh": "CoinGecko trending rank #472."
+      "title_zh": "Trending Crypto: Ethereum (ETH)",
+      "summary_zh": "CoinGecko trending rank #2."
     },
     {
       "id": "46970244571adedd",
@@ -651,6 +612,22 @@
       "region": "global",
       "title_zh": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
       "summary_zh": "A secure operating system, a quantum microsystem platform, and a 5G interference-canceling algorithm are named among the year's most significant innovations."
+    },
+    {
+      "id": "f0608cd8d86a0f84",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-14T17:16:36.000Z",
+      "importance_score": 52,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "summary_zh": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
     },
     {
       "id": "70a399c1ffe113c2",
@@ -719,6 +696,81 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 10/18/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Less Wrong [Quantitativo] The biggest risk is that you have a losing strategy when you think you have a winning one. Jeff Y"
     },
     {
+      "id": "81f6df457fefcb67",
+      "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+      "summary": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+      "image_url": null,
+      "published_at": "2026-11-14T16:33:29.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+      "summary_zh": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check."
+    },
+    {
+      "id": "b549010aa1a48864",
+      "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+      "summary": "Decentralized Finance total value locked on MegaETH dropped significantly from over $245 million to $8.8 million.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
+      "image_url": null,
+      "published_at": "2026-11-14T16:33:23.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "ethereum"
+      ],
+      "region": "global",
+      "title_zh": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+      "summary_zh": "Decentralized Finance total value locked on MegaETH dropped significantly from over $245 million to $8.8 million."
+    },
+    {
+      "id": "ae5951612a972907",
+      "title": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
+      "summary": "Britain could use bitcoin mining to absorb surplus Scottish wind power and reduce payments to wind farms to halt generation, according to a Bitcoin Policy Institute report.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
+      "image_url": null,
+      "published_at": "2026-11-14T13:00:00.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin",
+        "policy"
+      ],
+      "region": "global",
+      "title_zh": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
+      "summary_zh": "Britain could use bitcoin mining to absorb surplus Scottish wind power and reduce payments to wind farms to halt generation, according to a Bitcoin Policy Institute report."
+    },
+    {
+      "id": "f96bc7107795b220",
+      "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
+      "summary": "Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
+      "image_url": null,
+      "published_at": "2026-11-14T12:57:00.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "A behind the scenes force may amplify bitcoin and ether price volatility",
+      "summary_zh": "Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility."
+    },
+    {
       "id": "3b465ce84d682cb0",
       "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
       "summary": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
@@ -757,42 +809,6 @@
       "summary_zh": "Analysts see no direct link between Nvidia and bitcoin's decline, pointing instead to investor capital headed into Anthropic as well as a broader risk-off move."
     },
     {
-      "id": "fd3f334a701ea427",
-      "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
-      "summary": "Your day-ahead look for Nov. 13, 2026",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
-      "image_url": null,
-      "published_at": "2026-11-13T12:14:22.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
-      "summary_zh": "Your day-ahead look for Nov. 13, 2026"
-    },
-    {
-      "id": "03275205613c3e84",
-      "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
-      "summary": "The Nasdaq-listed company has 46,676 ETH backing its borrowings, and the loan could become eligible for liquidation if ether slides to around $1,700.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
-      "image_url": null,
-      "published_at": "2026-11-13T07:05:29.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ethereum"
-      ],
-      "region": "global",
-      "title_zh": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
-      "summary_zh": "The Nasdaq-listed company has 46,676 ETH backing its borrowings, and the loan could become eligible for liquidation if ether slides to around $1,700."
-    },
-    {
       "id": "896a925203359ab6",
       "title": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
       "summary": "Twenty One Capital reported $1.09 billion in Q3 net income, driven by Bitcoin gains, while posting a $4.8 million operating loss.",
@@ -810,24 +826,6 @@
       "region": "global",
       "title_zh": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
       "summary_zh": "Twenty One Capital reported $1.09 billion in Q3 net income, driven by Bitcoin gains, while posting a $4.8 million operating loss."
-    },
-    {
-      "id": "f06fb4966e8d8dc5",
-      "title": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
-      "summary": "Two Bitcoin whale addresses moved 100 BTC worth $6.89 million after more than 16 years of dormancy on Friday.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698",
-      "image_url": null,
-      "published_at": "2026-11-13T13:34:46.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
-      "summary_zh": "Two Bitcoin whale addresses moved 100 BTC worth $6.89 million after more than 16 years of dormancy on Friday."
     },
     {
       "id": "b1657b719d575776",
@@ -1076,22 +1074,6 @@
       "summary_zh": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy."
     },
     {
-      "id": "2d22f143ab818b6d",
-      "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-      "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
-      "image_url": null,
-      "published_at": "2026-11-11T07:47:54.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-      "summary_zh": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange."
-    },
-    {
       "id": "c36f4004bd1938b0",
       "title": "What we know about the ground stop and what to do if you're affected",
       "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
@@ -1099,13 +1081,79 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-14T07:42:11.000Z",
+      "published_at": "2026-11-14T14:20:57.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
       "title_zh": "What we know about the ground stop and what to do if you're affected",
       "summary_zh": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
+    },
+    {
+      "id": "fbc07f8264175435",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-14T18:28:06.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Italy fines Meta €805m over accessing users' photos",
+      "summary_zh": "The social media giant is accused of not informing 20 million users it had access to their photos."
+    },
+    {
+      "id": "8dfef9710e6d1923",
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-14T18:17:58.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Philippines wins first Eurovision Song Contest Asia",
+      "summary_zh": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra."
+    },
+    {
+      "id": "8959535f9b30e11b",
+      "title": "Second catch attempt for SpaceX Starship rocket",
+      "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-14T14:18:41.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Second catch attempt for SpaceX Starship rocket",
+      "summary_zh": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean."
+    },
+    {
+      "id": "a2dd887876e2d61f",
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-14T18:00:10.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "summary_zh": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution."
     },
     {
       "id": "3bea631584bb61c9",
@@ -1115,7 +1163,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-14T05:52:31.000Z",
+      "published_at": "2026-11-14T15:53:55.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1124,52 +1172,22 @@
       "summary_zh": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
     },
     {
-      "id": "b9de77f52c52a957",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "id": "e9fe5324c0b1642e",
+      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-13T23:40:45.000Z",
+      "published_at": "2026-11-14T15:42:54.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai"
+      ],
       "region": "global",
-      "title_zh": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "summary_zh": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for."
-    },
-    {
-      "id": "5798db8e8feb9a67",
-      "title": "Setback for SpaceX Starship rocket's double-catch test",
-      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-14T00:01:01.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Setback for SpaceX Starship rocket's double-catch test",
-      "summary_zh": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean."
-    },
-    {
-      "id": "83a6d14726991858",
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-14T06:42:27.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Microsoft says services fully restored after day-long global outage",
-      "summary_zh": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
+      "title_zh": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "summary_zh": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa."
     },
     {
       "id": "6a013b588c0a77f6",
@@ -1188,38 +1206,20 @@
       "summary_zh": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April."
     },
     {
-      "id": "da0a57899c0372cc",
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-13T16:40:31.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "summary_zh": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says."
-    },
-    {
       "id": "d99879497ecf6c69",
       "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-      "summary": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those planned this weekend in France.",
+      "summary": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those in France.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
       "image_url": null,
-      "published_at": "2026-11-14T05:01:06.000Z",
+      "published_at": "2026-11-14T17:26:50.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
       "title_zh": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-      "summary_zh": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those planned this weekend in France."
+      "summary_zh": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those in France."
     },
     {
       "id": "c5bd80e5d81e5fd8",
@@ -1247,7 +1247,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
       "image_url": null,
-      "published_at": "2026-11-14T12:24:35.000Z",
+      "published_at": "2026-11-14T13:57:36.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1283,7 +1283,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
       "image_url": null,
-      "published_at": "2026-11-14T05:01:06.000Z",
+      "published_at": "2026-11-14T05:01:07.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
