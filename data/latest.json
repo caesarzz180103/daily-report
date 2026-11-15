@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T17:30:15.066Z",
+  "generated_at": "2026-11-15T22:15:19.079Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation；【FINANCE】Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes；【FINANCE】In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates。",
   "meta": {
     "sources_count": 11,
@@ -245,21 +245,21 @@
       "summary_zh": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers."
     },
     {
-      "id": "b539d50fad9e2063",
-      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+      "id": "9c6262bbab89f1f2",
+      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
       "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
       "category": "FINANCE",
       "source_name": "CNBC Finance",
       "source_url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
       "image_url": null,
-      "published_at": "2026-11-13T23:42:18.000Z",
+      "published_at": "2026-11-15T19:58:21.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
         "war"
       ],
       "region": "global",
-      "title_zh": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+      "title_zh": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
       "summary_zh": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker."
     },
     {
@@ -298,6 +298,22 @@
       "summary_zh": "Sens. Angela Alsobrooks and Ron Wyden are asking what steps the Department of Health and Human Services has taken to mitigate risks from the markets."
     },
     {
+      "id": "5a1580e14854ad44",
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-15T16:15:20.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "summary_zh": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month."
+    },
+    {
       "id": "a2ebddc00d5ee667",
       "title": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
       "summary": "Bear 122 has survived a train, cars and rival bears. Some fear the biggest threat to his life now is his own fame.",
@@ -316,14 +332,14 @@
       "summary_zh": "Bear 122 has survived a train, cars and rival bears. Some fear the biggest threat to his life now is his own fame."
     },
     {
-      "id": "060e1ea1d7bf5b61",
-      "title": "Saudi-Backed Forces in Yemen Retreat From Red Sea as Houthis Advance",
-      "summary": "The move is a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the balance of power in the country’s civil war was tilting toward the Iran-backed Houthi militia.",
+      "id": "d3a7ff11236df340",
+      "title": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
+      "summary": "It’s a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the momentum in country’s civil war was tilting toward the Iran-backed Houthis.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
       "image_url": null,
-      "published_at": "2026-11-15T15:42:25.000Z",
+      "published_at": "2026-11-15T21:26:18.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -331,8 +347,8 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Saudi-Backed Forces in Yemen Retreat From Red Sea as Houthis Advance",
-      "summary_zh": "The move is a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the balance of power in the country’s civil war was tilting toward the Iran-backed Houthi militia."
+      "title_zh": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
+      "summary_zh": "It’s a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the momentum in country’s civil war was tilting toward the Iran-backed Houthis."
     },
     {
       "id": "b1dec02bf4867b44",
@@ -460,53 +476,14 @@
       "summary_zh": "The House Oversight Committee is calling for new limits on government officials’ use of prediction markets, including a potential ban."
     },
     {
-      "id": "7647fbd57da6e0b6",
-      "title": "Kraken parent Payward posts 66% drop in Q3 adjusted EBITDA, plans US prediction markets and personal finance AI agent",
-      "summary": "Kraken parent Payward’s third-quarter adjusted EBITDA fell about two-thirds year over year to $60 million, while funded accounts grew 37%.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-13-kraken-parent-payward-posts-66-drop-in-q3-adjusted-ebitda-plans-us-prediction-markets-and-personal-finance-ai-agent-439721",
-      "image_url": null,
-      "published_at": "2026-11-13T15:31:22.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Kraken parent Payward posts 66% drop in Q3 adjusted EBITDA, plans US prediction markets and personal finance AI agent",
-      "summary_zh": "Kraken parent Payward’s third-quarter adjusted EBITDA fell about two-thirds year over year to $60 million, while funded accounts grew 37%."
-    },
-    {
-      "id": "11d5b0134fe5ecb5",
-      "title": "Trending Crypto: ni hao cat (MIHAO)",
-      "summary": "CoinGecko trending rank #937.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/ni-hao-cat",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180218/large/logo.jpg?1794391774",
-      "published_at": "2026-11-15T17:29:02.208Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "mihao"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: ni hao cat (MIHAO)",
-      "summary_zh": "CoinGecko trending rank #937."
-    },
-    {
-      "id": "e7c873e83f1fc59b",
+      "id": "da7be112b7f73a9e",
       "title": "Trending Crypto: Macca the Gator (MACCA)",
-      "summary": "CoinGecko trending rank #929.",
+      "summary": "CoinGecko trending rank #829.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/macca-the-gator-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102180282/large/logo.webp?1794683187",
-      "published_at": "2026-11-15T17:29:02.208Z",
+      "published_at": "2026-11-15T22:14:09.198Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -516,37 +493,37 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Macca the Gator (MACCA)",
-      "summary_zh": "CoinGecko trending rank #929."
+      "summary_zh": "CoinGecko trending rank #829."
     },
     {
-      "id": "703bfc938b1c2b20",
-      "title": "Trending Crypto: AudaCity (DACITYCOIN)",
-      "summary": "CoinGecko trending rank #965.",
+      "id": "b0ed0254df2f5a13",
+      "title": "Trending Crypto: Aster (ASTER)",
+      "summary": "CoinGecko trending rank #56.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/audacity-4",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180213/large/5.png?1794332841",
-      "published_at": "2026-11-15T17:29:02.208Z",
+      "source_url": "https://www.coingecko.com/en/coins/aster-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/69040/large/_ASTER.png?1757326782",
+      "published_at": "2026-11-15T22:14:09.198Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "dacitycoin"
+        "aster"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: AudaCity (DACITYCOIN)",
-      "summary_zh": "CoinGecko trending rank #965."
+      "title_zh": "Trending Crypto: Aster (ASTER)",
+      "summary_zh": "CoinGecko trending rank #56."
     },
     {
-      "id": "38b1e47b4300eb2e",
+      "id": "36953dfe3eaaddab",
       "title": "Trending Crypto: Gato The Cat (GATO)",
-      "summary": "CoinGecko trending rank #841.",
+      "summary": "CoinGecko trending rank #902.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/gato-the-cat",
       "image_url": "https://coin-images.coingecko.com/coins/images/102180268/large/logo_GatoCat.jpg?1794740772",
-      "published_at": "2026-11-15T17:29:02.208Z",
+      "published_at": "2026-11-15T22:14:09.198Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -556,17 +533,37 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Gato The Cat (GATO)",
-      "summary_zh": "CoinGecko trending rank #841."
+      "summary_zh": "CoinGecko trending rank #902."
     },
     {
-      "id": "1fe7ab450ffddcc7",
+      "id": "8d7a5ab1b7727ea4",
+      "title": "Trending Crypto: AudaCity (DACITYCOIN)",
+      "summary": "CoinGecko trending rank #929.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/audacity-4",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180213/large/5.png?1794332841",
+      "published_at": "2026-11-15T22:14:09.198Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "dacitycoin"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: AudaCity (DACITYCOIN)",
+      "summary_zh": "CoinGecko trending rank #929."
+    },
+    {
+      "id": "49c74139b8a3669a",
       "title": "Trending Crypto: Identity.md (IMD)",
-      "summary": "CoinGecko trending rank #899.",
+      "summary": "CoinGecko trending rank #826.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/identity-md",
       "image_url": "https://coin-images.coingecko.com/coins/images/102180271/large/logo-user.png?1794660261",
-      "published_at": "2026-11-15T17:29:02.208Z",
+      "published_at": "2026-11-15T22:14:09.198Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -576,7 +573,7 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Identity.md (IMD)",
-      "summary_zh": "CoinGecko trending rank #899."
+      "summary_zh": "CoinGecko trending rank #826."
     },
     {
       "id": "46970244571adedd",
@@ -804,23 +801,23 @@
       "summary_zh": "Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility."
     },
     {
-      "id": "3b465ce84d682cb0",
-      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-      "summary": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
+      "id": "a7c75195cd24c12b",
+      "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+      "summary": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
       "image_url": null,
-      "published_at": "2026-11-13T23:30:00.000Z",
+      "published_at": "2026-11-15T21:57:53.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
-        "ai",
+        "crypto",
         "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-      "summary_zh": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus."
+      "title_zh": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+      "summary_zh": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend."
     },
     {
       "id": "b1657b719d575776",
@@ -1069,6 +1066,94 @@
       "summary_zh": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy."
     },
     {
+      "id": "63245be9afffd582",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-15T19:32:39.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "summary_zh": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks."
+    },
+    {
+      "id": "af65ff24ae368a17",
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-15T13:37:45.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "summary_zh": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test."
+    },
+    {
+      "id": "c20f23dc6ae11525",
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-15T18:38:11.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "summary_zh": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour."
+    },
+    {
+      "id": "89fc2f002e075e4c",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-15T14:56:21.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary_zh": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
+    },
+    {
+      "id": "92b509749a5f3840",
+      "title": "Czechs rally against plan to switch funding of public media",
+      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-15T21:03:40.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Czechs rally against plan to switch funding of public media",
+      "summary_zh": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs."
+    },
+    {
       "id": "6ee27ad191758cbc",
       "title": "Iran targets US military base in Bahrain with drone attack",
       "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
@@ -1103,126 +1188,22 @@
       "summary_zh": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month."
     },
     {
-      "id": "af65ff24ae368a17",
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+      "id": "78928ccca02d58e1",
+      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-15T13:37:45.000Z",
+      "published_at": "2026-11-15T19:20:53.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "summary_zh": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test."
-    },
-    {
-      "id": "89fc2f002e075e4c",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-15T14:56:21.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary_zh": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
-    },
-    {
-      "id": "64bc05ba0a329e4e",
-      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-15T08:17:41.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "summary_zh": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade."
-    },
-    {
-      "id": "92b509749a5f3840",
-      "title": "Czechs rally against plan to switch funding of public media",
-      "summary": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-15T17:23:40.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Czechs rally against plan to switch funding of public media",
-      "summary_zh": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs."
-    },
-    {
-      "id": "809edb6260821657",
-      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-      "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-15T09:26:37.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-      "summary_zh": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright."
-    },
-    {
-      "id": "9ad9d31cc77ac52d",
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-15T09:57:25.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "summary_zh": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023."
-    },
-    {
-      "id": "9562fd1cc924db32",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-14T22:37:25.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary_zh": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\"."
+      "title_zh": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "summary_zh": "The US transport secretary says that normal air-traffic operations may not be restored until Monday."
     },
     {
       "id": "45bff7baa8cf5d19",
@@ -1232,7 +1213,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
       "image_url": null,
-      "published_at": "2026-11-15T16:52:29.000Z",
+      "published_at": "2026-11-15T18:47:49.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1241,6 +1222,24 @@
       "region": "global",
       "title_zh": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
       "summary_zh": "Israeli officials were convinced that Tehran was to blame for the airman’s disappearance. Alternative theories got little attention, until now."
+    },
+    {
+      "id": "125beff36132039e",
+      "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
+      "summary": "The Jordanian military said that the men, who were arrested after a shooting at a Greek Orthodox church last month, had been convicted of terrorism charges.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
+      "image_url": null,
+      "published_at": "2026-11-15T21:33:59.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
+      "summary_zh": "The Jordanian military said that the men, who were arrested after a shooting at a Greek Orthodox church last month, had been convicted of terrorism charges."
     },
     {
       "id": "0d98eb08dab88d68",
@@ -1331,24 +1330,6 @@
       "summary_zh": "President Volodymyr Zelensky said the system, which Ukraine uses to guide drones, was being throttled over Russian-occupied territory. SpaceX, its developer, has denied the claim."
     },
     {
-      "id": "42fcf3afc35e1496",
-      "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
-      "summary": "Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
-      "image_url": null,
-      "published_at": "2026-11-14T10:10:01.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
-      "summary_zh": "Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves."
-    },
-    {
       "id": "1ab783650e2d74ea",
       "title": "Recent Quant Links from Quantocracy as of 11/09/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a ",
@@ -1365,6 +1346,24 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 11/09/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a"
+    },
+    {
+      "id": "9efa0fd920a3e3bb",
+      "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+      "summary": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+      "image_url": null,
+      "published_at": "2026-11-15T19:30:00.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+      "summary_zh": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses."
     },
     {
       "id": "06e26ebf87cd658b",
@@ -1401,6 +1400,24 @@
       "summary_zh": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May."
     },
     {
+      "id": "85e86b3e2e6ee580",
+      "title": "Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing",
+      "summary": "A public BitGo code change on July 27 added support for Cash Cat on Robinhood Chain ten days before Robinhood announced the listing.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
+      "image_url": null,
+      "published_at": "2026-11-15T20:33:17.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing",
+      "summary_zh": "A public BitGo code change on July 27 added support for Cash Cat on Robinhood Chain ten days before Robinhood announced the listing."
+    },
+    {
       "id": "08ab7dcdb19779d4",
       "title": "MEGA cuts 20% of workforce as former MegaETH Foundation restructures",
       "summary": "MEGA, formerly the MegaETH Foundation, laid off 20% of staff days after its rebrand and $30 million push into AI inference products.",
@@ -1435,22 +1452,6 @@
       "region": "global",
       "title_zh": "CFTC’s Selig accuses states of trying to ‘lock up’ prediction market founders",
       "summary_zh": "CFTC Chairman Michael Selig says disputes over whether event contracts are gambling shouldn’t put executives at risk of jail."
-    },
-    {
-      "id": "b418999a893f1cff",
-      "title": "Hyperliquid leapfrogs Bybit, Kraken and OKX in open interest as Q3 positions grow 80%",
-      "summary": "Hyperliquid’s share of open interest reached 11.7% across the platform and eight major centralized rivals.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053",
-      "image_url": null,
-      "published_at": "2026-11-13T16:37:26.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Hyperliquid leapfrogs Bybit, Kraken and OKX in open interest as Q3 positions grow 80%",
-      "summary_zh": "Hyperliquid’s share of open interest reached 11.7% across the platform and eight major centralized rivals."
     },
     {
       "id": "bfd4bfab66babff5",
