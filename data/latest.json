@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T02:15:30.307Z",
+  "generated_at": "2026-11-15T10:06:16.272Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation；【FINANCE】Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes；【FINANCE】In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates。",
   "meta": {
     "sources_count": 11,
@@ -95,24 +95,6 @@
       "region": "global",
       "title_zh": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
       "summary_zh": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settlement systems and those built using blockchain technology."
-    },
-    {
-      "id": "034a51e226bb321f",
-      "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
-      "summary": "The committee that needs to advance President Donald Trump's nominees responded quickly to set his SEC picks for review next week.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
-      "image_url": null,
-      "published_at": "2026-11-13T17:05:43.000Z",
-      "importance_score": 68,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
-      "summary_zh": "The committee that needs to advance President Donald Trump's nominees responded quickly to set his SEC picks for review next week."
     },
     {
       "id": "32517f59fd87b56c",
@@ -316,6 +298,24 @@
       "summary_zh": "Sens. Angela Alsobrooks and Ron Wyden are asking what steps the Department of Health and Human Services has taken to mitigate risks from the markets."
     },
     {
+      "id": "a2ebddc00d5ee667",
+      "title": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
+      "summary": "Bear 122 has survived a train, cars and rival bears. Some fear the biggest threat to his life now is his own fame.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
+      "image_url": null,
+      "published_at": "2026-11-15T05:01:10.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
+      "summary_zh": "Bear 122 has survived a train, cars and rival bears. Some fear the biggest threat to his life now is his own fame."
+    },
+    {
       "id": "cf0448fc1ee71476",
       "title": "South Sudan’s National Election, Its First, Will Be Delayed",
       "summary": "Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011.",
@@ -333,6 +333,25 @@
       "region": "global",
       "title_zh": "South Sudan’s National Election, Its First, Will Be Delayed",
       "summary_zh": "Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011."
+    },
+    {
+      "id": "b1dec02bf4867b44",
+      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+      "summary": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+      "image_url": null,
+      "published_at": "2026-11-15T02:50:57.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "etf"
+      ],
+      "region": "global",
+      "title_zh": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+      "summary_zh": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets."
     },
     {
       "id": "33efe551a36fd205",
@@ -460,34 +479,14 @@
       "summary_zh": "Kraken parent Payward’s third-quarter adjusted EBITDA fell about two-thirds year over year to $60 million, while funded accounts grew 37%."
     },
     {
-      "id": "b60aa3cc00c068d6",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-15T02:14:17.941Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "btc"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Bitcoin (BTC)",
-      "summary_zh": "CoinGecko trending rank #1."
-    },
-    {
-      "id": "1b94e7cb39ddf01b",
+      "id": "678c88441fcae2ea",
       "title": "Trending Crypto: Hyperliquid (HYPE)",
       "summary": "CoinGecko trending rank #10.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
       "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-11-15T02:14:17.941Z",
+      "published_at": "2026-11-15T10:05:05.682Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -500,54 +499,74 @@
       "summary_zh": "CoinGecko trending rank #10."
     },
     {
-      "id": "2b1dc33baddd12e1",
-      "title": "Trending Crypto: Pump.fun (PUMP)",
-      "summary": "CoinGecko trending rank #58.",
+      "id": "d3e8a4666561d9d3",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pump-fun",
-      "image_url": "https://coin-images.coingecko.com/coins/images/67164/large/pump.jpg?1751949376",
-      "published_at": "2026-11-15T02:14:17.941Z",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-11-15T10:05:05.682Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pump"
+        "btc"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pump.fun (PUMP)",
-      "summary_zh": "CoinGecko trending rank #58."
+      "title_zh": "Trending Crypto: Bitcoin (BTC)",
+      "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "c2697e40562e3ccd",
-      "title": "Trending Crypto: Solana (SOL)",
-      "summary": "CoinGecko trending rank #7.",
+      "id": "511d28142aee9d51",
+      "title": "Trending Crypto: Kava (KAVA)",
+      "summary": "CoinGecko trending rank #450.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/solana",
-      "image_url": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
-      "published_at": "2026-11-15T02:14:17.941Z",
+      "source_url": "https://www.coingecko.com/en/coins/kava",
+      "image_url": "https://coin-images.coingecko.com/coins/images/9761/large/kava.png?1696509822",
+      "published_at": "2026-11-15T10:05:05.682Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "sol"
+        "kava"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Solana (SOL)",
-      "summary_zh": "CoinGecko trending rank #7."
+      "title_zh": "Trending Crypto: Kava (KAVA)",
+      "summary_zh": "CoinGecko trending rank #450."
     },
     {
-      "id": "6bb273d23f3c99a7",
+      "id": "48c3bb57dafe9e21",
+      "title": "Trending Crypto: Venice Token (VVV)",
+      "summary": "CoinGecko trending rank #69.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/venice-token",
+      "image_url": "https://coin-images.coingecko.com/coins/images/54023/large/VVV_Token_Transparent.png?1741856877",
+      "published_at": "2026-11-15T10:05:05.682Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "vvv"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Venice Token (VVV)",
+      "summary_zh": "CoinGecko trending rank #69."
+    },
+    {
+      "id": "74075528cfd1c4f3",
       "title": "Trending Crypto: Ethereum (ETH)",
       "summary": "CoinGecko trending rank #2.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/ethereum",
       "image_url": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "published_at": "2026-11-15T02:14:17.941Z",
+      "published_at": "2026-11-15T10:05:05.682Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -612,20 +631,36 @@
       "summary_zh": "A secure operating system, a quantum microsystem platform, and a 5G interference-canceling algorithm are named among the year's most significant innovations."
     },
     {
-      "id": "f0608cd8d86a0f84",
-      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "id": "caa2fb3a23e8d43e",
+      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
       "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-14T19:12:25.000Z",
+      "published_at": "2026-11-15T07:10:31.000Z",
       "importance_score": 52,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "title_zh": "Copper wire upgrade behind US flight suspension, transport secretary says",
       "summary_zh": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
+    },
+    {
+      "id": "5527256d470e5742",
+      "title": "Is Italy the Model for Europe’s Future?",
+      "summary": "Over more than a quarter-century, I’ve watched Europe’s politics become more like Italy’s, with all the resulting instability, as the far right came in from the cold.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/15/world/europe/italy-italianization-europe-horowitz.html",
+      "image_url": null,
+      "published_at": "2026-11-15T05:01:24.000Z",
+      "importance_score": 52,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Is Italy the Model for Europe’s Future?",
+      "summary_zh": "Over more than a quarter-century, I’ve watched Europe’s politics become more like Italy’s, with all the resulting instability, as the far right came in from the cold."
     },
     {
       "id": "70a399c1ffe113c2",
@@ -1071,36 +1106,70 @@
       "summary_zh": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\"."
     },
     {
-      "id": "fbc07f8264175435",
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "id": "9ad9d31cc77ac52d",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-14T18:28:06.000Z",
+      "published_at": "2026-11-15T09:57:25.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Italy fines Meta €805m over accessing users' photos",
-      "summary_zh": "The social media giant is accused of not informing 20 million users it had access to their photos."
+      "title_zh": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "summary_zh": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023."
     },
     {
-      "id": "7661b54684f3652c",
-      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "id": "09a2c47e73c173e4",
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-14T22:09:40.000Z",
+      "published_at": "2026-11-15T03:21:04.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-      "summary_zh": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\"."
+      "title_zh": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "summary_zh": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links."
+    },
+    {
+      "id": "809edb6260821657",
+      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-15T09:26:37.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "summary_zh": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright."
+    },
+    {
+      "id": "64bc05ba0a329e4e",
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-15T08:17:41.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "summary_zh": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade."
     },
     {
       "id": "8dfef9710e6d1923",
@@ -1117,6 +1186,38 @@
       "region": "global",
       "title_zh": "Philippines wins first Eurovision Song Contest Asia",
       "summary_zh": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra."
+    },
+    {
+      "id": "27dabf952c16bbbd",
+      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-14T22:27:06.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "summary_zh": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages."
+    },
+    {
+      "id": "fbc07f8264175435",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-14T18:28:06.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Italy fines Meta €805m over accessing users' photos",
+      "summary_zh": "The social media giant is accused of not informing 20 million users it had access to their photos."
     },
     {
       "id": "a2dd887876e2d61f",
@@ -1137,70 +1238,40 @@
       "summary_zh": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution."
     },
     {
-      "id": "3bea631584bb61c9",
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "id": "4c5964d30351e3c3",
+      "title": "After Decades of Blood and Mistrust, Doubts Over Who’s to Blame for an Israeli Hostage",
+      "summary": "Israeli spies kidnapped and killed Iranians. They were convinced that Tehran was to blame for a fallen airman. Alternative theories got little attention, until now.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
       "image_url": null,
-      "published_at": "2026-11-14T15:53:55.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "summary_zh": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
-    },
-    {
-      "id": "4b1dc425153c4520",
-      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-      "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-14T00:03:52.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-      "summary_zh": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession."
-    },
-    {
-      "id": "e9fe5324c0b1642e",
-      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-      "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-14T15:42:54.000Z",
+      "published_at": "2026-11-15T09:36:59.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-      "summary_zh": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa."
+      "title_zh": "After Decades of Blood and Mistrust, Doubts Over Who’s to Blame for an Israeli Hostage",
+      "summary_zh": "Israeli spies kidnapped and killed Iranians. They were convinced that Tehran was to blame for a fallen airman. Alternative theories got little attention, until now."
     },
     {
-      "id": "6a013b588c0a77f6",
-      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-      "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+      "id": "77f7895911a07a29",
+      "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
+      "summary": "Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/15/world/europe/in-europe-an-emboldened-iran-contributes-to-a-sense-of-anxiety.html",
       "image_url": null,
-      "published_at": "2026-11-14T10:42:20.000Z",
+      "published_at": "2026-11-15T05:01:19.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai"
+      ],
       "region": "global",
-      "title_zh": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-      "summary_zh": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April."
+      "title_zh": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
+      "summary_zh": "Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region."
     },
     {
       "id": "d99879497ecf6c69",
@@ -1244,7 +1315,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
       "image_url": null,
-      "published_at": "2026-11-14T13:57:36.000Z",
+      "published_at": "2026-11-14T13:57:37.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1289,74 +1360,6 @@
       "region": "global",
       "title_zh": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
       "summary_zh": "Russell Brand and the TV personality David Walliams both persuaded courts to suppress misconduct allegations against them. Some say the libel laws need to change."
-    },
-    {
-      "id": "e37e145d2e2a56c5",
-      "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
-      "summary": "Gadi Eisenkot sharply criticized Prime Minister Benjamin Netanyahu days after the Israeli leader attacked Arab lawmakers in a divisive speech.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
-      "image_url": null,
-      "published_at": "2026-11-13T21:50:12.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
-      "summary_zh": "Gadi Eisenkot sharply criticized Prime Minister Benjamin Netanyahu days after the Israeli leader attacked Arab lawmakers in a divisive speech."
-    },
-    {
-      "id": "9c651f4b6e53de57",
-      "title": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
-      "summary": "The new epicenter of Congo’s fast-spreading outbreak is a region scarred by rebel violence. Responders are struggling to help it.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html",
-      "image_url": null,
-      "published_at": "2026-11-13T16:02:36.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
-      "summary_zh": "The new epicenter of Congo’s fast-spreading outbreak is a region scarred by rebel violence. Responders are struggling to help it."
-    },
-    {
-      "id": "5c30f8c900aaf7ee",
-      "title": "The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It.",
-      "summary": "Former Israeli and U.S. ambassadors, lawmakers and analysts largely agree on steps Gadi Eisenkot could take if he becomes prime minister. But they are risky.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/13/world/middleeast/israel-trump-eisenkot.html",
-      "image_url": null,
-      "published_at": "2026-11-13T09:45:38.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It.",
-      "summary_zh": "Former Israeli and U.S. ambassadors, lawmakers and analysts largely agree on steps Gadi Eisenkot could take if he becomes prime minister. But they are risky."
-    },
-    {
-      "id": "448bd9259422202c",
-      "title": "Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be.",
-      "summary": "From India to France, the implicit meritocratic bargain that underwrote stable societies by providing advancement to new generations is breaking down.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html",
-      "image_url": null,
-      "published_at": "2026-11-13T10:01:42.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be.",
-      "summary_zh": "From India to France, the implicit meritocratic bargain that underwrote stable societies by providing advancement to new generations is breaking down."
     },
     {
       "id": "1ab783650e2d74ea",
