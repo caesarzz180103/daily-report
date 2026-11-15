@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T10:06:16.272Z",
+  "generated_at": "2026-11-15T17:30:15.066Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation；【FINANCE】Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes；【FINANCE】In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates。",
   "meta": {
     "sources_count": 11,
@@ -305,7 +305,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
       "image_url": null,
-      "published_at": "2026-11-15T05:01:10.000Z",
+      "published_at": "2026-11-15T17:07:07.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -316,14 +316,14 @@
       "summary_zh": "Bear 122 has survived a train, cars and rival bears. Some fear the biggest threat to his life now is his own fame."
     },
     {
-      "id": "cf0448fc1ee71476",
-      "title": "South Sudan’s National Election, Its First, Will Be Delayed",
-      "summary": "Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011.",
+      "id": "060e1ea1d7bf5b61",
+      "title": "Saudi-Backed Forces in Yemen Retreat From Red Sea as Houthis Advance",
+      "summary": "The move is a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the balance of power in the country’s civil war was tilting toward the Iran-backed Houthi militia.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
+      "source_url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
       "image_url": null,
-      "published_at": "2026-11-14T16:51:55.000Z",
+      "published_at": "2026-11-15T15:42:25.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -331,8 +331,8 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "South Sudan’s National Election, Its First, Will Be Delayed",
-      "summary_zh": "Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011."
+      "title_zh": "Saudi-Backed Forces in Yemen Retreat From Red Sea as Houthis Advance",
+      "summary_zh": "The move is a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the balance of power in the country’s civil war was tilting toward the Iran-backed Houthi militia."
     },
     {
       "id": "b1dec02bf4867b44",
@@ -479,104 +479,104 @@
       "summary_zh": "Kraken parent Payward’s third-quarter adjusted EBITDA fell about two-thirds year over year to $60 million, while funded accounts grew 37%."
     },
     {
-      "id": "678c88441fcae2ea",
-      "title": "Trending Crypto: Hyperliquid (HYPE)",
-      "summary": "CoinGecko trending rank #10.",
+      "id": "11d5b0134fe5ecb5",
+      "title": "Trending Crypto: ni hao cat (MIHAO)",
+      "summary": "CoinGecko trending rank #937.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
-      "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-11-15T10:05:05.682Z",
+      "source_url": "https://www.coingecko.com/en/coins/ni-hao-cat",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180218/large/logo.jpg?1794391774",
+      "published_at": "2026-11-15T17:29:02.208Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "hype"
+        "mihao"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Hyperliquid (HYPE)",
-      "summary_zh": "CoinGecko trending rank #10."
+      "title_zh": "Trending Crypto: ni hao cat (MIHAO)",
+      "summary_zh": "CoinGecko trending rank #937."
     },
     {
-      "id": "d3e8a4666561d9d3",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
+      "id": "e7c873e83f1fc59b",
+      "title": "Trending Crypto: Macca the Gator (MACCA)",
+      "summary": "CoinGecko trending rank #929.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-15T10:05:05.682Z",
+      "source_url": "https://www.coingecko.com/en/coins/macca-the-gator-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180282/large/logo.webp?1794683187",
+      "published_at": "2026-11-15T17:29:02.208Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "btc"
+        "macca"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Bitcoin (BTC)",
-      "summary_zh": "CoinGecko trending rank #1."
+      "title_zh": "Trending Crypto: Macca the Gator (MACCA)",
+      "summary_zh": "CoinGecko trending rank #929."
     },
     {
-      "id": "511d28142aee9d51",
-      "title": "Trending Crypto: Kava (KAVA)",
-      "summary": "CoinGecko trending rank #450.",
+      "id": "703bfc938b1c2b20",
+      "title": "Trending Crypto: AudaCity (DACITYCOIN)",
+      "summary": "CoinGecko trending rank #965.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/kava",
-      "image_url": "https://coin-images.coingecko.com/coins/images/9761/large/kava.png?1696509822",
-      "published_at": "2026-11-15T10:05:05.682Z",
+      "source_url": "https://www.coingecko.com/en/coins/audacity-4",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180213/large/5.png?1794332841",
+      "published_at": "2026-11-15T17:29:02.208Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "kava"
+        "dacitycoin"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Kava (KAVA)",
-      "summary_zh": "CoinGecko trending rank #450."
+      "title_zh": "Trending Crypto: AudaCity (DACITYCOIN)",
+      "summary_zh": "CoinGecko trending rank #965."
     },
     {
-      "id": "48c3bb57dafe9e21",
-      "title": "Trending Crypto: Venice Token (VVV)",
-      "summary": "CoinGecko trending rank #69.",
+      "id": "38b1e47b4300eb2e",
+      "title": "Trending Crypto: Gato The Cat (GATO)",
+      "summary": "CoinGecko trending rank #841.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/venice-token",
-      "image_url": "https://coin-images.coingecko.com/coins/images/54023/large/VVV_Token_Transparent.png?1741856877",
-      "published_at": "2026-11-15T10:05:05.682Z",
+      "source_url": "https://www.coingecko.com/en/coins/gato-the-cat",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180268/large/logo_GatoCat.jpg?1794740772",
+      "published_at": "2026-11-15T17:29:02.208Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "vvv"
+        "gato"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Venice Token (VVV)",
-      "summary_zh": "CoinGecko trending rank #69."
+      "title_zh": "Trending Crypto: Gato The Cat (GATO)",
+      "summary_zh": "CoinGecko trending rank #841."
     },
     {
-      "id": "74075528cfd1c4f3",
-      "title": "Trending Crypto: Ethereum (ETH)",
-      "summary": "CoinGecko trending rank #2.",
+      "id": "1fe7ab450ffddcc7",
+      "title": "Trending Crypto: Identity.md (IMD)",
+      "summary": "CoinGecko trending rank #899.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/ethereum",
-      "image_url": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-      "published_at": "2026-11-15T10:05:05.682Z",
+      "source_url": "https://www.coingecko.com/en/coins/identity-md",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180271/large/logo-user.png?1794660261",
+      "published_at": "2026-11-15T17:29:02.208Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "eth"
+        "imd"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Ethereum (ETH)",
-      "summary_zh": "CoinGecko trending rank #2."
+      "title_zh": "Trending Crypto: Identity.md (IMD)",
+      "summary_zh": "CoinGecko trending rank #899."
     },
     {
       "id": "46970244571adedd",
@@ -631,20 +631,20 @@
       "summary_zh": "A secure operating system, a quantum microsystem platform, and a 5G interference-canceling algorithm are named among the year's most significant innovations."
     },
     {
-      "id": "caa2fb3a23e8d43e",
-      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "id": "f2d2c0716fd60cb1",
+      "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+      "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-15T07:10:31.000Z",
+      "published_at": "2026-11-15T15:57:03.000Z",
       "importance_score": 52,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Copper wire upgrade behind US flight suspension, transport secretary says",
-      "summary_zh": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
+      "title_zh": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+      "summary_zh": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course."
     },
     {
       "id": "5527256d470e5742",
@@ -821,25 +821,6 @@
       "region": "global",
       "title_zh": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
       "summary_zh": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus."
-    },
-    {
-      "id": "8ef6c2b7dca24f89",
-      "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
-      "summary": "Analysts see no direct link between Nvidia and bitcoin's decline, pointing instead to investor capital headed into Anthropic as well as a broader risk-off move.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
-      "image_url": null,
-      "published_at": "2026-11-13T18:39:58.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "anthropic",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
-      "summary_zh": "Analysts see no direct link between Nvidia and bitcoin's decline, pointing instead to investor capital headed into Anthropic as well as a broader risk-off move."
     },
     {
       "id": "b1657b719d575776",
@@ -1088,54 +1069,108 @@
       "summary_zh": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy."
     },
     {
-      "id": "9562fd1cc924db32",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+      "id": "6ee27ad191758cbc",
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-14T22:37:25.000Z",
+      "published_at": "2026-11-15T13:42:58.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary_zh": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\"."
+      "title_zh": "Iran targets US military base in Bahrain with drone attack",
+      "summary_zh": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz."
     },
     {
-      "id": "9ad9d31cc77ac52d",
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
+      "id": "541615c4161c9f85",
+      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-15T09:57:25.000Z",
+      "published_at": "2026-11-15T11:06:32.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "summary_zh": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023."
+      "title_zh": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "summary_zh": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month."
     },
     {
-      "id": "09a2c47e73c173e4",
-      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-      "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
+      "id": "af65ff24ae368a17",
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-15T03:21:04.000Z",
+      "published_at": "2026-11-15T13:37:45.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "summary_zh": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test."
+    },
+    {
+      "id": "89fc2f002e075e4c",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-15T14:56:21.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary_zh": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
+    },
+    {
+      "id": "64bc05ba0a329e4e",
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-15T08:17:41.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-      "summary_zh": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links."
+      "title_zh": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "summary_zh": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade."
+    },
+    {
+      "id": "92b509749a5f3840",
+      "title": "Czechs rally against plan to switch funding of public media",
+      "summary": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-15T17:23:40.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Czechs rally against plan to switch funding of public media",
+      "summary_zh": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs."
     },
     {
       "id": "809edb6260821657",
@@ -1156,114 +1191,84 @@
       "summary_zh": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright."
     },
     {
-      "id": "64bc05ba0a329e4e",
-      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+      "id": "9ad9d31cc77ac52d",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-15T08:17:41.000Z",
+      "published_at": "2026-11-15T09:57:25.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "summary_zh": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade."
+      "title_zh": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "summary_zh": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023."
     },
     {
-      "id": "8dfef9710e6d1923",
-      "title": "Philippines wins first Eurovision Song Contest Asia",
-      "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+      "id": "9562fd1cc924db32",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-14T18:17:58.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Philippines wins first Eurovision Song Contest Asia",
-      "summary_zh": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra."
-    },
-    {
-      "id": "27dabf952c16bbbd",
-      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-14T22:27:06.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "summary_zh": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages."
-    },
-    {
-      "id": "fbc07f8264175435",
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-14T18:28:06.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Italy fines Meta €805m over accessing users' photos",
-      "summary_zh": "The social media giant is accused of not informing 20 million users it had access to their photos."
-    },
-    {
-      "id": "a2dd887876e2d61f",
-      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-      "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-14T18:00:10.000Z",
+      "published_at": "2026-11-14T22:37:25.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-      "summary_zh": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution."
+      "title_zh": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary_zh": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\"."
     },
     {
-      "id": "4c5964d30351e3c3",
-      "title": "After Decades of Blood and Mistrust, Doubts Over Who’s to Blame for an Israeli Hostage",
-      "summary": "Israeli spies kidnapped and killed Iranians. They were convinced that Tehran was to blame for a fallen airman. Alternative theories got little attention, until now.",
+      "id": "45bff7baa8cf5d19",
+      "title": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
+      "summary": "Israeli officials were convinced that Tehran was to blame for the airman’s disappearance. Alternative theories got little attention, until now.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
       "image_url": null,
-      "published_at": "2026-11-15T09:36:59.000Z",
+      "published_at": "2026-11-15T16:52:29.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "After Decades of Blood and Mistrust, Doubts Over Who’s to Blame for an Israeli Hostage",
-      "summary_zh": "Israeli spies kidnapped and killed Iranians. They were convinced that Tehran was to blame for a fallen airman. Alternative theories got little attention, until now."
+      "title_zh": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
+      "summary_zh": "Israeli officials were convinced that Tehran was to blame for the airman’s disappearance. Alternative theories got little attention, until now."
     },
     {
-      "id": "77f7895911a07a29",
+      "id": "0d98eb08dab88d68",
+      "title": "Iran Attacks Bahrain for the Second Time in Days",
+      "summary": "The resumption of attacks after a two-month lull comes as peace talks between the U.S. and Iran appear to have stalled.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+      "image_url": null,
+      "published_at": "2026-11-15T15:55:09.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Iran Attacks Bahrain for the Second Time in Days",
+      "summary_zh": "The resumption of attacks after a two-month lull comes as peace talks between the U.S. and Iran appear to have stalled."
+    },
+    {
+      "id": "1fc6e77903ac20ac",
       "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
       "summary": "Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/15/world/europe/in-europe-an-emboldened-iran-contributes-to-a-sense-of-anxiety.html",
+      "source_url": "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
       "image_url": null,
-      "published_at": "2026-11-15T05:01:19.000Z",
+      "published_at": "2026-11-15T05:01:20.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1281,7 +1286,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
       "image_url": null,
-      "published_at": "2026-11-14T18:39:59.000Z",
+      "published_at": "2026-11-14T18:40:00.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1344,24 +1349,6 @@
       "summary_zh": "Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves."
     },
     {
-      "id": "52443273336735aa",
-      "title": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
-      "summary": "Russell Brand and the TV personality David Walliams both persuaded courts to suppress misconduct allegations against them. Some say the libel laws need to change.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
-      "image_url": null,
-      "published_at": "2026-11-14T05:01:07.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
-      "summary_zh": "Russell Brand and the TV personality David Walliams both persuaded courts to suppress misconduct allegations against them. Some say the libel laws need to change."
-    },
-    {
       "id": "1ab783650e2d74ea",
       "title": "Recent Quant Links from Quantocracy as of 11/09/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a ",
@@ -1378,6 +1365,24 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 11/09/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a"
+    },
+    {
+      "id": "06e26ebf87cd658b",
+      "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+      "summary": "With ascendent Democrats ready to pursue their own crypto and tech agendas next year, the final weeks of this session probably won't produce crypto surprises.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
+      "image_url": null,
+      "published_at": "2026-11-15T14:00:00.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+      "summary_zh": "With ascendent Democrats ready to pursue their own crypto and tech agendas next year, the final weeks of this session probably won't produce crypto surprises."
     },
     {
       "id": "851a710a30657d1b",
