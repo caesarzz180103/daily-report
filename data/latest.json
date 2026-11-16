@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T22:15:19.079Z",
+  "generated_at": "2026-11-16T02:28:54.141Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation；【FINANCE】Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes；【FINANCE】In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates。",
   "meta": {
     "sources_count": 11,
@@ -172,6 +172,25 @@
       "summary_zh": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks."
     },
     {
+      "id": "8b6ad817817f5216",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "image_url": null,
+      "published_at": "2026-11-15T22:00:01.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "A step toward defining the Standard Model on a lattice",
+      "summary_zh": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
+    },
+    {
       "id": "128a931249fba6f9",
       "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
       "summary": "",
@@ -298,20 +317,55 @@
       "summary_zh": "Sens. Angela Alsobrooks and Ron Wyden are asking what steps the Department of Health and Human Services has taken to mitigate risks from the markets."
     },
     {
-      "id": "5a1580e14854ad44",
-      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-      "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+      "id": "4a57b15c1ab288cc",
+      "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+      "summary": "The MP was allegedly run down by a car outside her electorate office four weeks ago.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-15T16:15:20.000Z",
+      "published_at": "2026-11-16T01:53:19.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Clothing factories shut in Bangladesh as workers strike over pay",
-      "summary_zh": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month."
+      "title_zh": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+      "summary_zh": "The MP was allegedly run down by a car outside her electorate office four weeks ago."
+    },
+    {
+      "id": "c59d02bbc4a1fed6",
+      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-15T22:00:13.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "summary_zh": "He has been showing support for injured veterans in Ukraine and praising the country's resilience."
+    },
+    {
+      "id": "276190f7aa029181",
+      "title": "Police ban protests near 10 schools and five universities in Paris",
+      "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-15T22:28:54.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Police ban protests near 10 schools and five universities in Paris",
+      "summary_zh": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says."
     },
     {
       "id": "a2ebddc00d5ee667",
@@ -339,7 +393,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
       "image_url": null,
-      "published_at": "2026-11-15T21:26:18.000Z",
+      "published_at": "2026-11-15T21:26:19.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -476,34 +530,74 @@
       "summary_zh": "The House Oversight Committee is calling for new limits on government officials’ use of prediction markets, including a potential ban."
     },
     {
-      "id": "da7be112b7f73a9e",
-      "title": "Trending Crypto: Macca the Gator (MACCA)",
-      "summary": "CoinGecko trending rank #829.",
+      "id": "90f955fa3bb13d86",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/macca-the-gator-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180282/large/logo.webp?1794683187",
-      "published_at": "2026-11-15T22:14:09.198Z",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-11-16T02:27:42.872Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "macca"
+        "btc"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Macca the Gator (MACCA)",
-      "summary_zh": "CoinGecko trending rank #829."
+      "title_zh": "Trending Crypto: Bitcoin (BTC)",
+      "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "b0ed0254df2f5a13",
+      "id": "3cf26ddda81c7630",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #122.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-11-16T02:27:42.872Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pengu"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary_zh": "CoinGecko trending rank #122."
+    },
+    {
+      "id": "128bc72e6e9ceec3",
+      "title": "Trending Crypto: Pearl (PEARL)",
+      "summary": "CoinGecko trending rank #89.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
+      "published_at": "2026-11-16T02:27:42.872Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pearl"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Pearl (PEARL)",
+      "summary_zh": "CoinGecko trending rank #89."
+    },
+    {
+      "id": "a9ad1f0bac162f48",
       "title": "Trending Crypto: Aster (ASTER)",
       "summary": "CoinGecko trending rank #56.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/aster-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/69040/large/_ASTER.png?1757326782",
-      "published_at": "2026-11-15T22:14:09.198Z",
+      "published_at": "2026-11-16T02:27:42.872Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -516,64 +610,24 @@
       "summary_zh": "CoinGecko trending rank #56."
     },
     {
-      "id": "36953dfe3eaaddab",
-      "title": "Trending Crypto: Gato The Cat (GATO)",
-      "summary": "CoinGecko trending rank #902.",
+      "id": "4d40526b35569725",
+      "title": "Trending Crypto: Sui (SUI)",
+      "summary": "CoinGecko trending rank #31.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/gato-the-cat",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180268/large/logo_GatoCat.jpg?1794740772",
-      "published_at": "2026-11-15T22:14:09.198Z",
+      "source_url": "https://www.coingecko.com/en/coins/sui",
+      "image_url": "https://coin-images.coingecko.com/coins/images/26375/large/sui-ocean-square.png?1727791290",
+      "published_at": "2026-11-16T02:27:42.872Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "gato"
+        "sui"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Gato The Cat (GATO)",
-      "summary_zh": "CoinGecko trending rank #902."
-    },
-    {
-      "id": "8d7a5ab1b7727ea4",
-      "title": "Trending Crypto: AudaCity (DACITYCOIN)",
-      "summary": "CoinGecko trending rank #929.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/audacity-4",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180213/large/5.png?1794332841",
-      "published_at": "2026-11-15T22:14:09.198Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "dacitycoin"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: AudaCity (DACITYCOIN)",
-      "summary_zh": "CoinGecko trending rank #929."
-    },
-    {
-      "id": "49c74139b8a3669a",
-      "title": "Trending Crypto: Identity.md (IMD)",
-      "summary": "CoinGecko trending rank #826.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/identity-md",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180271/large/logo-user.png?1794660261",
-      "published_at": "2026-11-15T22:14:09.198Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "imd"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Identity.md (IMD)",
-      "summary_zh": "CoinGecko trending rank #826."
+      "title_zh": "Trending Crypto: Sui (SUI)",
+      "summary_zh": "CoinGecko trending rank #31."
     },
     {
       "id": "46970244571adedd",
@@ -626,22 +680,6 @@
       "region": "global",
       "title_zh": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
       "summary_zh": "A secure operating system, a quantum microsystem platform, and a 5G interference-canceling algorithm are named among the year's most significant innovations."
-    },
-    {
-      "id": "f2d2c0716fd60cb1",
-      "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-      "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-15T15:57:03.000Z",
-      "importance_score": 52,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-      "summary_zh": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course."
     },
     {
       "id": "5527256d470e5742",
@@ -818,6 +856,25 @@
       "region": "global",
       "title_zh": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
       "summary_zh": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend."
+    },
+    {
+      "id": "8dc0deb7f77f2209",
+      "title": "Our new blog for science",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/our-new-blog-for-science",
+      "image_url": null,
+      "published_at": "2026-11-15T22:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global",
+      "title_zh": "Our new blog for science",
+      "summary_zh": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
     },
     {
       "id": "b1657b719d575776",
@@ -1084,6 +1141,40 @@
       "summary_zh": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks."
     },
     {
+      "id": "89fc2f002e075e4c",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-16T01:47:57.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary_zh": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
+    },
+    {
+      "id": "a9e40ddcb6fcba55",
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-15T23:52:10.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "summary_zh": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation."
+    },
+    {
       "id": "af65ff24ae368a17",
       "title": "South Korea's top scorer in tax accountancy exam admits cheating",
       "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
@@ -1118,22 +1209,22 @@
       "summary_zh": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour."
     },
     {
-      "id": "89fc2f002e075e4c",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "id": "0d0a715d707ce305",
+      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-15T14:56:21.000Z",
+      "published_at": "2026-11-15T22:57:27.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary_zh": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
+      "title_zh": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "summary_zh": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday."
     },
     {
       "id": "92b509749a5f3840",
@@ -1152,58 +1243,6 @@
       "region": "global",
       "title_zh": "Czechs rally against plan to switch funding of public media",
       "summary_zh": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs."
-    },
-    {
-      "id": "6ee27ad191758cbc",
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-15T13:42:58.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Iran targets US military base in Bahrain with drone attack",
-      "summary_zh": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz."
-    },
-    {
-      "id": "541615c4161c9f85",
-      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-      "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-15T11:06:32.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Three men sentenced to death in Jordan over fatal church mass shooting",
-      "summary_zh": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month."
-    },
-    {
-      "id": "78928ccca02d58e1",
-      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-      "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-15T19:20:53.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-      "summary_zh": "The US transport secretary says that normal air-traffic operations may not be restored until Monday."
     },
     {
       "id": "45bff7baa8cf5d19",
@@ -1541,43 +1580,6 @@
       "region": "global",
       "title_zh": "ChatGPT Plus for veterans and servicemembers",
       "summary_zh": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
-    },
-    {
-      "id": "0803084ede936685",
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "image_url": null,
-      "published_at": "2026-11-11T00:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "summary_zh": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
-    },
-    {
-      "id": "3e4eedfb1953d3fe",
-      "title": "Helping caregivers use AI in everyday life",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "image_url": null,
-      "published_at": "2026-11-10T12:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "Helping caregivers use AI in everyday life",
-      "summary_zh": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
     },
     {
       "id": "765e03c9954cecb2",
