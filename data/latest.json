@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T02:28:54.141Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation；【FINANCE】Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes；【FINANCE】In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates。",
+  "generated_at": "2026-11-16T10:20:05.299Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation；【FINANCE】In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates；【AI】Helping robots fit into the human workplace。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -40,26 +40,6 @@
       "summary_zh": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action."
     },
     {
-      "id": "519a48557070525c",
-      "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
-      "summary": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
-      "image_url": null,
-      "published_at": "2026-11-11T16:49:02.000Z",
-      "importance_score": 82,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "fed",
-        "inflation"
-      ],
-      "region": "global",
-      "title_zh": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
-      "summary_zh": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials."
-    },
-    {
       "id": "884db5dd43fd599a",
       "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
       "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
@@ -77,24 +57,6 @@
       "region": "global",
       "title_zh": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
       "summary_zh": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement."
-    },
-    {
-      "id": "b880f5bfc1e2d657",
-      "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
-      "summary": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settlement systems and those built using blockchain technology.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
-      "image_url": null,
-      "published_at": "2026-11-14T15:00:00.000Z",
-      "importance_score": 68,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
-      "summary_zh": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settlement systems and those built using blockchain technology."
     },
     {
       "id": "32517f59fd87b56c",
@@ -152,6 +114,45 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/24/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Shorting Leveraged ETFs: Role of Borrowing Costs and Rebalancing in Volatility-Decay Strategies [Quantpedia] Leveraged ET"
     },
     {
+      "id": "f541256b592a5d00",
+      "title": "Live news: Bitcoin posts sixth weekly loss as tech stocks and metals slide",
+      "summary": "Strategy and Strive fall sharply in premarket trading as a strong dollar and elevated Treasury yields add pressure on risk assets.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
+      "image_url": null,
+      "published_at": "2026-11-16T09:34:18.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin",
+        "stocks"
+      ],
+      "region": "global",
+      "title_zh": "Live news: Bitcoin posts sixth weekly loss as tech stocks and metals slide",
+      "summary_zh": "Strategy and Strive fall sharply in premarket trading as a strong dollar and elevated Treasury yields add pressure on risk assets."
+    },
+    {
+      "id": "e780f879871e33fd",
+      "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
+      "summary": "Luxor said just over a dozen customers were affected and will be reimbursed after their machines were redirected to another mining pool.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
+      "image_url": null,
+      "published_at": "2026-11-16T07:51:15.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
+      "summary_zh": "Luxor said just over a dozen customers were affected and will be reimbursed after their machines were redirected to another mining pool."
+    },
+    {
       "id": "b2b8701a640a584c",
       "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
       "summary": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks.",
@@ -170,6 +171,25 @@
       "region": "global",
       "title_zh": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
       "summary_zh": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks."
+    },
+    {
+      "id": "e48a2c295acd7879",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/lvmh-media-division-partnership",
+      "image_url": null,
+      "published_at": "2026-11-16T09:00:00.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global",
+      "title_zh": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "summary_zh": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
     },
     {
       "id": "8b6ad817817f5216",
@@ -317,30 +337,64 @@
       "summary_zh": "Sens. Angela Alsobrooks and Ron Wyden are asking what steps the Department of Health and Human Services has taken to mitigate risks from the markets."
     },
     {
-      "id": "4a57b15c1ab288cc",
-      "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
-      "summary": "The MP was allegedly run down by a car outside her electorate office four weeks ago.",
+      "id": "fa72294f29d5e6cb",
+      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-16T01:53:19.000Z",
+      "published_at": "2026-11-16T03:09:49.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Australian MP who lost both legs in alleged car attack discharged from hospital",
-      "summary_zh": "The MP was allegedly run down by a car outside her electorate office four weeks ago."
+      "title_zh": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "summary_zh": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago."
     },
     {
-      "id": "c59d02bbc4a1fed6",
-      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "id": "5a1580e14854ad44",
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-16T01:05:44.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "summary_zh": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month."
+    },
+    {
+      "id": "3f804e6c1881ab59",
+      "title": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
+      "summary": "The anti-drugs agency says the American attempted to leave the airport, abandoning his luggage with the drugs.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-16T07:24:45.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
+      "summary_zh": "The anti-drugs agency says the American attempted to leave the airport, abandoning his luggage with the drugs."
+    },
+    {
+      "id": "da6376adf483de0c",
+      "title": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
       "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-15T22:00:13.000Z",
+      "published_at": "2026-11-16T09:21:31.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -348,24 +402,42 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "title_zh": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
       "summary_zh": "He has been showing support for injured veterans in Ukraine and praising the country's resilience."
     },
     {
-      "id": "276190f7aa029181",
-      "title": "Police ban protests near 10 schools and five universities in Paris",
-      "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+      "id": "7bcb87a4ac624951",
+      "title": "They Defeated a Strongman. But Can They Run a Country?",
+      "summary": "Serbia’s student movement was deliberately leaderless and made group decisions to unseat Aleksandar Vucic. Now no one seems quite sure what happens next.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/16/world/europe/serbia-students-vucic-election.html",
       "image_url": null,
-      "published_at": "2026-11-15T22:28:54.000Z",
+      "published_at": "2026-11-16T05:01:15.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Police ban protests near 10 schools and five universities in Paris",
-      "summary_zh": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says."
+      "title_zh": "They Defeated a Strongman. But Can They Run a Country?",
+      "summary_zh": "Serbia’s student movement was deliberately leaderless and made group decisions to unseat Aleksandar Vucic. Now no one seems quite sure what happens next."
+    },
+    {
+      "id": "073d3fb67b808132",
+      "title": "Searching for the Last Stoats of Waiheke Island",
+      "summary": "Can the tourist destination become the first urban island to rid itself of the stoat — an introduced predator that has ravaged New Zealand’s endemic wildlife?",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoats.html",
+      "image_url": null,
+      "published_at": "2026-11-16T05:01:22.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Searching for the Last Stoats of Waiheke Island",
+      "summary_zh": "Can the tourist destination become the first urban island to rid itself of the stoat — an introduced predator that has ravaged New Zealand’s endemic wildlife?"
     },
     {
       "id": "a2ebddc00d5ee667",
@@ -405,41 +477,59 @@
       "summary_zh": "It’s a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the momentum in country’s civil war was tilting toward the Iran-backed Houthis."
     },
     {
-      "id": "b1dec02bf4867b44",
-      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-      "summary": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
+      "id": "d534968421d9f85a",
+      "title": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead",
+      "summary": "Your look at what’s coming in the week starting Nov. 16.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+      "source_url": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead",
       "image_url": null,
-      "published_at": "2026-11-15T02:50:57.000Z",
+      "published_at": "2026-11-16T09:23:07.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
-        "crypto",
-        "etf"
-      ],
-      "region": "global",
-      "title_zh": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-      "summary_zh": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets."
-    },
-    {
-      "id": "33efe551a36fd205",
-      "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
-      "summary": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
-      "image_url": null,
-      "published_at": "2026-11-14T15:38:27.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
+        "ai",
         "crypto"
       ],
       "region": "global",
-      "title_zh": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
-      "summary_zh": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market."
+      "title_zh": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead",
+      "summary_zh": "Your look at what’s coming in the week starting Nov. 16."
+    },
+    {
+      "id": "56afbbeffe24b7ec",
+      "title": "Cardano holders vote down $5 million bid to buy warehouse copper",
+      "summary": "Toto Finance’s 22 million ADA treasury request expired Sunday with about 20 million ADA in favor, and none of Cardano’s seven constitutional committee members voted yes.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
+      "image_url": null,
+      "published_at": "2026-11-16T06:27:42.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Cardano holders vote down $5 million bid to buy warehouse copper",
+      "summary_zh": "Toto Finance’s 22 million ADA treasury request expired Sunday with about 20 million ADA in favor, and none of Cardano’s seven constitutional committee members voted yes."
+    },
+    {
+      "id": "d0c67d68bc7117ab",
+      "title": "Luxor hit by AI-enabled attack that redirected client hashrate, says vulnerability patched",
+      "summary": "The company said it patched the vulnerability within two hours and that no data was leaked or exfiltrated.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810",
+      "image_url": null,
+      "published_at": "2026-11-16T04:35:34.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Luxor hit by AI-enabled attack that redirected client hashrate, says vulnerability patched",
+      "summary_zh": "The company said it patched the vulnerability within two hours and that no data was leaked or exfiltrated."
     },
     {
       "id": "1d305b9ddb350d72",
@@ -494,50 +584,54 @@
       "summary_zh": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more."
     },
     {
-      "id": "af9964b5e67710db",
-      "title": "Meta tests prediction market app using ‘cred’ points instead of cash: WSJ",
-      "summary": "Meta employees are testing Takes, a prediction app that rewards correct calls with credibility points.",
+      "id": "0375961129d9faca",
+      "title": "Trending Crypto: Macca the Gator (MACCA)",
+      "summary": "CoinGecko trending rank #828.",
       "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215",
-      "image_url": null,
-      "published_at": "2026-11-13T20:55:26.000Z",
-      "importance_score": 56,
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/macca-the-gator-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180282/large/logo.webp?1794683187",
+      "published_at": "2026-11-16T10:18:52.027Z",
+      "importance_score": 55,
       "sentiment": 0,
       "tags": [
-        "war"
+        "crypto",
+        "trending",
+        "macca"
       ],
       "region": "global",
-      "title_zh": "Meta tests prediction market app using ‘cred’ points instead of cash: WSJ",
-      "summary_zh": "Meta employees are testing Takes, a prediction app that rewards correct calls with credibility points."
+      "title_zh": "Trending Crypto: Macca the Gator (MACCA)",
+      "summary_zh": "CoinGecko trending rank #828."
     },
     {
-      "id": "b729954a7743a95b",
-      "title": "House Oversight Chair calls for possible ban on government officials’ prediction market bets over insider trading concerns",
-      "summary": "The House Oversight Committee is calling for new limits on government officials’ use of prediction markets, including a potential ban.",
+      "id": "cdb175f424095f30",
+      "title": "Trending Crypto: Gato The Cat (GATO)",
+      "summary": "CoinGecko trending rank #915.",
       "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207",
-      "image_url": null,
-      "published_at": "2026-11-13T19:09:12.000Z",
-      "importance_score": 56,
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/gato-the-cat",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180268/large/logo_GatoCat.jpg?1794740772",
+      "published_at": "2026-11-16T10:18:52.027Z",
+      "importance_score": 55,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "crypto",
+        "trending",
+        "gato"
       ],
       "region": "global",
-      "title_zh": "House Oversight Chair calls for possible ban on government officials’ prediction market bets over insider trading concerns",
-      "summary_zh": "The House Oversight Committee is calling for new limits on government officials’ use of prediction markets, including a potential ban."
+      "title_zh": "Trending Crypto: Gato The Cat (GATO)",
+      "summary_zh": "CoinGecko trending rank #915."
     },
     {
-      "id": "90f955fa3bb13d86",
+      "id": "3aa290017c91c4ad",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-16T02:27:42.872Z",
+      "published_at": "2026-11-16T10:18:52.027Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -550,34 +644,34 @@
       "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "3cf26ddda81c7630",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #122.",
+      "id": "f8e51c313cddef50",
+      "title": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary": "CoinGecko trending rank #10.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-11-16T02:27:42.872Z",
+      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
+      "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
+      "published_at": "2026-11-16T10:18:52.027Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pengu"
+        "hype"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #122."
+      "title_zh": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary_zh": "CoinGecko trending rank #10."
     },
     {
-      "id": "128bc72e6e9ceec3",
+      "id": "298b0223a185ed05",
       "title": "Trending Crypto: Pearl (PEARL)",
       "summary": "CoinGecko trending rank #89.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pearl-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-11-16T02:27:42.872Z",
+      "published_at": "2026-11-16T10:18:52.027Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -588,46 +682,6 @@
       "region": "global",
       "title_zh": "Trending Crypto: Pearl (PEARL)",
       "summary_zh": "CoinGecko trending rank #89."
-    },
-    {
-      "id": "a9ad1f0bac162f48",
-      "title": "Trending Crypto: Aster (ASTER)",
-      "summary": "CoinGecko trending rank #56.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/aster-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/69040/large/_ASTER.png?1757326782",
-      "published_at": "2026-11-16T02:27:42.872Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "aster"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Aster (ASTER)",
-      "summary_zh": "CoinGecko trending rank #56."
-    },
-    {
-      "id": "4d40526b35569725",
-      "title": "Trending Crypto: Sui (SUI)",
-      "summary": "CoinGecko trending rank #31.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/sui",
-      "image_url": "https://coin-images.coingecko.com/coins/images/26375/large/sui-ocean-square.png?1727791290",
-      "published_at": "2026-11-16T02:27:42.872Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "sui"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Sui (SUI)",
-      "summary_zh": "CoinGecko trending rank #31."
     },
     {
       "id": "46970244571adedd",
@@ -698,6 +752,22 @@
       "summary_zh": "Over more than a quarter-century, I’ve watched Europe’s politics become more like Italy’s, with all the resulting instability, as the far right came in from the cold."
     },
     {
+      "id": "fffeef1d5b0fc45f",
+      "title": "Recent Quant Links from Quantocracy as of 11/15/2026",
+      "summary": "This is a summary of links recently featured on Quantocracy as of Sunday, 11/15/2026. To see our most recent links, visit the Quant Mashup. Read on readers! The Capacity of Equity Anomalies [Quantpedia] Every practitioner knows the pitch: a strategy with a Sharpe ratio of 1 and a",
+      "category": "STRATEGY",
+      "source_name": "Quantocracy",
+      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-11152026/",
+      "image_url": null,
+      "published_at": "2026-11-16T06:15:05.000Z",
+      "importance_score": 52,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Recent Quant Links from Quantocracy as of 11/15/2026",
+      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 11/15/2026. To see our most recent links, visit the Quant Mashup. Read on readers! The Capacity of Equity Anomalies [Quantpedia] Every practitioner knows the pitch: a strategy with a Sharpe ratio of 1 and a"
+    },
+    {
       "id": "70a399c1ffe113c2",
       "title": "Recent Quant Links from Quantocracy as of 11/08/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Sunday, 11/08/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Correlation Acceleration: Detecting Market Stress Through Rising ETF Correlations [Quantpedia] During periods of market str",
@@ -748,95 +818,93 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Thursday, 10/22/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Momentum timed with the rate of change (ROC) on the S&P 500’s ten steepest trends [Quanter Lab] Momentum is one of the ol"
     },
     {
-      "id": "4cab9231c24f395b",
-      "title": "Recent Quant Links from Quantocracy as of 10/18/2026",
-      "summary": "This is a summary of links recently featured on Quantocracy as of Sunday, 10/18/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Less Wrong [Quantitativo] The biggest risk is that you have a losing strategy when you think you have a winning one. Jeff Y",
-      "category": "STRATEGY",
-      "source_name": "Quantocracy",
-      "source_url": "https://quantocracy.com/recent-quant-links-from-quantocracy-as-of-10182026/",
-      "image_url": null,
-      "published_at": "2026-10-19T05:15:04.000Z",
-      "importance_score": 52,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Recent Quant Links from Quantocracy as of 10/18/2026",
-      "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 10/18/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Less Wrong [Quantitativo] The biggest risk is that you have a losing strategy when you think you have a winning one. Jeff Y"
-    },
-    {
-      "id": "d1e5924b3af128cf",
-      "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
-      "summary": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
+      "id": "08f60481e8ad1b99",
+      "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
+      "summary": "A proposed system would combine bulky digital signatures into a shared proof, helping protect wallets without making every payment much more expensive.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+      "source_url": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
       "image_url": null,
-      "published_at": "2026-11-14T16:33:29.000Z",
+      "published_at": "2026-11-16T08:18:03.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
-      "summary_zh": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check."
-    },
-    {
-      "id": "b549010aa1a48864",
-      "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-      "summary": "Decentralized Finance total value locked on MegaETH dropped significantly from over $245 million to $8.8 million.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
-      "image_url": null,
-      "published_at": "2026-11-14T16:33:23.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
         "ethereum"
       ],
       "region": "global",
-      "title_zh": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-      "summary_zh": "Decentralized Finance total value locked on MegaETH dropped significantly from over $245 million to $8.8 million."
+      "title_zh": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
+      "summary_zh": "A proposed system would combine bulky digital signatures into a shared proof, helping protect wallets without making every payment much more expensive."
     },
     {
-      "id": "ae5951612a972907",
-      "title": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
-      "summary": "Britain could use bitcoin mining to absorb surplus Scottish wind power and reduce payments to wind farms to halt generation, according to a Bitcoin Policy Institute report.",
+      "id": "d473e02be7646675",
+      "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
+      "summary": "The $60,000 put has replaced the $100,000 call as bitcoin’s biggest options bet on Deribit, with $900 million in open interest after the recent slide.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
+      "source_url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
       "image_url": null,
-      "published_at": "2026-11-14T13:00:00.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin",
-        "policy"
-      ],
-      "region": "global",
-      "title_zh": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
-      "summary_zh": "Britain could use bitcoin mining to absorb surplus Scottish wind power and reduce payments to wind farms to halt generation, according to a Bitcoin Policy Institute report."
-    },
-    {
-      "id": "f96bc7107795b220",
-      "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
-      "summary": "Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
-      "image_url": null,
-      "published_at": "2026-11-14T12:57:00.000Z",
+      "published_at": "2026-11-16T05:01:17.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
         "bitcoin"
       ],
       "region": "global",
-      "title_zh": "A behind the scenes force may amplify bitcoin and ether price volatility",
-      "summary_zh": "Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility."
+      "title_zh": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
+      "summary_zh": "The $60,000 put has replaced the $100,000 call as bitcoin’s biggest options bet on Deribit, with $900 million in open interest after the recent slide."
+    },
+    {
+      "id": "ab2a203297f1a4ac",
+      "title": "DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore",
+      "summary": "Ant International is their first client, deploying the service for treasury and liquidity management across its entities in both markets.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854",
+      "image_url": null,
+      "published_at": "2026-11-16T09:26:39.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore",
+      "summary_zh": "Ant International is their first client, deploying the service for treasury and liquidity management across its entities in both markets."
+    },
+    {
+      "id": "5561ffd628d64d1f",
+      "title": "CoW Swap goes live on Solana with intent-based trading",
+      "summary": "CoW Swap has launched trading directly on Solana after previously supporting cross-chain swaps into the network.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840",
+      "image_url": null,
+      "published_at": "2026-11-16T09:05:02.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "CoW Swap goes live on Solana with intent-based trading",
+      "summary_zh": "CoW Swap has launched trading directly on Solana after previously supporting cross-chain swaps into the network."
+    },
+    {
+      "id": "af905d0391c8f858",
+      "title": "South Korean fintech giant Toss to launch in-app non-custodial crypto wallet: report",
+      "summary": "The firm is also said to be preparing for a VASP license for a business expansion to support stablecoin payments.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-16-toss-non-custodial-crypto-wallet-440847",
+      "image_url": null,
+      "published_at": "2026-11-16T08:52:33.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "South Korean fintech giant Toss to launch in-app non-custodial crypto wallet: report",
+      "summary_zh": "The firm is also said to be preparing for a VASP license for a business expansion to support stablecoin payments."
     },
     {
       "id": "a7c75195cd24c12b",
@@ -1071,6 +1139,24 @@
       "summary_zh": "MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected."
     },
     {
+      "id": "149bda0ca9ef4a12",
+      "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+      "summary": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+      "image_url": null,
+      "published_at": "2026-11-16T03:53:59.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+      "summary_zh": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say."
+    },
+    {
       "id": "98a7f8d118d686ef",
       "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
       "summary": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
@@ -1123,22 +1209,38 @@
       "summary_zh": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy."
     },
     {
-      "id": "63245be9afffd582",
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+      "id": "abf0847144b6660e",
+      "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-15T19:32:39.000Z",
+      "published_at": "2026-11-16T07:23:23.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "summary_zh": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks."
+      "title_zh": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+      "summary_zh": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden."
+    },
+    {
+      "id": "f0b830d95a67bd00",
+      "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+      "summary": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-16T08:56:04.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+      "summary_zh": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents."
     },
     {
       "id": "89fc2f002e075e4c",
@@ -1159,90 +1261,72 @@
       "summary_zh": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
     },
     {
-      "id": "a9e40ddcb6fcba55",
-      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "id": "171c8be196e04418",
+      "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
       "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-15T23:52:10.000Z",
+      "published_at": "2026-11-16T03:21:56.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "title_zh": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
       "summary_zh": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation."
     },
     {
-      "id": "af65ff24ae368a17",
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+      "id": "63245be9afffd582",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-15T13:37:45.000Z",
+      "published_at": "2026-11-15T19:32:39.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "summary_zh": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test."
+      "title_zh": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "summary_zh": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks."
     },
     {
-      "id": "c20f23dc6ae11525",
-      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
-      "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+      "id": "83dcf57fcce773eb",
+      "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+      "summary": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-15T18:38:11.000Z",
+      "published_at": "2026-11-16T05:06:59.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Wife of assassinated ex-Haitian leader registers for presidential election",
+      "summary_zh": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021."
+    },
+    {
+      "id": "47a1cb7d71c47e43",
+      "title": "A Year On, Mark Carney of Canada Returns to Asia a Political Star",
+      "summary": "Canada’s leader is courting Europe, but the bigger payoff might be in China, where he will share summit stages with Xi Jinping, Vladimir Putin and President Trump.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
+      "image_url": null,
+      "published_at": "2026-11-16T09:38:53.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Pope Leo rides in helicopter cockpit during Peru trip",
-      "summary_zh": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour."
-    },
-    {
-      "id": "0d0a715d707ce305",
-      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
-      "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-15T22:57:27.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
-      "summary_zh": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday."
-    },
-    {
-      "id": "92b509749a5f3840",
-      "title": "Czechs rally against plan to switch funding of public media",
-      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-15T21:03:40.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Czechs rally against plan to switch funding of public media",
-      "summary_zh": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs."
+      "title_zh": "A Year On, Mark Carney of Canada Returns to Asia a Political Star",
+      "summary_zh": "Canada’s leader is courting Europe, but the bigger payoff might be in China, where he will share summit stages with Xi Jinping, Vladimir Putin and President Trump."
     },
     {
       "id": "45bff7baa8cf5d19",
@@ -1317,58 +1401,6 @@
       "summary_zh": "Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region."
     },
     {
-      "id": "d99879497ecf6c69",
-      "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-      "summary": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those in France.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-      "image_url": null,
-      "published_at": "2026-11-14T18:40:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-      "summary_zh": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those in France."
-    },
-    {
-      "id": "c5bd80e5d81e5fd8",
-      "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
-      "summary": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
-      "image_url": null,
-      "published_at": "2026-11-14T19:23:20.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
-      "summary_zh": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies."
-    },
-    {
-      "id": "aa0cab59aadedfa5",
-      "title": "Ukraine’s Starshield Access Is Being Restricted Again, Zelensky Says",
-      "summary": "President Volodymyr Zelensky said the system, which Ukraine uses to guide drones, was being throttled over Russian-occupied territory. SpaceX, its developer, has denied the claim.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
-      "image_url": null,
-      "published_at": "2026-11-14T13:57:37.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Ukraine’s Starshield Access Is Being Restricted Again, Zelensky Says",
-      "summary_zh": "President Volodymyr Zelensky said the system, which Ukraine uses to guide drones, was being throttled over Russian-occupied territory. SpaceX, its developer, has denied the claim."
-    },
-    {
       "id": "1ab783650e2d74ea",
       "title": "Recent Quant Links from Quantocracy as of 11/09/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a ",
@@ -1385,6 +1417,43 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 11/09/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a"
+    },
+    {
+      "id": "22e286dc9a81bb55",
+      "title": "JPMorgan and DBS let clients move dollars across borders on weekends",
+      "summary": "DBS and JPMorgan have connected their blockchain-based deposit networks, letting approved clients move tokenized U.S. dollars between Singapore and the U.S. at any time, including weekends.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
+      "image_url": null,
+      "published_at": "2026-11-16T08:46:00.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "JPMorgan and DBS let clients move dollars across borders on weekends",
+      "summary_zh": "DBS and JPMorgan have connected their blockchain-based deposit networks, letting approved clients move tokenized U.S. dollars between Singapore and the U.S. at any time, including weekends."
+    },
+    {
+      "id": "a5f1265365ac4e47",
+      "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
+      "summary": "The Wall Street Journal reported that the move aims to help the firms expand overseas and compete with global rivals, though nothing has been confirmed.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
+      "image_url": null,
+      "published_at": "2026-11-16T06:01:41.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global",
+      "title_zh": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
+      "summary_zh": "The Wall Street Journal reported that the move aims to help the firms expand overseas and compete with global rivals, though nothing has been confirmed."
     },
     {
       "id": "9efa0fd920a3e3bb",
@@ -1423,22 +1492,6 @@
       "summary_zh": "With ascendent Democrats ready to pursue their own crypto and tech agendas next year, the final weeks of this session probably won't produce crypto surprises."
     },
     {
-      "id": "851a710a30657d1b",
-      "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-      "summary": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
-      "image_url": null,
-      "published_at": "2026-11-14T04:30:00.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-      "summary_zh": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May."
-    },
-    {
       "id": "85e86b3e2e6ee580",
       "title": "Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing",
       "summary": "A public BitGo code change on July 27 added support for Cash Cat on Robinhood Chain ten days before Robinhood announced the listing.",
@@ -1455,42 +1508,6 @@
       "region": "global",
       "title_zh": "Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing",
       "summary_zh": "A public BitGo code change on July 27 added support for Cash Cat on Robinhood Chain ten days before Robinhood announced the listing."
-    },
-    {
-      "id": "08ab7dcdb19779d4",
-      "title": "MEGA cuts 20% of workforce as former MegaETH Foundation restructures",
-      "summary": "MEGA, formerly the MegaETH Foundation, laid off 20% of staff days after its rebrand and $30 million push into AI inference products.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-13-megaeth-mega-layoffs-20-percent-restructuring-440206",
-      "image_url": null,
-      "published_at": "2026-11-13T19:26:53.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "MEGA cuts 20% of workforce as former MegaETH Foundation restructures",
-      "summary_zh": "MEGA, formerly the MegaETH Foundation, laid off 20% of staff days after its rebrand and $30 million push into AI inference products."
-    },
-    {
-      "id": "0cb736fce15a0711",
-      "title": "CFTC’s Selig accuses states of trying to ‘lock up’ prediction market founders",
-      "summary": "CFTC Chairman Michael Selig says disputes over whether event contracts are gambling shouldn’t put executives at risk of jail.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199",
-      "image_url": null,
-      "published_at": "2026-11-13T18:51:03.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "CFTC’s Selig accuses states of trying to ‘lock up’ prediction market founders",
-      "summary_zh": "CFTC Chairman Michael Selig says disputes over whether event contracts are gambling shouldn’t put executives at risk of jail."
     },
     {
       "id": "bfd4bfab66babff5",
@@ -1562,24 +1579,6 @@
       "region": "global",
       "title_zh": "Gilbert + Tobin rethinks the business of law with AI",
       "summary_zh": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
-    },
-    {
-      "id": "a7a0a0dfc5a626ae",
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "image_url": null,
-      "published_at": "2026-11-11T08:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "ChatGPT Plus for veterans and servicemembers",
-      "summary_zh": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
     },
     {
       "id": "765e03c9954cecb2",
