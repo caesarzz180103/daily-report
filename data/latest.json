@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-18T12:26:02.011Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike；【CRYPTO】Strategy stock could plunge 76% to $23, chart analyst warns；【FINANCE】JPMorgan Chase says temporary software bug is affecting consumer banking。",
+  "generated_at": "2026-11-18T20:58:49.061Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike；【FINANCE】Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show；【CRYPTO】Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
     "feed_failed": 0,
     "failed_sources": [],
-    "translated_items": 1,
+    "translated_items": 2,
     "translation_target": "zh-CN",
     "version": "1.3.0"
   },
@@ -19,6 +19,46 @@
     "FINANCE": 10
   },
   "items": [
+    {
+      "id": "5a732669b2be5cd4",
+      "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+      "summary": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+      "image_url": null,
+      "published_at": "2026-11-18T15:13:39.000Z",
+      "importance_score": 94,
+      "sentiment": 0,
+      "tags": [
+        "fed",
+        "inflation"
+      ],
+      "region": "global",
+      "title_zh": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+      "summary_zh": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance."
+    },
+    {
+      "id": "a5d02d3508dccb75",
+      "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+      "summary": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+      "image_url": null,
+      "published_at": "2026-11-18T19:41:59.000Z",
+      "importance_score": 82,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "fed",
+        "inflation",
+        "policy"
+      ],
+      "region": "global",
+      "title_zh": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+      "summary_zh": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%."
+    },
     {
       "id": "3d9788c3af69c1cd",
       "title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
@@ -39,24 +79,20 @@
       "summary_zh": "Bitcoin held near $64,000 as gold fell 2%, lifting the ratio between the two above its 200-day moving average and extending a series of higher lows since March."
     },
     {
-      "id": "2d946b9ee648fd89",
-      "title": "Strategy stock could plunge 76% to $23, chart analyst warns",
-      "summary": "Aksel Kibar, who has tracked Bitcoin’s price action since at least 2018, made the bearish call, citing a still-active head-and-shoulders pattern on MicroStrategy’s (MSTR) daily chart.",
+      "id": "2c30c9c6651df9ed",
+      "title": "Backpack secures NFA approval, completing licensing stack for US derivatives launch",
+      "summary": "The company has also received approval from the CFTC to operate as a designated contract market and derivatives clearing organization.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/18/strategy-stock-could-crash-76-to-usd23-chart-analyst-warns",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980",
       "image_url": null,
-      "published_at": "2026-11-18T09:31:41.000Z",
+      "published_at": "2026-11-18T14:49:00.000Z",
       "importance_score": 74,
       "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin",
-        "war"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Strategy stock could plunge 76% to $23, chart analyst warns",
-      "summary_zh": "Aksel Kibar, who has tracked Bitcoin’s price action since at least 2018, made the bearish call, citing a still-active head-and-shoulders pattern on MicroStrategy’s (MSTR) daily chart."
+      "title_zh": "Backpack secures NFA approval, completing licensing stack for US derivatives launch",
+      "summary_zh": "The company has also received approval from the CFTC to operate as a designated contract market and derivatives clearing organization."
     },
     {
       "id": "53e3366c8e8e2ba1",
@@ -75,85 +111,6 @@
       "region": "global",
       "title_zh": "JPMorgan Chase says temporary software bug is affecting consumer banking",
       "summary_zh": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time."
-    },
-    {
-      "id": "945d7fc5be428e25",
-      "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
-      "summary": "",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
-      "image_url": null,
-      "published_at": "2026-11-16T18:46:07.000Z",
-      "importance_score": 70,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "fed",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
-      "summary_zh": ""
-    },
-    {
-      "id": "3d7a27862534dda0",
-      "title": "Tracking China’s Intensifying War of Words Against Japan",
-      "summary": "Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
-      "image_url": null,
-      "published_at": "2026-11-18T08:14:28.000Z",
-      "importance_score": 70,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Tracking China’s Intensifying War of Words Against Japan",
-      "summary_zh": "Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis."
-    },
-    {
-      "id": "17e22cdf9560422e",
-      "title": "Google finds self-running AI hacking tool with Russian comments in its files",
-      "summary": "Google spots an AI that can find and exploit software flaws on its own, no human needed.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files",
-      "image_url": null,
-      "published_at": "2026-11-18T07:37:59.000Z",
-      "importance_score": 68,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "google",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Google finds self-running AI hacking tool with Russian comments in its files",
-      "summary_zh": "Google spots an AI that can find and exploit software flaws on its own, no human needed."
-    },
-    {
-      "id": "ec23fe42e7928576",
-      "title": "Live updates: Bitcoin lower even as Nasdaq rises on Nvidia relief",
-      "summary": "XRP edged toward $1, and SOL rose 3%, while a Talos report showed crypto’s favorite carry trade now pays about the same as U.S. Treasuries.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
-      "image_url": null,
-      "published_at": "2026-11-18T07:27:48.000Z",
-      "importance_score": 68,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "bitcoin",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Live updates: Bitcoin lower even as Nasdaq rises on Nvidia relief",
-      "summary_zh": "XRP edged toward $1, and SOL rose 3%, while a Talos report showed crypto’s favorite carry trade now pays about the same as U.S. Treasuries."
     },
     {
       "id": "761e1e3591498e15",
@@ -211,6 +168,22 @@
       "summary_zh": "MIT scientists developed a training method to generate models that simulate the effects of human activities on climate much more quickly than other approaches."
     },
     {
+      "id": "2d475102819b9151",
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-18T20:14:57.000Z",
+      "importance_score": 64,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "summary_zh": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation."
+    },
+    {
       "id": "76b381ebd56e0bce",
       "title": "Recent Quant Links from Quantocracy as of 10/24/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/24/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Shorting Leveraged ETFs: Role of Borrowing Costs and Rebalancing in Volatility-Decay Strategies [Quantpedia] Leveraged ET",
@@ -227,6 +200,26 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/24/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/24/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Shorting Leveraged ETFs: Role of Borrowing Costs and Rebalancing in Volatility-Decay Strategies [Quantpedia] Leveraged ET"
+    },
+    {
+      "id": "ca88ee5effba6f0c",
+      "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
+      "summary": "The bitcoin miner is taking on borrowing tied to an Ohio power plant as it shifts more of its business toward AI infrastructure.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
+      "image_url": null,
+      "published_at": "2026-11-18T12:53:34.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
+      "summary_zh": "The bitcoin miner is taking on borrowing tied to an Ohio power plant as it shifts more of its business toward AI infrastructure."
     },
     {
       "id": "afb6928a23717df3",
@@ -246,61 +239,6 @@
       "region": "global",
       "title_zh": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
       "summary_zh": "Bitcoin (BTC) is down 1.1% since midnight UTC at around $64,100, failing to keep pace with rising stock index futures after Nvidia beat earnings."
-    },
-    {
-      "id": "d095510b1751660b",
-      "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
-      "summary": "A federal judge acquitted Anton and James Peraire-Bueno, ruling that their 2023 trade against Ethereum trading bots involved no lie that anyone relied on, and closing the U.S. government’s first criminal case over the practice known as MEV.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
-      "image_url": null,
-      "published_at": "2026-11-18T05:30:10.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "ethereum",
-        "fed"
-      ],
-      "region": "global",
-      "title_zh": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
-      "summary_zh": "A federal judge acquitted Anton and James Peraire-Bueno, ruling that their 2023 trade against Ethereum trading bots involved no lie that anyone relied on, and closing the U.S. government’s first criminal case over the practice known as MEV."
-    },
-    {
-      "id": "227fa27640ce4d39",
-      "title": "World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements",
-      "summary": "The initiative plans to initially focus on an intermediated and interoperable stablecoin-based payment model.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924",
-      "image_url": null,
-      "published_at": "2026-11-18T04:21:02.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements",
-      "summary_zh": "The initiative plans to initially focus on an intermediated and interoperable stablecoin-based payment model."
-    },
-    {
-      "id": "128a931249fba6f9",
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/token-pooling",
-      "image_url": null,
-      "published_at": "2026-11-11T00:00:00.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "summary_zh": ""
     },
     {
       "id": "4054ccdc78910169",
@@ -373,94 +311,60 @@
       "summary_zh": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America."
     },
     {
-      "id": "191765d183f4782d",
-      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-      "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+      "id": "413293781c1908e7",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-16T12:13:23.000Z",
+      "published_at": "2026-11-18T17:00:40.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
         "ai",
-        "etf",
-        "stocks"
+        "war"
       ],
       "region": "global",
-      "title_zh": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-      "summary_zh": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers."
+      "title_zh": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "summary_zh": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones."
     },
     {
-      "id": "fe97a3da541de674",
-      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "id": "30cd9ff62882dc91",
+      "title": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
+      "summary": "Kuwait and Bahrain said they were targeted on Wednesday, a sign of how the Middle East is stuck in limbo between peace and full-blown war.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
       "image_url": null,
-      "published_at": "2026-11-18T01:18:18.000Z",
+      "published_at": "2026-11-18T15:37:11.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "ai",
+        "war"
       ],
       "region": "global",
-      "title_zh": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-      "summary_zh": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang."
+      "title_zh": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
+      "summary_zh": "Kuwait and Bahrain said they were targeted on Wednesday, a sign of how the Middle East is stuck in limbo between peace and full-blown war."
     },
     {
-      "id": "a97216ba4c455fd9",
-      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
-      "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
+      "id": "bcff05fa7caeb797",
+      "title": "Russia Vows to Rebuild Destroyed Crimea Bridge. It Could Take Years.",
+      "summary": "The steel arch that is now gone took about two years to produce, assemble and install. Replacing it will be complicated, if possible at all in wartime.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html",
       "image_url": null,
-      "published_at": "2026-11-18T04:57:06.000Z",
+      "published_at": "2026-11-18T18:38:15.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "war"
       ],
       "region": "global",
-      "title_zh": "Rubio says US not 'under systemic attack' after series of tech outages",
-      "summary_zh": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected."
-    },
-    {
-      "id": "b0b8fa1e06d11f4e",
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-17T21:24:35.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "summary_zh": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan."
-    },
-    {
-      "id": "458f65b2f78f8aee",
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-17T20:30:20.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "summary_zh": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked."
+      "title_zh": "Russia Vows to Rebuild Destroyed Crimea Bridge. It Could Take Years.",
+      "summary_zh": "The steel arch that is now gone took about two years to produce, assemble and install. Replacing it will be complicated, if possible at all in wartime."
     },
     {
       "id": "43149418960f26fb",
@@ -500,36 +404,97 @@
       "summary_zh": "The landmark deal will also go toward remedying human rights problems caused by the long-closed Papua New Guinea mine."
     },
     {
-      "id": "49def289f7c9e2b9",
-      "title": "Boris Grebenshchikov, a Russian Rock Musician With a ‘Need to Rebel’",
-      "summary": "In the 1980s, Boris Grebenshchikov led a revered Russian underground band. A rereleased documentary from that era is bringing new attention to his work.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/18/world/europe/russia-rock-music-boris-grebenshchikov.html",
+      "id": "563e17862373abba",
+      "title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
+      "summary": "A single breach moved billions out of Binance in minutes, exposing how much client money sits with the venue that trades it. Darren Jordan of Komainu argues institutions should keep trading and custody separate, as traditional markets have for decades, and sets out the questions ",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault",
       "image_url": null,
-      "published_at": "2026-11-18T11:51:05.000Z",
-      "importance_score": 58,
+      "published_at": "2026-11-18T16:02:54.000Z",
+      "importance_score": 56,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai",
+        "crypto"
+      ],
       "region": "global",
-      "title_zh": "Boris Grebenshchikov, a Russian Rock Musician With a ‘Need to Rebel’",
-      "summary_zh": "In the 1980s, Boris Grebenshchikov led a revered Russian underground band. A rereleased documentary from that era is bringing new attention to his work."
+      "title_zh": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
+      "summary_zh": "A single breach moved billions out of Binance in minutes, exposing how much client money sits with the venue that trades it. Darren Jordan of Komainu argues institutions should keep trading and custody separate, as traditional markets have for decades, and sets out the questions"
     },
     {
-      "id": "bf027e8721d39932",
-      "title": "Cash Hidden in Forests? Hungary Goes After Corruption Under Orban",
-      "summary": "The new government says $20 million worth of bank notes uncovered in farmhouses and woods are the “tip of the iceberg.” Allies of Viktor Orban, the former prime minister, call it a witch hunt.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/17/world/europe/hungary-magyar-orban-corruption-cash.html",
+      "id": "91dec7e40a991ecf",
+      "title": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
+      "summary": "As Hong Kong pushes banks to use AI to combat crypto crime, experts say the technology must detect suspicious transfers without putting customer funds at risk.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
       "image_url": null,
-      "published_at": "2026-11-17T16:00:01.000Z",
-      "importance_score": 58,
+      "published_at": "2026-11-18T15:23:18.000Z",
+      "importance_score": 56,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai",
+        "crypto"
+      ],
       "region": "global",
-      "title_zh": "Cash Hidden in Forests? Hungary Goes After Corruption Under Orban",
-      "summary_zh": "The new government says $20 million worth of bank notes uncovered in farmhouses and woods are the “tip of the iceberg.” Allies of Viktor Orban, the former prime minister, call it a witch hunt."
+      "title_zh": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
+      "summary_zh": "As Hong Kong pushes banks to use AI to combat crypto crime, experts say the technology must detect suspicious transfers without putting customer funds at risk."
+    },
+    {
+      "id": "bfbf5e7543d92962",
+      "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
+      "summary": "The Singapore bank will let institutional clients buy and redeem USDC directly as banks across Asia develop their own blockchain payment systems.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia",
+      "image_url": null,
+      "published_at": "2026-11-18T12:25:14.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Circle turns to DBS as banks build rival digital payment systems across Asia",
+      "summary_zh": "The Singapore bank will let institutional clients buy and redeem USDC directly as banks across Asia develop their own blockchain payment systems."
+    },
+    {
+      "id": "197a4faea45f5842",
+      "title": "Binance obtains $6.5 billion freezing order from Abu Dhabi court in bid to recover stolen crypto",
+      "summary": "Binance has obtained a $6.5 billion worldwide freezing order from the Abu Dhabi Global Market Courts as it seeks to recover crypto stolen in October hack.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491",
+      "image_url": null,
+      "published_at": "2026-11-18T19:40:25.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Binance obtains $6.5 billion freezing order from Abu Dhabi court in bid to recover stolen crypto",
+      "summary_zh": "Binance has obtained a $6.5 billion worldwide freezing order from the Abu Dhabi Global Market Courts as it seeks to recover crypto stolen in October hack."
+    },
+    {
+      "id": "8db1361e59ccf6a5",
+      "title": "Bullish’s Q3 adjusted profit rises 35%, digital asset sales fall 23%",
+      "summary": "Bullish shares rose about 10% after the crypto exchange reported earnings and authorized a buyback.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-18-bullishs-q3-adjusted-profit-rises-35-digital-asset-sales-fall-23-443456",
+      "image_url": null,
+      "published_at": "2026-11-18T17:02:41.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Bullish’s Q3 adjusted profit rises 35%, digital asset sales fall 23%",
+      "summary_zh": "Bullish shares rose about 10% after the crypto exchange reported earnings and authorized a buyback."
     },
     {
       "id": "570454bfac84a4b4",
@@ -551,150 +516,94 @@
       "summary_zh": "TD Cowen said staking rewards drove a modest increase in Sharplink’s ETH holdings as it took a more conservative view of ether’s price path."
     },
     {
-      "id": "b1b0d056f3832ac5",
-      "title": "Hong Kong central bank explores agentic AI to detect crypto-related financial crime",
-      "summary": "HKMA Executive Director Raymond Chan said AI could help analyze both onchain transfers and offchain customer transactions to flag anomalies.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-18-hong-kong-agentic-ai-crypto-crime-442959",
-      "image_url": null,
-      "published_at": "2026-11-18T08:43:02.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Hong Kong central bank explores agentic AI to detect crypto-related financial crime",
-      "summary_zh": "HKMA Executive Director Raymond Chan said AI could help analyze both onchain transfers and offchain customer transactions to flag anomalies."
-    },
-    {
-      "id": "91eef70b61fc742c",
-      "title": "Trump’s CFTC picks face Senate scrutiny as prediction market turf war heats up",
-      "summary": "President Donald Trump’s nominees to the CFTC revealed how they view the hotly contested issue of how to regulate sports betting.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909",
-      "image_url": null,
-      "published_at": "2026-11-17T23:32:46.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Trump’s CFTC picks face Senate scrutiny as prediction market turf war heats up",
-      "summary_zh": "President Donald Trump’s nominees to the CFTC revealed how they view the hotly contested issue of how to regulate sports betting."
-    },
-    {
-      "id": "e40b1bdf7220e656",
-      "title": "Jito’s Lucas Bruder says crypto builders need to ‘slow down’ and fix security weaknesses",
-      "summary": "Jito’s Lucas Bruder warns of patient attackers and urges crypto teams to address technical debt.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850",
-      "image_url": null,
-      "published_at": "2026-11-17T19:29:15.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Jito’s Lucas Bruder says crypto builders need to ‘slow down’ and fix security weaknesses",
-      "summary_zh": "Jito’s Lucas Bruder warns of patient attackers and urges crypto teams to address technical debt."
-    },
-    {
-      "id": "23b56d8db8579819",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
+      "id": "d0c5784558cb26f6",
+      "title": "Trending Crypto: WASTED (WASTED)",
+      "summary": "CoinGecko trending rank #894.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-18T12:24:49.293Z",
+      "source_url": "https://www.coingecko.com/en/coins/wasted-4",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180327/large/logo.png?1795002824",
+      "published_at": "2026-11-18T20:57:35.117Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "btc"
+        "wasted"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Bitcoin (BTC)",
-      "summary_zh": "CoinGecko trending rank #1."
+      "title_zh": "Trending Crypto: WASTED (WASTED)",
+      "summary_zh": "CoinGecko trending rank #894."
     },
     {
-      "id": "2b5dedbcc006c4c6",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #126.",
+      "id": "cfa37305fb5bfc1c",
+      "title": "Trending Crypto: Wanted Star (WSTAR)",
+      "summary": "CoinGecko trending rank #944.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-11-18T12:24:49.293Z",
+      "source_url": "https://www.coingecko.com/en/coins/wanted-star",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180314/large/logo.png?1794991621",
+      "published_at": "2026-11-18T20:57:35.117Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pengu"
+        "wstar"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #126."
+      "title_zh": "Trending Crypto: Wanted Star (WSTAR)",
+      "summary_zh": "CoinGecko trending rank #944."
     },
     {
-      "id": "45dfb0db3f08bce2",
-      "title": "Trending Crypto: Momentum (MMT)",
-      "summary": "CoinGecko trending rank #390.",
+      "id": "62afa568215dc6d0",
+      "title": "Trending Crypto: Lucia (LUCIA)",
+      "summary": "CoinGecko trending rank #962.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/momentum-3",
-      "image_url": "https://coin-images.coingecko.com/coins/images/69899/large/4_icon_PFP_RGB.png?1762090516",
-      "published_at": "2026-11-18T12:24:49.293Z",
+      "source_url": "https://www.coingecko.com/en/coins/lucia-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180313/large/logo.png?1794986782",
+      "published_at": "2026-11-18T20:57:35.117Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "mmt"
+        "lucia"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Momentum (MMT)",
-      "summary_zh": "CoinGecko trending rank #390."
+      "title_zh": "Trending Crypto: Lucia (LUCIA)",
+      "summary_zh": "CoinGecko trending rank #962."
     },
     {
-      "id": "c289118ae03604bd",
-      "title": "Trending Crypto: pippin (PIPPIN)",
-      "summary": "CoinGecko trending rank #797.",
+      "id": "3ac1db4da0e23fdc",
+      "title": "Trending Crypto: Official Trump (TRUMP)",
+      "summary": "CoinGecko trending rank #135.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pippin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/51589/large/pippin_logo.png?1731570163",
-      "published_at": "2026-11-18T12:24:49.293Z",
+      "source_url": "https://www.coingecko.com/en/coins/official-trump",
+      "image_url": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561",
+      "published_at": "2026-11-18T20:57:35.117Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pippin"
+        "trump"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: pippin (PIPPIN)",
-      "summary_zh": "CoinGecko trending rank #797."
+      "title_zh": "Trending Crypto: Official Trump (TRUMP)",
+      "summary_zh": "CoinGecko trending rank #135."
     },
     {
-      "id": "d5725e3ca24e335a",
+      "id": "7672c1e7e46e3ad7",
       "title": "Trending Crypto: Pearl (PEARL)",
-      "summary": "CoinGecko trending rank #88.",
+      "summary": "CoinGecko trending rank #74.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pearl-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-11-18T12:24:49.293Z",
+      "published_at": "2026-11-18T20:57:35.117Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -704,25 +613,26 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Pearl (PEARL)",
-      "summary_zh": "CoinGecko trending rank #88."
+      "summary_zh": "CoinGecko trending rank #74."
     },
     {
-      "id": "9e080e8f1b995c13",
-      "title": "Broadening access to AI for scientists",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "id": "62188372adfde12d",
+      "title": "The Silent Consensus",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
       "category": "AI",
       "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source_url": "https://openai.com/index/the-silent-consensus",
       "image_url": null,
-      "published_at": "2026-11-16T17:00:00.000Z",
+      "published_at": "2026-11-18T00:00:00.000Z",
       "importance_score": 52,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "ai",
+        "openai"
       ],
       "region": "global",
-      "title_zh": "Broadening access to AI for scientists",
-      "summary_zh": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
+      "title_zh": "The Silent Consensus",
+      "summary_zh": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
     },
     {
       "id": "ef304e3d5b4c8e02",
@@ -759,22 +669,6 @@
       "region": "global",
       "title_zh": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
       "summary_zh": "A secure operating system, a quantum microsystem platform, and a 5G interference-canceling algorithm are named among the year's most significant innovations."
-    },
-    {
-      "id": "471c81ffba9d54a2",
-      "title": "Live Updates: In a Rare Gesture, Xi Greets Trump as He Lands in China",
-      "summary": "The Chinese leader hugged President Trump on the tarmac in Shenzhen. They are expected to hold a summit on Thursday with President Vladimir V. Putin of Russia.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
-      "image_url": null,
-      "published_at": "2026-11-18T12:15:08.000Z",
-      "importance_score": 52,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Live Updates: In a Rare Gesture, Xi Greets Trump as He Lands in China",
-      "summary_zh": "The Chinese leader hugged President Trump on the tarmac in Shenzhen. They are expected to hold a summit on Thursday with President Vladimir V. Putin of Russia."
     },
     {
       "id": "fffeef1d5b0fc45f",
@@ -827,6 +721,24 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 11/01/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Strategy of the Week #3: The Pre-FOMC Drift in S&P 500 Futures [Delphic Alpha] Buy S&P 500 futures at the 16:00 New York cl"
     },
     {
+      "id": "ddb048aa2e08f114",
+      "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
+      "summary": "Prosecutors estimate the defendant still holds 56,000 BTC, meaning the proposed deal would leave him with roughly $1 billion.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
+      "image_url": null,
+      "published_at": "2026-11-18T15:38:38.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
+      "summary_zh": "Prosecutors estimate the defendant still holds 56,000 BTC, meaning the proposed deal would leave him with roughly $1 billion."
+    },
+    {
       "id": "f11ce20f319b7247",
       "title": "Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say",
       "summary": "Your day-ahead look for Nov. 18, 2026",
@@ -846,22 +758,99 @@
       "summary_zh": "Your day-ahead look for Nov. 18, 2026"
     },
     {
-      "id": "9d57212d81ad5f97",
-      "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
-      "summary": "Bitcoin broke below its 200-week average with a 12% drop. Only three similar crashes have occurred since 2013. Here’s what happened next.",
+      "id": "5f32f556770c84ca",
+      "title": "Ondo to launch tokenized Anthropic stock on IPO day",
+      "summary": "Ondo’s ANTon token will track Anthropic shares from the day the Claude maker starts trading on Nasdaq.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482",
       "image_url": null,
-      "published_at": "2026-11-18T04:34:21.000Z",
+      "published_at": "2026-11-18T18:51:30.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
+        "anthropic"
+      ],
+      "region": "global",
+      "title_zh": "Ondo to launch tokenized Anthropic stock on IPO day",
+      "summary_zh": "Ondo’s ANTon token will track Anthropic shares from the day the Claude maker starts trading on Nasdaq."
+    },
+    {
+      "id": "d4d3753921a08998",
+      "title": "CryptoQuant says bitcoin is back in a bearish phase but has reached a ‘value zone’",
+      "summary": "Bitcoin has dipped below its 200-day and 365-day moving averages of $72,900 and $75,900, respectively, CryptoQuant said.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471",
+      "image_url": null,
+      "published_at": "2026-11-18T17:13:37.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto",
         "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
-      "summary_zh": "Bitcoin broke below its 200-week average with a 12% drop. Only three similar crashes have occurred since 2013. Here’s what happened next."
+      "title_zh": "CryptoQuant says bitcoin is back in a bearish phase but has reached a ‘value zone’",
+      "summary_zh": "Bitcoin has dipped below its 200-day and 365-day moving averages of $72,900 and $75,900, respectively, CryptoQuant said."
+    },
+    {
+      "id": "bd0712b17cb49a93",
+      "title": "‘Gift from the market’: Bitcoin shows signs of a local bottom after six weeks of losses, analyst says",
+      "summary": "K33 said bitcoin may have found a local bottom after six weekly losses, with options traders still seeking downside protection.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017",
+      "image_url": null,
+      "published_at": "2026-11-18T14:01:54.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "‘Gift from the market’: Bitcoin shows signs of a local bottom after six weeks of losses, analyst says",
+      "summary_zh": "K33 said bitcoin may have found a local bottom after six weekly losses, with options traders still seeking downside protection."
+    },
+    {
+      "id": "c549616fb142b295",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/managing-frontier-ai-risk",
+      "image_url": null,
+      "published_at": "2026-11-18T06:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global",
+      "title_zh": "Managing frontier AI risk: From training to deployment",
+      "summary_zh": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring."
+    },
+    {
+      "id": "3fa192d1eaef3672",
+      "title": "Advancing chip design with OpenAI models",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "image_url": null,
+      "published_at": "2026-11-18T00:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global",
+      "title_zh": "Advancing chip design with OpenAI models",
+      "summary_zh": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra."
     },
     {
       "id": "c15d2c1f4bcd0e79",
@@ -880,59 +869,36 @@
       "summary_zh": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
     },
     {
-      "id": "4c4917781f21f5d2",
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "id": "fd046f57652c409c",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "summary": "",
       "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/strengthening-online-child-safety",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
       "image_url": null,
-      "published_at": "2026-11-16T17:00:00.000Z",
+      "published_at": "2026-11-18T15:00:23.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "summary_zh": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
+      "title_zh": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "summary_zh": ""
     },
     {
-      "id": "b2f700b2bdbaa0de",
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "id": "9a7c16e773d84660",
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "summary": "",
       "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/science-at-the-frontier",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/rumble-2-flash",
       "image_url": null,
-      "published_at": "2026-11-16T12:00:00.000Z",
+      "published_at": "2026-11-18T00:00:00.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Science at the Frontier: How scientists use ChatGPT",
-      "summary_zh": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
-    },
-    {
-      "id": "52a23067d326345b",
-      "title": "How Revolut raises ambition without lowering the bar",
-      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/business/customer-stories/revolut",
-      "image_url": null,
-      "published_at": "2026-11-16T09:30:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "How Revolut raises ambition without lowering the bar",
-      "summary_zh": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security."
+      "title_zh": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "summary_zh": ""
     },
     {
       "id": "d661c2d1b13eaa54",
@@ -948,54 +914,6 @@
       "tags": [],
       "region": "global",
       "title_zh": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "summary_zh": ""
-    },
-    {
-      "id": "3c3024610a39d2a1",
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "image_url": null,
-      "published_at": "2026-11-12T00:00:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "summary_zh": ""
-    },
-    {
-      "id": "dacf620fee4abf57",
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/qvac/botpsy",
-      "image_url": null,
-      "published_at": "2026-11-11T05:01:16.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "summary_zh": ""
-    },
-    {
-      "id": "61e8e23fdbd77f38",
-      "title": "Decision Models in Hugging Face",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/decision",
-      "image_url": null,
-      "published_at": "2026-11-10T00:00:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Decision Models in Hugging Face",
       "summary_zh": ""
     },
     {
@@ -1054,22 +972,36 @@
       "summary_zh": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
     },
     {
-      "id": "ec43b8307c554bb6",
-      "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
-      "summary": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more.",
-      "category": "AI",
-      "source_name": "MIT News AI",
-      "source_url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+      "id": "d678716aad1f118e",
+      "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+      "summary": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare trilateral meeting on Thursday.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
       "image_url": null,
-      "published_at": "2026-11-09T05:00:00.000Z",
+      "published_at": "2026-11-18T19:47:05.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
-      "summary_zh": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more."
+      "title_zh": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+      "summary_zh": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare trilateral meeting on Thursday."
+    },
+    {
+      "id": "cceeaff0942af68f",
+      "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+      "summary": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
+      "image_url": null,
+      "published_at": "2026-11-18T16:33:14.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+      "summary_zh": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods."
     },
     {
       "id": "6bf4f77beeb882c8",
@@ -1138,138 +1070,140 @@
       "summary_zh": "The stakes have just gotten higher for businesses navigating the U.S. and China markets."
     },
     {
-      "id": "be2a343be27c83d8",
-      "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
-      "summary": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+      "id": "1a529bddb5fde281",
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-16T22:19:02.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
-      "summary_zh": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter"
-    },
-    {
-      "id": "149bda0ca9ef4a12",
-      "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
-      "summary": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
-      "image_url": null,
-      "published_at": "2026-11-16T03:53:59.000Z",
+      "published_at": "2026-11-18T17:00:04.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
-      "summary_zh": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say."
+      "title_zh": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "summary_zh": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region."
     },
     {
-      "id": "b8efe2f8860370cc",
-      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-      "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+      "id": "18811e47fe5fa083",
+      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-17T23:02:12.000Z",
+      "published_at": "2026-11-18T16:10:44.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "summary_zh": "The three leaders will meet together for the first time on Thursday during a closely-watched summit."
+    },
+    {
+      "id": "c7e508b78b4c785c",
+      "title": "William and Kate meet PM Modi as they wrap up India tour",
+      "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-18T20:07:08.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "William and Kate meet PM Modi as they wrap up India tour",
+      "summary_zh": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize"
+    },
+    {
+      "id": "e3efc7bdd1d9a002",
+      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-18T13:04:48.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-      "summary_zh": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips."
+      "title_zh": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "summary_zh": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday."
     },
     {
-      "id": "a5263cfcb8ab0f44",
-      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-      "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+      "id": "b391e023e236d147",
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-18T10:23:57.000Z",
+      "published_at": "2026-11-18T17:34:25.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Democrats win Alaska Senate race two weeks after midterms counting began",
-      "summary_zh": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election."
+      "title_zh": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "summary_zh": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype."
     },
     {
-      "id": "e1fbd6712418fb2d",
-      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-      "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+      "id": "c68872fdfd0b569f",
+      "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
+      "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-17T17:19:57.000Z",
+      "published_at": "2026-11-18T15:39:57.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-      "summary_zh": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea."
+      "title_zh": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
+      "summary_zh": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018."
     },
     {
-      "id": "ea95457fc0edb600",
-      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-      "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+      "id": "37db91f96d9b6bf0",
+      "title": "Ghana's new $60m presidential jet sparks public outrage",
+      "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-18T07:48:18.000Z",
+      "published_at": "2026-11-18T09:27:51.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Ghana's new $60m presidential jet sparks public outrage",
+      "summary_zh": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living."
+    },
+    {
+      "id": "176c85a45e74e122",
+      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-18T17:34:23.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-      "summary_zh": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations."
-    },
-    {
-      "id": "984ef84d57dc033e",
-      "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
-      "summary": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-18T05:11:42.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
-      "summary_zh": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals."
-    },
-    {
-      "id": "f84bff505c66893d",
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-17T21:04:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "US loses measles elimination status after 26 years amid record case numbers",
-      "summary_zh": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s."
+      "title_zh": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "summary_zh": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January."
     },
     {
       "id": "6afcd115d5ab4723",
@@ -1279,7 +1213,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/18/world/europe/autocrats-psychology-support.html",
       "image_url": null,
-      "published_at": "2026-11-18T10:02:13.000Z",
+      "published_at": "2026-11-18T14:16:41.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1288,22 +1222,74 @@
       "summary_zh": "An emerging field of psychology suggests that it’s probably not what you think — and that there might be reason for optimism."
     },
     {
-      "id": "7f6f666bc07cc596",
-      "title": "Carney and Trump to Hold Unscheduled Trade Meeting at Asia Summit",
-      "summary": "The bilateral meeting between the neighbors follows trade gains for Canada’s prime minister this week with China and the Philippines.",
+      "id": "3d766087b70a5b82",
+      "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
+      "summary": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html",
+      "source_url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
       "image_url": null,
-      "published_at": "2026-11-18T11:33:37.000Z",
+      "published_at": "2026-11-18T20:13:01.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
+      "summary_zh": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia."
+    },
+    {
+      "id": "610b866f1b7a7754",
+      "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
+      "summary": "The Israeli military said it was conducting a limited raid into territory controlled by Hamas to address a threat. The militant group accused Israel of violating the truce.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
+      "image_url": null,
+      "published_at": "2026-11-18T20:29:31.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Carney and Trump to Hold Unscheduled Trade Meeting at Asia Summit",
+      "title_zh": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
+      "summary_zh": "The Israeli military said it was conducting a limited raid into territory controlled by Hamas to address a threat. The militant group accused Israel of violating the truce."
+    },
+    {
+      "id": "e2c03b2d2e7d8e10",
+      "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit",
+      "summary": "The bilateral meeting between the neighbors follows trade gains for Canada’s prime minister this week with China and the Philippines.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html",
+      "image_url": null,
+      "published_at": "2026-11-18T17:23:46.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit",
       "summary_zh": "The bilateral meeting between the neighbors follows trade gains for Canada’s prime minister this week with China and the Philippines."
+    },
+    {
+      "id": "d320bff145f98182",
+      "title": "Leaders of China and Japan Meet Amid Political Feud",
+      "summary": "Xi Jinping, China’s leader, greeted Sanae Takaichi, Japan’s prime minister, in Shenzhen a year after China began punishing Japan over her comments on Taiwan.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html",
+      "image_url": null,
+      "published_at": "2026-11-18T13:46:45.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Leaders of China and Japan Meet Amid Political Feud",
+      "summary_zh": "Xi Jinping, China’s leader, greeted Sanae Takaichi, Japan’s prime minister, in Shenzhen a year after China began punishing Japan over her comments on Taiwan."
     },
     {
       "id": "6ed27f385b759e30",
@@ -1320,22 +1306,6 @@
       "region": "global",
       "title_zh": "What to Know About the Myanmar Genocide Case at the World Court",
       "summary_zh": "The International Court of Justice is issuing a landmark verdict on whether the state of Myanmar committed genocide."
-    },
-    {
-      "id": "668accffdb0fa125",
-      "title": "Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread",
-      "summary": "As the Ebola virus spreads in eastern Congo, health teams struggle to curb fatal delays in seeking medical care and the widespread desire to treat sick relatives at home.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html",
-      "image_url": null,
-      "published_at": "2026-11-17T20:44:22.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread",
-      "summary_zh": "As the Ebola virus spreads in eastern Congo, health teams struggle to curb fatal delays in seeking medical care and the widespread desire to treat sick relatives at home."
     },
     {
       "id": "1ab783650e2d74ea",
@@ -1356,128 +1326,108 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a"
     },
     {
-      "id": "c828bbe760fb6041",
-      "title": "Hyundai tests AI agent commerce on JPMorgan’s Kinexys blockchain",
-      "summary": "The exploration of AI agents with JPMorgan builds on Hyundai’s recent stablecoin-based cross-border remittance pilot.",
+      "id": "1297d63db83cee50",
+      "title": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
+      "summary": "Variational and its investors are betting that the future of onchain trading will look more like a traditional brokerage than a crypto exchange.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/18/hyundai-tests-ai-agent-commerce-on-jpmorgan-s-kinexys-blockchain",
+      "source_url": "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook",
       "image_url": null,
-      "published_at": "2026-11-18T09:14:15.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Hyundai tests AI agent commerce on JPMorgan’s Kinexys blockchain",
-      "summary_zh": "The exploration of AI agents with JPMorgan builds on Hyundai’s recent stablecoin-based cross-border remittance pilot."
-    },
-    {
-      "id": "82f2f5cdd08058eb",
-      "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
-      "summary": "A holder whose wallets trace back to a 2020 Bitstamp withdrawal has moved 281 million XRP into two vaults three weeks apart, a behavior indicative of custody rather than a large investor heading for the exit.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
-      "image_url": null,
-      "published_at": "2026-11-18T04:28:37.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
-      "summary_zh": "A holder whose wallets trace back to a 2020 Bitstamp withdrawal has moved 281 million XRP into two vaults three weeks apart, a behavior indicative of custody rather than a large investor heading for the exit."
-    },
-    {
-      "id": "6648e9b7f73636dc",
-      "title": "DBS lets eligible institutions in Asia mint and redeem USDC around the clock",
-      "summary": "DBS and Circle are expanding institutional access to USDC with direct minting, redemption and 24/7 dollar settlement.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-18-dbs-circle-usdc-asia-442970",
-      "image_url": null,
-      "published_at": "2026-11-18T09:28:50.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "DBS lets eligible institutions in Asia mint and redeem USDC around the clock",
-      "summary_zh": "DBS and Circle are expanding institutional access to USDC with direct minting, redemption and 24/7 dollar settlement."
-    },
-    {
-      "id": "4b58f078ff2fc509",
-      "title": "Ark Invest buys crypto stocks as it sells $85 million in Nvidia, Coinbase brings onchain loans to New York, and more",
-      "summary": "In today's newsletter, Ark Invest buys crypto stocks while selling $85 million in Nvidia; Coinbase expands onchain crypto loans to New York via Morpho; and more.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/newsletters/the-daily/2026-11-18-ark-invest-crypto-stocks-nvidia-coinbase-loans-new-york-crypto-news-442902",
-      "image_url": null,
-      "published_at": "2026-11-18T05:01:00.000Z",
+      "published_at": "2026-11-18T17:22:03.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
         "ai",
-        "crypto",
-        "stocks"
-      ],
-      "region": "global",
-      "title_zh": "Ark Invest buys crypto stocks as it sells $85 million in Nvidia, Coinbase brings onchain loans to New York, and more",
-      "summary_zh": "In today's newsletter, Ark Invest buys crypto stocks while selling $85 million in Nvidia; Coinbase expands onchain crypto loans to New York via Morpho; and more."
-    },
-    {
-      "id": "3f68941a076f1942",
-      "title": "Coinbase AI defense blocks $4.7 million from being sent to deepfake Elon Musk scam",
-      "summary": "The company said the system prevented about 91% of the attempted transfers linked to the fake Tesla livestream, with no human intervention.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918",
-      "image_url": null,
-      "published_at": "2026-11-18T02:47:51.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Coinbase AI defense blocks $4.7 million from being sent to deepfake Elon Musk scam",
-      "summary_zh": "The company said the system prevented about 91% of the attempted transfers linked to the fake Tesla livestream, with no human intervention."
-    },
-    {
-      "id": "31894345d8d1e9b9",
-      "title": "What’s happening to crypto startup valuations?",
-      "summary": "Crypto unicorns from the 2021 boom now trade at 50% to 70% discounts in secondary markets, while the top companies hit new highs.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/newsletters/the-funding/2026-11-17-crypto-startup-valuations-442903",
-      "image_url": null,
-      "published_at": "2026-11-18T02:40:00.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
         "crypto"
       ],
       "region": "global",
-      "title_zh": "What’s happening to crypto startup valuations?",
-      "summary_zh": "Crypto unicorns from the 2021 boom now trade at 50% to 70% discounts in secondary markets, while the top companies hit new highs."
+      "title_zh": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
+      "summary_zh": "Variational and its investors are betting that the future of onchain trading will look more like a traditional brokerage than a crypto exchange."
     },
     {
-      "id": "6381988ea4936eba",
-      "title": "Robinhood shrugs off Kalshi equities threat as Mizuho sees 86% HOOD upside",
-      "summary": "Robinhood brushes off Kalshi’s potential equities push as Mizuho maintains its bullish outlook on HOOD.",
+      "id": "df682eb2f4543e15",
+      "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
+      "summary": "Bullish’s institutional focus may have shielded the company from the decline in activity experienced by rivals catering to retail traders and offers some insight to its revenue beat.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes",
+      "image_url": null,
+      "published_at": "2026-11-18T12:41:09.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
+      "summary_zh": "Bullish’s institutional focus may have shielded the company from the decline in activity experienced by rivals catering to retail traders and offers some insight to its revenue beat."
+    },
+    {
+      "id": "041d86dbb1ac4072",
+      "title": "Visa Direct to extend stablecoin prefunding for cross-border payouts to Asia-Pacific",
+      "summary": "Visa plans to let eligible Visa Direct clients in Asia-Pacific fund cross-border payouts with stablecoins.",
       "category": "CRYPTO",
       "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-17-robinhoods-non-sports-prediction-market-share-doubles-mizuho-442904",
+      "source_url": "https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457",
       "image_url": null,
-      "published_at": "2026-11-17T22:23:29.000Z",
+      "published_at": "2026-11-18T16:30:41.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Visa Direct to extend stablecoin prefunding for cross-border payouts to Asia-Pacific",
+      "summary_zh": "Visa plans to let eligible Visa Direct clients in Asia-Pacific fund cross-border payouts with stablecoins."
+    },
+    {
+      "id": "2d7e80b0d12956f0",
+      "title": "Variational raises $110 million at $1.5 billion valuation to expand onchain derivatives trading",
+      "summary": "The derivatives protocol’s Omni platform has processed over $475 billion in volume as it expands into traditional markets.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445",
+      "image_url": null,
+      "published_at": "2026-11-18T15:51:42.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Robinhood shrugs off Kalshi equities threat as Mizuho sees 86% HOOD upside",
-      "summary_zh": "Robinhood brushes off Kalshi’s potential equities push as Mizuho maintains its bullish outlook on HOOD."
+      "title_zh": "Variational raises $110 million at $1.5 billion valuation to expand onchain derivatives trading",
+      "summary_zh": "The derivatives protocol’s Omni platform has processed over $475 billion in volume as it expands into traditional markets."
+    },
+    {
+      "id": "251aca61b4e13ea9",
+      "title": "StoneX cuts Bitdeer price target to $15 amid new US chip export controls",
+      "summary": "StoneX trimmed its 2027 revenue and EBITDA estimates for Bitdeer to account for Malaysian licensing scenarios, among other factors.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-18-stonex-cuts-bitdeer-price-target-to-15-amid-new-us-chip-export-controls-443440",
+      "image_url": null,
+      "published_at": "2026-11-18T15:16:54.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "StoneX cuts Bitdeer price target to $15 amid new US chip export controls",
+      "summary_zh": "StoneX trimmed its 2027 revenue and EBITDA estimates for Bitdeer to account for Malaysian licensing scenarios, among other factors."
+    },
+    {
+      "id": "9534d6104540c4dd",
+      "title": "Inside the Codex sandbox",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/inside-the-codex-sandbox",
+      "image_url": null,
+      "published_at": "2026-11-18T08:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Inside the Codex sandbox",
+      "summary_zh": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
     },
     {
       "id": "1f2c7d8225e2d6d3",
@@ -1553,6 +1503,56 @@
       "summary_zh": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
     },
     {
+      "id": "6e3fc72e87831523",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "image_url": null,
+      "published_at": "2026-11-18T19:54:56.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "summary_zh": ""
+    },
+    {
+      "id": "d03e687c8dbed68c",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "image_url": null,
+      "published_at": "2026-11-18T18:53:43.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Why your fine-tuning job takes longer than the FLOPs say",
+      "summary_zh": ""
+    },
+    {
+      "id": "33603c2e355e9d4c",
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/moe-expert-streaming",
+      "image_url": null,
+      "published_at": "2026-11-18T00:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "summary_zh": ""
+    },
+    {
       "id": "765e03c9954cecb2",
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
       "summary": "",
@@ -1621,22 +1621,23 @@
       "summary_zh": ""
     },
     {
-      "id": "5910575156f31cf2",
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "summary": "",
+      "id": "52cc3750e31537da",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
       "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "image_url": null,
-      "published_at": "2026-11-10T00:00:00.000Z",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
+      "published_at": "2026-11-18T17:00:00.000Z",
       "importance_score": 40,
       "sentiment": 0,
       "tags": [
+        "ai",
         "google"
       ],
       "region": "global",
-      "title_zh": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "summary_zh": ""
+      "title_zh": "The Gemini app is now available on lower-memory Android devices.",
+      "summary_zh": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today."
     },
     {
       "id": "2daf1d9a875b487f",
@@ -1726,20 +1727,20 @@
       "summary_zh": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more."
     },
     {
-      "id": "8cda689ec9010c56",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "id": "1b9a572b9814f69b",
+      "title": "This featherweight, flying robot carries its own sensors and computers",
+      "summary": "The speedy microrobot flies without an attached motion-capture system, moving it closer to applications like agriculture or industrial surveillance.",
       "category": "AI",
-      "source_name": "Google AI Blog",
-      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp",
-      "published_at": "2026-11-05T17:00:00.000Z",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
+      "image_url": null,
+      "published_at": "2026-11-18T19:00:00.000Z",
       "importance_score": 40,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "summary_zh": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing."
+      "title_zh": "This featherweight, flying robot carries its own sensors and computers",
+      "summary_zh": "The speedy microrobot flies without an attached motion-capture system, moving it closer to applications like agriculture or industrial surveillance."
     },
     {
       "id": "8b74079f2755f27b",
