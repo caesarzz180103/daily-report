@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T21:26:59.408Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation；【CRYPTO】Anchorage, Kalshi Prime let institutions use custodied bitcoin as margin；【FINANCE】JPMorgan Chase says temporary software bug is affecting consumer banking。",
+  "generated_at": "2026-11-18T03:13:18.766Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Anchorage, Kalshi Prime let institutions use custodied bitcoin as margin；【FINANCE】JPMorgan Chase says temporary software bug is affecting consumer banking；【FINANCE】Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -19,26 +19,6 @@
     "FINANCE": 10
   },
   "items": [
-    {
-      "id": "4ba47f45cb75152a",
-      "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
-      "summary": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
-      "image_url": null,
-      "published_at": "2026-11-13T14:22:07.000Z",
-      "importance_score": 82,
-      "sentiment": 0,
-      "tags": [
-        "fed",
-        "inflation",
-        "policy"
-      ],
-      "region": "global",
-      "title_zh": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
-      "summary_zh": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action."
-    },
     {
       "id": "06a744a6ea1bd464",
       "title": "Anchorage, Kalshi Prime let institutions use custodied bitcoin as margin",
@@ -116,14 +96,14 @@
       "summary_zh": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony."
     },
     {
-      "id": "47052cb26bd5e29c",
-      "title": "Tracking China’s War of Words Against Japan",
+      "id": "3d7a27862534dda0",
+      "title": "Tracking China’s Intensifying War of Words Against Japan",
       "summary": "Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
       "image_url": null,
-      "published_at": "2026-11-17T15:02:05.000Z",
+      "published_at": "2026-11-18T01:02:39.000Z",
       "importance_score": 70,
       "sentiment": 0,
       "tags": [
@@ -131,7 +111,7 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Tracking China’s War of Words Against Japan",
+      "title_zh": "Tracking China’s Intensifying War of Words Against Japan",
       "summary_zh": "Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis."
     },
     {
@@ -170,6 +150,24 @@
       "region": "global",
       "title_zh": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
       "summary_zh": "In addition to that broader estimate, independent audits have uncovered hundreds of separate compatibility problems, with core developers set to reconsider the changes Thursday."
+    },
+    {
+      "id": "761e1e3591498e15",
+      "title": "Introducing ChatGPT for Sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "image_url": null,
+      "published_at": "2026-11-17T08:00:00.000Z",
+      "importance_score": 64,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Introducing ChatGPT for Sales",
+      "summary_zh": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
     },
     {
       "id": "32517f59fd87b56c",
@@ -225,47 +223,6 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/24/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Saturday, 10/24/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Shorting Leveraged ETFs: Role of Borrowing Costs and Rebalancing in Volatility-Decay Strategies [Quantpedia] Leveraged ET"
-    },
-    {
-      "id": "33cdc4c70b73596a",
-      "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
-      "summary": "Bitcoin (BTC) is down a further 1.0% since midnight UTC at around $64,200, with its bounce from the weekend selloff stalled and pressure building on all fronts.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
-      "image_url": null,
-      "published_at": "2026-11-17T11:36:07.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin",
-        "etf"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
-      "summary_zh": "Bitcoin (BTC) is down a further 1.0% since midnight UTC at around $64,200, with its bounce from the weekend selloff stalled and pressure building on all fronts."
-    },
-    {
-      "id": "f364f882a1866843",
-      "title": "Bitwise launches ZDAY, its first non-crypto ETF, to bet on AI cyber defense",
-      "summary": "Bitwise's first non-crypto ETF, ZDAY, trades on the NYSE with a 0.75% fee, holding 10–30 AI security stocks like CrowdStrike and Palo Alto.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062",
-      "image_url": null,
-      "published_at": "2026-11-17T14:00:00.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto",
-        "etf",
-        "stocks"
-      ],
-      "region": "global",
-      "title_zh": "Bitwise launches ZDAY, its first non-crypto ETF, to bet on AI cyber defense",
-      "summary_zh": "Bitwise's first non-crypto ETF, ZDAY, trades on the NYSE with a 0.75% fee, holding 10–30 AI security stocks like CrowdStrike and Palo Alto."
     },
     {
       "id": "e48a2c295acd7879",
@@ -378,24 +335,6 @@
       "summary_zh": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers."
     },
     {
-      "id": "9c6262bbab89f1f2",
-      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
-      "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-      "image_url": null,
-      "published_at": "2026-11-16T12:14:46.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
-      "summary_zh": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker."
-    },
-    {
       "id": "b0b8fa1e06d11f4e",
       "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
@@ -412,6 +351,24 @@
       "region": "global",
       "title_zh": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "summary_zh": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan."
+    },
+    {
+      "id": "029aaee2da5a80a2",
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-18T01:18:18.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "summary_zh": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang."
     },
     {
       "id": "458f65b2f78f8aee",
@@ -463,6 +420,24 @@
       "region": "global",
       "title_zh": "These Ukrainians Aren’t in Combat. But They Deal With War Every Day.",
       "summary_zh": "A doctor, a gravedigger, a therapist and a pathologist share their war experiences."
+    },
+    {
+      "id": "8d1bc2b217a17ef2",
+      "title": "Nvidia shares rise on earnings beat, raised outlook despite leadership uncertainty",
+      "summary": "Speaking on the earnings call, Chairman Harvey Jones said the board has no intention of reinstating Jensen Huang as CEO.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
+      "image_url": null,
+      "published_at": "2026-11-17T21:25:50.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Nvidia shares rise on earnings beat, raised outlook despite leadership uncertainty",
+      "summary_zh": "Speaking on the earnings call, Chairman Harvey Jones said the board has no intention of reinstating Jensen Huang as CEO."
     },
     {
       "id": "6a9e99b71c168ffb",
@@ -520,24 +495,22 @@
       "summary_zh": "Your day-ahead look for Nov. 17, 2026"
     },
     {
-      "id": "d7a2fe5fd22964b6",
-      "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
-      "summary": "The fund swapped its common stock in Bloom Energy, Nebius and SanDisk for call options, keeping its bet on AI power, computing and memory.",
+      "id": "91eef70b61fc742c",
+      "title": "Trump’s CFTC picks face Senate scrutiny as prediction market turf war heats up",
+      "summary": "President Donald Trump’s nominees to the CFTC revealed how they view the hotly contested issue of how to regulate sports betting.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909",
       "image_url": null,
-      "published_at": "2026-11-17T12:00:55.000Z",
+      "published_at": "2026-11-17T23:32:46.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
-        "ai",
-        "openai",
-        "bitcoin"
+        "war"
       ],
       "region": "global",
-      "title_zh": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
-      "summary_zh": "The fund swapped its common stock in Bloom Energy, Nebius and SanDisk for call options, keeping its bet on AI power, computing and memory."
+      "title_zh": "Trump’s CFTC picks face Senate scrutiny as prediction market turf war heats up",
+      "summary_zh": "President Donald Trump’s nominees to the CFTC revealed how they view the hotly contested issue of how to regulate sports betting."
     },
     {
       "id": "e40b1bdf7220e656",
@@ -577,14 +550,34 @@
       "summary_zh": "Fomo rewards traders who hold the assets they discuss and share the reasoning behind their investments."
     },
     {
-      "id": "5dcc05bb8a0f3038",
+      "id": "f54ec8e7cb87222c",
+      "title": "Trending Crypto: Brevis (BREV)",
+      "summary": "CoinGecko trending rank #605.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/brevis",
+      "image_url": "https://coin-images.coingecko.com/coins/images/71219/large/brevis-circle_200x200.png?1774374634",
+      "published_at": "2026-11-18T03:12:08.476Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "brev"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Brevis (BREV)",
+      "summary_zh": "CoinGecko trending rank #605."
+    },
+    {
+      "id": "8e5408fe37ddb534",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-17T21:25:46.761Z",
+      "published_at": "2026-11-18T03:12:08.476Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -597,84 +590,64 @@
       "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "71b6414a909c3cc1",
-      "title": "Trending Crypto: Backpack (BP)",
-      "summary": "CoinGecko trending rank #141.",
+      "id": "5316437f1674e2f8",
+      "title": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary": "CoinGecko trending rank #22.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/backpack",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102171961/large/image_%285%29.png?1774269858",
-      "published_at": "2026-11-17T21:25:46.761Z",
+      "source_url": "https://www.coingecko.com/en/coins/near",
+      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
+      "published_at": "2026-11-18T03:12:08.476Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "bp"
+        "near"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Backpack (BP)",
-      "summary_zh": "CoinGecko trending rank #141."
+      "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary_zh": "CoinGecko trending rank #22."
     },
     {
-      "id": "46a370305772734f",
-      "title": "Trending Crypto: Hyperliquid (HYPE)",
-      "summary": "CoinGecko trending rank #10.",
+      "id": "f7960bbad8b1dcba",
+      "title": "Trending Crypto: Ethereum (ETH)",
+      "summary": "CoinGecko trending rank #2.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
-      "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
-      "published_at": "2026-11-17T21:25:46.761Z",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum",
+      "image_url": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+      "published_at": "2026-11-18T03:12:08.476Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "hype"
+        "eth"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Hyperliquid (HYPE)",
-      "summary_zh": "CoinGecko trending rank #10."
+      "title_zh": "Trending Crypto: Ethereum (ETH)",
+      "summary_zh": "CoinGecko trending rank #2."
     },
     {
-      "id": "5a9c80834d174ea7",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #127.",
+      "id": "46ff513ca4ca4fcd",
+      "title": "Trending Crypto: Pearl (PEARL)",
+      "summary": "CoinGecko trending rank #88.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-11-17T21:25:46.761Z",
+      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
+      "published_at": "2026-11-18T03:12:08.476Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pengu"
+        "pearl"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #127."
-    },
-    {
-      "id": "e05bf2392010901b",
-      "title": "Trending Crypto: Zcash (ZEC)",
-      "summary": "CoinGecko trending rank #11.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/zcash",
-      "image_url": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558",
-      "published_at": "2026-11-17T21:25:46.761Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "zec"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Zcash (ZEC)",
-      "summary_zh": "CoinGecko trending rank #11."
+      "title_zh": "Trending Crypto: Pearl (PEARL)",
+      "summary_zh": "CoinGecko trending rank #88."
     },
     {
       "id": "9e080e8f1b995c13",
@@ -693,25 +666,6 @@
       "region": "global",
       "title_zh": "Broadening access to AI for scientists",
       "summary_zh": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
-    },
-    {
-      "id": "a19bb1c49514811d",
-      "title": "Our first phase of embedded assessments",
-      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "image_url": null,
-      "published_at": "2026-11-16T08:00:00.000Z",
-      "importance_score": 52,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "Our first phase of embedded assessments",
-      "summary_zh": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems."
     },
     {
       "id": "ef304e3d5b4c8e02",
@@ -748,6 +702,22 @@
       "region": "global",
       "title_zh": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
       "summary_zh": "A secure operating system, a quantum microsystem platform, and a 5G interference-canceling algorithm are named among the year's most significant innovations."
+    },
+    {
+      "id": "f8854746d7173729",
+      "title": "Live Updates: Trump to Meet Philippine Leader Before Flying to China",
+      "summary": "The next stop on President Trump’s whirlwind Asia trip is the city of Shenzhen, where he is expected to hold a trilateral meeting with Xi Jinping of China and President Vladimir V. Putin of Russia.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
+      "image_url": null,
+      "published_at": "2026-11-18T03:07:57.000Z",
+      "importance_score": 52,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Live Updates: Trump to Meet Philippine Leader Before Flying to China",
+      "summary_zh": "The next stop on President Trump’s whirlwind Asia trip is the city of Shenzhen, where he is expected to hold a trilateral meeting with Xi Jinping of China and President Vladimir V. Putin of Russia."
     },
     {
       "id": "fffeef1d5b0fc45f",
@@ -817,43 +787,6 @@
       "region": "global",
       "title_zh": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
       "summary_zh": "Brian Armstrong says Coinbase is building payment tools for AI agents and believes bitcoin has hit bottom despite the selloff."
-    },
-    {
-      "id": "706c13bbf8806c53",
-      "title": "Solana’s Trump memecoin launch tested infrastructure ahead of institutional push, Lily Liu says",
-      "summary": "Liu recapped two periods of trading as evidence Solana's network can withstand pressure from unpredictable crypto markets.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132",
-      "image_url": null,
-      "published_at": "2026-11-17T14:27:35.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Solana’s Trump memecoin launch tested infrastructure ahead of institutional push, Lily Liu says",
-      "summary_zh": "Liu recapped two periods of trading as evidence Solana's network can withstand pressure from unpredictable crypto markets."
-    },
-    {
-      "id": "85902077a70d86ab",
-      "title": "Bernstein sees upside for bitcoin miners Riot and TeraWulf, citing discounts to implied AI data center values",
-      "summary": "Riot's AI leases imply twice its adjusted enterprise value, Bernstein estimates, with TeraWulf also trading at a discount.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-11-17-bernstein-sees-upside-for-bitcoin-miners-riot-and-terawulf-citing-discounts-to-implied-ai-data-center-values-442125",
-      "image_url": null,
-      "published_at": "2026-11-17T13:56:18.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Bernstein sees upside for bitcoin miners Riot and TeraWulf, citing discounts to implied AI data center values",
-      "summary_zh": "Riot's AI leases imply twice its adjusted enterprise value, Bernstein estimates, with TeraWulf also trading at a discount."
     },
     {
       "id": "c15d2c1f4bcd0e79",
@@ -1064,6 +997,40 @@
       "summary_zh": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more."
     },
     {
+      "id": "868053dd29e939b8",
+      "title": "Three things to watch as Trump, Xi and Putin meet in China",
+      "summary": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+      "image_url": null,
+      "published_at": "2026-11-18T01:23:29.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Three things to watch as Trump, Xi and Putin meet in China",
+      "summary_zh": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting."
+    },
+    {
+      "id": "df8c0fd1349545d4",
+      "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+      "summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+      "image_url": null,
+      "published_at": "2026-11-18T02:52:51.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "JPMorgan is working on AI agent transactions that don’t involve humans",
+      "summary_zh": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions."
+    },
+    {
       "id": "1234a0377653b51b",
       "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
       "summary": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
@@ -1148,20 +1115,20 @@
       "summary_zh": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv."
     },
     {
-      "id": "e317f873c3819719",
-      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-      "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+      "id": "942cb6f2e4141c8a",
+      "title": "Thomas Markle charged over child sex abuse material in Philippines",
+      "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-17T18:24:21.000Z",
+      "published_at": "2026-11-17T22:44:15.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-      "summary_zh": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return."
+      "title_zh": "Thomas Markle charged over child sex abuse material in Philippines",
+      "summary_zh": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations."
     },
     {
       "id": "e1fbd6712418fb2d",
@@ -1182,8 +1149,8 @@
       "summary_zh": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea."
     },
     {
-      "id": "3d135b481efee720",
-      "title": "Russian military plane crashes killing all 19 on board",
+      "id": "88db89123d5c6402",
+      "title": "Russian military plane crashes, killing all 19 on board",
       "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
       "category": "WORLD",
       "source_name": "BBC World",
@@ -1194,7 +1161,7 @@
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Russian military plane crashes killing all 19 on board",
+      "title_zh": "Russian military plane crashes, killing all 19 on board",
       "summary_zh": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region."
     },
     {
@@ -1221,47 +1188,13 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-17T20:44:54.000Z",
+      "published_at": "2026-11-17T22:46:30.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
       "title_zh": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
       "summary_zh": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations."
-    },
-    {
-      "id": "dcc0b386c48ed2ad",
-      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-      "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-17T20:25:46.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-      "summary_zh": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\"."
-    },
-    {
-      "id": "bf256341e76d836b",
-      "title": "Trump’s Whirlwind Asia Trip Begins in the Philippines",
-      "summary": "President Trump’s 48-hour trip started with a meeting with Southeast Asian leaders in Manila. He will later meet Xi Jinping of China and Vladimir Putin of Russia in Shenzhen, a Chinese economic hub.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
-      "image_url": null,
-      "published_at": "2026-11-17T20:21:27.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Trump’s Whirlwind Asia Trip Begins in the Philippines",
-      "summary_zh": "President Trump’s 48-hour trip started with a meeting with Southeast Asian leaders in Manila. He will later meet Xi Jinping of China and Vladimir Putin of Russia in Shenzhen, a Chinese economic hub."
     },
     {
       "id": "92eece512905df8e",
@@ -1357,7 +1290,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html",
       "image_url": null,
-      "published_at": "2026-11-17T17:19:20.000Z",
+      "published_at": "2026-11-17T17:19:21.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1384,9 +1317,27 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a"
     },
     {
+      "id": "5ca12b46dc8a9cac",
+      "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+      "summary": "One of the two picks to join the regulatory commission, Democratic nominee Matthew Rowland, said he hopes to have a say in prediction markets rulemaking.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
+      "image_url": null,
+      "published_at": "2026-11-18T00:46:25.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+      "summary_zh": "One of the two picks to join the regulatory commission, Democratic nominee Matthew Rowland, said he hopes to have a say in prediction markets rulemaking."
+    },
+    {
       "id": "17b23f4b33badbb6",
       "title": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
-      "summary": "The company confirmed that the Commodity Futures Trading Commission ordered it to stop \"mention\" contracts involving the U.S. president.",
+      "summary": "The Commodity Futures Trading Commission ordered it to stop \"mention\" contracts involving the U.S. president and is reviewing whether Kalshi followed policy.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
       "source_url": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
@@ -1394,10 +1345,12 @@
       "published_at": "2026-11-17T19:16:00.000Z",
       "importance_score": 44,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "policy"
+      ],
       "region": "global",
       "title_zh": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
-      "summary_zh": "The company confirmed that the Commodity Futures Trading Commission ordered it to stop \"mention\" contracts involving the U.S. president."
+      "summary_zh": "The Commodity Futures Trading Commission ordered it to stop \"mention\" contracts involving the U.S. president and is reviewing whether Kalshi followed policy."
     },
     {
       "id": "e668365f657af7f6",
@@ -1416,6 +1369,60 @@
       "region": "global",
       "title_zh": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
       "summary_zh": "Grvt’s new Stable Funding Perps tie the cost of holding commodities trades to traditional-market financing costs, rather than volatile crypto-style funding."
+    },
+    {
+      "id": "3f68941a076f1942",
+      "title": "Coinbase AI defense blocks $4.7 million from being sent to deepfake Elon Musk scam",
+      "summary": "The company said the system prevented about 91% of the attempted transfers linked to the fake Tesla livestream, with no human intervention.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918",
+      "image_url": null,
+      "published_at": "2026-11-18T02:47:51.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Coinbase AI defense blocks $4.7 million from being sent to deepfake Elon Musk scam",
+      "summary_zh": "The company said the system prevented about 91% of the attempted transfers linked to the fake Tesla livestream, with no human intervention."
+    },
+    {
+      "id": "31894345d8d1e9b9",
+      "title": "What’s happening to crypto startup valuations?",
+      "summary": "Crypto unicorns from the 2021 boom now trade at 50% to 70% discounts in secondary markets, while the top companies hit new highs.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/newsletters/the-funding/2026-11-17-crypto-startup-valuations-442903",
+      "image_url": null,
+      "published_at": "2026-11-18T02:40:00.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "What’s happening to crypto startup valuations?",
+      "summary_zh": "Crypto unicorns from the 2021 boom now trade at 50% to 70% discounts in secondary markets, while the top companies hit new highs."
+    },
+    {
+      "id": "6381988ea4936eba",
+      "title": "Robinhood shrugs off Kalshi equities threat as Mizuho sees 86% HOOD upside",
+      "summary": "Robinhood brushes off Kalshi’s potential equities push as Mizuho maintains its bullish outlook on HOOD.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-17-robinhoods-non-sports-prediction-market-share-doubles-mizuho-442904",
+      "image_url": null,
+      "published_at": "2026-11-17T22:23:29.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Robinhood shrugs off Kalshi equities threat as Mizuho sees 86% HOOD upside",
+      "summary_zh": "Robinhood brushes off Kalshi’s potential equities push as Mizuho maintains its bullish outlook on HOOD."
     },
     {
       "id": "c6c054b9a45bac2b",
@@ -1471,24 +1478,6 @@
       "region": "global",
       "title_zh": "Alpaca says tokenization network tops $10 billion in minting and redemption volume",
       "summary_zh": "Alpaca co-founder Hitoshi Harada said its Instant Tokenization Network has surpassed $10 billion in cumulative minting and redemption volume."
-    },
-    {
-      "id": "a07b8c700354bbf2",
-      "title": "Stablecoin infrastructure firm Avenia raises $25 million in Series A extension",
-      "summary": "Lightspeed Faction led the equity round, bringing Avenia's total funding to $44.6 million as it plans new products and acquisitions.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/deals/2026-11-17-avenia-funding-stablecoin-crypto-infrastructure-442119",
-      "image_url": null,
-      "published_at": "2026-11-17T13:08:34.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Stablecoin infrastructure firm Avenia raises $25 million in Series A extension",
-      "summary_zh": "Lightspeed Faction led the equity round, bringing Avenia's total funding to $44.6 million as it plans new products and acquisitions."
     },
     {
       "id": "67eb55cfee1665e0",
