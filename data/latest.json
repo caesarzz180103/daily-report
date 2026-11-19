@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T20:58:49.061Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike；【FINANCE】Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show；【CRYPTO】Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike。",
+  "generated_at": "2026-11-19T02:13:01.224Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike；【FINANCE】Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show；【CRYPTO】Backpack secures NFA approval, completing licensing stack for US derivatives launch。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -58,25 +58,6 @@
       "region": "global",
       "title_zh": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
       "summary_zh": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%."
-    },
-    {
-      "id": "3d9788c3af69c1cd",
-      "title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
-      "summary": "Bitcoin held near $64,000 as gold fell 2%, lifting the ratio between the two above its 200-day moving average and extending a series of higher lows since March.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
-      "image_url": null,
-      "published_at": "2026-11-18T10:58:36.000Z",
-      "importance_score": 74,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin",
-        "fed"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
-      "summary_zh": "Bitcoin held near $64,000 as gold fell 2%, lifting the ratio between the two above its 200-day moving average and extending a series of higher lows since March."
     },
     {
       "id": "2c30c9c6651df9ed",
@@ -175,7 +156,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-18T20:14:57.000Z",
+      "published_at": "2026-11-18T22:34:56.000Z",
       "importance_score": 64,
       "sentiment": 0,
       "tags": [],
@@ -220,25 +201,6 @@
       "region": "global",
       "title_zh": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
       "summary_zh": "The bitcoin miner is taking on borrowing tied to an Ohio power plant as it shifts more of its business toward AI infrastructure."
-    },
-    {
-      "id": "afb6928a23717df3",
-      "title": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
-      "summary": "Bitcoin (BTC) is down 1.1% since midnight UTC at around $64,100, failing to keep pace with rising stock index futures after Nvidia beat earnings.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
-      "image_url": null,
-      "published_at": "2026-11-18T11:42:52.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
-      "summary_zh": "Bitcoin (BTC) is down 1.1% since midnight UTC at around $64,100, failing to keep pace with rising stock index futures after Nvidia beat earnings."
     },
     {
       "id": "4054ccdc78910169",
@@ -404,6 +366,45 @@
       "summary_zh": "The landmark deal will also go toward remedying human rights problems caused by the long-closed Papua New Guinea mine."
     },
     {
+      "id": "c6b672593f83078d",
+      "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
+      "summary": "Despite a Commodity Futures Trading Commission demand that prediction markets return to operating in all 50 states, federal courts continue to get in the way.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
+      "image_url": null,
+      "published_at": "2026-11-19T00:33:46.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "fed"
+      ],
+      "region": "global",
+      "title_zh": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
+      "summary_zh": "Despite a Commodity Futures Trading Commission demand that prediction markets return to operating in all 50 states, federal courts continue to get in the way."
+    },
+    {
+      "id": "012c181f37cb424a",
+      "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
+      "summary": "Sethi, who was appointed co-CEO of Kraken in October 2024, is also the chairman of Tribe Capital.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
+      "image_url": null,
+      "published_at": "2026-11-18T22:30:00.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "crypto",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
+      "summary_zh": "Sethi, who was appointed co-CEO of Kraken in October 2024, is also the chairman of Tribe Capital."
+    },
+    {
       "id": "563e17862373abba",
       "title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
       "summary": "A single breach moved billions out of Binance in minutes, exposing how much client money sits with the venue that trades it. Darren Jordan of Komainu argues institutions should keep trading and custody separate, as traditional markets have for decades, and sets out the questions ",
@@ -497,113 +498,14 @@
       "summary_zh": "Bullish shares rose about 10% after the crypto exchange reported earnings and authorized a buyback."
     },
     {
-      "id": "570454bfac84a4b4",
-      "title": "TD Cowen tempers ether outlook, maintains Buy rating on Sharplink",
-      "summary": "TD Cowen said staking rewards drove a modest increase in Sharplink’s ETH holdings as it took a more conservative view of ether’s price path.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/ecosystems/2026-11-18-td-cowen-maintains-buy-rating-sharplink-442987",
-      "image_url": null,
-      "published_at": "2026-11-18T11:08:27.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "TD Cowen tempers ether outlook, maintains Buy rating on Sharplink",
-      "summary_zh": "TD Cowen said staking rewards drove a modest increase in Sharplink’s ETH holdings as it took a more conservative view of ether’s price path."
-    },
-    {
-      "id": "d0c5784558cb26f6",
-      "title": "Trending Crypto: WASTED (WASTED)",
-      "summary": "CoinGecko trending rank #894.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/wasted-4",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180327/large/logo.png?1795002824",
-      "published_at": "2026-11-18T20:57:35.117Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "wasted"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: WASTED (WASTED)",
-      "summary_zh": "CoinGecko trending rank #894."
-    },
-    {
-      "id": "cfa37305fb5bfc1c",
-      "title": "Trending Crypto: Wanted Star (WSTAR)",
-      "summary": "CoinGecko trending rank #944.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/wanted-star",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180314/large/logo.png?1794991621",
-      "published_at": "2026-11-18T20:57:35.117Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "wstar"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Wanted Star (WSTAR)",
-      "summary_zh": "CoinGecko trending rank #944."
-    },
-    {
-      "id": "62afa568215dc6d0",
-      "title": "Trending Crypto: Lucia (LUCIA)",
-      "summary": "CoinGecko trending rank #962.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/lucia-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180313/large/logo.png?1794986782",
-      "published_at": "2026-11-18T20:57:35.117Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "lucia"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Lucia (LUCIA)",
-      "summary_zh": "CoinGecko trending rank #962."
-    },
-    {
-      "id": "3ac1db4da0e23fdc",
-      "title": "Trending Crypto: Official Trump (TRUMP)",
-      "summary": "CoinGecko trending rank #135.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/official-trump",
-      "image_url": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561",
-      "published_at": "2026-11-18T20:57:35.117Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "trump"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Official Trump (TRUMP)",
-      "summary_zh": "CoinGecko trending rank #135."
-    },
-    {
-      "id": "7672c1e7e46e3ad7",
+      "id": "733cf3e563d6b590",
       "title": "Trending Crypto: Pearl (PEARL)",
-      "summary": "CoinGecko trending rank #74.",
+      "summary": "CoinGecko trending rank #77.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pearl-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-11-18T20:57:35.117Z",
+      "published_at": "2026-11-19T02:11:47.384Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -613,7 +515,87 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Pearl (PEARL)",
-      "summary_zh": "CoinGecko trending rank #74."
+      "summary_zh": "CoinGecko trending rank #77."
+    },
+    {
+      "id": "8528ee45a4722a5e",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-11-19T02:11:47.384Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "btc"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Bitcoin (BTC)",
+      "summary_zh": "CoinGecko trending rank #1."
+    },
+    {
+      "id": "30039d76c7af5f97",
+      "title": "Trending Crypto: Canton (CC)",
+      "summary": "CoinGecko trending rank #25.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/canton-network",
+      "image_url": "https://coin-images.coingecko.com/coins/images/70468/large/Canton-Ticker_%281%29.png?1762826299",
+      "published_at": "2026-11-19T02:11:47.384Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "cc"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Canton (CC)",
+      "summary_zh": "CoinGecko trending rank #25."
+    },
+    {
+      "id": "c89cc9ac515f1a3d",
+      "title": "Trending Crypto: Backpack (BP)",
+      "summary": "CoinGecko trending rank #141.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/backpack",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102171961/large/image_%285%29.png?1774269858",
+      "published_at": "2026-11-19T02:11:47.384Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "bp"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Backpack (BP)",
+      "summary_zh": "CoinGecko trending rank #141."
+    },
+    {
+      "id": "2f3f799731208b90",
+      "title": "Trending Crypto: Ethereum (ETH)",
+      "summary": "CoinGecko trending rank #2.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum",
+      "image_url": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+      "published_at": "2026-11-19T02:11:47.384Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "eth"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Ethereum (ETH)",
+      "summary_zh": "CoinGecko trending rank #2."
     },
     {
       "id": "62188372adfde12d",
@@ -623,7 +605,7 @@
       "source_name": "OpenAI News",
       "source_url": "https://openai.com/index/the-silent-consensus",
       "image_url": null,
-      "published_at": "2026-11-18T00:00:00.000Z",
+      "published_at": "2026-11-18T10:00:00.000Z",
       "importance_score": 52,
       "sentiment": 0,
       "tags": [
@@ -815,6 +797,41 @@
       "summary_zh": "K33 said bitcoin may have found a local bottom after six weekly losses, with options traders still seeking downside protection."
     },
     {
+      "id": "1cdf033e42b99edb",
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "image_url": null,
+      "published_at": "2026-11-18T08:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "region": "global",
+      "title_zh": "Research acceleration: The jagged frontier",
+      "summary_zh": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
+    },
+    {
+      "id": "76d391e168ec4092",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "image_url": null,
+      "published_at": "2026-11-18T08:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary_zh": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+    },
+    {
       "id": "c549616fb142b295",
       "title": "Managing frontier AI risk: From training to deployment",
       "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
@@ -851,22 +868,6 @@
       "region": "global",
       "title_zh": "Advancing chip design with OpenAI models",
       "summary_zh": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra."
-    },
-    {
-      "id": "c15d2c1f4bcd0e79",
-      "title": "Astra for Law leads in legal intelligence",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/astra-law-6-2",
-      "image_url": null,
-      "published_at": "2026-11-17T00:00:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Astra for Law leads in legal intelligence",
-      "summary_zh": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
     },
     {
       "id": "fd046f57652c409c",
@@ -1088,70 +1089,110 @@
       "summary_zh": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region."
     },
     {
-      "id": "18811e47fe5fa083",
-      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-      "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+      "id": "69a33dad623e9409",
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "summary": "No state has ever been found guilty by an international court of committing genocide.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-18T16:10:44.000Z",
+      "published_at": "2026-11-18T23:04:06.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-      "summary_zh": "The three leaders will meet together for the first time on Thursday during a closely-watched summit."
+      "title_zh": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "summary_zh": "No state has ever been found guilty by an international court of committing genocide."
     },
     {
-      "id": "c7e508b78b4c785c",
-      "title": "William and Kate meet PM Modi as they wrap up India tour",
-      "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
+      "id": "396aca5152d98083",
+      "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+      "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-18T20:07:08.000Z",
+      "published_at": "2026-11-18T23:44:27.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "anthropic"
+      ],
       "region": "global",
-      "title_zh": "William and Kate meet PM Modi as they wrap up India tour",
-      "summary_zh": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize"
+      "title_zh": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+      "summary_zh": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence."
     },
     {
-      "id": "e3efc7bdd1d9a002",
-      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-      "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
+      "id": "9b02b5520f10a2f2",
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-18T13:04:48.000Z",
+      "published_at": "2026-11-19T00:49:19.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-      "summary_zh": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday."
+      "title_zh": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "summary_zh": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life."
     },
     {
-      "id": "b391e023e236d147",
-      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+      "id": "e18befac693033bb",
+      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-18T17:34:25.000Z",
+      "published_at": "2026-11-19T01:56:28.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai"
+      ],
       "region": "global",
-      "title_zh": "Grand Theft Auto 6 is a masterpiece, say critics",
-      "summary_zh": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype."
+      "title_zh": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "summary_zh": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump."
+    },
+    {
+      "id": "7293e97b0325c174",
+      "title": "Crimean Bridge attacked again, Russian official says",
+      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-19T01:05:03.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Crimean Bridge attacked again, Russian official says",
+      "summary_zh": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory."
+    },
+    {
+      "id": "18e65fe53ccf5f66",
+      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-18T23:28:03.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "summary_zh": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say."
     },
     {
       "id": "c68872fdfd0b569f",
@@ -1170,40 +1211,6 @@
       "region": "global",
       "title_zh": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
       "summary_zh": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018."
-    },
-    {
-      "id": "37db91f96d9b6bf0",
-      "title": "Ghana's new $60m presidential jet sparks public outrage",
-      "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-18T09:27:51.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Ghana's new $60m presidential jet sparks public outrage",
-      "summary_zh": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living."
-    },
-    {
-      "id": "176c85a45e74e122",
-      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-      "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-18T17:34:23.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-      "summary_zh": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January."
     },
     {
       "id": "6afcd115d5ab4723",
@@ -1229,7 +1236,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
       "image_url": null,
-      "published_at": "2026-11-18T20:13:01.000Z",
+      "published_at": "2026-11-19T00:57:45.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1364,6 +1371,22 @@
       "summary_zh": "Bullish’s institutional focus may have shielded the company from the decline in activity experienced by rivals catering to retail traders and offers some insight to its revenue beat."
     },
     {
+      "id": "3f6645dce182787f",
+      "title": "Senators: Treasury must ensure ‘equal footing’ for stablecoin issuers in GENIUS Act implementation",
+      "summary": "Senators are pressing Treasury Secretary Bessent to grant a safe harbor for stablecoin issuers operating under state regulatory frameworks.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501",
+      "image_url": null,
+      "published_at": "2026-11-18T22:09:17.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Senators: Treasury must ensure ‘equal footing’ for stablecoin issuers in GENIUS Act implementation",
+      "summary_zh": "Senators are pressing Treasury Secretary Bessent to grant a safe harbor for stablecoin issuers operating under state regulatory frameworks."
+    },
+    {
       "id": "041d86dbb1ac4072",
       "title": "Visa Direct to extend stablecoin prefunding for cross-border payouts to Asia-Pacific",
       "summary": "Visa plans to let eligible Visa Direct clients in Asia-Pacific fund cross-border payouts with stablecoins.",
@@ -1482,25 +1505,6 @@
       "region": "global",
       "title_zh": "Strengthening NATO and allied cyber defenses with AI",
       "summary_zh": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
-    },
-    {
-      "id": "968d42699a0eeef5",
-      "title": "Introducing OpenAI for Chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/introducing-openai-for-chile",
-      "image_url": null,
-      "published_at": "2026-11-17T00:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "Introducing OpenAI for Chile",
-      "summary_zh": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
     },
     {
       "id": "6e3fc72e87831523",
