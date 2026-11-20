@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T09:21:45.295Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike；【FINANCE】Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show；【AI】Helping robots fit into the human workplace。",
+  "generated_at": "2026-11-20T18:06:31.110Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike；【FINANCE】Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show；【FINANCE】Warsh wants Fed officials to talk less. Instead, they’re talking more。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -60,6 +60,98 @@
       "summary_zh": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%."
     },
     {
+      "id": "4066bb5820b3119d",
+      "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
+      "summary": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+      "image_url": null,
+      "published_at": "2026-11-20T15:20:54.000Z",
+      "importance_score": 70,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "fed",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
+      "summary_zh": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines."
+    },
+    {
+      "id": "c78f69149fafa694",
+      "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
+      "summary": "The bill would ban bets on war, assassinations and military operations amid concerns that traders could profit from inside information, as has already occurred.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
+      "image_url": null,
+      "published_at": "2026-11-20T14:25:57.000Z",
+      "importance_score": 68,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "U.S. Senate passes bill to ban prediction market bets on war and death",
+      "summary_zh": "The bill would ban bets on war, assassinations and military operations amid concerns that traders could profit from inside information, as has already occurred."
+    },
+    {
+      "id": "6331b957707b6b51",
+      "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
+      "summary": "University of Liège researchers put a few dollars into deliberately vulnerable bitcoin addresses and watched rival bots race for the money within seconds.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
+      "image_url": null,
+      "published_at": "2026-11-20T13:30:22.000Z",
+      "importance_score": 68,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
+      "summary_zh": "University of Liège researchers put a few dollars into deliberately vulnerable bitcoin addresses and watched rival bots race for the money within seconds."
+    },
+    {
+      "id": "08428ddf12992c62",
+      "title": "MoonPay applies for national trust bank charter to expand stablecoin services",
+      "summary": "MoonPay has applied for a national trust bank charter to expand its custody and stablecoin services under federal oversight.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-20-moonpay-applies-occ-national-bank-charter-444198",
+      "image_url": null,
+      "published_at": "2026-11-20T10:39:09.000Z",
+      "importance_score": 68,
+      "sentiment": 0,
+      "tags": [
+        "fed"
+      ],
+      "region": "global",
+      "title_zh": "MoonPay applies for national trust bank charter to expand stablecoin services",
+      "summary_zh": "MoonPay has applied for a national trust bank charter to expand its custody and stablecoin services under federal oversight."
+    },
+    {
+      "id": "d968231d3b795385",
+      "title": "Senate passes ‘Death Bets Act’ to ban prediction market contracts tied to death and war",
+      "summary": "The Death Bets Act, which now heads to the House, would ban prediction market contracts tied to death, terrorism, assassination, and war.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-20-senate-death-bets-act-444200",
+      "image_url": null,
+      "published_at": "2026-11-20T10:09:25.000Z",
+      "importance_score": 68,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Senate passes ‘Death Bets Act’ to ban prediction market contracts tied to death and war",
+      "summary_zh": "The Death Bets Act, which now heads to the House, would ban prediction market contracts tied to death, terrorism, assassination, and war."
+    },
+    {
       "id": "32517f59fd87b56c",
       "title": "Helping robots fit into the human workplace",
       "summary": "Founded by Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks, Robust AI’s robots are designed to collaborate with humans in factories and warehouses.",
@@ -79,42 +171,84 @@
       "summary_zh": "Founded by Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks, Robust AI’s robots are designed to collaborate with humans in factories and warehouses."
     },
     {
-      "id": "47bc1a5dc0f66e74",
-      "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
-      "summary": "PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a going-concern warning.",
+      "id": "af3dc1b039a48db4",
+      "title": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
+      "summary": "BlackRock’s bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Korea’s Kospi down more than 5%.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
+      "source_url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
       "image_url": null,
-      "published_at": "2026-11-20T05:32:25.000Z",
+      "published_at": "2026-11-20T13:35:33.000Z",
       "importance_score": 62,
       "sentiment": 0,
       "tags": [
-        "bitcoin",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
-      "summary_zh": "PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a going-concern warning."
-    },
-    {
-      "id": "d2711055485b48c6",
-      "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
-      "summary": "Coinbase Custody will continue serving all three funds after Gemini's contracts end in February.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
-      "image_url": null,
-      "published_at": "2026-11-20T04:28:52.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
+        "anthropic",
         "bitcoin",
         "etf"
       ],
       "region": "global",
-      "title_zh": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
-      "summary_zh": "Coinbase Custody will continue serving all three funds after Gemini's contracts end in February."
+      "title_zh": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
+      "summary_zh": "BlackRock’s bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Korea’s Kospi down more than 5%."
+    },
+    {
+      "id": "8d695150a6bcf4fd",
+      "title": "Bitcoin drops for third straight day as Asian tech shares slide",
+      "summary": "BlackRock’s spot bitcoin ETF recorded the largest single-day outflow since its introduction more than two years ago as investors continued to flee the sector.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide",
+      "image_url": null,
+      "published_at": "2026-11-20T11:42:02.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin",
+        "etf"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin drops for third straight day as Asian tech shares slide",
+      "summary_zh": "BlackRock’s spot bitcoin ETF recorded the largest single-day outflow since its introduction more than two years ago as investors continued to flee the sector."
+    },
+    {
+      "id": "8cc85164c5973bec",
+      "title": "US spot bitcoin ETFs see $582 million in daily net outflows as November total nears $3.5 billion",
+      "summary": "BlackRock's IBIT made up nearly all of Thursday's outflows, despite Morgan Stanley's MSBT attracting $49.6 million.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217",
+      "image_url": null,
+      "published_at": "2026-11-20T12:29:57.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin",
+        "etf"
+      ],
+      "region": "global",
+      "title_zh": "US spot bitcoin ETFs see $582 million in daily net outflows as November total nears $3.5 billion",
+      "summary_zh": "BlackRock's IBIT made up nearly all of Thursday's outflows, despite Morgan Stanley's MSBT attracting $49.6 million."
+    },
+    {
+      "id": "6c1ec2daaaa126c2",
+      "title": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
+      "summary": "Ark Invest bought nearly 1 million Anthropic shares and trimmed its Ethereum and Solana staking ETF holdings.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
+      "image_url": null,
+      "published_at": "2026-11-20T12:12:29.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "anthropic",
+        "ethereum",
+        "etf"
+      ],
+      "region": "global",
+      "title_zh": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
+      "summary_zh": "Ark Invest bought nearly 1 million Anthropic shares and trimmed its Ethereum and Solana staking ETF holdings."
     },
     {
       "id": "4054ccdc78910169",
@@ -170,69 +304,69 @@
       "summary_zh": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping."
     },
     {
-      "id": "097118f186e4ab21",
-      "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-      "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+      "id": "d76424ae9696cc97",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-16T23:01:19.000Z",
+      "published_at": "2026-11-20T16:54:29.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "summary_zh": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
+    },
+    {
+      "id": "a9ec78ef8a64dd32",
+      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
+      "summary": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-20T15:55:02.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
+      "summary_zh": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US."
+    },
+    {
+      "id": "db0a9ed90a0b0559",
+      "title": "South Korea catches 111 students with new measures against exam cheating",
+      "summary": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-20T10:16:19.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-      "summary_zh": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America."
+      "title_zh": "South Korea catches 111 students with new measures against exam cheating",
+      "summary_zh": "The students were caught with banned smart devices while taking the high-stakes Suneung exam."
     },
     {
-      "id": "d3270ce5ce75ad7f",
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-20T00:50:24.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "summary_zh": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
-    },
-    {
-      "id": "05d7c224b88d8d7f",
-      "title": "US army warns detonation of unstable explosives will create toxic plume",
-      "summary": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-20T01:27:27.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "US army warns detonation of unstable explosives will create toxic plume",
-      "summary_zh": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers."
-    },
-    {
-      "id": "a3c4e799ef5c07d6",
-      "title": "Easing Back From Brexit: What to Expect at U.K. Summit With E.U.",
-      "summary": "A decade after Britain voted to leave the European Union, it is creeping back toward the 27-nation bloc amid global pressure.",
+      "id": "ee02f6f46b53daed",
+      "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
+      "summary": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
+      "source_url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
       "image_url": null,
-      "published_at": "2026-11-20T05:01:06.000Z",
+      "published_at": "2026-11-20T16:05:55.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -240,8 +374,8 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "Easing Back From Brexit: What to Expect at U.K. Summit With E.U.",
-      "summary_zh": "A decade after Britain voted to leave the European Union, it is creeping back toward the 27-nation bloc amid global pressure."
+      "title_zh": "The War Is Ravaging Ukraine’s Wildlife, Too",
+      "summary_zh": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire."
     },
     {
       "id": "b5112099a8dea886",
@@ -278,106 +412,59 @@
       "summary_zh": "A jury rejected the men’s defense that they had been relying on assurances from Joanne Young’s husband — who himself has pleaded guilty to rape — that she had consented."
     },
     {
-      "id": "abea5797a1d0a75a",
-      "title": "Life in the Rohingya camps in Bangladesh is becoming more precarious.",
-      "summary": "",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-rohingya-village-refugee-genocide-icj",
-      "image_url": null,
-      "published_at": "2026-11-19T13:50:11.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Life in the Rohingya camps in Bangladesh is becoming more precarious.",
-      "summary_zh": ""
-    },
-    {
-      "id": "9da9e73849d59018",
-      "title": "The Rohingya Crisis Over the Years",
-      "summary": "After government troops and mobs rampaged through Rohingya communities in Myanmar in 2017, refugees fled to to Bangladesh.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/19/world/asia/rohingya-camps-photos-bangladesh.html",
-      "image_url": null,
-      "published_at": "2026-11-19T16:27:27.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "The Rohingya Crisis Over the Years",
-      "summary_zh": "After government troops and mobs rampaged through Rohingya communities in Myanmar in 2017, refugees fled to to Bangladesh."
-    },
-    {
-      "id": "9fb9dc7ee9ee6217",
-      "title": "Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million",
-      "summary": "The sell-off hit Wagyu’s XMR1 token, separate from Monero and Hyperliquid’s XMR futures market.",
+      "id": "3143b1485596db95",
+      "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
+      "summary": "The ECB president called for common rules as the EU's new blockchain settlement system handled a 1 billion-euro ($1.1 billion) digital bond transaction.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million",
+      "source_url": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
       "image_url": null,
-      "published_at": "2026-11-20T08:04:40.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million",
-      "summary_zh": "The sell-off hit Wagyu’s XMR1 token, separate from Monero and Hyperliquid’s XMR futures market."
-    },
-    {
-      "id": "0eb4ca4ec886f6a2",
-      "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
-      "summary": "Wall Street piled into Bitcoin funds in the third quarter, ending a three-quarter selling streak, according to Galaxy Research. But the buying has given way to renewed selling this quarter.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
-      "image_url": null,
-      "published_at": "2026-11-20T05:20:51.000Z",
+      "published_at": "2026-11-20T13:11:49.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
-        "bitcoin"
+        "ai",
+        "war"
       ],
       "region": "global",
-      "title_zh": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
-      "summary_zh": "Wall Street piled into Bitcoin funds in the third quarter, ending a three-quarter selling streak, according to Galaxy Research. But the buying has given way to renewed selling this quarter."
+      "title_zh": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
+      "summary_zh": "The ECB president called for common rules as the EU's new blockchain settlement system handled a 1 billion-euro ($1.1 billion) digital bond transaction."
     },
     {
-      "id": "c36ca0737e4e0890",
-      "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
-      "summary": "Glamsterdam was originally targeted for December, but developers now say January is the earliest possible date as companies work to fix affected smart contracts.",
+      "id": "3c1fd2550b40087b",
+      "title": "Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
+      "summary": "Wagyu’s founder pledged refunds after an attacker sold XMR1 Wrapped Monero tokens in a $13 million exploit.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
       "image_url": null,
-      "published_at": "2026-11-20T04:58:08.000Z",
+      "published_at": "2026-11-20T16:11:22.000Z",
       "importance_score": 56,
       "sentiment": 0,
-      "tags": [
-        "ethereum"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
-      "summary_zh": "Glamsterdam was originally targeted for December, but developers now say January is the earliest possible date as companies work to fix affected smart contracts."
+      "title_zh": "Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
+      "summary_zh": "Wagyu’s founder pledged refunds after an attacker sold XMR1 Wrapped Monero tokens in a $13 million exploit."
     },
     {
-      "id": "71496616da246900",
-      "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
-      "summary": "The U.S. Senate Banking Committee held a confirmation hearing for the two nominees — one from each party — as the administration rebuilds the markets regulators.",
+      "id": "920cb26ec32d9ddf",
+      "title": "Wintermute policy chief calls for crypto lobby to ‘clean house’ in D.C.",
+      "summary": "Wintermute's Ron Hammond says crypto needs a new strategy after repeated lobbying setbacks against established financial interests.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-20-wintermute-policy-chief-calls-for-crypto-lobby-clean-house-d-c-444721",
       "image_url": null,
-      "published_at": "2026-11-19T18:15:56.000Z",
+      "published_at": "2026-11-20T14:36:10.000Z",
       "importance_score": 56,
       "sentiment": 0,
       "tags": [
+        "ai",
+        "crypto",
         "policy"
       ],
       "region": "global",
-      "title_zh": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
-      "summary_zh": "The U.S. Senate Banking Committee held a confirmation hearing for the two nominees — one from each party — as the administration rebuilds the markets regulators."
+      "title_zh": "Wintermute policy chief calls for crypto lobby to ‘clean house’ in D.C.",
+      "summary_zh": "Wintermute's Ron Hammond says crypto needs a new strategy after repeated lobbying setbacks against established financial interests."
     },
     {
       "id": "6eaaf3a4a2e33c26",
@@ -419,34 +506,94 @@
       "summary_zh": "In today's newsletter, CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US; Ripple's Alderoty doubts Elizabeth Warren will set US crypto policy; and more."
     },
     {
-      "id": "729c0501f4755c51",
-      "title": "Ripple’s Alderoty doubts Elizabeth Warren will ‘set crypto policy in this country,’ backs durable agency rules",
-      "summary": "Ripple’s Alderoty backs durable agency rules as hopes for crypto market structure legislation fade.",
+      "id": "dfcfb058bb68142a",
+      "title": "Trending Crypto: WASTED (WASTED)",
+      "summary": "CoinGecko trending rank #787.",
       "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105",
-      "image_url": null,
-      "published_at": "2026-11-19T18:47:30.000Z",
-      "importance_score": 56,
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/wasted-4",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180327/large/logo.png?1795002824",
+      "published_at": "2026-11-20T18:05:17.287Z",
+      "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
-        "war",
-        "policy"
+        "trending",
+        "wasted"
       ],
       "region": "global",
-      "title_zh": "Ripple’s Alderoty doubts Elizabeth Warren will ‘set crypto policy in this country,’ backs durable agency rules",
-      "summary_zh": "Ripple’s Alderoty backs durable agency rules as hopes for crypto market structure legislation fade."
+      "title_zh": "Trending Crypto: WASTED (WASTED)",
+      "summary_zh": "CoinGecko trending rank #787."
     },
     {
-      "id": "7852f285b7580dfd",
+      "id": "27336e8b2eba01c8",
+      "title": "Trending Crypto: Official Trump (TRUMP)",
+      "summary": "CoinGecko trending rank #137.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/official-trump",
+      "image_url": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561",
+      "published_at": "2026-11-20T18:05:17.287Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "trump"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Official Trump (TRUMP)",
+      "summary_zh": "CoinGecko trending rank #137."
+    },
+    {
+      "id": "02b00e82f4be253c",
+      "title": "Trending Crypto: Chunkee The Manatee (CHUNKEE)",
+      "summary": "CoinGecko trending rank #942.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/chunkee-the-manatee",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180316/large/logo1.png?1794993235",
+      "published_at": "2026-11-20T18:05:17.287Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "chunkee"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Chunkee The Manatee (CHUNKEE)",
+      "summary_zh": "CoinGecko trending rank #942."
+    },
+    {
+      "id": "76b359e363223b06",
+      "title": "Trending Crypto: Lucia (LUCIA)",
+      "summary": "CoinGecko trending rank #850.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/lucia-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180313/large/logo.png?1795053500",
+      "published_at": "2026-11-20T18:05:17.287Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "lucia"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Lucia (LUCIA)",
+      "summary_zh": "CoinGecko trending rank #850."
+    },
+    {
+      "id": "de3dbd68e7ad7ff0",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-20T09:20:36.675Z",
+      "published_at": "2026-11-20T18:05:17.287Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -457,86 +604,6 @@
       "region": "global",
       "title_zh": "Trending Crypto: Bitcoin (BTC)",
       "summary_zh": "CoinGecko trending rank #1."
-    },
-    {
-      "id": "0f77249dfe233132",
-      "title": "Trending Crypto: Monero (XMR)",
-      "summary": "CoinGecko trending rank #12.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/monero",
-      "image_url": "https://coin-images.coingecko.com/coins/images/69/large/monero_logo.png?1696501460",
-      "published_at": "2026-11-20T09:20:36.675Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "xmr"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Monero (XMR)",
-      "summary_zh": "CoinGecko trending rank #12."
-    },
-    {
-      "id": "435ac0ea5bc14543",
-      "title": "Trending Crypto: Pearl (PEARL)",
-      "summary": "CoinGecko trending rank #78.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-11-20T09:20:36.675Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pearl"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Pearl (PEARL)",
-      "summary_zh": "CoinGecko trending rank #78."
-    },
-    {
-      "id": "527a541e66929b04",
-      "title": "Trending Crypto: Pi Network (PI)",
-      "summary": "CoinGecko trending rank #90.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pi-network",
-      "image_url": "https://coin-images.coingecko.com/coins/images/54342/large/pi_network.jpg?1739347576",
-      "published_at": "2026-11-20T09:20:36.675Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pi"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Pi Network (PI)",
-      "summary_zh": "CoinGecko trending rank #90."
-    },
-    {
-      "id": "4830e240b2f78a4e",
-      "title": "Trending Crypto: Sky (SKY)",
-      "summary": "CoinGecko trending rank #67.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/sky",
-      "image_url": "https://coin-images.coingecko.com/coins/images/39925/large/sky.jpg?1724827980",
-      "published_at": "2026-11-20T09:20:36.675Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "sky"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Sky (SKY)",
-      "summary_zh": "CoinGecko trending rank #67."
     },
     {
       "id": "62188372adfde12d",
@@ -594,22 +661,22 @@
       "summary_zh": "The system asks humans for feedback to increase trust in machine-generated designs for buildings and bridges."
     },
     {
-      "id": "fa03e0d7279fdb6e",
-      "title": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
-      "summary": "A secure operating system, a quantum microsystem platform, and a 5G interference-canceling algorithm are named among the year's most significant innovations.",
-      "category": "AI",
-      "source_name": "MIT News AI",
-      "source_url": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112",
+      "id": "c5b226bb25eab569",
+      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+      "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-12T21:15:00.000Z",
+      "published_at": "2026-11-20T13:01:16.000Z",
       "importance_score": 52,
       "sentiment": 0,
       "tags": [
-        "war"
+        "ai"
       ],
       "region": "global",
-      "title_zh": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
-      "summary_zh": "A secure operating system, a quantum microsystem platform, and a 5G interference-canceling algorithm are named among the year's most significant innovations."
+      "title_zh": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+      "summary_zh": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine."
     },
     {
       "id": "fffeef1d5b0fc45f",
@@ -662,101 +729,57 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 11/01/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Strategy of the Week #3: The Pre-FOMC Drift in S&P 500 Futures [Delphic Alpha] Buy S&P 500 futures at the 16:00 New York cl"
     },
     {
-      "id": "58385c0ff64efb2d",
-      "title": "Here's what's crashing gold and likely weighing on bitcoin too",
-      "summary": "Gold fell to its lowest level since September 2025 on Friday, and the same catalyst driving its decline is likely also weighing on bitcoin.",
+      "id": "c92475fb3cc0a5d9",
+      "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
+      "summary": "A former Point72 executive says AI could reshape Wall Street's data market, turning once-exclusive information into a source of revenue and financing.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
+      "source_url": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
       "image_url": null,
-      "published_at": "2026-11-20T06:12:15.000Z",
+      "published_at": "2026-11-20T14:54:30.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
-        "bitcoin"
+        "ai"
       ],
       "region": "global",
-      "title_zh": "Here's what's crashing gold and likely weighing on bitcoin too",
-      "summary_zh": "Gold fell to its lowest level since September 2025 on Friday, and the same catalyst driving its decline is likely also weighing on bitcoin."
+      "title_zh": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
+      "summary_zh": "A former Point72 executive says AI could reshape Wall Street's data market, turning once-exclusive information into a source of revenue and financing."
     },
     {
-      "id": "d4542b34b3acf37d",
-      "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
-      "summary": "Bitcoin remains under pressure after Anthropic's IPO as Nasdaq futures dip below their 200-day average.",
+      "id": "db1bd9feef25785d",
+      "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
+      "summary": "Your day-ahead look for Nov. 20, 2026",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
+      "source_url": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
       "image_url": null,
-      "published_at": "2026-11-20T03:32:30.000Z",
+      "published_at": "2026-11-20T12:15:08.000Z",
       "importance_score": 50,
       "sentiment": 0,
       "tags": [
-        "ai",
-        "anthropic",
         "bitcoin",
         "stocks"
       ],
       "region": "global",
-      "title_zh": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
-      "summary_zh": "Bitcoin remains under pressure after Anthropic's IPO as Nasdaq futures dip below their 200-day average."
+      "title_zh": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
+      "summary_zh": "Your day-ahead look for Nov. 20, 2026"
     },
     {
-      "id": "90b5375c9f335841",
-      "title": "Tokenized Stocks Shrug Off the Crypto Selloff",
-      "summary": "Tokenized Stocks Shrug Off the Crypto Selloff Bitcoin fell as low as $62k late Saturday, its sixth straight weekly decline. Meanwhile, tokenized stocks crossed $4 billion in onchain value for the first time on Nov 11. Tokenized stocks are now roughly five times their value on Jan",
+      "id": "1c838d2a4d9c5af4",
+      "title": "Coinbase targets first-half 2027 for its own prediction market contracts",
+      "summary": "The move would reduce Coinbase's reliance on a partnership Kalshi, which brought in $200 million in annualized revenue in the third quarter.",
       "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
       "image_url": null,
-      "published_at": "2026-11-19T17:12:00.000Z",
+      "published_at": "2026-11-20T10:48:04.000Z",
       "importance_score": 50,
       "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto",
-        "bitcoin",
-        "stocks"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Tokenized Stocks Shrug Off the Crypto Selloff",
-      "summary_zh": "Tokenized Stocks Shrug Off the Crypto Selloff Bitcoin fell as low as $62k late Saturday, its sixth straight weekly decline. Meanwhile, tokenized stocks crossed $4 billion in onchain value for the first time on Nov 11. Tokenized stocks are now roughly five times their value on Jan"
-    },
-    {
-      "id": "7872478f1a3268cd",
-      "title": "Bitcoin finance protocol Hashi goes live on Sui mainnet",
-      "summary": "Hashi is processing bitcoin deposits on Sui mainnet, with hBTC used for Fluid loans and HoneyB vaults on Upshift.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/defi/2026-11-19-bitcoin-finance-protocol-hashi-goes-live-on-sui-mainnet-443608",
-      "image_url": null,
-      "published_at": "2026-11-19T14:00:00.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin finance protocol Hashi goes live on Sui mainnet",
-      "summary_zh": "Hashi is processing bitcoin deposits on Sui mainnet, with hBTC used for Fluid loans and HoneyB vaults on Upshift."
-    },
-    {
-      "id": "b9bffc984b258c2d",
-      "title": "US launches cybercrime center with TRM Labs to help trace crypto tied to scams",
-      "summary": "The Threat Disruption Center will help investigators trace victims’ funds and identify crypto wallets used by scammers.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-19-us-launches-cybercrime-center-with-trm-labs-to-help-trace-crypto-tied-to-scams-443599",
-      "image_url": null,
-      "published_at": "2026-11-19T11:55:06.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "US launches cybercrime center with TRM Labs to help trace crypto tied to scams",
-      "summary_zh": "The Threat Disruption Center will help investigators trace victims’ funds and identify crypto wallets used by scammers."
+      "title_zh": "Coinbase targets first-half 2027 for its own prediction market contracts",
+      "summary_zh": "The move would reduce Coinbase's reliance on a partnership Kalshi, which brought in $200 million in annualized revenue in the third quarter."
     },
     {
       "id": "1cdf033e42b99edb",
@@ -811,6 +834,22 @@
       "region": "global",
       "title_zh": "Managing frontier AI risk: From training to deployment",
       "summary_zh": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring."
+    },
+    {
+      "id": "07c0891f70b43dba",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "image_url": null,
+      "published_at": "2026-11-20T00:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "summary_zh": ""
     },
     {
       "id": "fd046f57652c409c",
@@ -897,6 +936,42 @@
       "summary_zh": "Researchers find air pollution from data center electricity use can affect communities far from the facilities, with some of the highest impacts in the Midwest."
     },
     {
+      "id": "07848236fc5842da",
+      "title": "The bull market has a new problem. The 'smart money' is selling",
+      "summary": "Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic’s $81 billion IPO puts that demand to the test.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
+      "image_url": null,
+      "published_at": "2026-11-20T14:15:29.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "anthropic"
+      ],
+      "region": "global",
+      "title_zh": "The bull market has a new problem. The 'smart money' is selling",
+      "summary_zh": "Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic’s $81 billion IPO puts that demand to the test."
+    },
+    {
+      "id": "92b2236e4f857775",
+      "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
+      "summary": "Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
+      "image_url": null,
+      "published_at": "2026-11-20T13:29:50.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
+      "summary_zh": "Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week."
+    },
+    {
       "id": "d678716aad1f118e",
       "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
       "summary": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare trilateral meeting on Thursday.",
@@ -961,127 +1036,90 @@
       "summary_zh": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting."
     },
     {
-      "id": "df8c0fd1349545d4",
-      "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
-      "summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+      "id": "c7bc24a8f320e97f",
+      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-18T06:18:11.000Z",
+      "published_at": "2026-11-20T17:36:29.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "JPMorgan is working on AI agent transactions that don’t involve humans",
-      "summary_zh": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions."
-    },
-    {
-      "id": "1234a0377653b51b",
-      "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-      "summary": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
-      "image_url": null,
-      "published_at": "2026-11-17T08:52:45.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-      "summary_zh": "The stakes have just gotten higher for businesses navigating the U.S. and China markets."
-    },
-    {
-      "id": "93c1d2ace8c394c4",
-      "title": "UK and EU to agree youth mobility scheme, BBC understands",
-      "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-20T07:14:46.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "UK and EU to agree youth mobility scheme, BBC understands",
-      "summary_zh": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table."
-    },
-    {
-      "id": "9ca7e136b73e2425",
-      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-      "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-20T00:13:21.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-      "summary_zh": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks."
-    },
-    {
-      "id": "7260344cbd1916be",
-      "title": "Three Kyiv bridges hit during major Russian missile attack",
-      "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-20T09:01:06.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Three Kyiv bridges hit during major Russian missile attack",
-      "summary_zh": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge."
-    },
-    {
-      "id": "823084d9d2e97f8b",
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-19T23:33:51.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai",
         "anthropic"
       ],
       "region": "global",
-      "title_zh": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "summary_zh": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
+      "title_zh": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "summary_zh": "Other tech companies have also taken a hit as share markets broadly slump."
     },
     {
-      "id": "facc29ab9b89acab",
-      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+      "id": "8f8286c34282df04",
+      "title": "Nearly 600 women killed in South Africa within three months",
+      "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-19T20:07:02.000Z",
+      "published_at": "2026-11-20T15:55:16.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "summary_zh": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands."
+      "title_zh": "Nearly 600 women killed in South Africa within three months",
+      "summary_zh": "Police officials called for \"greater efforts to prevent... violence\" against women and children."
+    },
+    {
+      "id": "98151a324c709673",
+      "title": "Texas death-row inmate screams as execution takes more than one hour",
+      "summary": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-20T12:42:37.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Texas death-row inmate screams as execution takes more than one hour",
+      "summary_zh": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug."
+    },
+    {
+      "id": "4bd0729b1b8a0e92",
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-20T13:28:32.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "White House removes cyber-security chief after series of tech outages",
+      "summary_zh": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller."
+    },
+    {
+      "id": "13fcba78a76e79ed",
+      "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+      "summary": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-20T00:08:22.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+      "summary_zh": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers."
     },
     {
       "id": "52930fffef21fa6f",
@@ -1102,46 +1140,48 @@
       "summary_zh": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill."
     },
     {
-      "id": "78a3cfaa3a835b19",
-      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-      "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+      "id": "5054911abcd91e3a",
+      "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
+      "summary": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
       "image_url": null,
-      "published_at": "2026-11-19T17:38:22.000Z",
+      "published_at": "2026-11-20T15:49:30.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai"
+      ],
       "region": "global",
-      "title_zh": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-      "summary_zh": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion."
+      "title_zh": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
+      "summary_zh": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies."
     },
     {
-      "id": "9851314a81825e93",
-      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-      "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
+      "id": "217de36ff4cd952b",
+      "title": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
+      "summary": "As he toured South America this month, Pope Leo XIV met with 11 victims of clerical sexual abuse. Some want him to engage more meaningfully.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
       "image_url": null,
-      "published_at": "2026-11-19T23:40:29.000Z",
+      "published_at": "2026-11-20T10:38:19.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-      "summary_zh": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says."
+      "title_zh": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
+      "summary_zh": "As he toured South America this month, Pope Leo XIV met with 11 victims of clerical sexual abuse. Some want him to engage more meaningfully."
     },
     {
       "id": "dfa128d26d4cae73",
       "title": "Gen Z Is Driving Global Political Change, Aiding Far Left and Far Right",
-      "summary": "Protests planned across Europe on Friday are the latest example of global youth anger that has driven demonstrations and election upsets.",
+      "summary": "Protests across Europe are the latest example of global youth anger that has driven demonstrations and election upsets.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/20/world/europe/youth-protests-far-right-left.html",
       "image_url": null,
-      "published_at": "2026-11-20T05:01:07.000Z",
+      "published_at": "2026-11-20T14:17:02.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1149,23 +1189,41 @@
       ],
       "region": "global",
       "title_zh": "Gen Z Is Driving Global Political Change, Aiding Far Left and Far Right",
-      "summary_zh": "Protests planned across Europe on Friday are the latest example of global youth anger that has driven demonstrations and election upsets."
+      "summary_zh": "Protests across Europe are the latest example of global youth anger that has driven demonstrations and election upsets."
     },
     {
-      "id": "110da6d3957ec7e8",
-      "title": "A Summit Gives Putin the Win He Craves: Equal Stature With Superpowers",
+      "id": "29a3abdf19548a13",
+      "title": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share ‘Values’",
       "summary": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
       "image_url": null,
-      "published_at": "2026-11-20T05:01:13.000Z",
+      "published_at": "2026-11-20T13:56:56.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "A Summit Gives Putin the Win He Craves: Equal Stature With Superpowers",
+      "title_zh": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share ‘Values’",
       "summary_zh": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power."
+    },
+    {
+      "id": "c28ba2e85017af58",
+      "title": "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
+      "summary": "Prime Minister Andy Burnham and European leaders said they had agreed to remove some of the barriers created when Britain left the European Union.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
+      "image_url": null,
+      "published_at": "2026-11-20T16:50:16.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
+      "summary_zh": "Prime Minister Andy Burnham and European leaders said they had agreed to remove some of the barriers created when Britain left the European Union."
     },
     {
       "id": "83e41474955169d9",
@@ -1204,24 +1262,6 @@
       "summary_zh": "The Russian leader invited European representatives to Moscow to discuss giving them a role in negotiations. It was unclear how serious the offer was."
     },
     {
-      "id": "c69cd94f7ad06ac9",
-      "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
-      "summary": "The ruling by the International Court of Justice deals with issues relevant to the case brought against Israel alleging genocide in Gaza. Israel has rejected the charge.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
-      "image_url": null,
-      "published_at": "2026-11-19T21:17:13.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
-      "summary_zh": "The ruling by the International Court of Justice deals with issues relevant to the case brought against Israel alleging genocide in Gaza. Israel has rejected the charge."
-    },
-    {
       "id": "1ab783650e2d74ea",
       "title": "Recent Quant Links from Quantocracy as of 11/09/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a ",
@@ -1240,40 +1280,59 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a"
     },
     {
-      "id": "93d8c1610bda07ab",
-      "title": "Anthropic shares may fall 5% at Friday’s open, crypto futures suggest",
-      "summary": "About $1.7 billion traded through a Hyperliquid contract on the AI company’s shares in 24 hours, and the biggest position heading into Friday’s Nasdaq open is a $30 million short.",
+      "id": "9b815d17a58f2f5f",
+      "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
+      "summary": "Hong Kong wants to bring crypto brokers, advisers, asset managers and custodians under its existing regulatory framework.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
+      "source_url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
       "image_url": null,
-      "published_at": "2026-11-20T06:08:28.000Z",
+      "published_at": "2026-11-20T14:38:30.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
+      "summary_zh": "Hong Kong wants to bring crypto brokers, advisers, asset managers and custodians under its existing regulatory framework."
+    },
+    {
+      "id": "f9e1001ece8561ba",
+      "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
+      "summary": "Hyperliquid and other onchain exchanges can offer derivatives to U.S. traders if they obtain the required licenses or work with a registered exchange, the CFTC chairman said.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
+      "image_url": null,
+      "published_at": "2026-11-20T10:02:03.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
+      "summary_zh": "Hyperliquid and other onchain exchanges can offer derivatives to U.S. traders if they obtain the required licenses or work with a registered exchange, the CFTC chairman said."
+    },
+    {
+      "id": "aee5267e205a3520",
+      "title": "Rep. Horsford sees opening for House vote on crypto tax bill before Congress ends",
+      "summary": "Rep. Steven Horsford said a bipartisan crypto tax bill could pass the House before this current Congress ends.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720",
+      "image_url": null,
+      "published_at": "2026-11-20T14:51:32.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
         "ai",
-        "anthropic",
         "crypto"
       ],
       "region": "global",
-      "title_zh": "Anthropic shares may fall 5% at Friday’s open, crypto futures suggest",
-      "summary_zh": "About $1.7 billion traded through a Hyperliquid contract on the AI company’s shares in 24 hours, and the biggest position heading into Friday’s Nasdaq open is a $30 million short."
-    },
-    {
-      "id": "250f1d6bbb08f0f4",
-      "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
-      "summary": "USDS held its $1 peg as a large holder linked to Poloniex withdrew much of decentralized protocol Sky's USDC liquidity backing its stablecoins.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
-      "image_url": null,
-      "published_at": "2026-11-19T19:53:42.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
-      "summary_zh": "USDS held its $1 peg as a large holder linked to Poloniex withdrew much of decentralized protocol Sky's USDC liquidity backing its stablecoins."
+      "title_zh": "Rep. Horsford sees opening for House vote on crypto tax bill before Congress ends",
+      "summary_zh": "Rep. Steven Horsford said a bipartisan crypto tax bill could pass the House before this current Congress ends."
     },
     {
       "id": "bc138399e7e7b0d0",
@@ -1292,61 +1351,6 @@
       "region": "global",
       "title_zh": "Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling",
       "summary_zh": "Coinbase said event contracts already qualify as swaps under the CEA and that explicit inclusion would provide greater regulatory certainty."
-    },
-    {
-      "id": "2efa52449560fac5",
-      "title": "Kalshi’s Quintenz says insider trading is ‘just easier to see’ in prediction markets than stocks",
-      "summary": "Quintenz said the possibility of insider trading doesn't make a market illegal and that enforcement should back up exchanges' efforts to prevent it.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133",
-      "image_url": null,
-      "published_at": "2026-11-19T20:20:59.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "stocks"
-      ],
-      "region": "global",
-      "title_zh": "Kalshi’s Quintenz says insider trading is ‘just easier to see’ in prediction markets than stocks",
-      "summary_zh": "Quintenz said the possibility of insider trading doesn't make a market illegal and that enforcement should back up exchanges' efforts to prevent it."
-    },
-    {
-      "id": "761db57a9500cdb3",
-      "title": "CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US",
-      "summary": "Michael Selig said platforms like Hyperliquid have two ways to enter the U.S. retail market and must follow the same rules as other exchanges",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106",
-      "image_url": null,
-      "published_at": "2026-11-19T18:04:15.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US",
-      "summary_zh": "Michael Selig said platforms like Hyperliquid have two ways to enter the U.S. retail market and must follow the same rules as other exchanges"
-    },
-    {
-      "id": "18a3834d81102d81",
-      "title": "Hill, Moreno blame delays for missed Clarity Act window but differ on reach of agency rulemaking",
-      "summary": "Hill and Moreno fault Clarity Act delays but disagree on how much crypto regulators can accomplish.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-19-hill-moreno-blame-delays-missed-clarity-act-window-split-regulators-fill-gap-443615",
-      "image_url": null,
-      "published_at": "2026-11-19T16:01:16.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Hill, Moreno blame delays for missed Clarity Act window but differ on reach of agency rulemaking",
-      "summary_zh": "Hill and Moreno fault Clarity Act delays but disagree on how much crypto regulators can accomplish."
     },
     {
       "id": "7001cba4636c6a61",
@@ -1548,24 +1552,6 @@
       "summary_zh": ""
     },
     {
-      "id": "4dcb381ccb332a39",
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "image_url": null,
-      "published_at": "2026-11-12T19:07:35.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "llm"
-      ],
-      "region": "global",
-      "title_zh": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "summary_zh": ""
-    },
-    {
       "id": "7241bf667b64df42",
       "title": "Introducing Tool Retrieval in the Gemini API",
       "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
@@ -1705,6 +1691,24 @@
       "region": "global",
       "title_zh": "Gemini Intelligence: New features, on more devices",
       "summary_zh": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more."
+    },
+    {
+      "id": "bcc02732af0dcf58",
+      "title": "Following the “mathocalypse,” mathematicians consider the future",
+      "summary": "A panel discussion at MIT explored AI’s implications for mathematical discovery and the people who make it their profession.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120",
+      "image_url": null,
+      "published_at": "2026-11-20T15:20:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Following the “mathocalypse,” mathematicians consider the future",
+      "summary_zh": "A panel discussion at MIT explored AI’s implications for mathematical discovery and the people who make it their profession."
     },
     {
       "id": "1b9a572b9814f69b",
