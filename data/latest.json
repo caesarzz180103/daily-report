@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T19:14:55.520Z",
+  "generated_at": "2026-11-20T01:30:14.964Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike；【CRYPTO】Bitcoin holds above $63,750 but Fed rate-hike threats loom large；【FINANCE】Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show。",
   "meta": {
     "sources_count": 11,
@@ -97,24 +97,6 @@
       "region": "global",
       "title_zh": "Helping robots fit into the human workplace",
       "summary_zh": "Founded by Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks, Robust AI’s robots are designed to collaborate with humans in factories and warehouses."
-    },
-    {
-      "id": "c52310276b972822",
-      "title": "New research could lead to faster, trustworthy AI models for climate prediction",
-      "summary": "MIT scientists developed a training method to generate models that simulate the effects of human activities on climate much more quickly than other approaches.",
-      "category": "AI",
-      "source_name": "MIT News AI",
-      "source_url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
-      "image_url": null,
-      "published_at": "2026-11-12T05:00:00.000Z",
-      "importance_score": 64,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "New research could lead to faster, trustworthy AI models for climate prediction",
-      "summary_zh": "MIT scientists developed a training method to generate models that simulate the effects of human activities on climate much more quickly than other approaches."
     },
     {
       "id": "76b381ebd56e0bce",
@@ -227,6 +209,57 @@
       "summary_zh": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America."
     },
     {
+      "id": "d3270ce5ce75ad7f",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-20T00:50:24.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "summary_zh": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
+    },
+    {
+      "id": "405430f3b63d3ae1",
+      "title": "Trump posthumously pardons US baseball legend Pete Rose",
+      "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-19T23:51:50.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Trump posthumously pardons US baseball legend Pete Rose",
+      "summary_zh": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year."
+    },
+    {
+      "id": "1689b79aa1f56ab5",
+      "title": "4 British Men Convicted of Sexually Assaulting Joanne Young",
+      "summary": "A jury rejected the men’s defense that they had been relying on assurances from Joanne Young’s husband — who himself has pleaded guilty to rape — that she had consented.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
+      "image_url": null,
+      "published_at": "2026-11-20T00:38:53.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "4 British Men Convicted of Sexually Assaulting Joanne Young",
+      "summary_zh": "A jury rejected the men’s defense that they had been relying on assurances from Joanne Young’s husband — who himself has pleaded guilty to rape — that she had consented."
+    },
+    {
       "id": "abea5797a1d0a75a",
       "title": "Life in the Rohingya camps in Bangladesh is becoming more precarious.",
       "summary": "",
@@ -234,7 +267,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-rohingya-village-refugee-genocide-icj",
       "image_url": null,
-      "published_at": "2026-11-19T13:50:10.000Z",
+      "published_at": "2026-11-19T13:50:11.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
@@ -405,74 +438,74 @@
       "summary_zh": "The central bank said the bills were issued natively on its Singapore Dollar Test Network and settled in wholesale CBDC."
     },
     {
-      "id": "d17cd50e17093529",
-      "title": "Trending Crypto: WASTED (WASTED)",
-      "summary": "CoinGecko trending rank #764.",
+      "id": "f56a2c517bf6b611",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/wasted-4",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180327/large/logo.png?1795002824",
-      "published_at": "2026-11-19T19:13:45.411Z",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-11-20T01:29:02.135Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "wasted"
+        "btc"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: WASTED (WASTED)",
-      "summary_zh": "CoinGecko trending rank #764."
+      "title_zh": "Trending Crypto: Bitcoin (BTC)",
+      "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "dc9b4f92953e3300",
-      "title": "Trending Crypto: Official Trump (TRUMP)",
-      "summary": "CoinGecko trending rank #134.",
+      "id": "9b5677d374460f52",
+      "title": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary": "CoinGecko trending rank #22.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/official-trump",
-      "image_url": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561",
-      "published_at": "2026-11-19T19:13:45.411Z",
+      "source_url": "https://www.coingecko.com/en/coins/near",
+      "image_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
+      "published_at": "2026-11-20T01:29:02.135Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "trump"
+        "near"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Official Trump (TRUMP)",
-      "summary_zh": "CoinGecko trending rank #134."
+      "title_zh": "Trending Crypto: NEAR Protocol (NEAR)",
+      "summary_zh": "CoinGecko trending rank #22."
     },
     {
-      "id": "6e3c976b1f2aa5bc",
-      "title": "Trending Crypto: Lucia (LUCIA)",
-      "summary": "CoinGecko trending rank #820.",
+      "id": "c9d106bfe431992d",
+      "title": "Trending Crypto: Ethereum (ETH)",
+      "summary": "CoinGecko trending rank #2.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/lucia-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180313/large/logo.png?1795053500",
-      "published_at": "2026-11-19T19:13:45.411Z",
+      "source_url": "https://www.coingecko.com/en/coins/ethereum",
+      "image_url": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+      "published_at": "2026-11-20T01:29:02.135Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "lucia"
+        "eth"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Lucia (LUCIA)",
-      "summary_zh": "CoinGecko trending rank #820."
+      "title_zh": "Trending Crypto: Ethereum (ETH)",
+      "summary_zh": "CoinGecko trending rank #2."
     },
     {
-      "id": "41a7527ec1685e79",
+      "id": "c8909964d1301eba",
       "title": "Trending Crypto: Pearl (PEARL)",
       "summary": "CoinGecko trending rank #76.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pearl-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-11-19T19:13:45.411Z",
+      "published_at": "2026-11-20T01:29:02.135Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -485,24 +518,24 @@
       "summary_zh": "CoinGecko trending rank #76."
     },
     {
-      "id": "b7a949feb6968e98",
-      "title": "Trending Crypto: Sky (SKY)",
-      "summary": "CoinGecko trending rank #69.",
+      "id": "df22087e2e15a040",
+      "title": "Trending Crypto: Anthropic PreStocks (ANTHROPIC)",
+      "summary": "CoinGecko trending rank #428.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/sky",
-      "image_url": "https://coin-images.coingecko.com/coins/images/39925/large/sky.jpg?1724827980",
-      "published_at": "2026-11-19T19:13:45.411Z",
+      "source_url": "https://www.coingecko.com/en/coins/anthropic-prestocks-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/69479/large/anthropic.png?1758715980",
+      "published_at": "2026-11-20T01:29:02.135Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "sky"
+        "anthropic"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Sky (SKY)",
-      "summary_zh": "CoinGecko trending rank #69."
+      "title_zh": "Trending Crypto: Anthropic PreStocks (ANTHROPIC)",
+      "summary_zh": "CoinGecko trending rank #428."
     },
     {
       "id": "62188372adfde12d",
@@ -522,6 +555,24 @@
       "region": "global",
       "title_zh": "The Silent Consensus",
       "summary_zh": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
+    },
+    {
+      "id": "cabe2dcb226ad4d5",
+      "title": "AI helps researchers investigate how thousands of medical studies share code",
+      "summary": "An MIT and Dana-Farber Institute-led team used large language models to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps in the information needed to scrutinize and reuse published research.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
+      "image_url": null,
+      "published_at": "2026-11-19T22:15:00.000Z",
+      "importance_score": 52,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "AI helps researchers investigate how thousands of medical studies share code",
+      "summary_zh": "An MIT and Dana-Farber Institute-led team used large language models to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps in the information needed to scrutinize and reuse published research."
     },
     {
       "id": "ef304e3d5b4c8e02",
@@ -721,40 +772,6 @@
       "summary_zh": "Ant launched the Whale Orchestration Protocol to enable settlement between tokenized deposits and tokenized money market funds."
     },
     {
-      "id": "2b43f5b133c669e7",
-      "title": "Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers",
-      "summary": "Bitcoin funding stayed negative for 67 consecutive days into May before recovering to about 8% annualized by the end of October.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-11-19-sygnum-bitcoin-carry-trades-beating-treasury-bills-2027-443547",
-      "image_url": null,
-      "published_at": "2026-11-19T06:00:00.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers",
-      "summary_zh": "Bitcoin funding stayed negative for 67 consecutive days into May before recovering to about 8% annualized by the end of October."
-    },
-    {
-      "id": "76d391e168ec4092",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "image_url": null,
-      "published_at": "2026-11-18T08:00:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "summary_zh": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
-    },
-    {
       "id": "1cdf033e42b99edb",
       "title": "Research acceleration: The jagged frontier",
       "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
@@ -774,6 +791,22 @@
       "summary_zh": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
     },
     {
+      "id": "76d391e168ec4092",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "image_url": null,
+      "published_at": "2026-11-18T08:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary_zh": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+    },
+    {
       "id": "c549616fb142b295",
       "title": "Managing frontier AI risk: From training to deployment",
       "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
@@ -791,25 +824,6 @@
       "region": "global",
       "title_zh": "Managing frontier AI risk: From training to deployment",
       "summary_zh": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring."
-    },
-    {
-      "id": "3fa192d1eaef3672",
-      "title": "Advancing chip design with OpenAI models",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "image_url": null,
-      "published_at": "2026-11-18T00:00:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "Advancing chip design with OpenAI models",
-      "summary_zh": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra."
     },
     {
       "id": "fd046f57652c409c",
@@ -994,6 +1008,43 @@
       "summary_zh": "The stakes have just gotten higher for businesses navigating the U.S. and China markets."
     },
     {
+      "id": "823084d9d2e97f8b",
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-19T23:33:51.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "anthropic"
+      ],
+      "region": "global",
+      "title_zh": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "summary_zh": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
+    },
+    {
+      "id": "2500d218f0436a48",
+      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-20T00:13:21.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "summary_zh": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege."
+    },
+    {
       "id": "facc29ab9b89acab",
       "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
       "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
@@ -1001,7 +1052,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-19T16:55:57.000Z",
+      "published_at": "2026-11-19T20:07:02.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1028,6 +1079,56 @@
       "summary_zh": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion."
     },
     {
+      "id": "6a8df9dbe6677300",
+      "title": "California targets Nvidia in China AI chip probe",
+      "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-19T23:04:30.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "California targets Nvidia in China AI chip probe",
+      "summary_zh": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure."
+    },
+    {
+      "id": "9851314a81825e93",
+      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-19T23:40:29.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "summary_zh": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says."
+    },
+    {
+      "id": "4396890e95f057cf",
+      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+      "summary": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-19T22:48:22.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+      "summary_zh": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist."
+    },
+    {
       "id": "b7880a936b6228f9",
       "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
       "summary": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
@@ -1042,162 +1143,6 @@
       "region": "global",
       "title_zh": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
       "summary_zh": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people."
-    },
-    {
-      "id": "814a00eb28186170",
-      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-      "summary": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-19T13:31:23.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Venezuela signs military deal with US less than a year after Maduro's removal",
-      "summary_zh": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\"."
-    },
-    {
-      "id": "d2aab0fe6380a5d7",
-      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-      "summary": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-19T13:07:35.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-      "summary_zh": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week."
-    },
-    {
-      "id": "9b02b5520f10a2f2",
-      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-      "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-19T00:49:19.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-      "summary_zh": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life."
-    },
-    {
-      "id": "a2a87ad440a0eb7d",
-      "title": "Susan Smith denied parole again 32 years after drowning her two sons",
-      "summary": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\".",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-19T17:23:34.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Susan Smith denied parole again 32 years after drowning her two sons",
-      "summary_zh": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\"."
-    },
-    {
-      "id": "ef3eaa8caf381169",
-      "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
-      "summary": "The Mrima Hill site is estimated to hold deposits of critical minerals worth more than $60bn (£45bn).",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-19T12:56:30.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
-      "summary_zh": "The Mrima Hill site is estimated to hold deposits of critical minerals worth more than $60bn (£45bn)."
-    },
-    {
-      "id": "0b61aa78f7d8e30c",
-      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
-      "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-19T09:21:54.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Survivors of Uganda's deadly landslide seek justice at the UN",
-      "summary_zh": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods."
-    },
-    {
-      "id": "b6aa6e1d9b2ed960",
-      "title": "Florida pastor found guilty over role in assassination of Haitian president",
-      "summary": "Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Moïse.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-19T11:44:57.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Florida pastor found guilty over role in assassination of Haitian president",
-      "summary_zh": "Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Moïse."
-    },
-    {
-      "id": "243c7ca5cf4c692c",
-      "title": "U.N. Court Rules Myanmar Committed Genocide Against Rohingya",
-      "summary": "Myanmar became the first state held accountable for violating the 1948 Genocide Convention. The ruling by the International Court of Justice could have broad implications.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide",
-      "image_url": null,
-      "published_at": "2026-11-19T17:57:09.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "U.N. Court Rules Myanmar Committed Genocide Against Rohingya",
-      "summary_zh": "Myanmar became the first state held accountable for violating the 1948 Genocide Convention. The ruling by the International Court of Justice could have broad implications."
-    },
-    {
-      "id": "2e24b40a486c4927",
-      "title": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
-      "summary": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
-      "image_url": null,
-      "published_at": "2026-11-19T19:06:33.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
-      "summary_zh": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire."
     },
     {
       "id": "83e41474955169d9",
@@ -1218,6 +1163,24 @@
       "summary_zh": "In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time."
     },
     {
+      "id": "2e24b40a486c4927",
+      "title": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
+      "summary": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
+      "image_url": null,
+      "published_at": "2026-11-20T00:51:01.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
+      "summary_zh": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire."
+    },
+    {
       "id": "4f187f0906148504",
       "title": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire",
       "summary": "The Russian leader invited European representatives to Moscow to discuss giving them a role in negotiations. It was unclear how serious the offer was.",
@@ -1236,6 +1199,24 @@
       "summary_zh": "The Russian leader invited European representatives to Moscow to discuss giving them a role in negotiations. It was unclear how serious the offer was."
     },
     {
+      "id": "c69cd94f7ad06ac9",
+      "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+      "summary": "The ruling by the International Court of Justice deals with issues relevant to the case brought against Israel alleging genocide in Gaza. Israel has rejected the charge.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
+      "image_url": null,
+      "published_at": "2026-11-19T21:17:12.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+      "summary_zh": "The ruling by the International Court of Justice deals with issues relevant to the case brought against Israel alleging genocide in Gaza. Israel has rejected the charge."
+    },
+    {
       "id": "93d0546a9a068346",
       "title": "Greenland Pulls Closer to the U.S. — by an Hour",
       "summary": "Greenland’s politicians voted to change the Arctic island’s time zone to be farther from Denmark, its former colonial power, and closer to the United States.",
@@ -1250,22 +1231,6 @@
       "region": "global",
       "title_zh": "Greenland Pulls Closer to the U.S. — by an Hour",
       "summary_zh": "Greenland’s politicians voted to change the Arctic island’s time zone to be farther from Denmark, its former colonial power, and closer to the United States."
-    },
-    {
-      "id": "481648ad51a827cc",
-      "title": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
-      "summary": "An aerial attack by the Yemeni militia affected several floors of a skyscraper that is home to the Public Investment Fund, without causing injuries, according to Saudi authorities.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
-      "image_url": null,
-      "published_at": "2026-11-19T18:55:36.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
-      "summary_zh": "An aerial attack by the Yemeni militia affected several floors of a skyscraper that is home to the Public Investment Fund, without causing injuries, according to Saudi authorities."
     },
     {
       "id": "1ab783650e2d74ea",
@@ -1286,9 +1251,25 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a"
     },
     {
-      "id": "53d8f41410c234ef",
-      "title": "Anthropic opens for trade at $111.50, up 34% from IPO price",
-      "summary": "At that opening price, the company would be valued at more than $2 trillion",
+      "id": "250f1d6bbb08f0f4",
+      "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+      "summary": "USDS held its $1 peg as a large holder linked to Poloniex withdrew much of decentralized protocol Sky's USDC liquidity backing its stablecoins.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+      "image_url": null,
+      "published_at": "2026-11-19T19:53:42.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+      "summary_zh": "USDS held its $1 peg as a large holder linked to Poloniex withdrew much of decentralized protocol Sky's USDC liquidity backing its stablecoins."
+    },
+    {
+      "id": "d7c5532458ee9d11",
+      "title": "Anthropic gains after IPO, but pulls off highest levels",
+      "summary": "After opening at $111.50, ANT quickly slipped back under $100, still above its $83 offering price.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
       "source_url": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
@@ -1297,11 +1278,12 @@
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
+        "ai",
         "anthropic"
       ],
       "region": "global",
-      "title_zh": "Anthropic opens for trade at $111.50, up 34% from IPO price",
-      "summary_zh": "At that opening price, the company would be valued at more than $2 trillion"
+      "title_zh": "Anthropic gains after IPO, but pulls off highest levels",
+      "summary_zh": "After opening at $111.50, ANT quickly slipped back under $100, still above its $83 offering price."
     },
     {
       "id": "96399b36b8ad2ef0",
@@ -1322,24 +1304,23 @@
       "summary_zh": ""
     },
     {
-      "id": "f7b798f9f477b165",
-      "title": "Anthropic’s $107 billion sale set to top SpaceX’s IPO as tokenized stocks gain traction",
-      "summary": "The maker of Claude priced its Nasdaq debut at $83 a share for a $1.5 trillion fully diluted valuation, with the Nasdaq 100 down 14% from record highs.",
+      "id": "2efa52449560fac5",
+      "title": "Kalshi’s Quintenz says insider trading is ‘just easier to see’ in prediction markets than stocks",
+      "summary": "Quintenz said the possibility of insider trading doesn't make a market illegal and that enforcement should back up exchanges' efforts to prevent it.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133",
       "image_url": null,
-      "published_at": "2026-11-19T11:06:13.000Z",
+      "published_at": "2026-11-19T20:20:59.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
         "ai",
-        "anthropic",
         "stocks"
       ],
       "region": "global",
-      "title_zh": "Anthropic’s $107 billion sale set to top SpaceX’s IPO as tokenized stocks gain traction",
-      "summary_zh": "The maker of Claude priced its Nasdaq debut at $83 a share for a $1.5 trillion fully diluted valuation, with the Nasdaq 100 down 14% from record highs."
+      "title_zh": "Kalshi’s Quintenz says insider trading is ‘just easier to see’ in prediction markets than stocks",
+      "summary_zh": "Quintenz said the possibility of insider trading doesn't make a market illegal and that enforcement should back up exchanges' efforts to prevent it."
     },
     {
       "id": "761db57a9500cdb3",
@@ -1397,6 +1378,70 @@
       "summary_zh": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
     },
     {
+      "id": "43be09847dc91dfe",
+      "title": "Deploying Daybreak Red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "image_url": null,
+      "published_at": "2026-11-19T00:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Deploying Daybreak Red",
+      "summary_zh": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
+    },
+    {
+      "id": "f3a30e7d4863c047",
+      "title": "See PR scans in action",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/business/learn/pr-scans-demo",
+      "image_url": null,
+      "published_at": "2026-11-19T00:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "See PR scans in action",
+      "summary_zh": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow."
+    },
+    {
+      "id": "bc80fece51120ec2",
+      "title": "Explore the Codex Security Plugin",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "image_url": null,
+      "published_at": "2026-11-19T00:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Explore the Codex Security Plugin",
+      "summary_zh": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
+    },
+    {
+      "id": "dc400711f5d9194b",
+      "title": "Get started with Daybreak Blue",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "image_url": null,
+      "published_at": "2026-11-19T00:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Get started with Daybreak Blue",
+      "summary_zh": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started."
+    },
+    {
       "id": "9534d6104540c4dd",
       "title": "Inside the Codex sandbox",
       "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
@@ -1411,60 +1456,6 @@
       "region": "global",
       "title_zh": "Inside the Codex sandbox",
       "summary_zh": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
-    },
-    {
-      "id": "1f2c7d8225e2d6d3",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "image_url": null,
-      "published_at": "2026-11-18T00:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "summary_zh": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
-    },
-    {
-      "id": "67eb55cfee1665e0",
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "image_url": null,
-      "published_at": "2026-11-17T17:45:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Introducing GPT-6.2 Astra and Sol",
-      "summary_zh": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
-    },
-    {
-      "id": "2ee779e6e2f2270c",
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "image_url": null,
-      "published_at": "2026-11-17T00:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "Strengthening NATO and allied cyber defenses with AI",
-      "summary_zh": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
     },
     {
       "id": "6e3fc72e87831523",
