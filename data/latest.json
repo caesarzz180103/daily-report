@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T18:06:31.110Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike；【FINANCE】Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show；【FINANCE】Warsh wants Fed officials to talk less. Instead, they’re talking more。",
+  "generated_at": "2026-11-21T00:27:00.995Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike；【CRYPTO】Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play；【FINANCE】Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -39,6 +39,26 @@
       "summary_zh": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance."
     },
     {
+      "id": "f2add7120531bef1",
+      "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
+      "summary": "Bitcoin is closing in on its $57,700 summer low as Delphi Digital strategist warns the Fed could make matters worse and STS Digital sees cash as the place to hide.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
+      "image_url": null,
+      "published_at": "2026-11-20T18:13:52.000Z",
+      "importance_score": 86,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin",
+        "fed",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
+      "summary_zh": "Bitcoin is closing in on its $57,700 summer low as Delphi Digital strategist warns the Fed could make matters worse and STS Digital sees cash as the place to hide."
+    },
+    {
       "id": "a5d02d3508dccb75",
       "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
       "summary": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
@@ -67,7 +87,7 @@
       "source_name": "CNBC Finance",
       "source_url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
       "image_url": null,
-      "published_at": "2026-11-20T15:20:54.000Z",
+      "published_at": "2026-11-20T21:10:48.000Z",
       "importance_score": 70,
       "sentiment": 0,
       "tags": [
@@ -134,45 +154,8 @@
       "summary_zh": "MoonPay has applied for a national trust bank charter to expand its custody and stablecoin services under federal oversight."
     },
     {
-      "id": "d968231d3b795385",
-      "title": "Senate passes ‘Death Bets Act’ to ban prediction market contracts tied to death and war",
-      "summary": "The Death Bets Act, which now heads to the House, would ban prediction market contracts tied to death, terrorism, assassination, and war.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-20-senate-death-bets-act-444200",
-      "image_url": null,
-      "published_at": "2026-11-20T10:09:25.000Z",
-      "importance_score": 68,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Senate passes ‘Death Bets Act’ to ban prediction market contracts tied to death and war",
-      "summary_zh": "The Death Bets Act, which now heads to the House, would ban prediction market contracts tied to death, terrorism, assassination, and war."
-    },
-    {
-      "id": "32517f59fd87b56c",
-      "title": "Helping robots fit into the human workplace",
-      "summary": "Founded by Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks, Robust AI’s robots are designed to collaborate with humans in factories and warehouses.",
-      "category": "AI",
-      "source_name": "MIT News AI",
-      "source_url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
-      "image_url": null,
-      "published_at": "2026-11-13T05:00:00.000Z",
-      "importance_score": 64,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Helping robots fit into the human workplace",
-      "summary_zh": "Founded by Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks, Robust AI’s robots are designed to collaborate with humans in factories and warehouses."
-    },
-    {
-      "id": "af3dc1b039a48db4",
-      "title": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
+      "id": "2767015fd81aa892",
+      "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
       "summary": "BlackRock’s bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Korea’s Kospi down more than 5%.",
       "category": "CRYPTO",
       "source_name": "CoinDesk",
@@ -187,28 +170,26 @@
         "etf"
       ],
       "region": "global",
-      "title_zh": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
+      "title_zh": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
       "summary_zh": "BlackRock’s bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Korea’s Kospi down more than 5%."
     },
     {
-      "id": "8d695150a6bcf4fd",
-      "title": "Bitcoin drops for third straight day as Asian tech shares slide",
-      "summary": "BlackRock’s spot bitcoin ETF recorded the largest single-day outflow since its introduction more than two years ago as investors continued to flee the sector.",
+      "id": "5a71929536e53345",
+      "title": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
+      "summary": "Elliptic says little has likely been cashed out, despite a sharp rise in bitcoin mixing since Nov. 17.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
       "image_url": null,
-      "published_at": "2026-11-20T11:42:02.000Z",
+      "published_at": "2026-11-20T18:22:39.000Z",
       "importance_score": 62,
       "sentiment": 0,
       "tags": [
-        "ai",
-        "bitcoin",
-        "etf"
+        "bitcoin"
       ],
       "region": "global",
-      "title_zh": "Bitcoin drops for third straight day as Asian tech shares slide",
-      "summary_zh": "BlackRock’s spot bitcoin ETF recorded the largest single-day outflow since its introduction more than two years ago as investors continued to flee the sector."
+      "title_zh": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
+      "summary_zh": "Elliptic says little has likely been cashed out, despite a sharp rise in bitcoin mixing since Nov. 17."
     },
     {
       "id": "8cc85164c5973bec",
@@ -323,40 +304,23 @@
       "summary_zh": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
     },
     {
-      "id": "a9ec78ef8a64dd32",
-      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-      "summary": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
+      "id": "4afc071f90ca551c",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-20T15:55:02.000Z",
+      "published_at": "2026-11-20T20:54:12.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
-        "war"
+        "ai",
+        "policy"
       ],
       "region": "global",
-      "title_zh": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-      "summary_zh": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US."
-    },
-    {
-      "id": "db0a9ed90a0b0559",
-      "title": "South Korea catches 111 students with new measures against exam cheating",
-      "summary": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-20T10:16:19.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "South Korea catches 111 students with new measures against exam cheating",
-      "summary_zh": "The students were caught with banned smart devices while taking the high-stakes Suneung exam."
+      "title_zh": "Trump threatens ban on US firms building AI data centres overseas",
+      "summary_zh": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
     },
     {
       "id": "ee02f6f46b53daed",
@@ -366,7 +330,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
       "image_url": null,
-      "published_at": "2026-11-20T16:05:55.000Z",
+      "published_at": "2026-11-20T23:05:46.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -394,22 +358,6 @@
       "region": "global",
       "title_zh": "Wreck of First Australian-Built Warship Is Revealed 128 Years After It Sank",
       "summary_zh": "The wooden gunboat Spitfire was entombed in waters near the Great Barrier Reef after it went down in a cyclone in 1898."
-    },
-    {
-      "id": "1689b79aa1f56ab5",
-      "title": "4 British Men Convicted of Sexually Assaulting Joanne Young",
-      "summary": "A jury rejected the men’s defense that they had been relying on assurances from Joanne Young’s husband — who himself has pleaded guilty to rape — that she had consented.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
-      "image_url": null,
-      "published_at": "2026-11-20T09:17:27.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "4 British Men Convicted of Sexually Assaulting Joanne Young",
-      "summary_zh": "A jury rejected the men’s defense that they had been relying on assurances from Joanne Young’s husband — who himself has pleaded guilty to rape — that she had consented."
     },
     {
       "id": "3143b1485596db95",
@@ -467,133 +415,14 @@
       "summary_zh": "Wintermute's Ron Hammond says crypto needs a new strategy after repeated lobbying setbacks against established financial interests."
     },
     {
-      "id": "6eaaf3a4a2e33c26",
-      "title": "Michael Saylor sees up to $7.5 billion in ‘natural demand’ for Strategy’s STRC preferred stock",
-      "summary": "Saylor said the company is currently responding to the credit-market contraction by reducing the amount of STRC outstanding.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-20-michael-saylor-natural-demand-strategy-strc-444190",
-      "image_url": null,
-      "published_at": "2026-11-20T08:02:36.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Michael Saylor sees up to $7.5 billion in ‘natural demand’ for Strategy’s STRC preferred stock",
-      "summary_zh": "Saylor said the company is currently responding to the credit-market contraction by reducing the amount of STRC outstanding."
-    },
-    {
-      "id": "d34ed8d3a8cd38be",
-      "title": "CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more",
-      "summary": "In today's newsletter, CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US; Ripple's Alderoty doubts Elizabeth Warren will set US crypto policy; and more.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
-      "image_url": null,
-      "published_at": "2026-11-20T05:40:00.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto",
-        "war",
-        "policy"
-      ],
-      "region": "global",
-      "title_zh": "CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more",
-      "summary_zh": "In today's newsletter, CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US; Ripple's Alderoty doubts Elizabeth Warren will set US crypto policy; and more."
-    },
-    {
-      "id": "dfcfb058bb68142a",
-      "title": "Trending Crypto: WASTED (WASTED)",
-      "summary": "CoinGecko trending rank #787.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/wasted-4",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180327/large/logo.png?1795002824",
-      "published_at": "2026-11-20T18:05:17.287Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "wasted"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: WASTED (WASTED)",
-      "summary_zh": "CoinGecko trending rank #787."
-    },
-    {
-      "id": "27336e8b2eba01c8",
-      "title": "Trending Crypto: Official Trump (TRUMP)",
-      "summary": "CoinGecko trending rank #137.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/official-trump",
-      "image_url": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561",
-      "published_at": "2026-11-20T18:05:17.287Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "trump"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Official Trump (TRUMP)",
-      "summary_zh": "CoinGecko trending rank #137."
-    },
-    {
-      "id": "02b00e82f4be253c",
-      "title": "Trending Crypto: Chunkee The Manatee (CHUNKEE)",
-      "summary": "CoinGecko trending rank #942.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/chunkee-the-manatee",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180316/large/logo1.png?1794993235",
-      "published_at": "2026-11-20T18:05:17.287Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "chunkee"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Chunkee The Manatee (CHUNKEE)",
-      "summary_zh": "CoinGecko trending rank #942."
-    },
-    {
-      "id": "76b359e363223b06",
-      "title": "Trending Crypto: Lucia (LUCIA)",
-      "summary": "CoinGecko trending rank #850.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/lucia-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180313/large/logo.png?1795053500",
-      "published_at": "2026-11-20T18:05:17.287Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "lucia"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Lucia (LUCIA)",
-      "summary_zh": "CoinGecko trending rank #850."
-    },
-    {
-      "id": "de3dbd68e7ad7ff0",
+      "id": "67999b1b4a746252",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-20T18:05:17.287Z",
+      "published_at": "2026-11-21T00:25:46.043Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -604,6 +433,86 @@
       "region": "global",
       "title_zh": "Trending Crypto: Bitcoin (BTC)",
       "summary_zh": "CoinGecko trending rank #1."
+    },
+    {
+      "id": "1c0a56c6b18e54ff",
+      "title": "Trending Crypto: Pearl (PEARL)",
+      "summary": "CoinGecko trending rank #81.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
+      "published_at": "2026-11-21T00:25:46.043Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pearl"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Pearl (PEARL)",
+      "summary_zh": "CoinGecko trending rank #81."
+    },
+    {
+      "id": "7a7bab67ff009f6b",
+      "title": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary": "CoinGecko trending rank #10.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
+      "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
+      "published_at": "2026-11-21T00:25:46.043Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "hype"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary_zh": "CoinGecko trending rank #10."
+    },
+    {
+      "id": "24bf2deab4705986",
+      "title": "Trending Crypto: Lighter (LIT)",
+      "summary": "CoinGecko trending rank #90.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/lighter",
+      "image_url": "https://coin-images.coingecko.com/coins/images/71121/large/lighter.png?1765888098",
+      "published_at": "2026-11-21T00:25:46.043Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "lit"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Lighter (LIT)",
+      "summary_zh": "CoinGecko trending rank #90."
+    },
+    {
+      "id": "d3a1569a6e77dadd",
+      "title": "Trending Crypto: Backpack (BP)",
+      "summary": "CoinGecko trending rank #150.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/backpack",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102171961/large/image_%285%29.png?1774269858",
+      "published_at": "2026-11-21T00:25:46.043Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "bp"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Backpack (BP)",
+      "summary_zh": "CoinGecko trending rank #150."
     },
     {
       "id": "62188372adfde12d",
@@ -625,6 +534,22 @@
       "summary_zh": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
     },
     {
+      "id": "a04548671267019c",
+      "title": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
+      "summary": "Senior Research Scientist Jim Glass discusses how his MIT-IBM Computing Research Lab collaboration connects perception and language, and addresses the shortcoming of current models.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120",
+      "image_url": null,
+      "published_at": "2026-11-20T21:00:00.000Z",
+      "importance_score": 52,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
+      "summary_zh": "Senior Research Scientist Jim Glass discusses how his MIT-IBM Computing Research Lab collaboration connects perception and language, and addresses the shortcoming of current models."
+    },
+    {
       "id": "cabe2dcb226ad4d5",
       "title": "AI helps researchers investigate how thousands of medical studies share code",
       "summary": "An MIT and Dana-Farber Institute-led team used large language models to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps in the information needed to scrutinize and reuse published research.",
@@ -643,22 +568,22 @@
       "summary_zh": "An MIT and Dana-Farber Institute-led team used large language models to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps in the information needed to scrutinize and reuse published research."
     },
     {
-      "id": "ef304e3d5b4c8e02",
-      "title": "New AI “copilot” helps engineers design better structures",
-      "summary": "The system asks humans for feedback to increase trust in machine-generated designs for buildings and bridges.",
-      "category": "AI",
-      "source_name": "MIT News AI",
-      "source_url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+      "id": "7cff2a8cb7a5a4d6",
+      "title": "Gérard Depardieu and French author investigated over sexual allegations",
+      "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-13T05:00:00.000Z",
+      "published_at": "2026-11-20T19:45:20.000Z",
       "importance_score": 52,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "New AI “copilot” helps engineers design better structures",
-      "summary_zh": "The system asks humans for feedback to increase trust in machine-generated designs for buildings and bridges."
+      "title_zh": "Gérard Depardieu and French author investigated over sexual allegations",
+      "summary_zh": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\"."
     },
     {
       "id": "c5b226bb25eab569",
@@ -729,6 +654,25 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 11/01/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Strategy of the Week #3: The Pre-FOMC Drift in S&P 500 Futures [Delphic Alpha] Buy S&P 500 futures at the 16:00 New York cl"
     },
     {
+      "id": "02b380543f72245a",
+      "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+      "summary": "The firm is the latest to join in building blockchain-based stock markets under the agency’s five-year \"innovation exemption\" for tokenized trading.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+      "image_url": null,
+      "published_at": "2026-11-20T22:05:31.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "ethereum"
+      ],
+      "region": "global",
+      "title_zh": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+      "summary_zh": "The firm is the latest to join in building blockchain-based stock markets under the agency’s five-year \"innovation exemption\" for tokenized trading."
+    },
+    {
       "id": "c92475fb3cc0a5d9",
       "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
       "summary": "A former Point72 executive says AI could reshape Wall Street's data market, turning once-exclusive information into a source of revenue and financing.",
@@ -766,30 +710,32 @@
       "summary_zh": "Your day-ahead look for Nov. 20, 2026"
     },
     {
-      "id": "1c838d2a4d9c5af4",
-      "title": "Coinbase targets first-half 2027 for its own prediction market contracts",
-      "summary": "The move would reduce Coinbase's reliance on a partnership Kalshi, which brought in $200 million in annualized revenue in the third quarter.",
+      "id": "8c9af4a6bb08407f",
+      "title": "JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost",
+      "summary": "Bitcoin's recent price drop has widened the gap between its market price and JPMorgan's estimated production cost of $86,000.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763",
       "image_url": null,
-      "published_at": "2026-11-20T10:48:04.000Z",
+      "published_at": "2026-11-20T18:17:39.000Z",
       "importance_score": 50,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "bitcoin"
+      ],
       "region": "global",
-      "title_zh": "Coinbase targets first-half 2027 for its own prediction market contracts",
-      "summary_zh": "The move would reduce Coinbase's reliance on a partnership Kalshi, which brought in $200 million in annualized revenue in the third quarter."
+      "title_zh": "JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost",
+      "summary_zh": "Bitcoin's recent price drop has widened the gap between its market price and JPMorgan's estimated production cost of $86,000."
     },
     {
-      "id": "1cdf033e42b99edb",
-      "title": "Research acceleration: The jagged frontier",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "id": "86ef011018ade122",
+      "title": "Combatting adversarial distillation",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
       "category": "AI",
       "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source_url": "https://openai.com/index/combatting-adversarial-distillation",
       "image_url": null,
-      "published_at": "2026-11-18T08:00:00.000Z",
+      "published_at": "2026-11-20T10:00:00.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -797,8 +743,44 @@
         "openai"
       ],
       "region": "global",
-      "title_zh": "Research acceleration: The jagged frontier",
-      "summary_zh": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
+      "title_zh": "Combatting adversarial distillation",
+      "summary_zh": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
+    },
+    {
+      "id": "5c549198035764e8",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/hebbia",
+      "image_url": null,
+      "published_at": "2026-11-20T00:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summary_zh": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+    },
+    {
+      "id": "d69f55d1ed59be1b",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-medchembench",
+      "image_url": null,
+      "published_at": "2026-11-20T00:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Can AI help scientists identify promising drug candidates?",
+      "summary_zh": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
     },
     {
       "id": "76d391e168ec4092",
@@ -815,25 +797,6 @@
       "region": "global",
       "title_zh": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "summary_zh": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
-    },
-    {
-      "id": "c549616fb142b295",
-      "title": "Managing frontier AI risk: From training to deployment",
-      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/managing-frontier-ai-risk",
-      "image_url": null,
-      "published_at": "2026-11-18T06:00:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "openai"
-      ],
-      "region": "global",
-      "title_zh": "Managing frontier AI risk: From training to deployment",
-      "summary_zh": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring."
     },
     {
       "id": "07c0891f70b43dba",
@@ -918,6 +881,24 @@
       "summary_zh": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses."
     },
     {
+      "id": "ddf3d84946aee762",
+      "title": "New approach enables physically consistent AI models of chaotic systems",
+      "summary": "Enforcing physics-based constraints prevents AI models from generating unreliable predictions for complex nonlinear systems in weather, climate, and turbulent flows.",
+      "category": "AI",
+      "source_name": "MIT News AI",
+      "source_url": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+      "image_url": null,
+      "published_at": "2026-11-20T20:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "New approach enables physically consistent AI models of chaotic systems",
+      "summary_zh": "Enforcing physics-based constraints prevents AI models from generating unreliable predictions for complex nonlinear systems in weather, climate, and turbulent flows."
+    },
+    {
       "id": "7153562a258cff7c",
       "title": "Study reveals data centers’ long-distance damage to air quality",
       "summary": "Researchers find air pollution from data center electricity use can affect communities far from the facilities, with some of the highest impacts in the Midwest.",
@@ -934,6 +915,25 @@
       "region": "global",
       "title_zh": "Study reveals data centers’ long-distance damage to air quality",
       "summary_zh": "Researchers find air pollution from data center electricity use can affect communities far from the facilities, with some of the highest impacts in the Midwest."
+    },
+    {
+      "id": "5361ef9a04216118",
+      "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
+      "summary": "Odds that the S&P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+      "image_url": null,
+      "published_at": "2026-11-20T19:59:03.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "stocks"
+      ],
+      "region": "global",
+      "title_zh": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
+      "summary_zh": "Odds that the S&P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi."
     },
     {
       "id": "07848236fc5842da",
@@ -1020,124 +1020,145 @@
       "summary_zh": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country."
     },
     {
-      "id": "868053dd29e939b8",
-      "title": "Three things to watch as Trump, Xi and Putin meet in China",
-      "summary": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
-      "image_url": null,
-      "published_at": "2026-11-18T06:04:39.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Three things to watch as Trump, Xi and Putin meet in China",
-      "summary_zh": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting."
-    },
-    {
-      "id": "c7bc24a8f320e97f",
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+      "id": "ebb1f20047deaeb9",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-20T17:36:29.000Z",
+      "published_at": "2026-11-20T22:42:47.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "anthropic"
       ],
       "region": "global",
-      "title_zh": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "summary_zh": "Other tech companies have also taken a hit as share markets broadly slump."
+      "title_zh": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "summary_zh": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
     },
     {
-      "id": "8f8286c34282df04",
-      "title": "Nearly 600 women killed in South Africa within three months",
-      "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
+      "id": "5b3441b348cb2c4f",
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-20T15:55:16.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Nearly 600 women killed in South Africa within three months",
-      "summary_zh": "Police officials called for \"greater efforts to prevent... violence\" against women and children."
-    },
-    {
-      "id": "98151a324c709673",
-      "title": "Texas death-row inmate screams as execution takes more than one hour",
-      "summary": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-20T12:42:37.000Z",
+      "published_at": "2026-11-20T17:49:48.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Texas death-row inmate screams as execution takes more than one hour",
-      "summary_zh": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug."
+      "title_zh": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "summary_zh": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
     },
     {
-      "id": "4bd0729b1b8a0e92",
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+      "id": "f51107a380092105",
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-20T13:28:32.000Z",
+      "published_at": "2026-11-20T22:37:09.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "White House removes cyber-security chief after series of tech outages",
-      "summary_zh": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller."
+      "title_zh": "French police officers sentenced for beating of music producer Michel Zecler",
+      "summary_zh": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
     },
     {
-      "id": "13fcba78a76e79ed",
-      "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
-      "summary": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
+      "id": "15f6e4171e20479e",
+      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-20T00:08:22.000Z",
+      "published_at": "2026-11-20T23:08:57.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "anthropic"
+      ],
+      "region": "global",
+      "title_zh": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "summary_zh": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time."
+    },
+    {
+      "id": "6379680f9e9d7e91",
+      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-21T00:01:39.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
-      "summary_zh": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers."
+      "title_zh": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "summary_zh": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates."
     },
     {
-      "id": "52930fffef21fa6f",
-      "title": "Nigeria moves to end jail terms for attempted suicide",
-      "summary": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill.",
+      "id": "96c400e008cab02d",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-20T06:32:17.000Z",
+      "published_at": "2026-11-20T21:57:07.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Nigeria moves to end jail terms for attempted suicide",
-      "summary_zh": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill."
+      "title_zh": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "summary_zh": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
+    },
+    {
+      "id": "d404b4095f2d4f1a",
+      "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
+      "summary": "The United Kingdom is removing barriers with the European Union a decade after it voted to leave. Global turmoil, and the disruptive policies of President Trump, helped push them back together.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
+      "image_url": null,
+      "published_at": "2026-11-20T20:22:14.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
+      "summary_zh": "The United Kingdom is removing barriers with the European Union a decade after it voted to leave. Global turmoil, and the disruptive policies of President Trump, helped push them back together."
+    },
+    {
+      "id": "3ca6b89ed9ee9ca5",
+      "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
+      "summary": "For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
+      "image_url": null,
+      "published_at": "2026-11-20T16:18:21.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
+      "summary_zh": "For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces."
     },
     {
       "id": "5054911abcd91e3a",
@@ -1147,7 +1168,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
       "image_url": null,
-      "published_at": "2026-11-20T15:49:30.000Z",
+      "published_at": "2026-11-20T20:30:59.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1244,24 +1265,6 @@
       "summary_zh": "In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time."
     },
     {
-      "id": "4f187f0906148504",
-      "title": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire",
-      "summary": "The Russian leader invited European representatives to Moscow to discuss giving them a role in negotiations. It was unclear how serious the offer was.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
-      "image_url": null,
-      "published_at": "2026-11-19T16:51:57.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire",
-      "summary_zh": "The Russian leader invited European representatives to Moscow to discuss giving them a role in negotiations. It was unclear how serious the offer was."
-    },
-    {
       "id": "1ab783650e2d74ea",
       "title": "Recent Quant Links from Quantocracy as of 11/09/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a ",
@@ -1278,6 +1281,24 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 11/09/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a"
+    },
+    {
+      "id": "edd62fbe6381467d",
+      "title": "Kalshi races to get ahead of New York order that could shut down exchange",
+      "summary": "The U.S. prediction market firm asked a New York court to give the company a chance to argue against a pending restraining order stemming from a new court loss.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+      "image_url": null,
+      "published_at": "2026-11-20T22:51:14.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Kalshi races to get ahead of New York order that could shut down exchange",
+      "summary_zh": "The U.S. prediction market firm asked a New York court to give the company a chance to argue against a pending restraining order stemming from a new court loss."
     },
     {
       "id": "9b815d17a58f2f5f",
@@ -1298,22 +1319,36 @@
       "summary_zh": "Hong Kong wants to bring crypto brokers, advisers, asset managers and custodians under its existing regulatory framework."
     },
     {
-      "id": "f9e1001ece8561ba",
-      "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
-      "summary": "Hyperliquid and other onchain exchanges can offer derivatives to U.S. traders if they obtain the required licenses or work with a registered exchange, the CFTC chairman said.",
+      "id": "13691f0a64d9a006",
+      "title": "DCG’s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high",
+      "summary": "Fortitude wins shareholder backing for its planned Nasdaq debut as ZEC trades 55% below its record high.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784",
       "image_url": null,
-      "published_at": "2026-11-20T10:02:03.000Z",
+      "published_at": "2026-11-20T21:40:01.000Z",
       "importance_score": 44,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
-      "summary_zh": "Hyperliquid and other onchain exchanges can offer derivatives to U.S. traders if they obtain the required licenses or work with a registered exchange, the CFTC chairman said."
+      "title_zh": "DCG’s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high",
+      "summary_zh": "Fortitude wins shareholder backing for its planned Nasdaq debut as ZEC trades 55% below its record high."
+    },
+    {
+      "id": "e0efc37e87385ee2",
+      "title": "Rep. Casten seeks to curb prediction market insider trading with DOJ whistleblower program",
+      "summary": "Rep. Sean Casten, who could have a top spot in Congress next year, is clamping down on insider trading in prediction markets.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779",
+      "image_url": null,
+      "published_at": "2026-11-20T19:41:52.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Rep. Casten seeks to curb prediction market insider trading with DOJ whistleblower program",
+      "summary_zh": "Rep. Sean Casten, who could have a top spot in Congress next year, is clamping down on insider trading in prediction markets."
     },
     {
       "id": "aee5267e205a3520",
@@ -1335,24 +1370,6 @@
       "summary_zh": "Rep. Steven Horsford said a bipartisan crypto tax bill could pass the House before this current Congress ends."
     },
     {
-      "id": "bc138399e7e7b0d0",
-      "title": "Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling",
-      "summary": "Coinbase said event contracts already qualify as swaps under the CEA and that explicit inclusion would provide greater regulatory certainty.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152",
-      "image_url": null,
-      "published_at": "2026-11-20T04:24:05.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling",
-      "summary_zh": "Coinbase said event contracts already qualify as swaps under the CEA and that explicit inclusion would provide greater regulatory certainty."
-    },
-    {
       "id": "7001cba4636c6a61",
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
@@ -1372,20 +1389,20 @@
       "summary_zh": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
     },
     {
-      "id": "43be09847dc91dfe",
-      "title": "Deploying Daybreak Red",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "id": "bc80fece51120ec2",
+      "title": "Explore the Codex Security Plugin",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "category": "AI",
       "source_name": "OpenAI News",
-      "source_url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "source_url": "https://openai.com/business/learn/codex-security-plugin-demo",
       "image_url": null,
       "published_at": "2026-11-19T00:00:00.000Z",
       "importance_score": 40,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Deploying Daybreak Red",
-      "summary_zh": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
+      "title_zh": "Explore the Codex Security Plugin",
+      "summary_zh": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
     },
     {
       "id": "f3a30e7d4863c047",
@@ -1404,22 +1421,6 @@
       "summary_zh": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow."
     },
     {
-      "id": "bc80fece51120ec2",
-      "title": "Explore the Codex Security Plugin",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "image_url": null,
-      "published_at": "2026-11-19T00:00:00.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Explore the Codex Security Plugin",
-      "summary_zh": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
-    },
-    {
       "id": "dc400711f5d9194b",
       "title": "Get started with Daybreak Blue",
       "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
@@ -1436,20 +1437,36 @@
       "summary_zh": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started."
     },
     {
-      "id": "9534d6104540c4dd",
-      "title": "Inside the Codex sandbox",
-      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "id": "43be09847dc91dfe",
+      "title": "Deploying Daybreak Red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "category": "AI",
       "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/inside-the-codex-sandbox",
+      "source_url": "https://openai.com/business/learn/deploying-daybreak-red",
       "image_url": null,
-      "published_at": "2026-11-18T08:00:00.000Z",
+      "published_at": "2026-11-19T00:00:00.000Z",
       "importance_score": 40,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Inside the Codex sandbox",
-      "summary_zh": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
+      "title_zh": "Deploying Daybreak Red",
+      "summary_zh": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
+    },
+    {
+      "id": "e40e397e00a915e8",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "summary": "",
+      "category": "AI",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/inkling2mini",
+      "image_url": null,
+      "published_at": "2026-11-20T00:00:00.000Z",
+      "importance_score": 40,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "summary_zh": ""
     },
     {
       "id": "6e3fc72e87831523",
@@ -1531,24 +1548,6 @@
       "tags": [],
       "region": "global",
       "title_zh": "XYBench: Helping with the problem behind the question",
-      "summary_zh": ""
-    },
-    {
-      "id": "1c54ba94ee0e8548",
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "summary": "",
-      "category": "AI",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "image_url": null,
-      "published_at": "2026-11-13T14:05:22.000Z",
-      "importance_score": 40,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
       "summary_zh": ""
     },
     {
