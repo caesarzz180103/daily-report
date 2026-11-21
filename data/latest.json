@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T15:44:33.952Z",
+  "generated_at": "2026-11-21T21:17:00.773Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike；【CRYPTO】Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play；【FINANCE】Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show。",
   "meta": {
     "sources_count": 11,
@@ -96,7 +96,7 @@
       ],
       "region": "global",
       "title_zh": "JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more",
-      "summary_zh": "在今天的时事通讯中，摩根大通表示，比特币价格下跌给矿工带来了更大的压力；参议院通过法案禁止与死亡和战争相关的预测市场；等等。"
+      "summary_zh": "摩根大通在今天的时事通讯中表示，比特币价格下跌给矿工带来了更大的压力；参议院通过法案禁止与死亡和战争相关的预测市场；等等。"
     },
     {
       "id": "4066bb5820b3119d",
@@ -126,7 +126,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-21T09:34:20.000Z",
+      "published_at": "2026-11-21T16:35:15.000Z",
       "importance_score": 70,
       "sentiment": 0,
       "tags": [
@@ -135,24 +135,6 @@
       "region": "global",
       "title_zh": "FBI reportedly investigating apparent hack of its criminal database",
       "summary_zh": "联邦和地方执法部门使用国家犯罪信息中心数据库来共享信息。"
-    },
-    {
-      "id": "c78f69149fafa694",
-      "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
-      "summary": "The bill would ban bets on war, assassinations and military operations amid concerns that traders could profit from inside information, as has already occurred.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
-      "image_url": null,
-      "published_at": "2026-11-20T14:25:57.000Z",
-      "importance_score": 68,
-      "sentiment": 0,
-      "tags": [
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "U.S. Senate passes bill to ban prediction market bets on war and death",
-      "summary_zh": "该法案将禁止对战争、暗杀和军事行动的投注，因为担心交易者可能从内幕信息中获利，正如已经发生的那样。"
     },
     {
       "id": "5a71929536e53345",
@@ -171,26 +153,6 @@
       "region": "global",
       "title_zh": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
       "summary_zh": "Elliptic 表示，尽管自 11 月 17 日以来比特币混合量急剧增加，但几乎没有兑现。"
-    },
-    {
-      "id": "8cc85164c5973bec",
-      "title": "US spot bitcoin ETFs see $582 million in daily net outflows as November total nears $3.5 billion",
-      "summary": "BlackRock's IBIT made up nearly all of Thursday's outflows, despite Morgan Stanley's MSBT attracting $49.6 million.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217",
-      "image_url": null,
-      "published_at": "2026-11-20T12:29:57.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin",
-        "etf"
-      ],
-      "region": "global",
-      "title_zh": "US spot bitcoin ETFs see $582 million in daily net outflows as November total nears $3.5 billion",
-      "summary_zh": "尽管摩根士丹利的 MSBT 吸引了 4,960 万美元，但贝莱德的 IBIT 几乎占据了周四的全部资金流出。"
     },
     {
       "id": "4054ccdc78910169",
@@ -374,14 +336,34 @@
       "summary_zh": "Wintermute 的罗恩·哈蒙德 (Ron Hammond) 表示，在针对既定金融利益的游说屡屡受挫后，加密货币需要新的策略。"
     },
     {
-      "id": "37f07b4c4e2f4448",
+      "id": "ba163c2570e95a16",
+      "title": "Trending Crypto: PIPI (PIPI)",
+      "summary": "CoinGecko trending rank #675.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pipi-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180364/large/pipilogo.png?1795168737",
+      "published_at": "2026-11-21T21:16:12.162Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pipi"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: PIPI (PIPI)",
+      "summary_zh": "CoinGecko 趋势排名#675。"
+    },
+    {
+      "id": "8bb1762941151170",
       "title": "Trending Crypto: WASTED (WASTED)",
-      "summary": "CoinGecko trending rank #812.",
+      "summary": "CoinGecko trending rank #799.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/wasted-4",
       "image_url": "https://coin-images.coingecko.com/coins/images/102180327/large/logo.png?1795002824",
-      "published_at": "2026-11-21T15:43:33.651Z",
+      "published_at": "2026-11-21T21:16:12.162Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -391,77 +373,17 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: WASTED (WASTED)",
-      "summary_zh": "CoinGecko 趋势排名#812。"
+      "summary_zh": "CoinGecko 趋势排名#799。"
     },
     {
-      "id": "dc7bf6bd3b33efd5",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #129.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-11-21T15:43:33.651Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pengu"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko 趋势排名第 129 位。"
-    },
-    {
-      "id": "ae03f21a5cbd8158",
-      "title": "Trending Crypto: Backpack (BP)",
-      "summary": "CoinGecko trending rank #148.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/backpack",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102171961/large/image_%285%29.png?1774269858",
-      "published_at": "2026-11-21T15:43:33.651Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "bp"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Backpack (BP)",
-      "summary_zh": "CoinGecko 趋势排名第 148。"
-    },
-    {
-      "id": "369cec1c37f6de2e",
-      "title": "Trending Crypto: Wanted Star (WSTAR)",
-      "summary": "CoinGecko trending rank #828.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/wanted-star",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180314/large/logo.png?1794991621",
-      "published_at": "2026-11-21T15:43:33.651Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "wstar"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Wanted Star (WSTAR)",
-      "summary_zh": "CoinGecko 趋势排名#828。"
-    },
-    {
-      "id": "ab67145de495ff4e",
+      "id": "5b7529fc14b01bd2",
       "title": "Trending Crypto: Zcash (ZEC)",
       "summary": "CoinGecko trending rank #11.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/zcash",
       "image_url": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558",
-      "published_at": "2026-11-21T15:43:33.651Z",
+      "published_at": "2026-11-21T21:16:12.162Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -472,6 +394,46 @@
       "region": "global",
       "title_zh": "Trending Crypto: Zcash (ZEC)",
       "summary_zh": "CoinGecko 趋势排名第 11。"
+    },
+    {
+      "id": "5cb0d4a38d2b1d70",
+      "title": "Trending Crypto: Wanted Star (WSTAR)",
+      "summary": "CoinGecko trending rank #789.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/wanted-star",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180314/large/logo.png?1794991621",
+      "published_at": "2026-11-21T21:16:12.162Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "wstar"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Wanted Star (WSTAR)",
+      "summary_zh": "CoinGecko 趋势排名#789。"
+    },
+    {
+      "id": "8a47b0fe401f5a2f",
+      "title": "Trending Crypto: Chunkee The Manatee (CHUNKEE)",
+      "summary": "CoinGecko trending rank #913.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/chunkee-the-manatee",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102180316/large/logo1.png?1794993235",
+      "published_at": "2026-11-21T21:16:12.162Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "chunkee"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Chunkee The Manatee (CHUNKEE)",
+      "summary_zh": "CoinGecko 趋势排名#913。"
     },
     {
       "id": "62188372adfde12d",
@@ -575,6 +537,25 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 11/01/2026",
       "summary_zh": "这是截至 2026 年 11 月 1 日星期日 Quantocracy 上最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！本周策略#3：FOMC 前标准普尔 500 指数期货的漂移 [Delphic Alpha] 在纽约 16:00 买入标准普尔 500 指数期货"
+    },
+    {
+      "id": "b7f2f010616bb594",
+      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+      "summary": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+      "image_url": null,
+      "published_at": "2026-11-21T17:50:00.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+      "summary_zh": "此次抛售使加密货币杠杆头寸蒸发了 18 亿美元，其中大部分来自对价格上涨的看涨押注。"
     },
     {
       "id": "3efb82917eca711f",
@@ -819,7 +800,7 @@
       ],
       "region": "global",
       "title_zh": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "summary_zh": "我们将 Gemini 4 Hydrogen 引入全球 Google 搜索，为您提供更有帮助、更直观、更直观的响应。"
+      "summary_zh": "我们将 Gemini 4 Hydrogen 引入全球 Google 搜索，为您提供更有帮助、更直观的响应。"
     },
     {
       "id": "ddf3d84946aee762",
@@ -961,6 +942,24 @@
       "summary_zh": "随着技术中断演变成抢购紧急物品的竞赛，购物者在好市多 (Costco) 的消费增加。"
     },
     {
+      "id": "371cb58f39a70fdb",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-21T19:20:22.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Russia-bound ship attacked in Gulf of Finland",
+      "summary_zh": "芬兰国防军表示，乌克兰很可能是无人机袭击该船的幕后黑手。"
+    },
+    {
       "id": "ebb1f20047deaeb9",
       "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
       "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
@@ -986,7 +985,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-21T14:54:24.000Z",
+      "published_at": "2026-11-21T19:33:49.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1002,7 +1001,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-21T13:15:21.000Z",
+      "published_at": "2026-11-21T21:05:29.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1063,25 +1062,6 @@
       "summary_zh": "这名 30 岁的洛杉矶居民被判犯有导致山火纵火罪，这场山火导致 12 人死亡并摧毁了 6,800 多座建筑物。"
     },
     {
-      "id": "f17f8fe89dfcce32",
-      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-20T23:08:57.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "anthropic"
-      ],
-      "region": "global",
-      "title_zh": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-      "summary_zh": "Anthropic 的一位数学家表示，他使用人工智能来证明著名的黎曼假设，尽管验证需要一些时间。"
-    },
-    {
       "id": "98df87b9d4d7449a",
       "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
       "summary": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
@@ -1089,7 +1069,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
       "image_url": null,
-      "published_at": "2026-11-21T14:30:52.000Z",
+      "published_at": "2026-11-21T21:12:23.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1116,6 +1096,40 @@
       "summary_zh": "“癌症确实改变了你，”病情缓解的凯瑟琳在电影预告片中说道。将于本月发布。"
     },
     {
+      "id": "507f72ca1accbfc8",
+      "title": "Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military",
+      "summary": "The latest salvo in the fraught U.S. relationship with Canada has not affected their vast joint military operation, including the shared airspace command, NORAD.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
+      "image_url": null,
+      "published_at": "2026-11-21T20:35:07.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military",
+      "summary_zh": "美国与加拿大之间令人担忧的关系的最新交锋并未影响两国大规模的联合军事行动，包括共享空域司令部北美防空司令部。"
+    },
+    {
+      "id": "39c9094cfe254209",
+      "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+      "summary": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+      "image_url": null,
+      "published_at": "2026-11-21T16:30:35.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+      "summary_zh": "头目福斯托·伊西德罗·梅萨·弗洛雷斯 (Fausto Isidro Meza Flores) 在墨西哥的一次暴力行动中被捕。他是联邦调查局十大通缉犯之一。"
+    },
+    {
       "id": "7df1a64ab463bdfd",
       "title": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
       "summary": "Pedro Sánchez, Europe’s most prominent left-wing leader, seems set to lose power in an election next week. Our reporter trailed his last-ditch effort to turn his campaign around.",
@@ -1134,14 +1148,14 @@
       "summary_zh": "欧洲最著名的左翼领导人佩德罗·桑切斯似乎将在下周的选举中失去权力。我们的记者追踪了他为扭转竞选局面所做的最后努力。"
     },
     {
-      "id": "1ef95e78b17227fb",
+      "id": "3e5e67819dbde160",
       "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
       "summary": "Critics say that CNews and BFM TV, two major news channels, have used racist language in protest coverage. The channels deny it.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/21/world/europe/in-frances-angry-autumn-tv-news-channels-are-accused-of-stirring-the-pot.html",
+      "source_url": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
       "image_url": null,
-      "published_at": "2026-11-21T05:01:07.000Z",
+      "published_at": "2026-11-21T17:14:17.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1204,40 +1218,6 @@
       "summary_zh": "十多年来，军队和警察部队首次部署在真主党旅控制的地区。但尚不清楚是否会撤军。"
     },
     {
-      "id": "5054911abcd91e3a",
-      "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
-      "summary": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
-      "image_url": null,
-      "published_at": "2026-11-20T20:31:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
-      "summary_zh": "波兰当局称乌克兰盟友军事演习期间发生的三起事件可能是俄罗斯的“挑衅”，但没有造成人员伤亡或财产损失。"
-    },
-    {
-      "id": "217de36ff4cd952b",
-      "title": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
-      "summary": "As he toured South America this month, Pope Leo XIV met with 11 victims of clerical sexual abuse. Some want him to engage more meaningfully.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
-      "image_url": null,
-      "published_at": "2026-11-20T10:38:19.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
-      "summary_zh": "教皇利奥十四世本月访问南美洲时会见了 11 名神职人员性虐待受害者。有些人希望他能更有意义地参与。"
-    },
-    {
       "id": "1ab783650e2d74ea",
       "title": "Recent Quant Links from Quantocracy as of 11/09/2026",
       "summary": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a ",
@@ -1254,6 +1234,24 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 11/09/2026",
       "summary_zh": "这是截至 2026 年 11 月 9 日星期一 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！ RSI(2) 从 2007 年开始回调，并在 20 年后进行测试：84% 声称，80.7% 实测 [Nullius Research] 2007 年 2 月 a"
+    },
+    {
+      "id": "b380bfe1fc578991",
+      "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+      "summary": "The withdrawal carried a valid signature, which Onchain Lens said points to a possible compromise of the key validators use to approve vault payouts.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+      "image_url": null,
+      "published_at": "2026-11-21T16:41:00.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+      "summary_zh": "提款带有有效签名，Onchain Lens 表示，这表明用于批准金库支付的密钥验证器可能受到损害。"
     },
     {
       "id": "edd62fbe6381467d",
@@ -1274,22 +1272,20 @@
       "summary_zh": "这家美国预测市场公司请求纽约法院给予该公司一个机会，对因新的法庭败诉而悬而未决的限制令进行辩论。"
     },
     {
-      "id": "9b815d17a58f2f5f",
-      "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
-      "summary": "Hong Kong wants to bring crypto brokers, advisers, asset managers and custodians under its existing regulatory framework.",
+      "id": "1c12902a15dc6795",
+      "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+      "summary": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
       "image_url": null,
-      "published_at": "2026-11-20T14:38:30.000Z",
+      "published_at": "2026-11-21T18:51:14.000Z",
       "importance_score": 44,
       "sentiment": 0,
-      "tags": [
-        "crypto"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
-      "summary_zh": "香港希望将加密货币经纪人、顾问、资产管理者和托管人纳入现有的监管框架之下。"
+      "title_zh": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+      "summary_zh": "韩国交易所 Upbit 和 Bithumb 均以涉嫌安全事件为由暂停 CYBER 充值和提现。"
     },
     {
       "id": "c42dccdb2f741345",
@@ -1393,7 +1389,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Explore the Codex Security Plugin",
-      "summary_zh": "观看 Codex 安全插件的演示并查看实际工作流程，从入门到查看记录中显示的结果。"
+      "summary_zh": "观看 Codex 安全插件的演示并查看实际工作流程，从入门到查看录制中显示的结果。"
     },
     {
       "id": "f3a30e7d4863c047",
@@ -1816,7 +1812,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 11/11/2026",
-      "summary_zh": "这是截至 2026 年 11 月 11 日星期三 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！修改后的 Gerber 统计数据 [投资组合优化器] 之前的一篇博客文章描述了 Gerber 统计数据1，它是 c 的度量"
+      "summary_zh": "这是截至 2026 年 11 月 11 日星期三 Quantocracy 最近推荐的链接的摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！修改后的 Gerber 统计数据 [投资组合优化器] 之前的一篇博客文章描述了 Gerber 统计数据1，它是 c 的度量"
     },
     {
       "id": "d68d12ad8e895c22",
@@ -1850,7 +1846,7 @@
       "tags": [],
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 10/31/2026",
-      "summary_zh": "这是截至 2026 年 10 月 31 日星期六 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！通过宏观因素跑赢 S&P500 [Macrosynergy] 我们提出了一种经济有效的方法来跑赢大盘"
+      "summary_zh": "这是截至 2026 年 10 月 31 日星期六 Quantocracy 最近推荐的链接摘要。要查看我们最新的链接，请访问 Quant Mashup。请读者阅读！通过宏观因素跑赢标准普尔 500 指数 [Macrosynergy] 我们提出了一种经济有效的方法来跑赢大盘"
     },
     {
       "id": "724b1bd70c93244d",
