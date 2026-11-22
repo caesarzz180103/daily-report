@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T16:53:54.252Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike；【CRYPTO】Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play；【FINANCE】Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show。",
+  "generated_at": "2026-11-22T22:13:38.145Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show；【CRYPTO】JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more；【FINANCE】Warsh wants Fed officials to talk less. Instead, they’re talking more。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
@@ -19,45 +19,6 @@
     "FINANCE": 10
   },
   "items": [
-    {
-      "id": "5a732669b2be5cd4",
-      "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
-      "summary": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-      "image_url": null,
-      "published_at": "2026-11-18T15:13:39.000Z",
-      "importance_score": 94,
-      "sentiment": 0,
-      "tags": [
-        "fed",
-        "inflation"
-      ],
-      "region": "global",
-      "title_zh": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
-      "summary_zh": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance."
-    },
-    {
-      "id": "f2add7120531bef1",
-      "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
-      "summary": "Bitcoin is closing in on its $57,700 summer low as Delphi Digital strategist warns the Fed could make matters worse and STS Digital sees cash as the place to hide.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
-      "image_url": null,
-      "published_at": "2026-11-20T18:13:52.000Z",
-      "importance_score": 86,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin",
-        "fed",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
-      "summary_zh": "Bitcoin is closing in on its $57,700 summer low as Delphi Digital strategist warns the Fed could make matters worse and STS Digital sees cash as the place to hide."
-    },
     {
       "id": "a5d02d3508dccb75",
       "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
@@ -117,24 +78,6 @@
       "region": "global",
       "title_zh": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
       "summary_zh": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines."
-    },
-    {
-      "id": "a8e5abb8fd1a7c5a",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-22T00:10:44.000Z",
-      "importance_score": 70,
-      "sentiment": 0,
-      "tags": [
-        "fed"
-      ],
-      "region": "global",
-      "title_zh": "FBI reportedly investigating apparent hack of its criminal database",
-      "summary_zh": "The National Crime Information Center database is used by federal and local law enforcement to share information."
     },
     {
       "id": "3a1dbe847d4a0fa0",
@@ -243,22 +186,22 @@
       "summary_zh": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping."
     },
     {
-      "id": "680211108e8ff044",
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "id": "cdbc72a770e9fbf6",
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-21T13:17:38.000Z",
+      "published_at": "2026-11-22T18:17:59.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "summary_zh": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
+      "title_zh": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "summary_zh": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels."
     },
     {
       "id": "dba5c897e2856c91",
@@ -298,30 +241,32 @@
       "summary_zh": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness."
     },
     {
-      "id": "3c1fd2550b40087b",
-      "title": "Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
-      "summary": "Wagyu’s founder pledged refunds after an attacker sold XMR1 Wrapped Monero tokens in a $13 million exploit.",
+      "id": "425943261af17652",
+      "title": "Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
+      "summary": "Chainflip offered the attacker a 10% bounty to return the remainder of the $12 million in stolen BTC, ETH, and stablecoins by Monday.",
       "category": "CRYPTO",
       "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
+      "source_url": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
       "image_url": null,
-      "published_at": "2026-11-20T16:11:22.000Z",
+      "published_at": "2026-11-22T18:58:57.000Z",
       "importance_score": 56,
       "sentiment": 0,
-      "tags": [],
+      "tags": [
+        "ai"
+      ],
       "region": "global",
-      "title_zh": "Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
-      "summary_zh": "Wagyu’s founder pledged refunds after an attacker sold XMR1 Wrapped Monero tokens in a $13 million exploit."
+      "title_zh": "Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
+      "summary_zh": "Chainflip offered the attacker a 10% bounty to return the remainder of the $12 million in stolen BTC, ETH, and stablecoins by Monday."
     },
     {
-      "id": "d05c5edf4d891a2f",
+      "id": "0ca032fe46ffc165",
       "title": "Trending Crypto: Wanted Star (WSTAR)",
-      "summary": "CoinGecko trending rank #833.",
+      "summary": "CoinGecko trending rank #843.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/wanted-star",
       "image_url": "https://coin-images.coingecko.com/coins/images/102180314/large/logo.png?1794991621",
-      "published_at": "2026-11-22T16:52:43.839Z",
+      "published_at": "2026-11-22T22:12:28.749Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -331,17 +276,17 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Wanted Star (WSTAR)",
-      "summary_zh": "CoinGecko trending rank #833."
+      "summary_zh": "CoinGecko trending rank #843."
     },
     {
-      "id": "3fe54df9ee5887ad",
+      "id": "ac56646334a1d984",
       "title": "Trending Crypto: Official Trump (TRUMP)",
       "summary": "CoinGecko trending rank #135.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/official-trump",
       "image_url": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561",
-      "published_at": "2026-11-22T16:52:43.839Z",
+      "published_at": "2026-11-22T22:12:28.749Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -354,14 +299,14 @@
       "summary_zh": "CoinGecko trending rank #135."
     },
     {
-      "id": "b2c060cfdb3d730b",
+      "id": "3898c8c13b7b4eda",
       "title": "Trending Crypto: Popo The Turtle (POPO)",
-      "summary": "CoinGecko trending rank #795.",
+      "summary": "CoinGecko trending rank #720.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/popo-the-turtle",
       "image_url": "https://coin-images.coingecko.com/coins/images/102180378/large/logo_Popo.png?1795265048",
-      "published_at": "2026-11-22T16:52:43.839Z",
+      "published_at": "2026-11-22T22:12:28.749Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -371,47 +316,47 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Popo The Turtle (POPO)",
-      "summary_zh": "CoinGecko trending rank #795."
+      "summary_zh": "CoinGecko trending rank #720."
     },
     {
-      "id": "0dfddbfee023434b",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
+      "id": "d96f89413610c796",
+      "title": "Trending Crypto: Derive (DRV)",
+      "summary": "CoinGecko trending rank #109.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-22T16:52:43.839Z",
+      "source_url": "https://www.coingecko.com/en/coins/derive",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52889/large/Token_Logo.png?1734601695",
+      "published_at": "2026-11-22T22:12:28.749Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "btc"
+        "drv"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Bitcoin (BTC)",
-      "summary_zh": "CoinGecko trending rank #1."
+      "title_zh": "Trending Crypto: Derive (DRV)",
+      "summary_zh": "CoinGecko trending rank #109."
     },
     {
-      "id": "e351e6fc8bebd20a",
-      "title": "Trending Crypto: Backpack (BP)",
-      "summary": "CoinGecko trending rank #148.",
+      "id": "6e529dfd928ad2ac",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #130.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/backpack",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102171961/large/image_%285%29.png?1774269858",
-      "published_at": "2026-11-22T16:52:43.839Z",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-11-22T22:12:28.749Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "bp"
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Backpack (BP)",
-      "summary_zh": "CoinGecko trending rank #148."
+      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary_zh": "CoinGecko trending rank #130."
     },
     {
       "id": "62188372adfde12d",
@@ -474,7 +419,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
       "image_url": null,
-      "published_at": "2026-11-22T12:29:33.000Z",
+      "published_at": "2026-11-22T12:29:34.000Z",
       "importance_score": 52,
       "sentiment": 0,
       "tags": [],
@@ -589,25 +534,6 @@
       "summary_zh": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000."
     },
     {
-      "id": "02b380543f72245a",
-      "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
-      "summary": "The firm is the latest to join in building blockchain-based stock markets under the agency’s five-year \"innovation exemption\" for tokenized trading.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
-      "image_url": null,
-      "published_at": "2026-11-20T22:05:31.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "ethereum"
-      ],
-      "region": "global",
-      "title_zh": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
-      "summary_zh": "The firm is the latest to join in building blockchain-based stock markets under the agency’s five-year \"innovation exemption\" for tokenized trading."
-    },
-    {
       "id": "8c9af4a6bb08407f",
       "title": "JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost",
       "summary": "Bitcoin's recent price drop has widened the gap between its market price and JPMorgan's estimated production cost of $86,000.",
@@ -624,6 +550,24 @@
       "region": "global",
       "title_zh": "JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost",
       "summary_zh": "Bitcoin's recent price drop has widened the gap between its market price and JPMorgan's estimated production cost of $86,000."
+    },
+    {
+      "id": "151cde18c390e901",
+      "title": "Perplexity and Intelligence",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/perplexity-and-intelligence",
+      "image_url": null,
+      "published_at": "2026-11-22T00:00:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Perplexity and Intelligence",
+      "summary_zh": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
     },
     {
       "id": "86ef011018ade122",
@@ -679,22 +623,6 @@
       "region": "global",
       "title_zh": "Can AI help scientists identify promising drug candidates?",
       "summary_zh": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
-    },
-    {
-      "id": "76d391e168ec4092",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "image_url": null,
-      "published_at": "2026-11-18T08:00:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "summary_zh": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
     },
     {
       "id": "07c0891f70b43dba",
@@ -815,6 +743,24 @@
       "summary_zh": "Researchers find air pollution from data center electricity use can affect communities far from the facilities, with some of the highest impacts in the Midwest."
     },
     {
+      "id": "40a4b15544100c6e",
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "image_url": null,
+      "published_at": "2026-11-22T18:55:05.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "summary_zh": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group."
+    },
+    {
       "id": "ada713555dc6649b",
       "title": "How China is using summits to expand its global influence",
       "summary": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
@@ -918,20 +864,72 @@
       "summary_zh": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods."
     },
     {
+      "id": "4db458e2660f3c9a",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-22T18:57:24.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "What's next after no deal at COP31 climate talks?",
+      "summary_zh": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end."
+    },
+    {
       "id": "57c7877dd1485a9e",
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "summary": "Libya's eastern government says it is working with Russia to investigate the incident.",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
       "category": "WORLD",
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-22T16:05:25.000Z",
+      "published_at": "2026-11-22T20:28:09.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
       "title_zh": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "summary_zh": "Libya's eastern government says it is working with Russia to investigate the incident."
+      "summary_zh": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia."
+    },
+    {
+      "id": "dc00d3ac2ee76281",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-22T17:57:43.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "summary_zh": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region."
+    },
+    {
+      "id": "2f2a6765ebbfb988",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-22T17:18:26.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "summary_zh": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment."
     },
     {
       "id": "0d35a572f65ff256",
@@ -952,42 +950,6 @@
       "summary_zh": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos."
     },
     {
-      "id": "08351a264dcaa429",
-      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-22T11:25:14.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Russia-bound ship still on fire after attack in Gulf of Finland",
-      "summary_zh": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
-    },
-    {
-      "id": "7894a7cdd9a63fb3",
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-22T01:25:03.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "summary_zh": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
-    },
-    {
       "id": "2064417a5f3f8f5b",
       "title": "Three killed and dozens missing after fire at Indonesian factory",
       "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
@@ -1004,54 +966,52 @@
       "summary_zh": "At least three people were killed and many more feared dead after a fire at a confectionary factory."
     },
     {
-      "id": "2e6479f7c156011d",
-      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "id": "99ff5301918169ca",
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-22T07:12:41.000Z",
+      "published_at": "2026-11-22T20:26:24.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "summary_zh": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\"."
+      "title_zh": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "summary_zh": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats."
     },
     {
-      "id": "77ad091cfb943885",
-      "title": "Lock of former US President George Washington's hair sells for $4,000",
-      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "id": "5ee46da7521690fb",
+      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+      "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-21T22:01:19.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Lock of former US President George Washington's hair sells for $4,000",
-      "summary_zh": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner."
-    },
-    {
-      "id": "e6119c44635ee95c",
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-21T04:34:00.000Z",
+      "published_at": "2026-11-22T18:29:46.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Man convicted of starting Palisades fire in Los Angeles",
-      "summary_zh": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings."
+      "title_zh": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+      "summary_zh": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa."
+    },
+    {
+      "id": "36909da654ef641d",
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "summary": "The couple have been together for four years and were engaged in 2025.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-22T21:22:40.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "summary_zh": "The couple have been together for four years and were engaged in 2025."
     },
     {
       "id": "1c663f5d28c340e8",
@@ -1208,6 +1168,24 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a"
     },
     {
+      "id": "a83bbaa948dd344e",
+      "title": "More on the pending oversight hearings: State of Crypto",
+      "summary": "New letters show the widening range of Congressional committees that will be probing the presidential administration — and the crypto collateral that may be swept up.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/",
+      "image_url": null,
+      "published_at": "2026-11-22T19:30:00.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "More on the pending oversight hearings: State of Crypto",
+      "summary_zh": "New letters show the widening range of Congressional committees that will be probing the presidential administration — and the crypto collateral that may be swept up."
+    },
+    {
       "id": "b380bfe1fc578991",
       "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
       "summary": "The withdrawal carried a valid signature, which Onchain Lens said points to a possible compromise of the key validators use to approve vault payouts.",
@@ -1226,6 +1204,26 @@
       "summary_zh": "The withdrawal carried a valid signature, which Onchain Lens said points to a possible compromise of the key validators use to approve vault payouts."
     },
     {
+      "id": "4322b3b6ede7d2f1",
+      "title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
+      "summary": "OpenAI, Anthropic, and other technology giants are backing standards designed to enable agents to work together without putting any one company in control.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos",
+      "image_url": null,
+      "published_at": "2026-11-21T14:00:00.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "openai",
+        "anthropic"
+      ],
+      "region": "global",
+      "title_zh": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
+      "summary_zh": "OpenAI, Anthropic, and other technology giants are backing standards designed to enable agents to work together without putting any one company in control."
+    },
+    {
       "id": "edd62fbe6381467d",
       "title": "Kalshi races to get ahead of New York order that could shut down exchange",
       "summary": "The U.S. prediction market firm asked a New York court to give the company a chance to argue against a pending restraining order stemming from a new court loss.",
@@ -1242,6 +1240,22 @@
       "region": "global",
       "title_zh": "Kalshi races to get ahead of New York order that could shut down exchange",
       "summary_zh": "The U.S. prediction market firm asked a New York court to give the company a chance to argue against a pending restraining order stemming from a new court loss."
+    },
+    {
+      "id": "429da89d588bc1af",
+      "title": "Trump to host second memecoin dinner tonight with TRUMP down 99% from peak",
+      "summary": "Boxer Floyd Mayweather, \"Shark Tank\" investor Kevin O'Leary and NBA champion Tristan Thompson are scheduled to appear at the dinner.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828",
+      "image_url": null,
+      "published_at": "2026-11-22T20:58:33.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Trump to host second memecoin dinner tonight with TRUMP down 99% from peak",
+      "summary_zh": "Boxer Floyd Mayweather, \"Shark Tank\" investor Kevin O'Leary and NBA champion Tristan Thompson are scheduled to appear at the dinner."
     },
     {
       "id": "d56fd8be2c36a10c",
@@ -1278,8 +1292,8 @@
       "summary_zh": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident."
     },
     {
-      "id": "c42dccdb2f741345",
-      "title": "Chainflip’s FLIP drops 34% after attacker drains $4.86 million from vault with suspected key compromise",
+      "id": "eb59491d601c0dee",
+      "title": "Chainflip’s FLIP drops 34% after attacker drains $12 million from vaults with suspected key compromise",
       "summary": "Chainflip's FLIP token dropped 34% in price in the wake of the apparently automated attack, per The Block's price data.",
       "category": "CRYPTO",
       "source_name": "The Block",
@@ -1292,7 +1306,7 @@
         "ai"
       ],
       "region": "global",
-      "title_zh": "Chainflip’s FLIP drops 34% after attacker drains $4.86 million from vault with suspected key compromise",
+      "title_zh": "Chainflip’s FLIP drops 34% after attacker drains $12 million from vaults with suspected key compromise",
       "summary_zh": "Chainflip's FLIP token dropped 34% in price in the wake of the apparently automated attack, per The Block's price data."
     },
     {
@@ -1328,25 +1342,6 @@
       "summary_zh": "Rep. Sean Casten, who could have a top spot in Congress next year, is clamping down on insider trading in prediction markets."
     },
     {
-      "id": "aee5267e205a3520",
-      "title": "Rep. Horsford sees opening for House vote on crypto tax bill before Congress ends",
-      "summary": "Rep. Steven Horsford said a bipartisan crypto tax bill could pass the House before this current Congress ends.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720",
-      "image_url": null,
-      "published_at": "2026-11-20T14:51:32.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Rep. Horsford sees opening for House vote on crypto tax bill before Congress ends",
-      "summary_zh": "Rep. Steven Horsford said a bipartisan crypto tax bill could pass the House before this current Congress ends."
-    },
-    {
       "id": "7001cba4636c6a61",
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
@@ -1366,20 +1361,20 @@
       "summary_zh": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
     },
     {
-      "id": "bc80fece51120ec2",
-      "title": "Explore the Codex Security Plugin",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "id": "43be09847dc91dfe",
+      "title": "Deploying Daybreak Red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "category": "AI",
       "source_name": "OpenAI News",
-      "source_url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source_url": "https://openai.com/business/learn/deploying-daybreak-red",
       "image_url": null,
       "published_at": "2026-11-19T00:00:00.000Z",
       "importance_score": 40,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Explore the Codex Security Plugin",
-      "summary_zh": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
+      "title_zh": "Deploying Daybreak Red",
+      "summary_zh": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
     },
     {
       "id": "f3a30e7d4863c047",
@@ -1414,20 +1409,20 @@
       "summary_zh": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started."
     },
     {
-      "id": "43be09847dc91dfe",
-      "title": "Deploying Daybreak Red",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "id": "bc80fece51120ec2",
+      "title": "Explore the Codex Security Plugin",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "category": "AI",
       "source_name": "OpenAI News",
-      "source_url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "source_url": "https://openai.com/business/learn/codex-security-plugin-demo",
       "image_url": null,
       "published_at": "2026-11-19T00:00:00.000Z",
       "importance_score": 40,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Deploying Daybreak Red",
-      "summary_zh": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
+      "title_zh": "Explore the Codex Security Plugin",
+      "summary_zh": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
     },
     {
       "id": "e40e397e00a915e8",
