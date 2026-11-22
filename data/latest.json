@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T01:46:13.452Z",
+  "generated_at": "2026-11-22T08:59:35.651Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike；【CRYPTO】Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play；【FINANCE】Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show。",
   "meta": {
     "sources_count": 11,
@@ -137,6 +137,22 @@
       "summary_zh": "The National Crime Information Center database is used by federal and local law enforcement to share information."
     },
     {
+      "id": "3a1dbe847d4a0fa0",
+      "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
+      "summary": "Supporters of the deposed prime minister, Sheikh Hasina, who was sentenced to death in absentia, have waged a small-scale insurgency to destabilize the current government.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
+      "image_url": null,
+      "published_at": "2026-11-22T03:44:20.000Z",
+      "importance_score": 70,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
+      "summary_zh": "Supporters of the deposed prime minister, Sheikh Hasina, who was sentenced to death in absentia, have waged a small-scale insurgency to destabilize the current government."
+    },
+    {
       "id": "5a71929536e53345",
       "title": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
       "summary": "Elliptic says little has likely been cashed out, despite a sharp rise in bitcoin mixing since Nov. 17.",
@@ -244,25 +260,6 @@
       "summary_zh": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain."
     },
     {
-      "id": "ee02f6f46b53daed",
-      "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
-      "summary": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
-      "image_url": null,
-      "published_at": "2026-11-20T23:05:46.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "The War Is Ravaging Ukraine’s Wildlife, Too",
-      "summary_zh": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire."
-    },
-    {
       "id": "dba5c897e2856c91",
       "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
       "summary": "BTCS cut its reported Aave debt by about $10 million in ten days, but falling ether prices are keeping its collateral under pressure.",
@@ -316,54 +313,54 @@
       "summary_zh": "Wagyu’s founder pledged refunds after an attacker sold XMR1 Wrapped Monero tokens in a $13 million exploit."
     },
     {
-      "id": "6aa3eaebc693c773",
-      "title": "Trending Crypto: Cash Cat (CASHCAT)",
-      "summary": "CoinGecko trending rank #458.",
+      "id": "31781d2c3674f49f",
+      "title": "Trending Crypto: Official Trump (TRUMP)",
+      "summary": "CoinGecko trending rank #134.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/cash-cat",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102174280/large/cashcat-logo.jpg?1782922765",
-      "published_at": "2026-11-22T01:45:00.898Z",
+      "source_url": "https://www.coingecko.com/en/coins/official-trump",
+      "image_url": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561",
+      "published_at": "2026-11-22T08:58:27.558Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "cashcat"
+        "trump"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Cash Cat (CASHCAT)",
-      "summary_zh": "CoinGecko trending rank #458."
+      "title_zh": "Trending Crypto: Official Trump (TRUMP)",
+      "summary_zh": "CoinGecko trending rank #134."
     },
     {
-      "id": "ef3803850ba93dce",
-      "title": "Trending Crypto: Lucia (LUCIA)",
-      "summary": "CoinGecko trending rank #963.",
+      "id": "2175d1134a435389",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #130.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/lucia-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180313/large/logo.png?1795053500",
-      "published_at": "2026-11-22T01:45:00.898Z",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-11-22T08:58:27.558Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "lucia"
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Lucia (LUCIA)",
-      "summary_zh": "CoinGecko trending rank #963."
+      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary_zh": "CoinGecko trending rank #130."
     },
     {
-      "id": "63374331e1a0e085",
+      "id": "c5bf1e874129ae3c",
       "title": "Trending Crypto: Venice Token (VVV)",
       "summary": "CoinGecko trending rank #60.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/venice-token",
       "image_url": "https://coin-images.coingecko.com/coins/images/54023/large/VVV_Token_Transparent.png?1741856877",
-      "published_at": "2026-11-22T01:45:00.898Z",
+      "published_at": "2026-11-22T08:58:27.558Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -376,44 +373,44 @@
       "summary_zh": "CoinGecko trending rank #60."
     },
     {
-      "id": "6bcf354c2f55d558",
-      "title": "Trending Crypto: Bitcoin (BTC)",
-      "summary": "CoinGecko trending rank #1.",
+      "id": "d8115024ea065cb4",
+      "title": "Trending Crypto: Sui (SUI)",
+      "summary": "CoinGecko trending rank #32.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
-      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-22T01:45:00.898Z",
+      "source_url": "https://www.coingecko.com/en/coins/sui",
+      "image_url": "https://coin-images.coingecko.com/coins/images/26375/large/sui-ocean-square.png?1727791290",
+      "published_at": "2026-11-22T08:58:27.558Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "btc"
+        "sui"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Bitcoin (BTC)",
-      "summary_zh": "CoinGecko trending rank #1."
+      "title_zh": "Trending Crypto: Sui (SUI)",
+      "summary_zh": "CoinGecko trending rank #32."
     },
     {
-      "id": "20ea1a9e80263dfa",
-      "title": "Trending Crypto: Derive (DRV)",
-      "summary": "CoinGecko trending rank #113.",
+      "id": "10f042c4c6716455",
+      "title": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary": "CoinGecko trending rank #10.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/derive",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52889/large/Token_Logo.png?1734601695",
-      "published_at": "2026-11-22T01:45:00.898Z",
+      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
+      "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
+      "published_at": "2026-11-22T08:58:27.558Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "drv"
+        "hype"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Derive (DRV)",
-      "summary_zh": "CoinGecko trending rank #113."
+      "title_zh": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary_zh": "CoinGecko trending rank #10."
     },
     {
       "id": "62188372adfde12d",
@@ -922,6 +919,24 @@
       "summary_zh": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods."
     },
     {
+      "id": "bf515526aac00aa7",
+      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-22T06:54:06.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+      "summary_zh": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement."
+    },
+    {
       "id": "371cb58f39a70fdb",
       "title": "Russia-bound ship attacked in Gulf of Finland",
       "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
@@ -938,22 +953,6 @@
       "region": "global",
       "title_zh": "Russia-bound ship attacked in Gulf of Finland",
       "summary_zh": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
-    },
-    {
-      "id": "8d8c5971452743da",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-21T22:19:43.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "summary_zh": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
     },
     {
       "id": "7894a7cdd9a63fb3",
@@ -1008,6 +1007,22 @@
       "summary_zh": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings."
     },
     {
+      "id": "2064417a5f3f8f5b",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "summary": "At least three people were killed and 36 are still missing after a fire at a confectionary factory.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-22T06:05:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Three killed and dozens missing after fire at Indonesian factory",
+      "summary_zh": "At least three people were killed and 36 are still missing after a fire at a confectionary factory."
+    },
+    {
       "id": "77ad091cfb943885",
       "title": "Lock of former US President George Washington's hair sells for $4,000",
       "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
@@ -1026,20 +1041,72 @@
       "summary_zh": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner."
     },
     {
-      "id": "f51107a380092105",
-      "title": "French police officers sentenced for beating of music producer Michel Zecler",
-      "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+      "id": "1c663f5d28c340e8",
+      "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+      "summary": "China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
       "image_url": null,
-      "published_at": "2026-11-20T22:37:09.000Z",
+      "published_at": "2026-11-22T04:28:43.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+      "summary_zh": "China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say."
+    },
+    {
+      "id": "51ba92f52a3a1c1e",
+      "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
+      "summary": "U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
+      "image_url": null,
+      "published_at": "2026-11-22T01:56:16.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "French police officers sentenced for beating of music producer Michel Zecler",
-      "summary_zh": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
+      "title_zh": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
+      "summary_zh": "U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico."
+    },
+    {
+      "id": "27388637ef93c20a",
+      "title": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
+      "summary": "Two days before South Korea’s college entrance exam, new measures were announced, including loud phone alerts and eyeglass inspections. Public backlash came fast.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
+      "image_url": null,
+      "published_at": "2026-11-22T08:35:05.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
+      "summary_zh": "Two days before South Korea’s college entrance exam, new measures were announced, including loud phone alerts and eyeglass inspections. Public backlash came fast."
+    },
+    {
+      "id": "62c67df4d6f51269",
+      "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
+      "summary": "“Xi Jinping is my comedy muse,” said Huang Yi-hao, who survived a car crash the authorities say was meant to silence him.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
+      "image_url": null,
+      "published_at": "2026-11-22T06:58:17.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
+      "summary_zh": "“Xi Jinping is my comedy muse,” said Huang Yi-hao, who survived a car crash the authorities say was meant to silence him."
     },
     {
       "id": "98df87b9d4d7449a",
@@ -1049,7 +1116,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
       "image_url": null,
-      "published_at": "2026-11-21T21:12:23.000Z",
+      "published_at": "2026-11-21T21:12:24.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1110,92 +1177,20 @@
       "summary_zh": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives."
     },
     {
-      "id": "7df1a64ab463bdfd",
-      "title": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
-      "summary": "Pedro Sánchez, Europe’s most prominent left-wing leader, seems set to lose power in an election next week. Our reporter trailed his last-ditch effort to turn his campaign around.",
+      "id": "217de36ff4cd952b",
+      "title": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
+      "summary": "As he toured South America this month, Pope Leo XIV met with 11 victims of clerical sexual abuse. Some want him to engage more meaningfully.",
       "category": "WORLD",
       "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
+      "source_url": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
       "image_url": null,
-      "published_at": "2026-11-21T12:54:44.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
-      "summary_zh": "Pedro Sánchez, Europe’s most prominent left-wing leader, seems set to lose power in an election next week. Our reporter trailed his last-ditch effort to turn his campaign around."
-    },
-    {
-      "id": "3e5e67819dbde160",
-      "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
-      "summary": "Critics say that CNews and BFM TV, two major news channels, have used racist language in protest coverage. The channels deny it.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
-      "image_url": null,
-      "published_at": "2026-11-21T17:14:17.000Z",
+      "published_at": "2026-11-20T10:38:20.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
-      "summary_zh": "Critics say that CNews and BFM TV, two major news channels, have used racist language in protest coverage. The channels deny it."
-    },
-    {
-      "id": "8c5fe28f1d061fb1",
-      "title": "U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again",
-      "summary": "Major military powers like the United States and Russia expressed strong resistance to binding restrictions.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
-      "image_url": null,
-      "published_at": "2026-11-21T13:35:19.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again",
-      "summary_zh": "Major military powers like the United States and Russia expressed strong resistance to binding restrictions."
-    },
-    {
-      "id": "d404b4095f2d4f1a",
-      "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
-      "summary": "The United Kingdom is removing barriers with the European Union a decade after it voted to leave. Global turmoil, and the disruptive policies of President Trump, helped push them back together.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
-      "image_url": null,
-      "published_at": "2026-11-20T20:22:14.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
-      "summary_zh": "The United Kingdom is removing barriers with the European Union a decade after it voted to leave. Global turmoil, and the disruptive policies of President Trump, helped push them back together."
-    },
-    {
-      "id": "3ca6b89ed9ee9ca5",
-      "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
-      "summary": "For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
-      "image_url": null,
-      "published_at": "2026-11-21T07:11:24.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
-      "summary_zh": "For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces."
+      "title_zh": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
+      "summary_zh": "As he toured South America this month, Pope Leo XIV met with 11 victims of clerical sexual abuse. Some want him to engage more meaningfully."
     },
     {
       "id": "1ab783650e2d74ea",
