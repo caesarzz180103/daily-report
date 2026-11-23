@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T22:13:38.145Z",
+  "generated_at": "2026-11-23T03:20:36.824Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show；【CRYPTO】JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more；【FINANCE】Warsh wants Fed officials to talk less. Instead, they’re talking more。",
   "meta": {
     "sources_count": 11,
@@ -186,24 +186,6 @@
       "summary_zh": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping."
     },
     {
-      "id": "cdbc72a770e9fbf6",
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-22T18:17:59.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "summary_zh": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels."
-    },
-    {
       "id": "dba5c897e2856c91",
       "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
       "summary": "BTCS cut its reported Aave debt by about $10 million in ten days, but falling ether prices are keeping its collateral under pressure.",
@@ -259,34 +241,74 @@
       "summary_zh": "Chainflip offered the attacker a 10% bounty to return the remainder of the $12 million in stolen BTC, ETH, and stablecoins by Monday."
     },
     {
-      "id": "0ca032fe46ffc165",
-      "title": "Trending Crypto: Wanted Star (WSTAR)",
-      "summary": "CoinGecko trending rank #843.",
+      "id": "b3f577cf616928e0",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/wanted-star",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180314/large/logo.png?1794991621",
-      "published_at": "2026-11-22T22:12:28.749Z",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-11-23T03:19:22.487Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "wstar"
+        "btc"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Wanted Star (WSTAR)",
-      "summary_zh": "CoinGecko trending rank #843."
+      "title_zh": "Trending Crypto: Bitcoin (BTC)",
+      "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "ac56646334a1d984",
+      "id": "b0d12c2c0f269fbf",
+      "title": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary": "CoinGecko trending rank #10.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
+      "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
+      "published_at": "2026-11-23T03:19:22.487Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "hype"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary_zh": "CoinGecko trending rank #10."
+    },
+    {
+      "id": "cf2d22ce26c8d5dc",
+      "title": "Trending Crypto: Venice Token (VVV)",
+      "summary": "CoinGecko trending rank #60.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/venice-token",
+      "image_url": "https://coin-images.coingecko.com/coins/images/54023/large/VVV_Token_Transparent.png?1741856877",
+      "published_at": "2026-11-23T03:19:22.487Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "vvv"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Venice Token (VVV)",
+      "summary_zh": "CoinGecko trending rank #60."
+    },
+    {
+      "id": "fa61be229e16b85c",
       "title": "Trending Crypto: Official Trump (TRUMP)",
       "summary": "CoinGecko trending rank #135.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/official-trump",
       "image_url": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561",
-      "published_at": "2026-11-22T22:12:28.749Z",
+      "published_at": "2026-11-23T03:19:22.487Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -299,54 +321,14 @@
       "summary_zh": "CoinGecko trending rank #135."
     },
     {
-      "id": "3898c8c13b7b4eda",
-      "title": "Trending Crypto: Popo The Turtle (POPO)",
-      "summary": "CoinGecko trending rank #720.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/popo-the-turtle",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180378/large/logo_Popo.png?1795265048",
-      "published_at": "2026-11-22T22:12:28.749Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "popo"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Popo The Turtle (POPO)",
-      "summary_zh": "CoinGecko trending rank #720."
-    },
-    {
-      "id": "d96f89413610c796",
-      "title": "Trending Crypto: Derive (DRV)",
-      "summary": "CoinGecko trending rank #109.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/derive",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52889/large/Token_Logo.png?1734601695",
-      "published_at": "2026-11-22T22:12:28.749Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "drv"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Derive (DRV)",
-      "summary_zh": "CoinGecko trending rank #109."
-    },
-    {
-      "id": "6e529dfd928ad2ac",
+      "id": "59775ed69785a4c7",
       "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #130.",
+      "summary": "CoinGecko trending rank #131.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
       "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-11-22T22:12:28.749Z",
+      "published_at": "2026-11-23T03:19:22.487Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -356,7 +338,7 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #130."
+      "summary_zh": "CoinGecko trending rank #131."
     },
     {
       "id": "62188372adfde12d",
@@ -532,24 +514,6 @@
       "region": "global",
       "title_zh": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
       "summary_zh": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000."
-    },
-    {
-      "id": "8c9af4a6bb08407f",
-      "title": "JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost",
-      "summary": "Bitcoin's recent price drop has widened the gap between its market price and JPMorgan's estimated production cost of $86,000.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763",
-      "image_url": null,
-      "published_at": "2026-11-20T18:17:39.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost",
-      "summary_zh": "Bitcoin's recent price drop has widened the gap between its market price and JPMorgan's estimated production cost of $86,000."
     },
     {
       "id": "151cde18c390e901",
@@ -864,6 +828,24 @@
       "summary_zh": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods."
     },
     {
+      "id": "cdbc72a770e9fbf6",
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-23T00:50:35.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "summary_zh": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels"
+    },
+    {
       "id": "4db458e2660f3c9a",
       "title": "What's next after no deal at COP31 climate talks?",
       "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
@@ -880,38 +862,56 @@
       "summary_zh": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end."
     },
     {
-      "id": "57c7877dd1485a9e",
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "id": "fc0348437e38b055",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "summary": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-22T20:28:09.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "summary_zh": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia."
-    },
-    {
-      "id": "dc00d3ac2ee76281",
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-22T17:57:43.000Z",
+      "published_at": "2026-11-23T02:37:02.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "summary_zh": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region."
+      "title_zh": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "summary_zh": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building."
+    },
+    {
+      "id": "ffa6de5177a1e131",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-23T00:08:00.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "summary_zh": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated."
+    },
+    {
+      "id": "f5dc0322fe99f79f",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-22T22:49:10.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "summary_zh": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\"."
     },
     {
       "id": "2f2a6765ebbfb988",
@@ -932,6 +932,38 @@
       "summary_zh": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment."
     },
     {
+      "id": "2064417a5f3f8f5b",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-22T14:05:20.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Three killed and dozens missing after fire at Indonesian factory",
+      "summary_zh": "At least three people were killed and many more feared dead after a fire at a confectionary factory."
+    },
+    {
+      "id": "36909da654ef641d",
+      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "summary": "The couple have been together for four years and were engaged in 2025.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-22T21:22:40.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "summary_zh": "The couple have been together for four years and were engaged in 2025."
+    },
+    {
       "id": "0d35a572f65ff256",
       "title": "South Korea education minister resigns over exam cheating scandal",
       "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
@@ -950,68 +982,20 @@
       "summary_zh": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos."
     },
     {
-      "id": "2064417a5f3f8f5b",
-      "title": "Three killed and dozens missing after fire at Indonesian factory",
-      "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
+      "id": "57c7877dd1485a9e",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-22T14:05:20.000Z",
+      "published_at": "2026-11-23T02:59:35.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Three killed and dozens missing after fire at Indonesian factory",
-      "summary_zh": "At least three people were killed and many more feared dead after a fire at a confectionary factory."
-    },
-    {
-      "id": "99ff5301918169ca",
-      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-22T20:26:24.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-      "summary_zh": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats."
-    },
-    {
-      "id": "5ee46da7521690fb",
-      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
-      "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-22T18:29:46.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
-      "summary_zh": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa."
-    },
-    {
-      "id": "36909da654ef641d",
-      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-      "summary": "The couple have been together for four years and were engaged in 2025.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-22T21:22:40.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Miley Cyrus marries Maxx Morando in California ceremony",
-      "summary_zh": "The couple have been together for four years and were engaged in 2025."
+      "title_zh": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary_zh": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia."
     },
     {
       "id": "1c663f5d28c340e8",
@@ -1240,6 +1224,22 @@
       "region": "global",
       "title_zh": "Kalshi races to get ahead of New York order that could shut down exchange",
       "summary_zh": "The U.S. prediction market firm asked a New York court to give the company a chance to argue against a pending restraining order stemming from a new court loss."
+    },
+    {
+      "id": "749cfc54eac72ec9",
+      "title": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge",
+      "summary": "One trader managed to turn about $50 into nearly $17,700 in the wake of the exploit, according to The Block's analysis.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
+      "image_url": null,
+      "published_at": "2026-11-22T23:17:08.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge",
+      "summary_zh": "One trader managed to turn about $50 into nearly $17,700 in the wake of the exploit, according to The Block's analysis."
     },
     {
       "id": "429da89d588bc1af",
