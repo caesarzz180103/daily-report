@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T21:40:59.734Z",
+  "generated_at": "2026-11-25T04:40:58.491Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed's John Williams indicates higher interest rates likely 'over time' to address inflation；【FINANCE】Warsh wants Fed officials to talk less. Instead, they’re talking more；【CRYPTO】Payward’s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC。",
   "meta": {
     "sources_count": 11,
@@ -79,25 +79,6 @@
       "summary_zh": "Krak has opened a waitlist for two U.S. credit card products, including a secured card that uses USDC as collateral."
     },
     {
-      "id": "62cb11521ae38308",
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-24T10:58:51.000Z",
-      "importance_score": 64,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "summary_zh": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks."
-    },
-    {
       "id": "a3d7f07965682d24",
       "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
       "summary": "Your day-ahead look for Nov. 24, 2026",
@@ -117,6 +98,26 @@
       "summary_zh": "Your day-ahead look for Nov. 24, 2026"
     },
     {
+      "id": "757c47f7d5fda3d4",
+      "title": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines",
+      "summary": "CleanSpark's annual revenue fell 25% as the bitcoin miner continues to shift toward AI infrastructure.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061",
+      "image_url": null,
+      "published_at": "2026-11-24T22:10:45.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines",
+      "summary_zh": "CleanSpark's annual revenue fell 25% as the bitcoin miner continues to shift toward AI infrastructure."
+    },
+    {
       "id": "2b4a392d478d978f",
       "title": "We’ve Entered Peak FEAR; SKY Falls",
       "summary": "Fear no Greed Last week was another down week, with Bitcoin now retracing its entire summer move. The Fear and Greed Index continued its downward trend, nearly dropping to single digits. Bitcoin’s price hit a local high of $87k after rising from its summer lows and has returned t",
@@ -134,26 +135,6 @@
       "region": "global",
       "title_zh": "We’ve Entered Peak FEAR; SKY Falls",
       "summary_zh": "Fear no Greed Last week was another down week, with Bitcoin now retracing its entire summer move. The Fear and Greed Index continued its downward trend, nearly dropping to single digits. Bitcoin’s price hit a local high of $87k after rising from its summer lows and has returned t"
-    },
-    {
-      "id": "cd277f7e659facb6",
-      "title": "Bitcoin ETFs see another $570 million in net outflows as November total nears $5 billion and BTC dips below $60K",
-      "summary": "BlackRock's IBIT bitcoin exchange-traded fund again led the outflows, with $509.3 million exiting the fund on Monday.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-etfs-another-570-million-net-outflows-november-total-nears-5-billion-btc-dips-below-60k-445548",
-      "image_url": null,
-      "published_at": "2026-11-24T14:32:21.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin",
-        "etf"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin ETFs see another $570 million in net outflows as November total nears $5 billion and BTC dips below $60K",
-      "summary_zh": "BlackRock's IBIT bitcoin exchange-traded fund again led the outflows, with $509.3 million exiting the fund on Monday."
     },
     {
       "id": "caa9aed9cbd405f9",
@@ -206,6 +187,24 @@
       "summary_zh": "A more flexible training method can make AI text detectors more robust when new models emerge or AI-generated text is disguised to appear human."
     },
     {
+      "id": "65f366f7f405e8fd",
+      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+      "image_url": null,
+      "published_at": "2026-11-25T01:13:56.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "summary_zh": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too."
+    },
+    {
       "id": "20de3e305cf95a2b",
       "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
       "summary": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
@@ -222,6 +221,25 @@
       "region": "global",
       "title_zh": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
       "summary_zh": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain."
+    },
+    {
+      "id": "8c265db5e68238c6",
+      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-25T00:56:51.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "summary_zh": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia."
     },
     {
       "id": "15ebf41c68270c4d",
@@ -350,34 +368,54 @@
       "summary_zh": "The banks tested a new way to trade fractions of physical gold bars and use the metal as collateral without moving it from vaults for the first time."
     },
     {
-      "id": "7a411766fdfecf01",
-      "title": "Trending Crypto: Monad (MON)",
-      "summary": "CoinGecko trending rank #219.",
+      "id": "24cc8408c9fb61c5",
+      "title": "Trending Crypto: Pearl (PEARL)",
+      "summary": "CoinGecko trending rank #77.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/monad",
-      "image_url": "https://coin-images.coingecko.com/coins/images/38927/large/mon.png?1766029057",
-      "published_at": "2026-11-24T21:39:47.136Z",
+      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
+      "published_at": "2026-11-25T04:39:45.797Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "mon"
+        "pearl"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Monad (MON)",
-      "summary_zh": "CoinGecko trending rank #219."
+      "title_zh": "Trending Crypto: Pearl (PEARL)",
+      "summary_zh": "CoinGecko trending rank #77."
     },
     {
-      "id": "d33448471ca48dbe",
+      "id": "6ead0b55fa06c475",
+      "title": "Trending Crypto: Solana (SOL)",
+      "summary": "CoinGecko trending rank #7.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/solana",
+      "image_url": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
+      "published_at": "2026-11-25T04:39:45.797Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "sol"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Solana (SOL)",
+      "summary_zh": "CoinGecko trending rank #7."
+    },
+    {
+      "id": "e481ab607ccefb34",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-24T21:39:47.136Z",
+      "published_at": "2026-11-25T04:39:45.797Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -390,64 +428,60 @@
       "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "4dff86652e3e90c4",
-      "title": "Trending Crypto: Pearl (PEARL)",
-      "summary": "CoinGecko trending rank #78.",
+      "id": "dc8344edf68e63d1",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #129.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-11-24T21:39:47.136Z",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-11-25T04:39:45.797Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pearl"
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pearl (PEARL)",
-      "summary_zh": "CoinGecko trending rank #78."
+      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary_zh": "CoinGecko trending rank #129."
     },
     {
-      "id": "44e4a3827e513599",
-      "title": "Trending Crypto: Variational X (VAR)",
-      "summary": "CoinGecko trending rank #793.",
+      "id": "bb77990936b526a2",
+      "title": "Trending Crypto: Zcash (ZEC)",
+      "summary": "CoinGecko trending rank #11.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/variational-x",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180344/large/7.png?1795160837",
-      "published_at": "2026-11-24T21:39:47.136Z",
+      "source_url": "https://www.coingecko.com/en/coins/zcash",
+      "image_url": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558",
+      "published_at": "2026-11-25T04:39:45.797Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "var"
+        "zec"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Variational X (VAR)",
-      "summary_zh": "CoinGecko trending rank #793."
+      "title_zh": "Trending Crypto: Zcash (ZEC)",
+      "summary_zh": "CoinGecko trending rank #11."
     },
     {
-      "id": "a2d738c4b42a51a6",
-      "title": "Trending Crypto: Venice Token (VVV)",
-      "summary": "CoinGecko trending rank #60.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/venice-token",
-      "image_url": "https://coin-images.coingecko.com/coins/images/54023/large/VVV_Token_Transparent.png?1741856877",
-      "published_at": "2026-11-24T21:39:47.136Z",
-      "importance_score": 55,
+      "id": "da9835bb4457887d",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "category": "AI",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "image_url": null,
+      "published_at": "2026-11-24T00:00:00.000Z",
+      "importance_score": 52,
       "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "vvv"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Trending Crypto: Venice Token (VVV)",
-      "summary_zh": "CoinGecko trending rank #60."
+      "title_zh": "Clay helps sales teams win with Codex and ChatGPT",
+      "summary_zh": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning."
     },
     {
       "id": "fb1b585b811c6067",
@@ -591,24 +625,6 @@
       "summary_zh": "Bitcoin (BTC) has dropped 2.2% since midnight UTC to around $59,900, giving back Monday's jump and lagging the stock market's rebound from last week's selloff."
     },
     {
-      "id": "49ab9a072d0eec6d",
-      "title": "Bitcoin’s drop to $55,000 left a record 11.6 million BTC underwater",
-      "summary": "Bitcoin’s supply in profit fell below its 2022 FTX collapse low, while entities holding 100 to 10,000 BTC continued to accumulate.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater",
-      "image_url": null,
-      "published_at": "2026-11-24T11:11:38.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin’s drop to $55,000 left a record 11.6 million BTC underwater",
-      "summary_zh": "Bitcoin’s supply in profit fell below its 2022 FTX collapse low, while entities holding 100 to 10,000 BTC continued to accumulate."
-    },
-    {
       "id": "2445ba08ba1c307a",
       "title": "SEC staff gives Molecule no-action relief for scientific research tokens",
       "summary": "SEC staff said it would not recommend an enforcement action against Molecule for its utility tokens that allow people to support research.",
@@ -643,25 +659,6 @@
       "region": "global",
       "title_zh": "Robinhood co-leads $5 million seed round for onchain trading platform Rialto",
       "summary_zh": "Rialto has processed more than $600 million in spot trading volume across its app and Swap API since launching publicly in July, Can said."
-    },
-    {
-      "id": "34a8dc4fd87bce9a",
-      "title": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says ‘we do not take this lightly’",
-      "summary": "Nasdaq-listed BTCS sold 27,300 ETH during Friday's crypto rout to slash decentralized debt and curb collateral liquidation risk.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-24-ethereum-treasury-firm-btcs-sells-43-8-million-eth-cut-aave-debt-ceo-says-we-do-not-take-this-lightly-445562",
-      "image_url": null,
-      "published_at": "2026-11-24T15:27:50.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "ethereum"
-      ],
-      "region": "global",
-      "title_zh": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says ‘we do not take this lightly’",
-      "summary_zh": "Nasdaq-listed BTCS sold 27,300 ETH during Friday's crypto rout to slash decentralized debt and curb collateral liquidation risk."
     },
     {
       "id": "03b0ae23aba968c9",
@@ -715,24 +712,6 @@
       "region": "global",
       "title_zh": "Combatting adversarial distillation",
       "summary_zh": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
-    },
-    {
-      "id": "5c549198035764e8",
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "category": "AI",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/business/customer-stories/hebbia",
-      "image_url": null,
-      "published_at": "2026-11-20T00:00:00.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "summary_zh": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
     },
     {
       "id": "07c0891f70b43dba",
@@ -863,7 +842,7 @@
       "source_name": "CNBC Finance",
       "source_url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
       "image_url": null,
-      "published_at": "2026-11-24T18:34:55.000Z",
+      "published_at": "2026-11-24T23:03:24.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -963,24 +942,6 @@
       "summary_zh": "Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic’s $81 billion IPO puts that demand to the test."
     },
     {
-      "id": "92b2236e4f857775",
-      "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
-      "summary": "Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
-      "image_url": null,
-      "published_at": "2026-11-20T13:29:50.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
-      "summary_zh": "Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week."
-    },
-    {
       "id": "4e04589683fde611",
       "title": "US attorney general dodges questions about Nvidia investigation",
       "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
@@ -988,7 +949,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-24T21:19:42.000Z",
+      "published_at": "2026-11-25T03:44:07.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -997,22 +958,22 @@
       "summary_zh": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement."
     },
     {
-      "id": "12a1b08937ea7df2",
-      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-      "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+      "id": "37034baa2978b362",
+      "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+      "summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-24T16:49:07.000Z",
+      "published_at": "2026-11-25T03:54:43.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-      "summary_zh": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year."
+      "title_zh": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+      "summary_zh": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda."
     },
     {
       "id": "ce3e281a69677000",
@@ -1040,7 +1001,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-24T21:32:34.000Z",
+      "published_at": "2026-11-25T02:59:27.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
@@ -1049,22 +1010,38 @@
       "summary_zh": "The verdict follows a months-long trial in New York."
     },
     {
-      "id": "9640ddd716cc0d37",
-      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
-      "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+      "id": "188af6bb4354a29d",
+      "title": "Thomas Markle indicted in US for possessing child sex abuse images",
+      "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-24T19:10:31.000Z",
+      "published_at": "2026-11-25T01:40:42.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Thomas Markle indicted in US for possessing child sex abuse images",
+      "summary_zh": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material."
+    },
+    {
+      "id": "19046878d3e37d51",
+      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+      "summary": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-24T23:03:59.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Nigerian monarch, 92, suspended after sexual assault claims",
-      "summary_zh": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support."
+      "title_zh": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+      "summary_zh": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith."
     },
     {
       "id": "e954794420dc9499",
@@ -1085,38 +1062,22 @@
       "summary_zh": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday."
     },
     {
-      "id": "b3b1686bbc6a3134",
-      "title": "What Jensen Huang's return teaches China's Xi about Trump",
-      "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+      "id": "3f76434a93680631",
+      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-24T07:26:27.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "What Jensen Huang's return teaches China's Xi about Trump",
-      "summary_zh": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing."
-    },
-    {
-      "id": "2f56dfc701531339",
-      "title": "Pope Francis' diary reveals claims he saw the devil three times",
-      "summary": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-24T11:10:57.000Z",
+      "published_at": "2026-11-24T23:05:11.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Pope Francis' diary reveals claims he saw the devil three times",
-      "summary_zh": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass."
+      "title_zh": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "summary_zh": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen."
     },
     {
       "id": "f559d2abb3522fbd",
@@ -1126,7 +1087,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
       "image_url": null,
-      "published_at": "2026-11-24T20:12:41.000Z",
+      "published_at": "2026-11-25T00:38:35.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1246,7 +1207,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/24/world/asia/indonesia-factory-fire-deaths-missing.html",
       "image_url": null,
-      "published_at": "2026-11-24T13:12:41.000Z",
+      "published_at": "2026-11-24T13:12:42.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1293,6 +1254,24 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a"
     },
     {
+      "id": "2c1340efc98024e4",
+      "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
+      "summary": "President Donald Trump said in an interview with the New York Post that he's fine clearing Nvidia's CEO from legal trouble in his affair scandal.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one",
+      "image_url": null,
+      "published_at": "2026-11-25T03:35:20.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
+      "summary_zh": "President Donald Trump said in an interview with the New York Post that he's fine clearing Nvidia's CEO from legal trouble in his affair scandal."
+    },
+    {
       "id": "2737688b6263e7ea",
       "title": "Utah moves to drop criminal pursuit of Kalshi after the firm halted services there",
       "summary": "The state continues to hold the criminal charges in its back pocket with a vow to hit Kalshi and other prediction markets with gambling accusations if they return.",
@@ -1307,6 +1286,40 @@
       "region": "global",
       "title_zh": "Utah moves to drop criminal pursuit of Kalshi after the firm halted services there",
       "summary_zh": "The state continues to hold the criminal charges in its back pocket with a vow to hit Kalshi and other prediction markets with gambling accusations if they return."
+    },
+    {
+      "id": "3bf83ebcce6c3600",
+      "title": "Utah moves to drop criminal charges against Kalshi after platform halts operations",
+      "summary": "AG Derek Brown's office filed a motion Monday to drop the charges without prejudice, meaning it can refile if Kalshi returns.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090",
+      "image_url": null,
+      "published_at": "2026-11-25T03:59:52.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Utah moves to drop criminal charges against Kalshi after platform halts operations",
+      "summary_zh": "AG Derek Brown's office filed a motion Monday to drop the charges without prejudice, meaning it can refile if Kalshi returns."
+    },
+    {
+      "id": "cd49e5a58e33f963",
+      "title": "New York senator proposes 10% tax on prediction market fees to fund universal pre-K",
+      "summary": "Proceeds from the 10% tax would be channeled to a new fund for universal pre-kindergarten for children ages 2 to 4.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082",
+      "image_url": null,
+      "published_at": "2026-11-25T02:46:14.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "New York senator proposes 10% tax on prediction market fees to fund universal pre-K",
+      "summary_zh": "Proceeds from the 10% tax would be channeled to a new fund for universal pre-kindergarten for children ages 2 to 4."
     },
     {
       "id": "b46ddefb2da7d895",
@@ -1360,25 +1373,6 @@
       "region": "global",
       "title_zh": "Europol operation involving Binance, Coinbase and Chainalysis traces more than $28.5 million in crypto behind illegal streaming services",
       "summary_zh": "Europol traced more than €26 million ($28.5 million) in crypto transactions during an investigation into illegal IPTV services."
-    },
-    {
-      "id": "896679e2f01bdf07",
-      "title": "Crypto Market Structure Basics",
-      "summary": "Crypto Market Structure 101 explains how crypto markets work for beginners. It covers centralized and decentralized exchanges, trading pairs and settlement, order types, leverage and perpetual futures, market makers, key market players, and crypto fundraising.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/learn/campus/crypto-market-structure-basics-442986",
-      "image_url": null,
-      "published_at": "2026-11-24T14:40:12.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "Crypto Market Structure Basics",
-      "summary_zh": "Crypto Market Structure 101 explains how crypto markets work for beginners. It covers centralized and decentralized exchanges, trading pairs and settlement, order types, leverage and perpetual futures, market makers, key market players, and crypto fundraising."
     },
     {
       "id": "a39c1b6ed7dcee7c",
