@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T15:58:13.529Z",
-  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed's John Williams indicates higher interest rates likely 'over time' to address inflation；【CRYPTO】Bitcoin ETFs are bleeding cash and the Fed is unlikely to help；【CRYPTO】Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections。",
+  "generated_at": "2026-11-27T00:15:04.016Z",
+  "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed's John Williams indicates higher interest rates likely 'over time' to address inflation；【CRYPTO】Bitcoin ETFs are bleeding cash and the Fed is unlikely to help；【FINANCE】Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs。",
   "meta": {
     "sources_count": 11,
     "feed_ok": 10,
     "feed_failed": 0,
     "failed_sources": [],
-    "translated_items": 1,
+    "translated_items": 2,
     "translation_target": "zh-CN",
     "version": "1.3.0"
   },
@@ -59,24 +59,23 @@
       "summary_zh": "Your day-ahead look for Nov. 26, 2026"
     },
     {
-      "id": "bbfdbbb8d0f438f6",
-      "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
-      "summary": "Braiins warns that an attacker is redirecting miners' compute power to steal bitcoin mining rewards.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+      "id": "6dd96b196fd344d5",
+      "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+      "summary": "ETF Action founding partner Mike Akins and GraniteShares CEO Will Rhind react to Nvidia's sharp losses and latest comeback.",
+      "category": "FINANCE",
+      "source_name": "CNBC Finance",
+      "source_url": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
       "image_url": null,
-      "published_at": "2026-11-25T19:37:10.000Z",
-      "importance_score": 74,
+      "published_at": "2026-11-26T16:00:01.000Z",
+      "importance_score": 70,
       "sentiment": 0,
       "tags": [
-        "ai",
-        "bitcoin",
+        "etf",
         "war"
       ],
       "region": "global",
-      "title_zh": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
-      "summary_zh": "Braiins warns that an attacker is redirecting miners' compute power to steal bitcoin mining rewards."
+      "title_zh": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+      "summary_zh": "ETF Action founding partner Mike Akins and GraniteShares CEO Will Rhind react to Nvidia's sharp losses and latest comeback."
     },
     {
       "id": "9f1f2ca4a3ff638f",
@@ -97,6 +96,45 @@
       "region": "global",
       "title_zh": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
       "summary_zh": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh."
+    },
+    {
+      "id": "11199feb97e7724e",
+      "title": "Tokenized Anthropic Holders Doubled in 3 Days",
+      "summary": "The Cash Leg Moves Onchain An onchain trade requires both the tokenized asset itself and an onchain payment that clears it. Most of this year’s progress has been focused on the asset. Last week bank money started to move onchain too. Last Tuesday, Fed Governor Christopher Waller ",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-26-tokenized-anthropic-holders-doubled-in-3-days-446013",
+      "image_url": null,
+      "published_at": "2026-11-26T17:32:00.000Z",
+      "importance_score": 68,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "anthropic",
+        "fed"
+      ],
+      "region": "global",
+      "title_zh": "Tokenized Anthropic Holders Doubled in 3 Days",
+      "summary_zh": "The Cash Leg Moves Onchain An onchain trade requires both the tokenized asset itself and an onchain payment that clears it. Most of this year’s progress has been focused on the asset. Last week bank money started to move onchain too. Last Tuesday, Fed Governor Christopher Waller"
+    },
+    {
+      "id": "8aefe166207efb43",
+      "title": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple",
+      "summary": "JPMorgan analysts said Strategy's valuation relative to its bitcoin holdings has hit a record low, signaling bitcoin \"capitulation.\"",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
+      "image_url": null,
+      "published_at": "2026-11-26T16:18:24.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple",
+      "summary_zh": "JPMorgan analysts said Strategy's valuation relative to its bitcoin holdings has hit a record low, signaling bitcoin \"capitulation.\""
     },
     {
       "id": "3707e71382b23363",
@@ -283,70 +321,23 @@
       "summary_zh": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too."
     },
     {
-      "id": "20de3e305cf95a2b",
-      "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
-      "summary": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
-      "category": "FINANCE",
-      "source_name": "CNBC Finance",
-      "source_url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
+      "id": "9591a6cd44845836",
+      "title": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say",
+      "summary": "The deaths follow a series of strikes on Gulf Arab states that host U.S. military facilities in recent weeks as talks to end the war continue to stall.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html",
       "image_url": null,
-      "published_at": "2026-11-23T18:00:47.000Z",
+      "published_at": "2026-11-26T19:33:06.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
-        "ai"
+        "ai",
+        "war"
       ],
       "region": "global",
-      "title_zh": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
-      "summary_zh": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain."
-    },
-    {
-      "id": "25acfc9fc36a8b01",
-      "title": "Desperate appeals from women on death row in Iran after protests",
-      "summary": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-26T06:01:58.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Desperate appeals from women on death row in Iran after protests",
-      "summary_zh": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says."
-    },
-    {
-      "id": "0434aea1a8419f78",
-      "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
-      "summary": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-26T12:33:23.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
-      "summary_zh": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\"."
-    },
-    {
-      "id": "ded25d7b3e7b4e4d",
-      "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
-      "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-26T11:21:50.000Z",
-      "importance_score": 58,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Seven injured, four critically, after Bangkok oil refinery explosion",
-      "summary_zh": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area."
+      "title_zh": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say",
+      "summary_zh": "The deaths follow a series of strikes on Gulf Arab states that host U.S. military facilities in recent weeks as talks to end the war continue to stall."
     },
     {
       "id": "79097f028fe7dd49",
@@ -443,35 +434,34 @@
       "summary_zh": "Zero uses ZK proofs to separate execution from verification, removing a layer of redundancy by leaving validators to only verify the proofs."
     },
     {
-      "id": "5b04142fa1f17162",
-      "title": "Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption",
-      "summary": "Sens. Warren and Van Hollen sent two letters to SEC Chair Atkins demanding he rescind the innovation exemption and Regulation Crypto.",
+      "id": "34a2190182d8d4d4",
+      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary": "CoinGecko trending rank #129.",
       "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756",
-      "image_url": null,
-      "published_at": "2026-11-25T22:20:02.000Z",
-      "importance_score": 56,
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "published_at": "2026-11-27T00:13:54.532Z",
+      "importance_score": 55,
       "sentiment": 0,
       "tags": [
-        "ai",
         "crypto",
-        "war",
-        "regulation"
+        "trending",
+        "pengu"
       ],
       "region": "global",
-      "title_zh": "Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption",
-      "summary_zh": "Sens. Warren and Van Hollen sent two letters to SEC Chair Atkins demanding he rescind the innovation exemption and Regulation Crypto."
+      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
+      "summary_zh": "CoinGecko trending rank #129."
     },
     {
-      "id": "a551d240c5008e4e",
+      "id": "bfc915d8435fd888",
       "title": "Trending Crypto: Pepe Wojak (PEJAK)",
-      "summary": "CoinGecko trending rank #915.",
+      "summary": "CoinGecko trending rank #944.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/pepe-wojak",
       "image_url": "https://coin-images.coingecko.com/coins/images/102180398/large/3.png?1795413326",
-      "published_at": "2026-11-26T15:57:01.341Z",
+      "published_at": "2026-11-27T00:13:54.532Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -481,77 +471,17 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Pepe Wojak (PEJAK)",
-      "summary_zh": "CoinGecko trending rank #915."
+      "summary_zh": "CoinGecko trending rank #944."
     },
     {
-      "id": "d9b36207b267de20",
-      "title": "Trending Crypto: Pepe Intelligence (PEI)",
-      "summary": "CoinGecko trending rank #840.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pepe-intelligence",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180390/large/logo.png?1795386812",
-      "published_at": "2026-11-26T15:57:01.341Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pei"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Pepe Intelligence (PEI)",
-      "summary_zh": "CoinGecko trending rank #840."
-    },
-    {
-      "id": "43e94c77b3bf30ef",
-      "title": "Trending Crypto: Monero (XMR)",
-      "summary": "CoinGecko trending rank #13.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/monero",
-      "image_url": "https://coin-images.coingecko.com/coins/images/69/large/monero_logo.png?1696501460",
-      "published_at": "2026-11-26T15:57:01.341Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "xmr"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Monero (XMR)",
-      "summary_zh": "CoinGecko trending rank #13."
-    },
-    {
-      "id": "a28d952a85ed75dc",
-      "title": "Trending Crypto: Non-Playable Shiba (NPS)",
-      "summary": "CoinGecko trending rank #731.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/non-playable-shiba",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180410/large/logo.png?1795530697",
-      "published_at": "2026-11-26T15:57:01.341Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "nps"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Non-Playable Shiba (NPS)",
-      "summary_zh": "CoinGecko trending rank #731."
-    },
-    {
-      "id": "11fe0f4236d61e96",
+      "id": "ae58264946b28d8f",
       "title": "Trending Crypto: Zylo Ecosystem (ZYLO)",
-      "summary": "CoinGecko trending rank #723.",
+      "summary": "CoinGecko trending rank #721.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/zylo-ecosystem",
       "image_url": "https://coin-images.coingecko.com/coins/images/102174226/large/1000489906.png?1782576108",
-      "published_at": "2026-11-26T15:57:01.341Z",
+      "published_at": "2026-11-27T00:13:54.532Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -561,7 +491,47 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Zylo Ecosystem (ZYLO)",
-      "summary_zh": "CoinGecko trending rank #723."
+      "summary_zh": "CoinGecko trending rank #721."
+    },
+    {
+      "id": "c07427ace87ec7ef",
+      "title": "Trending Crypto: Bitcoin (BTC)",
+      "summary": "CoinGecko trending rank #1.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/bitcoin",
+      "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "published_at": "2026-11-27T00:13:54.532Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "btc"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Bitcoin (BTC)",
+      "summary_zh": "CoinGecko trending rank #1."
+    },
+    {
+      "id": "c6033a482724b13c",
+      "title": "Trending Crypto: Pearl (PEARL)",
+      "summary": "CoinGecko trending rank #82.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
+      "published_at": "2026-11-27T00:13:54.532Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "pearl"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Pearl (PEARL)",
+      "summary_zh": "CoinGecko trending rank #82."
     },
     {
       "id": "da9835bb4457887d",
@@ -702,6 +672,43 @@
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Sunday, 11/01/2026. To see our most recent links, visit the Quant Mashup. Read on readers! Strategy of the Week #3: The Pre-FOMC Drift in S&P 500 Futures [Delphic Alpha] Buy S&P 500 futures at the 16:00 New York cl"
     },
     {
+      "id": "10ac1b1308665538",
+      "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+      "summary": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+      "image_url": null,
+      "published_at": "2026-11-26T17:30:00.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+      "summary_zh": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents."
+    },
+    {
+      "id": "e38f3762a4419b94",
+      "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+      "summary": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+      "image_url": null,
+      "published_at": "2026-11-26T16:50:23.000Z",
+      "importance_score": 50,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+      "summary_zh": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,"
+    },
+    {
       "id": "f4bbab493d25158e",
       "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
       "summary": "Bitcoin is holding near $60,800 after rebounding from Wednesday's $57,500 low, while DeFi and infrastructure tokens are gaining nearly twice as much.",
@@ -719,42 +726,6 @@
       "region": "global",
       "title_zh": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
       "summary_zh": "Bitcoin is holding near $60,800 after rebounding from Wednesday's $57,500 low, while DeFi and infrastructure tokens are gaining nearly twice as much."
-    },
-    {
-      "id": "b314fe94f62187e3",
-      "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
-      "summary": "Bitcoin options positioning has flipped bearish ahead of Friday’s $7 billion expiry, with traders piling into downside protection as volatility rises.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
-      "image_url": null,
-      "published_at": "2026-11-26T08:01:33.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
-      "summary_zh": "Bitcoin options positioning has flipped bearish ahead of Friday’s $7 billion expiry, with traders piling into downside protection as volatility rises."
-    },
-    {
-      "id": "bdd53c37fcafec9a",
-      "title": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route",
-      "summary": "An attacker steered up to 1.9 EH/s of mining power to an impostor pool earlier in November using a weakness most of the industry's largest pools still carry.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes",
-      "image_url": null,
-      "published_at": "2026-11-26T06:19:09.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route",
-      "summary_zh": "An attacker steered up to 1.9 EH/s of mining power to an impostor pool earlier in November using a weakness most of the industry's largest pools still carry."
     },
     {
       "id": "03b0ae23aba968c9",
@@ -906,7 +877,7 @@
       "source_name": "CNBC Finance",
       "source_url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
       "image_url": null,
-      "published_at": "2026-11-26T13:19:25.000Z",
+      "published_at": "2026-11-26T17:52:15.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -989,6 +960,40 @@
       "summary_zh": "Co-founders of the prediction market platform were slated to appear in a state district court in December."
     },
     {
+      "id": "eb3543a7659f885a",
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-26T22:49:27.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "summary_zh": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend."
+    },
+    {
+      "id": "2d5773b59e1e8a77",
+      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-26T19:26:16.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "summary_zh": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins."
+    },
+    {
       "id": "69f538d3c0ca410b",
       "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
       "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
@@ -1021,6 +1026,24 @@
       "summary_zh": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges."
     },
     {
+      "id": "2dfa6706860cf8a8",
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-26T22:01:22.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "summary_zh": "The possible environmental damage is still being assessed by Spain's sea rescue service."
+    },
+    {
       "id": "8ac4f97d50293e13",
       "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
       "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
@@ -1035,40 +1058,6 @@
       "region": "global",
       "title_zh": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
       "summary_zh": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould."
-    },
-    {
-      "id": "2dfa6706860cf8a8",
-      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-26T15:17:18.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-      "summary_zh": "The possible environmental damage is still being assessed by Spain's sea rescue service."
-    },
-    {
-      "id": "1c18a6f172befc7a",
-      "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-      "summary": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-26T11:00:39.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-      "summary_zh": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection."
     },
     {
       "id": "3469f64f1edcb67b",
@@ -1087,22 +1076,54 @@
       "summary_zh": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges."
     },
     {
-      "id": "b757e482860470db",
-      "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-      "summary": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority.",
+      "id": "848d34d35158e0b1",
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-26T10:25:51.000Z",
+      "published_at": "2026-11-26T21:17:53.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-      "summary_zh": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority."
+      "title_zh": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "summary_zh": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry."
+    },
+    {
+      "id": "d7ee6de5099a8d6b",
+      "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+      "summary": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-26T12:16:06.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+      "summary_zh": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic."
+    },
+    {
+      "id": "1c18a6f172befc7a",
+      "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
+      "summary": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-26T11:00:39.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Hope for millions as cheaper HIV prevention jab reaches Africa",
+      "summary_zh": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection."
     },
     {
       "id": "55f2f1c48ab4452a",
@@ -1112,7 +1133,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
       "image_url": null,
-      "published_at": "2026-11-26T14:01:45.000Z",
+      "published_at": "2026-11-26T14:01:46.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1130,7 +1151,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
       "image_url": null,
-      "published_at": "2026-11-26T10:02:53.000Z",
+      "published_at": "2026-11-26T18:23:08.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1148,13 +1169,29 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
       "image_url": null,
-      "published_at": "2026-11-26T13:51:57.000Z",
+      "published_at": "2026-11-26T18:52:50.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
       "title_zh": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
       "summary_zh": "The drop was largely driven by fewer people arriving from outside the European Union. It reflects government action to restrict immigration after a public backlash."
+    },
+    {
+      "id": "d3d2336fcf2917b8",
+      "title": "U.K. Releases Files on Peter Mandelson, Ambassador Tied to Jeffrey Epstein",
+      "summary": "Documents released Thursday shed new light on the rushed appointment of Peter Mandelson and his continued ties to Global Counsel, a lobbying group.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html",
+      "image_url": null,
+      "published_at": "2026-11-26T21:40:09.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "U.K. Releases Files on Peter Mandelson, Ambassador Tied to Jeffrey Epstein",
+      "summary_zh": "Documents released Thursday shed new light on the rushed appointment of Peter Mandelson and his continued ties to Global Counsel, a lobbying group."
     },
     {
       "id": "0bad2de23e93a518",
@@ -1198,47 +1235,13 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/26/world/asia/delhi-heat-summer-nights.html",
       "image_url": null,
-      "published_at": "2026-11-26T08:47:33.000Z",
+      "published_at": "2026-11-26T18:16:29.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
       "title_zh": "The Unbearable Heat of Delhi’s Summer Nights",
       "summary_zh": "Residents of India’s dense capital tried switching off fridges and leaving doors open all night to cope with rising temperatures, which affect their sleep, health and ability to work."
-    },
-    {
-      "id": "c273d77eeabaecc0",
-      "title": "Attack Blamed on ISIS Kills 2 Syrian Security Force Members",
-      "summary": "The assault on a security headquarters in the northeastern city of Hasakah was carried out by four militants who local officials linked to the Islamic State.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/26/world/middleeast/isis-attack-syria.html",
-      "image_url": null,
-      "published_at": "2026-11-26T11:08:41.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Attack Blamed on ISIS Kills 2 Syrian Security Force Members",
-      "summary_zh": "The assault on a security headquarters in the northeastern city of Hasakah was carried out by four militants who local officials linked to the Islamic State."
-    },
-    {
-      "id": "b14661c31c39fb8e",
-      "title": "An Italian Couple Bought a House Built by Pier Paolo Pasolini. Local Villagers Want to Evict Them.",
-      "summary": "After an Italian couple bought a house built by Pier Paolo Pasolini, one of the country’s greatest film directors, local villagers claimed the property.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/26/world/europe/pasolini-house-eviction-court.html",
-      "image_url": null,
-      "published_at": "2026-11-26T05:01:11.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "An Italian Couple Bought a House Built by Pier Paolo Pasolini. Local Villagers Want to Evict Them.",
-      "summary_zh": "After an Italian couple bought a house built by Pier Paolo Pasolini, one of the country’s greatest film directors, local villagers claimed the property."
     },
     {
       "id": "1ab783650e2d74ea",
@@ -1257,6 +1260,24 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 11/09/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a"
+    },
+    {
+      "id": "e1002b82c520fc15",
+      "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
+      "summary": "",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
+      "image_url": null,
+      "published_at": "2026-11-26T15:42:43.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [
+        "crypto"
+      ],
+      "region": "global",
+      "title_zh": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
+      "summary_zh": ""
     },
     {
       "id": "17d6d39213938f5b",
@@ -1352,24 +1373,6 @@
       "region": "global",
       "title_zh": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
       "summary_zh": "AWS Mining and NovaTech founders Cynthia and Eddie Petion were ordered to pay $1.37 billion after defrauding hundreds of thousands of people, including 11,000 New Yorkers."
-    },
-    {
-      "id": "cc8fb118983bb9df",
-      "title": "Zcash developers want to phase out older privacy system as a precaution against future attacks",
-      "summary": "Zakura is pushing to stop new payments into Sapling sooner, citing the possibility that AI-assisted discoveries could weaken the math protecting it.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
-      "image_url": null,
-      "published_at": "2026-11-26T07:09:25.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Zcash developers want to phase out older privacy system as a precaution against future attacks",
-      "summary_zh": "Zakura is pushing to stop new payments into Sapling sooner, citing the possibility that AI-assisted discoveries could weaken the math protecting it."
     },
     {
       "id": "a39c1b6ed7dcee7c",
