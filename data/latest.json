@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T00:15:04.016Z",
+  "generated_at": "2026-11-27T09:14:32.826Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【FINANCE】Fed's John Williams indicates higher interest rates likely 'over time' to address inflation；【CRYPTO】Bitcoin ETFs are bleeding cash and the Fed is unlikely to help；【FINANCE】Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs。",
   "meta": {
     "sources_count": 11,
@@ -118,6 +118,25 @@
       "summary_zh": "The Cash Leg Moves Onchain An onchain trade requires both the tokenized asset itself and an onchain payment that clears it. Most of this year’s progress has been focused on the asset. Last week bank money started to move onchain too. Last Tuesday, Fed Governor Christopher Waller"
     },
     {
+      "id": "e1ebf9de478c906c",
+      "title": "JPMorgan flags bitcoin ‘capitulation,’ Democrats push back on SEC’s crypto plans, and more",
+      "summary": "In today's newsletter, JPMorgan flags bitcoin 'capitulation' as Strategy's NAV multiple sinks; Democrats step up opposition to SEC's crypto plans; and more.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025",
+      "image_url": null,
+      "published_at": "2026-11-27T02:20:00.000Z",
+      "importance_score": 62,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "bitcoin"
+      ],
+      "region": "global",
+      "title_zh": "JPMorgan flags bitcoin ‘capitulation,’ Democrats push back on SEC’s crypto plans, and more",
+      "summary_zh": "In today's newsletter, JPMorgan flags bitcoin 'capitulation' as Strategy's NAV multiple sinks; Democrats step up opposition to SEC's crypto plans; and more."
+    },
+    {
       "id": "8aefe166207efb43",
       "title": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple",
       "summary": "JPMorgan analysts said Strategy's valuation relative to its bitcoin holdings has hit a record low, signaling bitcoin \"capitulation.\"",
@@ -194,44 +213,6 @@
       "region": "global",
       "title_zh": "Fidelity files for Chainlink ETF, Musk’s X wins ruling in alleged bitcoin content-farm case, and more",
       "summary_zh": "In today's newsletter, Fidelity files for spot Chainlink ETF; Musk's X wins ruling in alleged bitcoin content-farm case; and more."
-    },
-    {
-      "id": "cfffa8f1f3aa7477",
-      "title": "Galaxy walks back bitcoin’s June-bottom call, warns of deeper losses below $58,525",
-      "summary": "Galaxy now treats a daily close below $58,525, the June 30 closing low, as the start of a move toward a materially lower low.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786",
-      "image_url": null,
-      "published_at": "2026-11-26T05:16:11.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin",
-        "war"
-      ],
-      "region": "global",
-      "title_zh": "Galaxy walks back bitcoin’s June-bottom call, warns of deeper losses below $58,525",
-      "summary_zh": "Galaxy now treats a daily close below $58,525, the June 30 closing low, as the start of a move toward a materially lower low."
-    },
-    {
-      "id": "8603bd53cf73e423",
-      "title": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
-      "summary": "The current 119th Congress is expected to adjourn in the coming weeks, leaving little time for full passage before the session ends.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778",
-      "image_url": null,
-      "published_at": "2026-11-26T03:03:01.000Z",
-      "importance_score": 62,
-      "sentiment": 0,
-      "tags": [
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
-      "summary_zh": "The current 119th Congress is expected to adjourn in the coming weeks, leaving little time for full passage before the session ends."
     },
     {
       "id": "caa9aed9cbd405f9",
@@ -321,6 +302,25 @@
       "summary_zh": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too."
     },
     {
+      "id": "6bcefa7bc9b8752e",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-27T09:07:48.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [
+        "ai",
+        "war"
+      ],
+      "region": "global",
+      "title_zh": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "summary_zh": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war."
+    },
+    {
       "id": "9591a6cd44845836",
       "title": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say",
       "summary": "The deaths follow a series of strikes on Gulf Arab states that host U.S. military facilities in recent weeks as talks to end the war continue to stall.",
@@ -359,23 +359,59 @@
       "summary_zh": "Dozens of Brazilians have joined the Russian army, some say lured by a pair of recruiters promising money and adventure. Here is one soldier’s story."
     },
     {
-      "id": "63339af17a6b1d31",
-      "title": "Hong Kong Grieves Fire Victims Under Watchful Eye of Authorities",
-      "summary": "The city’s residents quietly mourned the 168 lives lost in a high-rise complex blaze a year ago, as officials warned against using the disaster to sow division.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
+      "id": "0b4477cd86499eb2",
+      "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+      "summary": "Binance says it has fully lifted withdrawal suspensions imposed after October’s $6.3 billion hack, though a small number of networks remain paused for unrelated maintenance.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
       "image_url": null,
-      "published_at": "2026-11-26T09:06:03.000Z",
-      "importance_score": 58,
+      "published_at": "2026-11-27T04:45:47.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ai"
+      ],
+      "region": "global",
+      "title_zh": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+      "summary_zh": "Binance says it has fully lifted withdrawal suspensions imposed after October’s $6.3 billion hack, though a small number of networks remain paused for unrelated maintenance."
+    },
+    {
+      "id": "63e9455d87bafb01",
+      "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+      "summary": "Developers have agreed to keep the planned storage charges despite concerns about some existing smart contracts, ending seven weeks of delays to the next major test.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+      "image_url": null,
+      "published_at": "2026-11-27T04:29:47.000Z",
+      "importance_score": 56,
       "sentiment": 0,
       "tags": [
         "ai",
-        "war"
+        "ethereum"
       ],
       "region": "global",
-      "title_zh": "Hong Kong Grieves Fire Victims Under Watchful Eye of Authorities",
-      "summary_zh": "The city’s residents quietly mourned the 168 lives lost in a high-rise complex blaze a year ago, as officials warned against using the disaster to sow division."
+      "title_zh": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+      "summary_zh": "Developers have agreed to keep the planned storage charges despite concerns about some existing smart contracts, ending seven weeks of delays to the next major test."
+    },
+    {
+      "id": "a181c7c48902efcb",
+      "title": "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15",
+      "summary": "Developers also discussed whether post-quantum readiness should trump other proposals set for the subsequent Ethereum upgrade, Hegotá.",
+      "category": "CRYPTO",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051",
+      "image_url": null,
+      "published_at": "2026-11-27T07:51:14.000Z",
+      "importance_score": 56,
+      "sentiment": 0,
+      "tags": [
+        "ethereum"
+      ],
+      "region": "global",
+      "title_zh": "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15",
+      "summary_zh": "Developers also discussed whether post-quantum readiness should trump other proposals set for the subsequent Ethereum upgrade, Hegotá."
     },
     {
       "id": "80a71236dfa913b8",
@@ -416,92 +452,54 @@
       "summary_zh": "The Swiss Federal Council cleared 57 potential partners for cryptoasset tax-information exchanges beginning in 2028."
     },
     {
-      "id": "5102643d7fcdb17f",
-      "title": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain",
-      "summary": "Zero uses ZK proofs to separate execution from verification, removing a layer of redundancy by leaving validators to only verify the proofs.",
-      "category": "CRYPTO",
-      "source_name": "The Block",
-      "source_url": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770",
-      "image_url": null,
-      "published_at": "2026-11-26T02:22:43.000Z",
-      "importance_score": 56,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain",
-      "summary_zh": "Zero uses ZK proofs to separate execution from verification, removing a layer of redundancy by leaving validators to only verify the proofs."
-    },
-    {
-      "id": "34a2190182d8d4d4",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #129.",
+      "id": "8946562b06a163d6",
+      "title": "Trending Crypto: Pons (PONS)",
+      "summary": "CoinGecko trending rank #309.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-11-27T00:13:54.532Z",
+      "source_url": "https://www.coingecko.com/en/coins/pons",
+      "image_url": "https://coin-images.coingecko.com/coins/images/102174571/large/jhitvkisdq8fhxvimdkpcw7y3dx5.?1784093932",
+      "published_at": "2026-11-27T09:13:22.902Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pengu"
+        "pons"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #129."
+      "title_zh": "Trending Crypto: Pons (PONS)",
+      "summary_zh": "CoinGecko trending rank #309."
     },
     {
-      "id": "bfc915d8435fd888",
-      "title": "Trending Crypto: Pepe Wojak (PEJAK)",
-      "summary": "CoinGecko trending rank #944.",
+      "id": "f1821e264ed784ca",
+      "title": "Trending Crypto: Monero (XMR)",
+      "summary": "CoinGecko trending rank #13.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pepe-wojak",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180398/large/3.png?1795413326",
-      "published_at": "2026-11-27T00:13:54.532Z",
+      "source_url": "https://www.coingecko.com/en/coins/monero",
+      "image_url": "https://coin-images.coingecko.com/coins/images/69/large/monero_logo.png?1696501460",
+      "published_at": "2026-11-27T09:13:22.902Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pejak"
+        "xmr"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pepe Wojak (PEJAK)",
-      "summary_zh": "CoinGecko trending rank #944."
+      "title_zh": "Trending Crypto: Monero (XMR)",
+      "summary_zh": "CoinGecko trending rank #13."
     },
     {
-      "id": "ae58264946b28d8f",
-      "title": "Trending Crypto: Zylo Ecosystem (ZYLO)",
-      "summary": "CoinGecko trending rank #721.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/zylo-ecosystem",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102174226/large/1000489906.png?1782576108",
-      "published_at": "2026-11-27T00:13:54.532Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "zylo"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Zylo Ecosystem (ZYLO)",
-      "summary_zh": "CoinGecko trending rank #721."
-    },
-    {
-      "id": "c07427ace87ec7ef",
+      "id": "e9f77f22da86f91b",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-27T00:13:54.532Z",
+      "published_at": "2026-11-27T09:13:22.902Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -514,24 +512,44 @@
       "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "c6033a482724b13c",
-      "title": "Trending Crypto: Pearl (PEARL)",
-      "summary": "CoinGecko trending rank #82.",
+      "id": "09f057fdc0a59351",
+      "title": "Trending Crypto: Monad (MON)",
+      "summary": "CoinGecko trending rank #130.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pearl-2",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102173580/large/pearl.png?1780324634",
-      "published_at": "2026-11-27T00:13:54.532Z",
+      "source_url": "https://www.coingecko.com/en/coins/monad",
+      "image_url": "https://coin-images.coingecko.com/coins/images/38927/large/mon.png?1766029057",
+      "published_at": "2026-11-27T09:13:22.902Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
         "crypto",
         "trending",
-        "pearl"
+        "mon"
       ],
       "region": "global",
-      "title_zh": "Trending Crypto: Pearl (PEARL)",
-      "summary_zh": "CoinGecko trending rank #82."
+      "title_zh": "Trending Crypto: Monad (MON)",
+      "summary_zh": "CoinGecko trending rank #130."
+    },
+    {
+      "id": "74fc433efbf0ad30",
+      "title": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary": "CoinGecko trending rank #10.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/hyperliquid",
+      "image_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
+      "published_at": "2026-11-27T09:13:22.902Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "hype"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Hyperliquid (HYPE)",
+      "summary_zh": "CoinGecko trending rank #10."
     },
     {
       "id": "da9835bb4457887d",
@@ -707,25 +725,6 @@
       "region": "global",
       "title_zh": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
       "summary_zh": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,"
-    },
-    {
-      "id": "f4bbab493d25158e",
-      "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
-      "summary": "Bitcoin is holding near $60,800 after rebounding from Wednesday's $57,500 low, while DeFi and infrastructure tokens are gaining nearly twice as much.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
-      "image_url": null,
-      "published_at": "2026-11-26T11:17:22.000Z",
-      "importance_score": 50,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "bitcoin"
-      ],
-      "region": "global",
-      "title_zh": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
-      "summary_zh": "Bitcoin is holding near $60,800 after rebounding from Wednesday's $57,500 low, while DeFi and infrastructure tokens are gaining nearly twice as much."
     },
     {
       "id": "03b0ae23aba968c9",
@@ -960,22 +959,22 @@
       "summary_zh": "Co-founders of the prediction market platform were slated to appear in a state district court in December."
     },
     {
-      "id": "eb3543a7659f885a",
-      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-      "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+      "id": "7bff0c1f3ab02a4d",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-26T22:49:27.000Z",
+      "published_at": "2026-11-27T05:15:26.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-      "summary_zh": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend."
+      "title_zh": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "summary_zh": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding."
     },
     {
       "id": "2d5773b59e1e8a77",
@@ -992,6 +991,22 @@
       "region": "global",
       "title_zh": "Watch: Roofs torn off and streets under water as severe weather hits US",
       "summary_zh": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins."
+    },
+    {
+      "id": "ecb6d48b33172a0d",
+      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-27T03:28:15.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "summary_zh": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern."
     },
     {
       "id": "69f538d3c0ca410b",
@@ -1026,6 +1041,38 @@
       "summary_zh": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges."
     },
     {
+      "id": "8ac4f97d50293e13",
+      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+      "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-26T14:44:26.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+      "summary_zh": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould."
+    },
+    {
+      "id": "7b36ffc5d5bfa91f",
+      "title": "Millions of wives in South Asia unprotected from marital rape - study",
+      "summary": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
+      "category": "WORLD",
+      "source_name": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
+      "image_url": null,
+      "published_at": "2026-11-27T08:13:43.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Millions of wives in South Asia unprotected from marital rape - study",
+      "summary_zh": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not."
+    },
+    {
       "id": "2dfa6706860cf8a8",
       "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
       "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
@@ -1044,22 +1091,6 @@
       "summary_zh": "The possible environmental damage is still being assessed by Spain's sea rescue service."
     },
     {
-      "id": "8ac4f97d50293e13",
-      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-      "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-26T14:44:26.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-      "summary_zh": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould."
-    },
-    {
       "id": "3469f64f1edcb67b",
       "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
       "summary": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
@@ -1076,54 +1107,36 @@
       "summary_zh": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges."
     },
     {
-      "id": "848d34d35158e0b1",
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+      "id": "fca7d9a7a4e35aae",
+      "title": "The Threat to a Sanctuary for Children of North Korean Defectors",
+      "summary": "A school in Seoul caters to students whose parents fled North Korea. Neighbors want it gone, and students say it is just one example of the prejudice they face in the South.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/27/world/asia/the-threat-to-a-sanctuary-for-children-of-north-korean-defectors.html",
       "image_url": null,
-      "published_at": "2026-11-26T21:17:53.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "summary_zh": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry."
-    },
-    {
-      "id": "d7ee6de5099a8d6b",
-      "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
-      "summary": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic.",
-      "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
-      "image_url": null,
-      "published_at": "2026-11-26T12:16:06.000Z",
+      "published_at": "2026-11-27T05:00:39.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Egyptian authorities arrest motorist over tanker crash that killed 31",
-      "summary_zh": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic."
+      "title_zh": "The Threat to a Sanctuary for Children of North Korean Defectors",
+      "summary_zh": "A school in Seoul caters to students whose parents fled North Korea. Neighbors want it gone, and students say it is just one example of the prejudice they face in the South."
     },
     {
-      "id": "1c18a6f172befc7a",
-      "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-      "summary": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
+      "id": "8c7e187ce2988ab1",
+      "title": "A Japanese Volleyball Player Breaks a Taboo",
+      "summary": "Rui Takahashi, 26, has made waves as one of only a few professional athletes to come out as gay in Japan.",
       "category": "WORLD",
-      "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/27/world/asia/a-japanese-volleyball-player-breaks-a-taboo.html",
       "image_url": null,
-      "published_at": "2026-11-26T11:00:39.000Z",
+      "published_at": "2026-11-27T05:00:17.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [],
       "region": "global",
-      "title_zh": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-      "summary_zh": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection."
+      "title_zh": "A Japanese Volleyball Player Breaks a Taboo",
+      "summary_zh": "Rui Takahashi, 26, has made waves as one of only a few professional athletes to come out as gay in Japan."
     },
     {
       "id": "55f2f1c48ab4452a",
@@ -1217,7 +1230,7 @@
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/26/world/americas/nayib-bukele-salvador-haiti.html",
       "image_url": null,
-      "published_at": "2026-11-26T10:04:17.000Z",
+      "published_at": "2026-11-26T10:04:18.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1226,22 +1239,6 @@
       "region": "global",
       "title_zh": "El Salvador’s Nayib Bukele Elates Haiti With Fight Against Gangs",
       "summary_zh": "The president of El Salvador has widespread support among Haitians, who are tired of violence and hope he can be the one to finally end it."
-    },
-    {
-      "id": "795c3a03fce43e03",
-      "title": "The Unbearable Heat of Delhi’s Summer Nights",
-      "summary": "Residents of India’s dense capital tried switching off fridges and leaving doors open all night to cope with rising temperatures, which affect their sleep, health and ability to work.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/26/world/asia/delhi-heat-summer-nights.html",
-      "image_url": null,
-      "published_at": "2026-11-26T18:16:29.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [],
-      "region": "global",
-      "title_zh": "The Unbearable Heat of Delhi’s Summer Nights",
-      "summary_zh": "Residents of India’s dense capital tried switching off fridges and leaving doors open all night to cope with rising temperatures, which affect their sleep, health and ability to work."
     },
     {
       "id": "1ab783650e2d74ea",
@@ -1260,6 +1257,38 @@
       "region": "global",
       "title_zh": "Recent Quant Links from Quantocracy as of 11/09/2026",
       "summary_zh": "This is a summary of links recently featured on Quantocracy as of Monday, 11/09/2026. To see our most recent links, visit the Quant Mashup. Read on readers! RSI(2) Pullback From 2007, Tested on the 20 Years After: 84% Claimed, 80.7% Measured [Nullius Research] In February 2007 a"
+    },
+    {
+      "id": "a1041fd46d125e62",
+      "title": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
+      "summary": "Monero (XMR) crashed over 11% on Thursday, its biggest drop since early June. Back-to-back exchange delistings seem to have catalyzed the price slide.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why",
+      "image_url": null,
+      "published_at": "2026-11-27T07:33:01.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
+      "summary_zh": "Monero (XMR) crashed over 11% on Thursday, its biggest drop since early June. Back-to-back exchange delistings seem to have catalyzed the price slide."
+    },
+    {
+      "id": "34aff13e72e789f9",
+      "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
+      "summary": "The vaults that would hold lenders' money are on track to switch on Dec. 9. The loan system that draws from them still needs one more validator to start its own two-week clock.",
+      "category": "CRYPTO",
+      "source_name": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
+      "image_url": null,
+      "published_at": "2026-11-27T05:06:32.000Z",
+      "importance_score": 44,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
+      "summary_zh": "The vaults that would hold lenders' money are on track to switch on Dec. 9. The loan system that draws from them still needs one more validator to start its own two-week clock."
     },
     {
       "id": "e1002b82c520fc15",
@@ -1318,61 +1347,23 @@
       "summary_zh": "The breach exposed client and employee contact information at Standard Chartered's crypto custodian, which said no unauthorized transactions took place."
     },
     {
-      "id": "1740496656eb92e9",
-      "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
-      "summary": "The firm previously estimated it handled 4% of global crypto exchange trading volume and raised $17 million after the FTX collapse.",
+      "id": "7f4799b330fbf529",
+      "title": "China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation",
+      "summary": "The decision comes after the group met in May in Uzbekistan and identified cross-border digital payments as a new area of cooperation.",
       "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
+      "source_name": "The Block",
+      "source_url": "https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029",
       "image_url": null,
-      "published_at": "2026-11-26T11:27:50.000Z",
+      "published_at": "2026-11-27T04:18:40.000Z",
       "importance_score": 44,
       "sentiment": 0,
       "tags": [
-        "ai",
-        "crypto"
+        "crypto",
+        "regulation"
       ],
       "region": "global",
-      "title_zh": "Hong Kong-based crypto trading firm Auros is winding down operations",
-      "summary_zh": "The firm previously estimated it handled 4% of global crypto exchange trading volume and raised $17 million after the FTX collapse."
-    },
-    {
-      "id": "4d2c623b80bcda63",
-      "title": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
-      "summary": "U.S. export controls have halted Nvidia server shipments to four Southeast Asian countries and put billions in data centre financing under review.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
-      "image_url": null,
-      "published_at": "2026-11-26T10:56:08.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "stocks"
-      ],
-      "region": "global",
-      "title_zh": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
-      "summary_zh": "U.S. export controls have halted Nvidia server shipments to four Southeast Asian countries and put billions in data centre financing under review."
-    },
-    {
-      "id": "6a8f2c99b9bc8366",
-      "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
-      "summary": "AWS Mining and NovaTech founders Cynthia and Eddie Petion were ordered to pay $1.37 billion after defrauding hundreds of thousands of people, including 11,000 New Yorkers.",
-      "category": "CRYPTO",
-      "source_name": "CoinDesk",
-      "source_url": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
-      "image_url": null,
-      "published_at": "2026-11-26T10:40:33.000Z",
-      "importance_score": 44,
-      "sentiment": 0,
-      "tags": [
-        "ai",
-        "crypto"
-      ],
-      "region": "global",
-      "title_zh": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
-      "summary_zh": "AWS Mining and NovaTech founders Cynthia and Eddie Petion were ordered to pay $1.37 billion after defrauding hundreds of thousands of people, including 11,000 New Yorkers."
+      "title_zh": "China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation",
+      "summary_zh": "The decision comes after the group met in May in Uzbekistan and identified cross-border digital payments as a new area of cooperation."
     },
     {
       "id": "a39c1b6ed7dcee7c",
