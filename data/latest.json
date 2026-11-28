@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T19:15:12.139Z",
+  "generated_at": "2026-11-28T02:20:11.823Z",
   "hourly_summary": "本小时共收录 105 条：AI 40 条、策略交易 10 条、加密货币 25 条、世界事件 20 条、财经 10 条。重点关注：【CRYPTO】Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin；【CRYPTO】AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33；【FINANCE】Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs。",
   "meta": {
     "sources_count": 11,
@@ -344,7 +344,7 @@
       "source_name": "BBC World",
       "source_url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-27T18:52:33.000Z",
+      "published_at": "2026-11-27T20:06:31.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [],
@@ -385,14 +385,14 @@
       "summary_zh": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights."
     },
     {
-      "id": "00678b87edc1c5d4",
-      "title": "With Dancing Robots, Russia Projects a Future Shaped by A.I., Not War",
-      "summary": "Russian officials see artificial intelligence as a way to solve the country’s pressing problems. But Russia’s technological development has been constrained.",
+      "id": "29bcc6ff9a6df578",
+      "title": "Russia’s Big Ambitions for A.I. Are Undercut by Constraints of War",
+      "summary": "Russian officials see artificial intelligence as a way to solve the country’s pressing problems. But Russia’s technological development has been held back.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html",
       "image_url": null,
-      "published_at": "2026-11-27T18:01:19.000Z",
+      "published_at": "2026-11-27T21:41:12.000Z",
       "importance_score": 58,
       "sentiment": 0,
       "tags": [
@@ -400,8 +400,24 @@
         "war"
       ],
       "region": "global",
-      "title_zh": "With Dancing Robots, Russia Projects a Future Shaped by A.I., Not War",
-      "summary_zh": "Russian officials see artificial intelligence as a way to solve the country’s pressing problems. But Russia’s technological development has been constrained."
+      "title_zh": "Russia’s Big Ambitions for A.I. Are Undercut by Constraints of War",
+      "summary_zh": "Russian officials see artificial intelligence as a way to solve the country’s pressing problems. But Russia’s technological development has been held back."
+    },
+    {
+      "id": "0924035a911e09a2",
+      "title": "Quebec Can Keep Its Ban on Religious Symbols, Canada’s Top Court Rules",
+      "summary": "In a landmark decision, the Supreme Court backed the province’s use of a constitutional override while leaving the door open to future legal scrutiny.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
+      "image_url": null,
+      "published_at": "2026-11-27T21:17:11.000Z",
+      "importance_score": 58,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Quebec Can Keep Its Ban on Religious Symbols, Canada’s Top Court Rules",
+      "summary_zh": "In a landmark decision, the Supreme Court backed the province’s use of a constitutional override while leaving the door open to future legal scrutiny."
     },
     {
       "id": "4a18d9d88123226f",
@@ -461,74 +477,14 @@
       "summary_zh": "Zakura wants Zcash to disable Sapling deposits over speculative concerns about AI-assisted mathematical breakthroughs."
     },
     {
-      "id": "95bcee2340fabc53",
-      "title": "Trending Crypto: PumpChan (PUMPCHAN)",
-      "summary": "CoinGecko trending rank #870.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pumpchan",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102180463/large/cgpgdu48gvw5h9qsqvyvrw4ut0vs.?1795768569",
-      "published_at": "2026-11-27T19:13:58.353Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pumpchan"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: PumpChan (PUMPCHAN)",
-      "summary_zh": "CoinGecko trending rank #870."
-    },
-    {
-      "id": "412b25fb091b6d98",
-      "title": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary": "CoinGecko trending rank #127.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "image_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
-      "published_at": "2026-11-27T19:13:58.353Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "pengu"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Pudgy Penguins (PENGU)",
-      "summary_zh": "CoinGecko trending rank #127."
-    },
-    {
-      "id": "361f4434d93fbded",
-      "title": "Trending Crypto: Zylo Ecosystem (ZYLO)",
-      "summary": "CoinGecko trending rank #724.",
-      "category": "CRYPTO",
-      "source_name": "CoinGecko",
-      "source_url": "https://www.coingecko.com/en/coins/zylo-ecosystem",
-      "image_url": "https://coin-images.coingecko.com/coins/images/102174226/large/1000489906.png?1782576108",
-      "published_at": "2026-11-27T19:13:58.353Z",
-      "importance_score": 55,
-      "sentiment": 0,
-      "tags": [
-        "crypto",
-        "trending",
-        "zylo"
-      ],
-      "region": "global",
-      "title_zh": "Trending Crypto: Zylo Ecosystem (ZYLO)",
-      "summary_zh": "CoinGecko trending rank #724."
-    },
-    {
-      "id": "e571f985ef595028",
+      "id": "c80bf33798e3bbeb",
       "title": "Trending Crypto: Bitcoin (BTC)",
       "summary": "CoinGecko trending rank #1.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/bitcoin",
       "image_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-      "published_at": "2026-11-27T19:13:58.353Z",
+      "published_at": "2026-11-28T02:18:56.506Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -541,14 +497,34 @@
       "summary_zh": "CoinGecko trending rank #1."
     },
     {
-      "id": "8d205eb371909faa",
+      "id": "ea8528cef1d9d2c4",
+      "title": "Trending Crypto: Monero (XMR)",
+      "summary": "CoinGecko trending rank #14.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/monero",
+      "image_url": "https://coin-images.coingecko.com/coins/images/69/large/monero_logo.png?1696501460",
+      "published_at": "2026-11-28T02:18:56.506Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "xmr"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Monero (XMR)",
+      "summary_zh": "CoinGecko trending rank #14."
+    },
+    {
+      "id": "bf4a69f4e87da36b",
       "title": "Trending Crypto: Portal (PORTAL)",
-      "summary": "CoinGecko trending rank #505.",
+      "summary": "CoinGecko trending rank #481.",
       "category": "CRYPTO",
       "source_name": "CoinGecko",
       "source_url": "https://www.coingecko.com/en/coins/portal-2",
       "image_url": "https://coin-images.coingecko.com/coins/images/35436/large/portal.jpeg?1708590254",
-      "published_at": "2026-11-27T19:13:58.353Z",
+      "published_at": "2026-11-28T02:18:56.506Z",
       "importance_score": 55,
       "sentiment": 0,
       "tags": [
@@ -558,7 +534,47 @@
       ],
       "region": "global",
       "title_zh": "Trending Crypto: Portal (PORTAL)",
-      "summary_zh": "CoinGecko trending rank #505."
+      "summary_zh": "CoinGecko trending rank #481."
+    },
+    {
+      "id": "3ff33a09d58d4f91",
+      "title": "Trending Crypto: Derive (DRV)",
+      "summary": "CoinGecko trending rank #109.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/derive",
+      "image_url": "https://coin-images.coingecko.com/coins/images/52889/large/Token_Logo.png?1734601695",
+      "published_at": "2026-11-28T02:18:56.506Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "drv"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Derive (DRV)",
+      "summary_zh": "CoinGecko trending rank #109."
+    },
+    {
+      "id": "41f92bd9b4403779",
+      "title": "Trending Crypto: Zcash (ZEC)",
+      "summary": "CoinGecko trending rank #11.",
+      "category": "CRYPTO",
+      "source_name": "CoinGecko",
+      "source_url": "https://www.coingecko.com/en/coins/zcash",
+      "image_url": "https://coin-images.coingecko.com/coins/images/486/large/Brandmark-Yellow_%281%29.png?1785810558",
+      "published_at": "2026-11-28T02:18:56.506Z",
+      "importance_score": 55,
+      "sentiment": 0,
+      "tags": [
+        "crypto",
+        "trending",
+        "zec"
+      ],
+      "region": "global",
+      "title_zh": "Trending Crypto: Zcash (ZEC)",
+      "summary_zh": "CoinGecko trending rank #11."
     },
     {
       "id": "da9835bb4457887d",
@@ -1024,94 +1040,88 @@
       "summary_zh": "Co-founders of the prediction market platform were slated to appear in a state district court in December."
     },
     {
-      "id": "dc3868e161f575cb",
-      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
-      "summary": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+      "id": "5cc63bdd3eefdd8f",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-27T17:19:31.000Z",
+      "published_at": "2026-11-27T21:55:53.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Kenyan doomsday cult leader convicted over further 123 deaths",
-      "summary_zh": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children."
+      "title_zh": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "summary_zh": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\"."
     },
     {
-      "id": "6d8b7091c0c020d7",
-      "title": "Leaders clash in final Spain election debate as housing dominates run-in",
-      "summary": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
+      "id": "9fbf039bd78f9d64",
+      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-27T06:03:39.000Z",
+      "published_at": "2026-11-28T00:56:55.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
         "ai"
       ],
       "region": "global",
-      "title_zh": "Leaders clash in final Spain election debate as housing dominates run-in",
-      "summary_zh": "The struggle many face in buying a home has been the biggest issue of a bitter campaign."
+      "title_zh": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "summary_zh": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions."
     },
     {
-      "id": "21d49def89e4e8c3",
-      "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-      "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
+      "id": "d97a79b55ccce5dd",
+      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+      "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-27T11:44:40.000Z",
+      "published_at": "2026-11-27T20:34:45.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-      "summary_zh": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed."
+      "title_zh": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+      "summary_zh": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact."
     },
     {
-      "id": "d4a4298c4548e751",
-      "title": "Clashes mar European games as Macron condemns violence",
-      "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
+      "id": "7b36ffc5d5bfa91f",
+      "title": "Millions of wives in South Asia unprotected from marital rape - study",
+      "summary": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-27T10:24:24.000Z",
+      "published_at": "2026-11-27T08:13:43.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Clashes mar European games as Macron condemns violence",
-      "summary_zh": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia."
+      "title_zh": "Millions of wives in South Asia unprotected from marital rape - study",
+      "summary_zh": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not."
     },
     {
-      "id": "952b849fa0baddee",
-      "title": "Rare turtles found inside baggage at Amsterdam airport",
-      "summary": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
+      "id": "52b05f5550710965",
+      "title": "Italy's former police chief rejected mafia inquiry allegations before death",
+      "summary": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
       "category": "WORLD",
       "source_name": "BBC World",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
       "image_url": null,
-      "published_at": "2026-11-27T13:38:07.000Z",
+      "published_at": "2026-11-27T07:28:10.000Z",
       "importance_score": 46,
       "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
+      "tags": [],
       "region": "global",
-      "title_zh": "Rare turtles found inside baggage at Amsterdam airport",
-      "summary_zh": "The endangered reptiles were bound with duct tape to prevent them moving, officials say."
+      "title_zh": "Italy's former police chief rejected mafia inquiry allegations before death",
+      "summary_zh": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home."
     },
     {
       "id": "4520bb8f320b7543",
@@ -1150,14 +1160,30 @@
       "summary_zh": "If the polls are right, Santiago Abascal’s Vox party could become the first far-right group to join a Spanish government since the days of Franco."
     },
     {
+      "id": "c4e242ba897b6077",
+      "title": "Johannesburg Lawmakers Snub Helen Zille in Mayoral Election",
+      "summary": "The selection of Herman Mashaba to lead South Africa’s wealthiest city was a blow to Helen Zille, the candidate whose party won the most votes in the election.",
+      "category": "WORLD",
+      "source_name": "NYT World",
+      "source_url": "https://www.nytimes.com/2026/11/27/world/africa/johannesburg-mayor-zille-mashaba-anc.html",
+      "image_url": null,
+      "published_at": "2026-11-27T20:51:21.000Z",
+      "importance_score": 46,
+      "sentiment": 0,
+      "tags": [],
+      "region": "global",
+      "title_zh": "Johannesburg Lawmakers Snub Helen Zille in Mayoral Election",
+      "summary_zh": "The selection of Herman Mashaba to lead South Africa’s wealthiest city was a blow to Helen Zille, the candidate whose party won the most votes in the election."
+    },
+    {
       "id": "58a1a72a6626cf0c",
       "title": "A Journalist Fights for Free Speech in Egypt, and to Stay Out of Jail",
-      "summary": "The fate of Lina Attalah and her news outlet, Mada Masr, in two court cases is seen a test of whether the country’s independent press can survive.",
+      "summary": "The fate of Lina Attalah and her news outlet, Mada Masr, in two court cases is seen as a test of whether the country’s independent press can survive.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/27/world/middleeast/egypt-journalist-trial-lina-attalah-mada-masr.html",
       "image_url": null,
-      "published_at": "2026-11-27T10:02:40.000Z",
+      "published_at": "2026-11-28T00:21:34.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1165,35 +1191,17 @@
       ],
       "region": "global",
       "title_zh": "A Journalist Fights for Free Speech in Egypt, and to Stay Out of Jail",
-      "summary_zh": "The fate of Lina Attalah and her news outlet, Mada Masr, in two court cases is seen a test of whether the country’s independent press can survive."
-    },
-    {
-      "id": "ea6121800328eeb6",
-      "title": "Canada’s Top Court Lets Quebec Use Controversial Measure for Secularism Law",
-      "summary": "Quebec had used the measure to pass a law barring certain public workers, like schoolteachers and police officers, from wearing religious symbols on duty, which critics called discriminatory.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
-      "image_url": null,
-      "published_at": "2026-11-27T17:37:15.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Canada’s Top Court Lets Quebec Use Controversial Measure for Secularism Law",
-      "summary_zh": "Quebec had used the measure to pass a law barring certain public workers, like schoolteachers and police officers, from wearing religious symbols on duty, which critics called discriminatory."
+      "summary_zh": "The fate of Lina Attalah and her news outlet, Mada Masr, in two court cases is seen as a test of whether the country’s independent press can survive."
     },
     {
       "id": "9cf14a3cbe58ca7c",
       "title": "France’s Bookstores, Beloved Curators of Literature, Are in a Deep Crisis",
-      "summary": "Caught between by rising costs and price regulations, French booksellers are closing at a record pace, depriving new authors of vital shelf space.",
+      "summary": "Caught between rising costs and price regulations, French booksellers are closing at a record pace, depriving new authors of vital shelf space.",
       "category": "WORLD",
       "source_name": "NYT World",
       "source_url": "https://www.nytimes.com/2026/11/27/world/europe/france-bookstore-crisis-closures.html",
       "image_url": null,
-      "published_at": "2026-11-27T15:26:55.000Z",
+      "published_at": "2026-11-27T23:11:37.000Z",
       "importance_score": 46,
       "sentiment": 0,
       "tags": [
@@ -1201,7 +1209,7 @@
       ],
       "region": "global",
       "title_zh": "France’s Bookstores, Beloved Curators of Literature, Are in a Deep Crisis",
-      "summary_zh": "Caught between by rising costs and price regulations, French booksellers are closing at a record pace, depriving new authors of vital shelf space."
+      "summary_zh": "Caught between rising costs and price regulations, French booksellers are closing at a record pace, depriving new authors of vital shelf space."
     },
     {
       "id": "36d5f5c584897b54",
@@ -1234,24 +1242,6 @@
       "region": "global",
       "title_zh": "Japanese Volleyball Player Rui Takahashi Makes Waves By Coming Out as Gay",
       "summary_zh": "Rui Takahashi, 26, has made waves as one of only a few professional athletes to come out as gay in Japan."
-    },
-    {
-      "id": "55f2f1c48ab4452a",
-      "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
-      "summary": "Dozens of Brazilians were sent to the front lines with little training, and the high salaries they were promised, they say, turned out to be illusory.",
-      "category": "WORLD",
-      "source_name": "NYT World",
-      "source_url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
-      "image_url": null,
-      "published_at": "2026-11-26T14:01:46.000Z",
-      "importance_score": 46,
-      "sentiment": 0,
-      "tags": [
-        "ai"
-      ],
-      "region": "global",
-      "title_zh": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
-      "summary_zh": "Dozens of Brazilians were sent to the front lines with little training, and the high salaries they were promised, they say, turned out to be illusory."
     },
     {
       "id": "1ab783650e2d74ea",
